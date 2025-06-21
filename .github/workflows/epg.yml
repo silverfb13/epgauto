@@ -13,15 +13,11 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Instalar wget e gzip
-        run: sudo apt-get update && sudo apt-get install -y wget gzip
-
-      - name: Baixar e descompactar o EPG
+      - name: Baixar arquivo epg.xml do repositório externo
         run: |
-          wget -O epg.xml.gz "http://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
-          gunzip -f epg.xml.gz
+          curl -L -o epg.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
 
-      - name: Commit e push (só se houver mudanças)
+      - name: Commit e push (se houver mudanças)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
@@ -29,6 +25,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nenhuma mudança detectada"
           else
-            git commit -m "Atualização automática do EPG"
+            git commit -m "Atualização automática do EPG via repositório limaalef"
             git push
           fi
