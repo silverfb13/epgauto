@@ -2,7 +2,7 @@ name: Atualizar EPG a cada 10 minutos
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # a cada 10 minutos
+    - cron: '*/10 * * * *'  # a cada 10 minutos
   workflow_dispatch:
 
 jobs:
