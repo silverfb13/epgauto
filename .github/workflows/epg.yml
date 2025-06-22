@@ -15,7 +15,7 @@ jobs:
 
       - name: Baixar arquivo epg.xml do repositório externo
         run: |
-          curl -L -o epg.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
+          curl -L -o epg.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
       - name: Commit e push (se houver mudanças)
         run: |
