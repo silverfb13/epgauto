@@ -13,19 +13,18 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Baixar múltiplos arquivos EPG
+      - name: Baixar arquivo epg.xml do repositório externo
         run: |
-          curl -L -o epg_limaalef.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
-          curl -L -o epg_outro.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
-          # Adicione mais linhas como quiser para mais fontes
+          curl -L -o epg.xml "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
 
       - name: Commit e push (se houver mudanças)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add epg_limaalef.xml epg_outro.xml
+          git add epg.xml
           if git diff --cached --quiet; then
             echo "Nenhuma mudança detectada"
           else
-            git commit -m "Atualização automática dos arquivos EPG"
+            git commit -m "Atualização automática do EPG via repositório limaalef"
             git push
+          fi
