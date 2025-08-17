@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-08-16 11:32:18" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-08-16 23:32:28" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -10927,8 +10927,8 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250816010000 -0300" stop="20250816013000 -0300" channel="ESPN 4">
-    <title lang="pt">Mundial de Motovelocidade: GP da Áustria: Classificação: Moto E</title>
-    <desc lang="pt"> - Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.</desc>
+    <title lang="pt">Moto E: GP Da Áustria: Classificação</title>
+    <desc lang="pt"> - Acompanhe o MotoE, a categoria elétrica do Campeonato Mundial de Motovelocidade, o mais antigo Campeonato do Mundo de esportes motorizados desde 1949.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250816013000 -0300" stop="20250816020000 -0300" channel="ESPN 4">
@@ -82237,12 +82237,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250818153000 -0300" stop="20250818171500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250818153000 -0300" stop="20250818170500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Sessão da Tarde: Noiva em Fuga</title>
     <desc lang="pt"> - Maggie Carpenter não consegue se casar. Já tentou por três vezes, mas, na hora da cerimônia, algo acontece e ela sempre foge do altar.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20250818170500 -0300" stop="20250818171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt"> - Boletim com as principais notícias de São Paulo.</desc>
+    <episode-num system="xmltv_ns">76.229.</episode-num>
   </programme>
   <programme start="20250818171500 -0300" stop="20250818182500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
