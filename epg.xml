@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-10 11:32:42" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-10 23:33:28" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -970,7 +970,7 @@
   </programme>
   <programme start="20250910140000 -0300" stop="20250910153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Decidida a defender o pai, ela diz à professora que fará de tudo para separar esse garoto de sua mãe.</desc>
     <episode-num system="xmltv_ns">73.252.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -1004,7 +1004,7 @@
   </programme>
   <programme start="20250910210000 -0300" stop="20250910223000 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+    <desc lang="pt"> - A armadilha de Paula funcionou perfeitamente, pois Luis expulsa Ofélia de casa, e Mar precisa aceitar a decisão.</desc>
     <episode-num system="xmltv_ns">70.252.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -35762,9 +35762,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250910000000 -0300" stop="20250910030000 -0300" channel="CANAL RURAL">
+  <programme start="20250910000000 -0300" stop="20250910010000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt"> - O Canal Rural transmite os leilões mais importantes do setor.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250910010000 -0300" stop="20250910030000 -0300" channel="CANAL RURAL">
     <title lang="pt">Televendas Marilda</title>
     <desc lang="pt"> - Espaço destinado à comercialização de produtos e serviços.</desc>
+    <episode-num system="xmltv_ns">0.252.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -35866,8 +35874,9 @@
     </rating>
   </programme>
   <programme start="20250910133500 -0300" stop="20250910140000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Live Clima Campo</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">Série Planeta Campo</title>
+    <desc lang="pt"> - A Série Planeta Campo irá apresentar os impactos do aquecimento global na agropecuária e como o campo pode ser parte da solução deste problema. Informações para apoiar o produtor rural a plantar e criar com olhar...</desc>
+    <episode-num system="xmltv_ns">12.252.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -35925,9 +35934,8 @@
     </rating>
   </programme>
   <programme start="20250910200400 -0300" stop="20250911000000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Lance Cast</title>
-    <desc lang="pt"> - Acompanhe entrevistas com convidados e fique por dentro dos assuntos do momento na agricultura.</desc>
-    <episode-num system="xmltv_ns">19.252.</episode-num>
+    <title lang="pt">Leilão</title>
+    <desc lang="pt"> - O Canal Rural transmite os leilões mais importantes do setor.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -42886,7 +42894,7 @@
     </rating>
   </programme>
   <programme start="20250911021500 -0300" stop="20250911030000 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Ninho da Coruja</title>
     <desc lang="pt"> - Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
     <episode-num system="xmltv_ns">1.253.</episode-num>
     <rating system="Brazil">
@@ -42923,7 +42931,7 @@
   </programme>
   <programme start="20250911140000 -0300" stop="20250911153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Tita diz à mãe que já descobriu que ela engana seu pai com outro homem.</desc>
     <episode-num system="xmltv_ns">73.253.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -42957,7 +42965,7 @@
   </programme>
   <programme start="20250911210000 -0300" stop="20250911221500 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+    <desc lang="pt"> - Paula e Leonardo confessam a Luis que encontraram o quadro de Cecília destruído. Valéria e Arturo brindam ao novo lar, e ele diz que está muito orgulhoso dela.</desc>
     <episode-num system="xmltv_ns">70.253.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -52513,21 +52521,17 @@
     </rating>
   </programme>
   <programme start="20250911000000 -0300" stop="20250911014500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Fenerbahçe (TUR) x Feyenoord (HOL)</title>
-    <desc lang="pt"> - A nova temporada da Champions League está para começar! Mas ainda há vagas a serem disputadas. Fernebahçe e Feyenoord querem entrar de vez no torneio edisputam entre si uma vaga.</desc>
+    <title lang="pt">VT - Jogo dos Famosos - Brasil x Polônia</title>
+    <desc lang="pt"> - Ronaldinho Gaúcho recebe grandes craques e estrelas em um jogo festivo de futebol. Makelelé, Popó e Edilson Capetinha estão entre os craques que vão dar show em campo.</desc>
   </programme>
-  <programme start="20250911014500 -0300" stop="20250911020000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-  </programme>
-  <programme start="20250911020000 -0300" stop="20250911034500 -0300" channel="Nsports HD">
-    <title lang="pt">Na Raça: O DNA do Atleta Brasileiro</title>
-    <desc lang="pt"> - O documentário trata do esporte brasileiro sob diferentes perspectivas - médica, psicológica e social - na tentativa de compreender a importância das nossas origens na construção de ídolos nacionais.</desc>
+  <programme start="20250911014500 -0300" stop="20250911030000 -0300" channel="Nsports HD">
+    <title lang="pt">Beach Tennis: A Praia do Brasil</title>
+    <desc lang="pt"> - O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911034500 -0300" stop="20250911040000 -0300" channel="Nsports HD">
+  <programme start="20250911030000 -0300" stop="20250911033000 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <episode-num system="xmltv_ns">2.253.</episode-num>
@@ -52535,45 +52539,48 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911040000 -0300" stop="20250911054500 -0300" channel="Nsports HD">
-    <title lang="pt">Copa Pickleball</title>
-    <desc lang="pt"> - COPA PICKLEBALL - BRASIL x MUNDO - A seleção Brasileira enfrenta os melhores do mundo em um duelo de melhor de 5 partidas.</desc>
-  </programme>
-  <programme start="20250911054500 -0300" stop="20250911060000 -0300" channel="Nsports HD">
+  <programme start="20250911033000 -0300" stop="20250911040000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911060000 -0300" stop="20250911074500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Fenerbahçe (TUR) x Feyenoord (HOL)</title>
-    <desc lang="pt"> - A nova temporada da Champions League está para começar! Mas ainda há vagas a serem disputadas. Fernebahçe e Feyenoord querem entrar de vez no torneio edisputam entre si uma vaga.</desc>
+  <programme start="20250911040000 -0300" stop="20250911050000 -0300" channel="Nsports HD">
+    <title lang="pt">Egames</title>
+    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
   </programme>
-  <programme start="20250911074500 -0300" stop="20250911080000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">6.253.</episode-num>
+  <programme start="20250911050000 -0300" stop="20250911063000 -0300" channel="Nsports HD">
+    <title lang="pt">Copa Pickleball</title>
+    <desc lang="pt"> - COPA PICKLEBALL - BRASIL x MUNDO - A seleção Brasileira enfrenta os melhores do mundo em um duelo de melhor de 5 partidas.</desc>
+  </programme>
+  <programme start="20250911063000 -0300" stop="20250911070000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911080000 -0300" stop="20250911090000 -0300" channel="Nsports HD">
-    <title lang="pt">Egames</title>
-    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
+  <programme start="20250911070000 -0300" stop="20250911081500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Guatemala</title>
+    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
   </programme>
-  <programme start="20250911090000 -0300" stop="20250911100000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <episode-num system="xmltv_ns">78.253.</episode-num>
-  </programme>
-  <programme start="20250911100000 -0300" stop="20250911114500 -0300" channel="Nsports HD">
-    <title lang="pt">Daegu (KOR) x Barcelona (ESP)</title>
-    <desc lang="pt"> - Acompanhe ao vivo no SportyNet mais um grande Amistoso Internacional. Emoção, técnica e os craques em campo!</desc>
-  </programme>
-  <programme start="20250911114500 -0300" stop="20250911120000 -0300" channel="Nsports HD">
+  <programme start="20250911081500 -0300" stop="20250911083000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250911083000 -0300" stop="20250911093000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <episode-num system="xmltv_ns">77.253.</episode-num>
+  </programme>
+  <programme start="20250911093000 -0300" stop="20250911104500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Marrocos</title>
+    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
+  </programme>
+  <programme start="20250911104500 -0300" stop="20250911120000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - EHF Champions League - Barça x SC Magdeburg</title>
+    <desc lang="pt"> - Acompanhe com a NSports a Liga Europeia de Handebol, a segunda principal competição de clubes masculinos da Europa. Times de todo o continente disputam o título, em jogos emocionantes e de alto nível.</desc>
   </programme>
   <programme start="20250911120000 -0300" stop="20250911121500 -0300" channel="Nsports HD">
     <title lang="pt">Giro Nsports</title>
@@ -52581,6 +52588,11 @@
     <episode-num system="xmltv_ns">71.253.</episode-num>
   </programme>
   <programme start="20250911121500 -0300" stop="20250911123000 -0300" channel="Nsports HD">
+    <title lang="pt">N Modalidades</title>
+    <desc lang="pt"> - Seja na piscina, no campo ou na quadra, no NModalidades você explora a história, as regras e as principais curiosidades das mais diversas modalidades esportivas.</desc>
+    <episode-num system="xmltv_ns">71.253.</episode-num>
+  </programme>
+  <programme start="20250911123000 -0300" stop="20250911130000 -0300" channel="Nsports HD">
     <title lang="pt">Fala Comigo</title>
     <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
     <episode-num system="xmltv_ns">0.253.</episode-num>
@@ -52588,55 +52600,67 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911123000 -0300" stop="20250911133000 -0300" channel="Nsports HD">
-    <title lang="pt">Egames</title>
-    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
+  <programme start="20250911130000 -0300" stop="20250911141500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - EHF Champions League - Berlin x HBC Nantes</title>
+    <desc lang="pt"> - Acompanhe na NSports a EHF FINAL  é o destaque indiscutível do handebol masculino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
   </programme>
-  <programme start="20250911133000 -0300" stop="20250911140000 -0300" channel="Nsports HD">
+  <programme start="20250911141500 -0300" stop="20250911144500 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911144500 -0300" stop="20250911150000 -0300" channel="Nsports HD">
+    <title lang="pt">Drops CBT</title>
+    <desc lang="pt"> - O Drops CBT é um programa que traz informações e histórias sobre o mundo do tênis, do beach tennis e do tênis em cadeira de rodas do Brasil, assim como informações sobre os atletas do país e os principa...</desc>
+    <episode-num system="xmltv_ns">0.82.</episode-num>
+  </programme>
+  <programme start="20250911150000 -0300" stop="20250911161500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Colômbia</title>
+    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
+  </programme>
+  <programme start="20250911161500 -0300" stop="20250911170000 -0300" channel="Nsports HD">
     <title lang="pt">Raiz do Futebol</title>
     <desc lang="pt"> - O Brasil ainda é o país do futebol mesmo depois do 7 a 1? "Raiz do Futebol" vai tratar da paixão que o país ainda tem pelo jogo e como ela se manifesta, buscando os detalhes dessa relação singular em cinco e...</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911140000 -0300" stop="20250911150000 -0300" channel="Nsports HD">
+  <programme start="20250911170000 -0300" stop="20250911183000 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
     <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <episode-num system="xmltv_ns">73.253.</episode-num>
-  </programme>
-  <programme start="20250911150000 -0300" stop="20250911164500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Jogo dos Famosos - Brasil x Polônia</title>
-    <desc lang="pt"> - Ronaldinho Gaúcho recebe grandes craques e estrelas em um jogo festivo de futebol. Makelelé, Popó e Edilson Capetinha estão entre os craques que vão dar show em campo.</desc>
-  </programme>
-  <programme start="20250911164500 -0300" stop="20250911170000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-  </programme>
-  <programme start="20250911170000 -0300" stop="20250911180000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <episode-num system="xmltv_ns">76.253.</episode-num>
   </programme>
-  <programme start="20250911180000 -0300" stop="20250911193000 -0300" channel="Nsports HD">
-    <title lang="pt">Copa Pickleball</title>
-    <desc lang="pt"> - COPA PICKLEBALL - BRASIL x MUNDO - A seleção Brasileira enfrenta os melhores do mundo em um duelo de melhor de 5 partidas.</desc>
-  </programme>
-  <programme start="20250911193000 -0300" stop="20250911194500 -0300" channel="Nsports HD">
-    <title lang="pt">Drops CBT</title>
-    <desc lang="pt"> - O Drops CBT é um programa que traz informações e histórias sobre o mundo do tênis, do beach tennis e do tênis em cadeira de rodas do Brasil, assim como informações sobre os atletas do país e os principa...</desc>
-    <episode-num system="xmltv_ns">0.82.</episode-num>
-  </programme>
-  <programme start="20250911194500 -0300" stop="20250911200000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">18.253.</episode-num>
+  <programme start="20250911183000 -0300" stop="20250911190000 -0300" channel="Nsports HD">
+    <title lang="pt">Quinestesia</title>
+    <desc lang="pt"> - Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911200000 -0300" stop="20250911210000 -0300" channel="Nsports HD">
-    <title lang="pt">Especial: El Clásico Golf Cup</title>
-    <desc lang="pt"> - Lendas de Real Madrid e Barcelona voltam a campo para mais um El Clásico, só que dessa vez a disputa é no golfe.</desc>
+  <programme start="20250911190000 -0300" stop="20250911201500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - EHF Champions League - Final</title>
+    <desc lang="pt"> - Acompanhe na NSports a EHF FINAL4 Feminina 2025 é o destaque indiscutível do handebol feminino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
+  </programme>
+  <programme start="20250911201500 -0300" stop="20250911203000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250911203000 -0300" stop="20250911204500 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">19.253.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911204500 -0300" stop="20250911210000 -0300" channel="Nsports HD">
+    <title lang="pt">Raiz do Futebol</title>
+    <desc lang="pt"> - O Brasil ainda é o país do futebol mesmo depois do 7 a 1? "Raiz do Futebol" vai tratar da paixão que o país ainda tem pelo jogo e como ela se manifesta, buscando os detalhes dessa relação singular em cinco e...</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20250911210000 -0300" stop="20250911211500 -0300" channel="Nsports HD">
     <title lang="pt">Giro Nsports</title>
@@ -52652,18 +52676,16 @@
     <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
   </programme>
   <programme start="20250911223000 -0300" stop="20250911230000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <episode-num system="xmltv_ns">71.253.</episode-num>
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20250911230000 -0300" stop="20250911231500 -0300" channel="Nsports HD">
-    <title lang="pt">Drops CBT</title>
-    <desc lang="pt"> - O Drops CBT é um programa que traz informações e histórias sobre o mundo do tênis, do beach tennis e do tênis em cadeira de rodas do Brasil, assim como informações sobre os atletas do país e os principa...</desc>
-    <episode-num system="xmltv_ns">0.253.</episode-num>
-  </programme>
-  <programme start="20250911231500 -0300" stop="20250912000000 -0300" channel="Nsports HD">
-    <title lang="pt">World Poker Tour</title>
-    <desc lang="pt"> - O World Poker Tour (WPT) reúne os maiores nomes do pôquer em torneios internacionais com finais emocionantes, destacando os melhores momentos e grandes jogadas.</desc>
+  <programme start="20250911230000 -0300" stop="20250912000000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <episode-num system="xmltv_ns">72.253.</episode-num>
   </programme>
   <programme start="20250911000000 -0300" stop="20250911020000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Náutico x Ituano</title>
@@ -77787,9 +77809,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250911000000 -0300" stop="20250911030000 -0300" channel="CANAL RURAL">
+  <programme start="20250911000000 -0300" stop="20250911010000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt"> - O Canal Rural transmite os leilões mais importantes do setor.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250911010000 -0300" stop="20250911030000 -0300" channel="CANAL RURAL">
     <title lang="pt">Televendas Marilda</title>
     <desc lang="pt"> - Espaço destinado à comercialização de produtos e serviços.</desc>
+    <episode-num system="xmltv_ns">0.253.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
