@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-15 11:32:11" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-15 23:32:12" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -926,12 +926,20 @@
     <desc lang="pt"> - O programa terá um formato de jornalismo policial local, com foco em notícias da região.</desc>
     <episode-num system="xmltv_ns">70.257.</episode-num>
   </programme>
-  <programme start="20250915140000 -0300" stop="20250915153000 -0300" channel="SBT São Paulo">
+  <programme start="20250915140000 -0300" stop="20250915144500 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Tita conta sobre Nandinho para Bernardo. Maria diz para Fernando e Vitória que Tita está agressiva com ela por ela conhecer Nandinho.</desc>
     <episode-num system="xmltv_ns">73.257.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250915144500 -0300" stop="20250915153000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt"> - Rubi é uma jovem muito bonita e cobiçada pelos amigos de faculdade. A moça recebe uma rosa de Paco, agradece, porém deixa claro que são apenas amigos.</desc>
+    <episode-num system="xmltv_ns">73.257.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250915153000 -0300" stop="20250915170000 -0300" channel="SBT São Paulo">
@@ -962,7 +970,7 @@
   </programme>
   <programme start="20250915210000 -0300" stop="20250915221500 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+    <desc lang="pt"> - Luis exige que Juan respeite Mar e não brinque com Camila. Ofélia vai à galeria de arte para investigar quem comprou o quadro que chegou à casa dos Portilla.</desc>
     <episode-num system="xmltv_ns">70.257.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -7131,7 +7139,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915120200 -0300" stop="20250915122600 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915120200 -0300" stop="20250915122500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabor na Brasa</title>
     <sub-title lang="pt">Sanduíches de Churrasco</sub-title>
     <desc lang="pt"> - Roger Mooking adora um bom sanduíche de churrasco. Na Barbecue Exchange, ele prova sanduíches feitos de pescoço de porco e bacon. Já na Papa KayJoe's BBQ, em Centerville, o recheio é de porco, picles e molho picante.</desc>
@@ -7140,7 +7148,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915122600 -0300" stop="20250915124900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915122500 -0300" stop="20250915124600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabor na Brasa</title>
     <sub-title lang="pt">A Arte do Presunto</sub-title>
     <desc lang="pt"> - Roger Mooking visita os melhores fornecedores de carne de porco dos EUA. Ele visita Sam Edwards, que produz presuntos defumados há gerações, e Allan Benton, que transformou a cura a seco de presunto e bacon em uma arte.</desc>
@@ -7149,7 +7157,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915124900 -0300" stop="20250915133100 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915124600 -0300" stop="20250915132700 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Disputa dos Confeiteiros: Primavera</title>
     <sub-title lang="pt">Comemoração da Primavera</sub-title>
     <desc lang="pt"> - Os confeiteiros celebram as cores da primavera e Ali Khan os desafia a fazer doces coloridos para o festival hindu Holi. Depois eles usam ingredientes verdes para criar uma sobremesa para o Dia de São Patrício.</desc>
@@ -7158,7 +7166,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915133100 -0300" stop="20250915141700 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915132700 -0300" stop="20250915141300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Disputa dos Confeiteiros: Primavera</title>
     <sub-title lang="pt">Coelhinhos e Galinhas da Primavera</sub-title>
     <desc lang="pt"> - Ali Khan desafia os confeiteiros a criarem ovos comestíveis com um sabor supressa e um pintinho decorativo. Depois eles tentam impressionar os jurados com seus coelhinhos espetaculares.</desc>
@@ -7167,7 +7175,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915141700 -0300" stop="20250915144100 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915141300 -0300" stop="20250915143600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Kitchen Boss</title>
     <sub-title lang="pt">Brunch</sub-title>
     <desc lang="pt"> - Buddy prepara um brunch com torrada franco-italiana, omelete com manjericão, batatas assadas com alecrim e pancetta. Aperte o botão da "soneca", porque ninguém vai precisar acordar para tomar café da manhã com um...</desc>
@@ -7176,7 +7184,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915144100 -0300" stop="20250915150400 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915143600 -0300" stop="20250915150000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Kitchen Boss</title>
     <sub-title lang="pt">Pratos de Carne</sub-title>
     <desc lang="pt"> - Quem disse que a comida italiana é feita só de massas? Hoje, Buddy prepara alguns pratos italianos de dar água na boca, como postas de carneiro com limão, lombo de porco assado e bife ao estilo Buddy.</desc>
@@ -7185,7 +7193,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915150400 -0300" stop="20250915152800 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915150000 -0300" stop="20250915152500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Cake Boss</title>
     <sub-title lang="pt">Bolo Tubarão</sub-title>
     <desc lang="pt"> - Buddy leva a equipe da confeitaria para uma excursão marítima para todos se inspirarem a fazer um bolo em forma de tubarão para um velho amigo da família.</desc>
@@ -7194,7 +7202,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915152800 -0300" stop="20250915155100 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915152500 -0300" stop="20250915154900 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Cake Boss</title>
     <sub-title lang="pt">Bolo Privada</sub-title>
     <desc lang="pt"> - Buddy recebe a encomenda de um dos bolos mais difíceis até agora: um pedido de uma réplica de uma privada que dá descarga de verdade!</desc>
@@ -7203,7 +7211,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915155100 -0300" stop="20250915163800 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915154900 -0300" stop="20250915163500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Pequenos Confeiteiros</title>
     <sub-title lang="pt">Desafio do Pão</sub-title>
     <desc lang="pt"> - Os seis cozinheiros são desafiados a transformar massa de biscoito em vulcões de Pão de Macaco.</desc>
@@ -7212,7 +7220,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915163800 -0300" stop="20250915172400 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915163500 -0300" stop="20250915172000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Guerra dos Bolos</title>
     <sub-title lang="pt">Transformers</sub-title>
     <desc lang="pt"> - Autobots, vamos rodar! Quatro talentosos confeiteiros irão competir, mas, para ganhar dez mil dólares, eles terão que criar bolos com o tema do Transformers, que sejam mais do que aparentam ser.</desc>
@@ -7221,7 +7229,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915172400 -0300" stop="20250915181000 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915172000 -0300" stop="20250915181000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Guerra dos Cupcakes</title>
     <sub-title lang="pt">Maratona de Los Angeles</sub-title>
     <desc lang="pt"> - Quatro confeiteiros disputam uma vaga em uma festa VIP da Maratona de Los Angeles.</desc>
@@ -7230,7 +7238,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915181000 -0300" stop="20250915185200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915181000 -0300" stop="20250915185100 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Guerra dos Cupcakes</title>
     <sub-title lang="pt">Festival de Cinema Negro de Hollywood</sub-title>
     <desc lang="pt"> - Quatro talentosos confeiteiros competem para servir seus cupcakes em uma festa fechada do Festival de Cinema Negro de Hollywood.</desc>
@@ -7239,7 +7247,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915185200 -0300" stop="20250915193900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915185100 -0300" stop="20250915194000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Disputa dos Confeiteiros: Primavera</title>
     <sub-title lang="pt">Romance de Primavera</sub-title>
     <desc lang="pt"> - Ali Khan separa os confeiteiros em duplas para criarem uma sobremesa para um casal. Depois eles vão fazer um bolo de casamento da primavera, mas cada um vai fazer metade do bolo sem ver o que o outro está fazendo.</desc>
@@ -7248,7 +7256,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915193900 -0300" stop="20250915202100 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915194000 -0300" stop="20250915202200 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Disputa dos Confeiteiros: Primavera</title>
     <sub-title lang="pt">Bebês da Primavera</sub-title>
     <desc lang="pt"> - Ali Khan desafia os confeiteiros a fazerem sobremesas que pareçam presentes para bebês e que usem sabores inusitados. Depois eles devem criar torres de sobremesas para chá de bebê para impressionar os jurados.</desc>
@@ -7257,7 +7265,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915202100 -0300" stop="20250915204400 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915202200 -0300" stop="20250915204600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Duelo Com Bobby Flay</title>
     <sub-title lang="pt">Tragam o Bacon</sub-title>
     <desc lang="pt"> - Sunny Anderson, do Food Network, e o jurado do Cutthroat Kitchen chef Jet Tila provocam barulho enquanto conspiram para derrotar Bobby Flay!</desc>
@@ -7266,7 +7274,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915204400 -0300" stop="20250915210700 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915204600 -0300" stop="20250915211100 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Duelo Com Bobby Flay</title>
     <sub-title lang="pt">Batalha no Brooklyn</sub-title>
     <desc lang="pt"> - Na batalha entre os melhores do Brooklyn, o jovem Jordan Andino e a profissional da área Jennifer Cole-Ruiz lutam por uma chance de entrar no ringue com Bobby Flay.</desc>
@@ -7275,7 +7283,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915210700 -0300" stop="20250915212800 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915211100 -0300" stop="20250915213200 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">O Rei do Sanduíche</title>
     <sub-title lang="pt">Italiano!</sub-title>
     <desc lang="pt"> - Como um ítalo-americano de Chicago, o coração de Jeff bombeia molho de tomate. Ainda bem que os italianos também são conhecidos pelos sanduíches espetaculares.</desc>
@@ -7284,7 +7292,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915212800 -0300" stop="20250915214900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915213200 -0300" stop="20250915215300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">O Rei do Sanduíche</title>
     <sub-title lang="pt">Dose Dupla de Conforto</sub-title>
     <desc lang="pt"> - Para início de conversa, sanduíches são uma refeição bem reconfortante, então imagine uma dose dupla de conforto, que vem com um sanduíche de comida reconfortante.</desc>
@@ -7293,7 +7301,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915214900 -0300" stop="20250915221200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915215300 -0300" stop="20250915221500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Na Pegada dos Food Trucks</title>
     <sub-title lang="pt">Brunch O Dia Todo</sub-title>
     <desc lang="pt"> - Brad Miller começa em Nashville, onde come grits com linguiça andouille. Em Atlanta, ele prova frango com manga e salada de marisco, e experimenta um cupcake de cerveja e queijo cheddar em Saint Louis.</desc>
@@ -7302,7 +7310,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915221200 -0300" stop="20250915223500 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915221500 -0300" stop="20250915223600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Na Pegada dos Food Trucks</title>
     <sub-title lang="pt">Sanduíche, Comida de Rua e Torta de Blueberry</sub-title>
     <desc lang="pt"> - Brad Miller come um sanduíche de pastrami em Portland, um lanche de pão doce e estilo filipino em Saint Louis e aprende os segredos da torta de limão e blueberry da vovó em Nashville.</desc>
@@ -7311,7 +7319,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915223500 -0300" stop="20250915225900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915223600 -0300" stop="20250915230000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Tudo Na Panela: Bolos e Doces</title>
     <sub-title lang="pt">Casamento</sub-title>
     <desc lang="pt"> - Numa festa de casamento, não pode faltar bolo e bem-casado. Carol Fiorentino mostra todos os truques para preparar essas delícias em casa.</desc>
@@ -7320,7 +7328,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915225900 -0300" stop="20250915232200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915230000 -0300" stop="20250915232300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Tudo Na Panela: Bolos e Doces</title>
     <sub-title lang="pt">Celebrando O Amor</sub-title>
     <desc lang="pt"> - Neste episódio, Carol Fiorentino traz receitas para compartilhar com as pessoas que mais amamos: um doce pode mudar o ânimo e melhorar o dia de qualquer pessoa!</desc>
@@ -7329,7 +7337,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915232200 -0300" stop="20250915234600 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250915232300 -0300" stop="20250915234600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Giada em Casa</title>
     <sub-title lang="pt">Ao Ar Livre</sub-title>
     <desc lang="pt"> - Giada de Laurentiis vai a Palm Springs, Califórnia, com a filha e o namorado para um fim de semana de diversão sob o sol.</desc>
@@ -7453,7 +7461,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915100200 -0300" stop="20250915105300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915100200 -0300" stop="20250915104900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Os Pequenos Johnstons</title>
     <sub-title lang="pt">A Oficina dos Johnstons</sub-title>
     <desc lang="pt"> - Os Johnstons viajam para Austin, Texas, para o Congresso. Depois que a família apresenta uma oficina, Alex se reencontra com Allie. Em casa, Liz e Brice precisam contar uma grande novidade aos pais.</desc>
@@ -7462,16 +7470,15 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915105300 -0300" stop="20250915123800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <sub-title lang="pt">Jeanne e Brandon</sub-title>
-    <desc lang="pt"> - Jeanne luta para cuidar de si mesma após a morte do pai. Brandon se esforça para reduzir o peso, a fim de se sentir confiante a dar um passo na sua relação com a sua namorada Tayler e ser o homem que ela merece.</desc>
-    <episode-num system="xmltv_ns">5.4.</episode-num>
+  <programme start="20250915104900 -0300" stop="20250915122800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <desc lang="pt"> - O chef Erick Jacquin chega ao restaurante árabe, Najjah, que está em pé de guerra.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915123800 -0300" stop="20250915133000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915122800 -0300" stop="20250915131800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
     <sub-title lang="pt">Orgulho Doméstico</sub-title>
     <desc lang="pt"> - Um casal cria suas duas filhas no mesmo bairro onde cresceu, mas a casa onde moram está tão malcuidada que as crianças têm vergonha de receber os amigos.</desc>
@@ -7480,7 +7487,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915133000 -0300" stop="20250915142100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915131800 -0300" stop="20250915141000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
     <sub-title lang="pt">A Sétima Casa</sub-title>
     <desc lang="pt"> - Uma família morou em seis casas diferentes nos últimos dez anos. Brian e Mika os ajudam a construir um lar definitivo, mas quando seus planos caem por terra, eles terão que se desdobrar para não os decepcionar.</desc>
@@ -7489,16 +7496,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915142100 -0300" stop="20250915151300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Imóveis Que Cabem No Bolso</title>
-    <sub-title lang="pt">Um Sítio Só Meu</sub-title>
-    <desc lang="pt"> - Um casal procura um sitio de pelo menos 40 acres em Canton, Georgia, antes da chegada do bebê. Egypt e Mike são contratados para encontrar e reformar o sitio perfeito para a crescente família.</desc>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250915151300 -0300" stop="20250915160500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915141000 -0300" stop="20250915150100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Imóveis Que Cabem No Bolso</title>
     <sub-title lang="pt">Um Lugar Pra Alugar</sub-title>
     <desc lang="pt"> - Um casal que recentemente herdou a casa de infância do marido está procurando transformar a pequena casa em uma propriedade de aluguel de curto prazo.</desc>
@@ -7507,7 +7505,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915160500 -0300" stop="20250915165700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915150100 -0300" stop="20250915155200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Imóveis Que Cabem No Bolso</title>
+    <sub-title lang="pt">Espaço Para Receber</sub-title>
+    <desc lang="pt"> - Uma família quer sair da casa da mãe e encontrar um lugar próprio. Eles buscam uma casa grande com um design aberto para receber amigos e familiares, então Egypt e Mike entram em cena para encontrar e transformar o lugar certo.</desc>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250915155200 -0300" stop="20250915164400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Irmãos À Obra: Um Lar Para Amar</title>
     <sub-title lang="pt">Trabalho em Equipe</sub-title>
     <desc lang="pt"> - A casa de um casal atendia às suas necessidades quando a compraram, há 20 anos, mas dois filhos depois, a realidade é outra. Como ambos trabalham em casa, Jonathan e Drew terão muito trabalho para  reorganizar a planta.</desc>
@@ -7516,7 +7523,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915165700 -0300" stop="20250915184900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915164400 -0300" stop="20250915184300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">MasterChef Confeitaria</title>
     <desc lang="pt"> - No MasterChef Confeitaria, 12 participantes criam sobremesas que refletem suas raízes e, na eliminação, encaram o desafio de uma torre de pavlova.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -7524,7 +7531,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915184900 -0300" stop="20250915201900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915184300 -0300" stop="20250915201700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Pesadelo Na Cozinha</title>
     <sub-title lang="pt">Hero's</sub-title>
     <desc lang="pt"> - Neste episódio de Pesadelo na Cozinha, o chef Erick Jacquin conhece um casal que pensando no próximo passo na evolução do seu negócio, transferiu uma hamburgueria que funcionava no interior para a cidade de São Paulo.</desc>
@@ -7533,7 +7540,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915201900 -0300" stop="20250915214900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250915201700 -0300" stop="20250915214600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Pesadelo Na Cozinha</title>
     <sub-title lang="pt">El Maktub</sub-title>
     <desc lang="pt"> - Neste episódio de Pesadelo na Cozinha, o chef Erick Jacquin visita um tradicional restaurante árabe que quer recuperar o sucesso dos primeiros anos de funcionamento.</desc>
@@ -7542,10 +7549,10 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915214900 -0300" stop="20250915230200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
-    <sub-title lang="pt">Beleza Rústica</sub-title>
-    <desc lang="pt"> - Os Primos expõem o piso de tijolos de uma cozinha para revelar a beleza rústica de uma casa de arenito pardo em Hoboken.</desc>
+  <programme start="20250915214600 -0300" stop="20250915230200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Casa das Facas - A Batalha</title>
+    <sub-title lang="pt">Bem-vindo à Casa das Facas</sub-title>
+    <desc lang="pt"> - Seis chefs preparam pratos com um ingrediente exclusivo para conquistar o trono como primeiro rei do jogo e escapar da eliminação.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -7602,7 +7609,7 @@
   <programme start="20250915040000 -0300" stop="20250915043000 -0300" channel="CURTA">
     <title lang="pt">O Povo Brasileiro: Matriz Tupi</title>
     <desc lang="pt"> - "Brasil" é palavra que pertence à toponímia utópica dos tempos medievais, designando uma ilha de sonho, terra da felicidade imaginada.</desc>
-    <episode-num system="xmltv_ns">11.179.</episode-num>
+    <episode-num system="xmltv_ns">14.39.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -7617,7 +7624,7 @@
   <programme start="20250915070000 -0300" stop="20250915080000 -0300" channel="CURTA">
     <title lang="pt">Cientistas Brasileiros: Oswaldo Cruz</title>
     <desc lang="pt"> - Vida e obra de Oswaldo Cruz (1872-1917), o revolucionário sanitarista brasileiro.</desc>
-    <episode-num system="xmltv_ns">11.49.</episode-num>
+    <episode-num system="xmltv_ns">14.69.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -7643,7 +7650,7 @@
   <programme start="20250915093000 -0300" stop="20250915100000 -0300" channel="CURTA">
     <title lang="pt">Caixa Postal: Bichos - Lygia Clark e Hélio Oiticica</title>
     <desc lang="pt"> - Dois amigos, unidos pelo desconforto diante das formas tradicionais de fazer e pensar arte, debocham e debatem novas criações.</desc>
-    <episode-num system="xmltv_ns">11.12.</episode-num>
+    <episode-num system="xmltv_ns">14.92.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -7658,7 +7665,7 @@
   <programme start="20250915120000 -0300" stop="20250915123000 -0300" channel="CURTA">
     <title lang="pt">O Povo Brasileiro: Matriz Tupi</title>
     <desc lang="pt"> - "Brasil" é palavra que pertence à toponímia utópica dos tempos medievais, designando uma ilha de sonho, terra da felicidade imaginada.</desc>
-    <episode-num system="xmltv_ns">11.179.</episode-num>
+    <episode-num system="xmltv_ns">14.39.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -7673,7 +7680,7 @@
   <programme start="20250915140000 -0300" stop="20250915143000 -0300" channel="CURTA">
     <title lang="pt">Histórias da Gente Brasileira: Império - Tiro, Porrada e Bomba!</title>
     <desc lang="pt"> - As novas configurações populacionais geraram tensões crescentes que assolaram a era imperial, materializadas em dezenas de rebeliões sangrentas que contradizem o mito do brasileiro cordial.</desc>
-    <episode-num system="xmltv_ns">11.199.</episode-num>
+    <episode-num system="xmltv_ns">14.139.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -7681,7 +7688,7 @@
   <programme start="20250915143000 -0300" stop="20250915150000 -0300" channel="CURTA">
     <title lang="pt">Mistérios do Arquivo: 1960: Fidel Castro nas Nações Unidas</title>
     <desc lang="pt"> - Setembro de 1960 em Nova York Representantes de mais de 90 países participarão da 15ª Assembléia Geral das Nações Unidas. No entanto, alguns não são bem-vindos em solo americano. É o caso de Fidel Castro.</desc>
-    <episode-num system="xmltv_ns">11.202.</episode-num>
+    <episode-num system="xmltv_ns">14.142.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -7689,7 +7696,7 @@
   <programme start="20250915150000 -0300" stop="20250915160000 -0300" channel="CURTA">
     <title lang="pt">Libertárias: Mulheres Inspiradoras na História do Brasil: Clara …</title>
     <desc lang="pt"> - A história de Clara Camarão, indígena potiguara que se destacou no século 17 em batalhas ocorridas em Olinda e Recife durante o período das invasões holandesas.</desc>
-    <episode-num system="xmltv_ns">11.209.</episode-num>
+    <episode-num system="xmltv_ns">14.149.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -7704,7 +7711,7 @@
   <programme start="20250915170000 -0300" stop="20250915180000 -0300" channel="CURTA">
     <title lang="pt">Mussolini, O Primeiro Fascista</title>
     <desc lang="pt"> - O primeiro episódio deste retrato de Il Duce irá explorar como Mussolini assumiu o poder e o consolidou até a Segunda Guerra Ítalo-Etíope em meados da década de 1930.</desc>
-    <episode-num system="xmltv_ns">11.0.</episode-num>
+    <episode-num system="xmltv_ns">14.0.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -7759,10 +7766,10 @@
     </rating>
   </programme>
   <programme start="20250915223000 -0300" stop="20250916000000 -0300" channel="CURTA">
-    <title lang="pt">Uma Garota Chamada Marina</title>
-    <desc lang="pt"> - O documentário musical de longa-metragem retrata a trajetória da cantora carioca Marina Lima. O documentário é composto por imagens de arquivos audiovisuais, imagens inéditas do acervo privado da artista, registro.</desc>
+    <title lang="pt">O Menino D'Olho D'Água</title>
+    <desc lang="pt"> - Na música de Hermeto Pascoal, quando nos deparamos com uma sonoridade assombrosamente simples, que remete diretamente à sua infância, no sertão alagoano, na cidade de Olho d'Água Grande.</desc>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250915000000 -0300" stop="20250915003000 -0300" channel="TRAVEL BOX">
@@ -8708,7 +8715,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915115200 -0300" stop="20250915121600 -0300" channel="HGTV HD">
+  <programme start="20250915115200 -0300" stop="20250915121400 -0300" channel="HGTV HD">
     <title lang="pt">O Novo Vintage</title>
     <sub-title lang="pt">Espaço Pequeno, Grandes Problemas</sub-title>
     <desc lang="pt"> - Jessie e Tina compram um bangalô estilo Craftsman 1912 em San Dimas, Califórnia, do tamanho de uma quitinete. Ele é perfeito como primeira compra, mas a cozinha é pequena demais e seu estado é precário.</desc>
@@ -8717,7 +8724,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915121600 -0300" stop="20250915124000 -0300" channel="HGTV HD">
+  <programme start="20250915121400 -0300" stop="20250915123800 -0300" channel="HGTV HD">
     <title lang="pt">Reformas Incríveis</title>
     <sub-title lang="pt">Uma Cozinha à Sua Altura</sub-title>
     <desc lang="pt"> - O decorador e empreiteiro Chip Wade reforma uma cozinha antiga para melhor acomodar os proprietários da casa, que adoram cozinhar e receber convidados.</desc>
@@ -8726,7 +8733,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915124000 -0300" stop="20250915130400 -0300" channel="HGTV HD">
+  <programme start="20250915123800 -0300" stop="20250915130300 -0300" channel="HGTV HD">
     <title lang="pt">Reformas Incríveis</title>
     <sub-title lang="pt">Escritório Renovado</sub-title>
     <desc lang="pt"> - Loren Soloman e Seth Einstein dividem, a contragosto, um escritório em casa. Ela trabalha em casa durante o dia, enquanto ele estuda à noite. O problema é que o cômodo está abarrotado de objetos, roupas e móveis aleat...</desc>
@@ -8735,7 +8742,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915130400 -0300" stop="20250915135200 -0300" channel="HGTV HD">
+  <programme start="20250915130300 -0300" stop="20250915135000 -0300" channel="HGTV HD">
     <title lang="pt">Reformando Casas, Transformando Vidas</title>
     <sub-title lang="pt">Oásis Particular</sub-title>
     <desc lang="pt"> - Uma comunidade de voluntários ganha uma deliciosa área de lazer.</desc>
@@ -8744,7 +8751,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915135200 -0300" stop="20250915141600 -0300" channel="HGTV HD">
+  <programme start="20250915135000 -0300" stop="20250915141500 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa de Praia</title>
     <sub-title lang="pt">Artistas Praianos</sub-title>
     <desc lang="pt"> - Um casal de artistas profissionais quer realizar o sonho de ter uma casa nas belas praias da baía de Barnegat, em Nova Jersey. Com poucas opções na costa, mas eles ficam ansiosos para encontrar a casa perfeita.</desc>
@@ -8753,7 +8760,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915141600 -0300" stop="20250915144000 -0300" channel="HGTV HD">
+  <programme start="20250915141500 -0300" stop="20250915144000 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa de Praia</title>
     <sub-title lang="pt">Refúgio Em Gulf Shores</sub-title>
     <desc lang="pt"> - Após descobrirem a comunidade litorânea de Gulf Shores, no Alabama, uma família de Atlanta decide comprar uma casa de veraneio. Eles terão que enfrentar o mercado aquecido para encontrar o refúgio perfeito para sua fam...</desc>
@@ -8771,7 +8778,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915150400 -0300" stop="20250915161600 -0300" channel="HGTV HD">
+  <programme start="20250915150400 -0300" stop="20250915152800 -0300" channel="HGTV HD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+    <sub-title lang="pt">Um Novo Lar na Califórnia</sub-title>
+    <desc lang="pt"> - Dan e Staci são de Reno, Nevada, mas passaram os verões de sua infância no Lago Almanor, na Califórnia. Agora, eles querem que os dois filhos cresçam à beira do lago e procuram um novo lar perto da água.</desc>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250915152800 -0300" stop="20250915161700 -0300" channel="HGTV HD">
     <title lang="pt">Piscinas Incríveis</title>
     <sub-title lang="pt">Cascata e Abrigo</sub-title>
     <desc lang="pt"> - Lucas viaja para Huntsville, Alabama, para construir a piscina dos sonhos de um casal de militares aposentados. Ele projeta a maior cascata de sua carreira e um abrigo contra tornados.</desc>
@@ -8780,7 +8796,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915161600 -0300" stop="20250915164000 -0300" channel="HGTV HD">
+  <programme start="20250915161700 -0300" stop="20250915164000 -0300" channel="HGTV HD">
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <sub-title lang="pt">Concreto Moderno</sub-title>
     <desc lang="pt"> - Um quintal espaçoso, mas sem atrativos, é transformado em um espaço agradável para fazer as refeições e receber convidados.</desc>
@@ -8789,7 +8805,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915164000 -0300" stop="20250915170400 -0300" channel="HGTV HD">
+  <programme start="20250915164000 -0300" stop="20250915170200 -0300" channel="HGTV HD">
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <sub-title lang="pt">O Jardim Secreto</sub-title>
     <desc lang="pt"> - Um casal que passa muitas horas cuidando de um quintal enorme aceita a sugestão de Matt Blashaw, que o transforma num jardim bonito e de fácil manutenção.</desc>
@@ -8798,7 +8814,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915170400 -0300" stop="20250915175100 -0300" channel="HGTV HD">
+  <programme start="20250915170200 -0300" stop="20250915172600 -0300" channel="HGTV HD">
+    <title lang="pt">Desafio da Renovação</title>
+    <sub-title lang="pt">Confronto em Família</sub-title>
+    <desc lang="pt"> - Pai e filho, TJ e Mike enfrentam uma dupla de mãe e filha, Jess e Hettie.</desc>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250915172600 -0300" stop="20250915175100 -0300" channel="HGTV HD">
     <title lang="pt">Desafio da Renovação</title>
     <sub-title lang="pt">Tudo Por Dinheiro</sub-title>
     <desc lang="pt"> - Negociadores experientes, Brenda e Mark estão prontos para enfrentar Lauren e Ben, um casal de decoradores.</desc>
@@ -8816,7 +8841,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915181500 -0300" stop="20250915183800 -0300" channel="HGTV HD">
+  <programme start="20250915181500 -0300" stop="20250915183900 -0300" channel="HGTV HD">
     <title lang="pt">Tô Chegando - Na Casa Dos Famosos</title>
     <sub-title lang="pt">Talento Em Vários Papéis</sub-title>
     <desc lang="pt"> - Dony visita a estrela multitalentosa Negra Li e descobre que em casa, a cantora e atriz, assume com gosto outros papéis. Ela é mãe de plantas, empreendedora e futura dona de um sofisticado estúdio.</desc>
@@ -8825,7 +8850,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915183800 -0300" stop="20250915190000 -0300" channel="HGTV HD">
+  <programme start="20250915183900 -0300" stop="20250915190200 -0300" channel="HGTV HD">
     <title lang="pt">Tô Chegando - Na Casa Dos Famosos</title>
     <sub-title lang="pt">Palco Acolhedor</sub-title>
     <desc lang="pt"> - O cantor sertanejo Bruno Belutti e a atriz Thaís Pacholek transformaram a casa em que moram para integrar mais e melhor sua família e amigos.</desc>
@@ -8834,7 +8859,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915190000 -0300" stop="20250915192200 -0300" channel="HGTV HD">
+  <programme start="20250915190200 -0300" stop="20250915192400 -0300" channel="HGTV HD">
     <title lang="pt">Em Busca da Casa Perfeita: Na Água</title>
     <desc lang="pt"> - Caçadores de Casas: Casas Incríveis na Água: Acompanhe indivíduos, casais e famílias em sua busca pela incrível casa à beira-mar dos seus sonhos.</desc>
     <episode-num system="xmltv_ns">2.6.</episode-num>
@@ -8842,7 +8867,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915192200 -0300" stop="20250915194700 -0300" channel="HGTV HD">
+  <programme start="20250915192400 -0300" stop="20250915194900 -0300" channel="HGTV HD">
     <title lang="pt">Em Busca da Casa Perfeita: Na Água</title>
     <desc lang="pt"> - Caçadores de Casas: Casas Incríveis na Água: Acompanhe indivíduos, casais e famílias em sua busca pela incrível casa à beira-mar dos seus sonhos.</desc>
     <episode-num system="xmltv_ns">2.7.</episode-num>
@@ -8850,7 +8875,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915194700 -0300" stop="20250915201100 -0300" channel="HGTV HD">
+  <programme start="20250915194900 -0300" stop="20250915201300 -0300" channel="HGTV HD">
     <title lang="pt">Reformas A Todo Vapor</title>
     <sub-title lang="pt">Uma Piscina com Vista</sub-title>
     <desc lang="pt"> - Uma casa inacabada no alto de uma montanha parece ser um diamante bruto para Lindsey e Eric Bennett. Apesar da vista espetacular, eles logo percebem por que o proprietário anterior desistiu do imóvel.</desc>
@@ -8859,7 +8884,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915201100 -0300" stop="20250915203500 -0300" channel="HGTV HD">
+  <programme start="20250915201300 -0300" stop="20250915203700 -0300" channel="HGTV HD">
     <title lang="pt">O Novo Vintage</title>
     <sub-title lang="pt">Desafio no Canadá</sub-title>
     <desc lang="pt"> - Jessie e Tina enfrentam vários contratempos enquanto reformam um casarão histórico de 1918 em Ontário, Canadá.</desc>
@@ -8868,7 +8893,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915203500 -0300" stop="20250915205900 -0300" channel="HGTV HD">
+  <programme start="20250915203700 -0300" stop="20250915210100 -0300" channel="HGTV HD">
     <title lang="pt">Reformas Incríveis</title>
     <sub-title lang="pt">Ao Papai, com Carinho</sub-title>
     <desc lang="pt"> - Taylor Smith convoca Chip Wade para surpreender seu pai com uma reforma no porão e no pátio interno, que está abarrotado de churrasqueiras velhas. Chip amplia o espaço no pátio e abre uma janela customizada no porão.</desc>
@@ -8877,7 +8902,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915205900 -0300" stop="20250915212300 -0300" channel="HGTV HD">
+  <programme start="20250915210100 -0300" stop="20250915212600 -0300" channel="HGTV HD">
     <title lang="pt">Reformas Incríveis</title>
     <sub-title lang="pt">Casa de Bonecas</sub-title>
     <desc lang="pt"> - Os brinquedos das filhas de Christine e Jim Newton estão espalhados por toda a casa, incluindo o escritório. Chip Wade cria um quarto especial para as meninas, com muitos armários para guardarem os brinquedos.</desc>
@@ -8886,7 +8911,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915212300 -0300" stop="20250915221100 -0300" channel="HGTV HD">
+  <programme start="20250915212600 -0300" stop="20250915221300 -0300" channel="HGTV HD">
     <title lang="pt">Reformando Casas, Transformando Vidas</title>
     <sub-title lang="pt">Reforma para um Veterano</sub-title>
     <desc lang="pt"> - Os primos e Ellen Degeneres preparam uma grande surpresa para um militar e sua família.</desc>
@@ -8895,7 +8920,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915221100 -0300" stop="20250915230000 -0300" channel="HGTV HD">
+  <programme start="20250915221300 -0300" stop="20250915230200 -0300" channel="HGTV HD">
     <title lang="pt">Joe Mazza, O Homem Das Casas</title>
     <desc lang="pt"> - Um homem passa anos procurando uma casa que possa abrigar toda a família sob o mesmo teto. Ele encontra um imóvel perto de uma montanha, mas o interior antiquado e os problemas externos da casa ameaçam estourar seu orçamento.</desc>
     <episode-num system="xmltv_ns">.5.</episode-num>
@@ -8903,7 +8928,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915230000 -0300" stop="20250915234900 -0300" channel="HGTV HD">
+  <programme start="20250915230200 -0300" stop="20250915232600 -0300" channel="HGTV HD">
+    <title lang="pt">Casa Pra Quem Descasa</title>
+    <sub-title lang="pt">Mau Gosto de Doer</sub-title>
+    <desc lang="pt"> - Um pai solo com dois filhos está cansado da casa surrada que a ex-mulher deixou para trás. O plano de Orlando Soria para revigorar o espaço envolve trocar os azulejos feios, os móveis bregas e mais.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250915232600 -0300" stop="20250915234700 -0300" channel="HGTV HD">
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <sub-title lang="pt">Fusão Zen</sub-title>
     <desc lang="pt"> - Proprietários experientes não sabem com o que fazer com seu quintal vazio. Matt Blashaw faz uma fusão moderna de arte e estilo asiático, com um pergolado de sequoia canadense, um jardim de pedras zen e uma cozinha externa.</desc>
@@ -8912,7 +8946,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915234900 -0300" stop="20250916003700 -0300" channel="HGTV HD">
+  <programme start="20250915234700 -0300" stop="20250916003600 -0300" channel="HGTV HD">
     <title lang="pt">Piscinas Incríveis</title>
     <sub-title lang="pt">Zen e a Arte das Piscinas</sub-title>
     <desc lang="pt"> - Lucas leva sua arte para Parrish, Flórida, onde um casal encomenda um espaço para relaxar. Construir um oásis de serenidade parece fácil, mas a equipe de Lucas está longe de ser zen.</desc>
@@ -12076,7 +12110,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915103900 -0300" stop="20250915110300 -0300" channel="DISCOVERY HD">
+  <programme start="20250915103900 -0300" stop="20250915111600 -0300" channel="DISCOVERY HD">
     <title lang="pt">Ed Stafford, o Sobrevivente</title>
     <sub-title lang="pt">Regras de Sobrevivência</sub-title>
     <desc lang="pt"> - Ed Stafford cita suas maiores dicas para sobreviver totalmente sozinho, dez dias por vez, em oito dos ambientes mais difíceis do mundo. Ele aprendeu que, às vezes, o inesperado traz recompensas.</desc>
@@ -12085,7 +12119,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915110300 -0300" stop="20250915121600 -0300" channel="DISCOVERY HD">
+  <programme start="20250915111600 -0300" stop="20250915120400 -0300" channel="DISCOVERY HD">
     <title lang="pt">Ed Stafford, o Sobrevivente</title>
     <sub-title lang="pt">Deserto de Gobi</sub-title>
     <desc lang="pt"> - Ed encara uma escalada épica em uma montanha do deserto de Gobi, na Mongólia. Ao passar cinco dias sem uma refeição decente, será que ele conseguirá prosperar em um dos locais mais isolados da Terra?</desc>
@@ -12094,16 +12128,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915121600 -0300" stop="20250915135800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915120400 -0300" stop="20250915134400 -0300" channel="DISCOVERY HD">
     <title lang="pt">Vida Remota</title>
-    <sub-title lang="pt">É Preciso Uma Aldeia</sub-title>
-    <desc lang="pt"> - Os Raneys encontram uma fazenda em Montana lutando contra problemas de alimentação, predadores e energia.</desc>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <sub-title lang="pt">Dificuldades Vem e Vão</sub-title>
+    <desc lang="pt"> - Os Raneys ajudam um pai solteiro que enfrenta ameaças de deslizamento de rochas e ursos em um desfiladeiro em Montana. Mas com Matt no Alasca esperando o nascimento de sua filha, Marty e Misty enfrentam uma batalha difícil.</desc>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915135800 -0300" stop="20250915144800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915134400 -0300" stop="20250915143200 -0300" channel="DISCOVERY HD">
     <title lang="pt">Largados e Pelados</title>
     <sub-title lang="pt">Na Terra dos Ursos</sub-title>
     <desc lang="pt"> - Cercados dia e noite por ursos-negros agressivos e territoriais, dois sobrevivencialistas precisam competir com os predadores por recursos nas Montanhas Fumegantes do Tennessee.</desc>
@@ -12112,7 +12146,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915144800 -0300" stop="20250915153800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915143200 -0300" stop="20250915152300 -0300" channel="DISCOVERY HD">
     <title lang="pt">Largados e Pelados</title>
     <sub-title lang="pt">Sobrevivência Categoria 5</sub-title>
     <desc lang="pt"> - Um furacão categoria 5 assola o acampamento de Amal, uma refugiada da guerra do Iraque que hoje vive em Iowa com seu companheiro, Duke. A dupla também enfrenta aranhas venenosas e predadores noturnos nos Pântanos da Flórida.</desc>
@@ -12121,7 +12155,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915153800 -0300" stop="20250915160400 -0300" channel="DISCOVERY HD">
+  <programme start="20250915152300 -0300" stop="20250915161300 -0300" channel="DISCOVERY HD">
     <title lang="pt">Desafio em Dose Dupla</title>
     <sub-title lang="pt">Enterrado Vivo</sub-title>
     <desc lang="pt"> - Armados com o equipamento de uma vítima de uma avalanche, Dave e Cody mostram como sobreviver nas Montanhas Rochosas.</desc>
@@ -12130,7 +12164,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915160400 -0300" stop="20250915171800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915161300 -0300" stop="20250915170800 -0300" channel="DISCOVERY HD">
     <title lang="pt">Desafio em Dose Dupla: Brasil</title>
     <sub-title lang="pt">Amazonas</sub-title>
     <desc lang="pt"> - Tigre e Rene  são abandonados na Amazônia colombiana, uma das florestas mais inacessíveis do planeta.</desc>
@@ -12139,7 +12173,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915171800 -0300" stop="20250915180800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915170800 -0300" stop="20250915180000 -0300" channel="DISCOVERY HD">
     <title lang="pt">Ed Stafford, o Sobrevivente</title>
     <sub-title lang="pt">Regras de Sobrevivência</sub-title>
     <desc lang="pt"> - Ed Stafford cita suas maiores dicas para sobreviver totalmente sozinho, dez dias por vez, em oito dos ambientes mais difíceis do mundo. Ele aprendeu que, às vezes, o inesperado traz recompensas.</desc>
@@ -12148,7 +12182,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915180800 -0300" stop="20250915185700 -0300" channel="DISCOVERY HD">
+  <programme start="20250915180000 -0300" stop="20250915185100 -0300" channel="DISCOVERY HD">
     <title lang="pt">Ed Stafford, o Sobrevivente</title>
     <sub-title lang="pt">Deserto de Gobi</sub-title>
     <desc lang="pt"> - Ed encara uma escalada épica em uma montanha do deserto de Gobi, na Mongólia. Ao passar cinco dias sem uma refeição decente, será que ele conseguirá prosperar em um dos locais mais isolados da Terra?</desc>
@@ -12157,7 +12191,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915185700 -0300" stop="20250915194600 -0300" channel="DISCOVERY HD">
+  <programme start="20250915185100 -0300" stop="20250915194100 -0300" channel="DISCOVERY HD">
     <title lang="pt">Largados e Pelados</title>
     <sub-title lang="pt">Largados, Pelados e Abandonados</sub-title>
     <desc lang="pt"> - Um homem e uma mulher, que se conhecem do jeito que chegaram ao mundo, se unem para sobreviver por 2</desc>
@@ -12166,7 +12200,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915194600 -0300" stop="20250915203400 -0300" channel="DISCOVERY HD">
+  <programme start="20250915194100 -0300" stop="20250915203200 -0300" channel="DISCOVERY HD">
     <title lang="pt">Largados e Pelados</title>
     <sub-title lang="pt">Vale dos Leopardos</sub-title>
     <desc lang="pt"> - O fã do programa e especialista em sobrevivência Matt, cuja primeira parceira acabou contaminando sua fonte de água, faz dupla com a ambientalista Kerra.</desc>
@@ -12175,7 +12209,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915203400 -0300" stop="20250915212200 -0300" channel="DISCOVERY HD">
+  <programme start="20250915203200 -0300" stop="20250915212000 -0300" channel="DISCOVERY HD">
     <title lang="pt">Febre do Ouro: O Desafio de Parker</title>
     <sub-title lang="pt">Fortuna Desaparecida</sub-title>
     <desc lang="pt"> - Parker investiga o paradeiro de uma fortuna em ouro: teria sido extraída ou ainda estaria oculta no subsolo da região?</desc>
@@ -12184,7 +12218,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250915212200 -0300" stop="20250915221000 -0300" channel="DISCOVERY HD">
+  <programme start="20250915212000 -0300" stop="20250915220900 -0300" channel="DISCOVERY HD">
     <title lang="pt">Caçadores de Pedras Preciosas: Austrália</title>
     <sub-title lang="pt">Cheal Vai Dar um Jeito</sub-title>
     <desc lang="pt"> - Chris leva uma picada de aranha, forçando os jovens Oscar e Luca a assumirem a responsabilidade pela mineração.</desc>
@@ -12193,7 +12227,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915221000 -0300" stop="20250915225800 -0300" channel="DISCOVERY HD">
+  <programme start="20250915220900 -0300" stop="20250915225800 -0300" channel="DISCOVERY HD">
     <title lang="pt">Febre do Ouro: Freddy Dodge ao Resgate</title>
     <sub-title lang="pt">Última chance de ouro</sub-title>
     <desc lang="pt"> - Depois de perder o emprego, Fred Dickinson pede ajuda a Freddy e Juan para resgatar sua operação caseira, acessar uma das veias de ouro mais ricas do Arizona e sustentar sua jovem família de sete pessoas.</desc>
@@ -12202,7 +12236,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915225800 -0300" stop="20250915234700 -0300" channel="DISCOVERY HD">
+  <programme start="20250915225800 -0300" stop="20250915234800 -0300" channel="DISCOVERY HD">
     <title lang="pt">Febre do Ouro: Freddy Dodge ao Resgate</title>
     <sub-title lang="pt">Promessa de Ouro</sub-title>
     <desc lang="pt"> - Freddy Dodge e Juan Ibarra tentam transformar o hobby do minerador Clay Strickland em um negócio rentável. Com uma ajuda de seus amigos, Freddy e Juan querem que Clay cumpra uma promessa para sua filha e falecida esposa.</desc>
@@ -12211,7 +12245,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250915234700 -0300" stop="20250916003500 -0300" channel="DISCOVERY HD">
+  <programme start="20250915234800 -0300" stop="20250916003500 -0300" channel="DISCOVERY HD">
     <title lang="pt">Febre do Ouro: Família Hoffman</title>
     <sub-title lang="pt">Fronteira Promissora</sub-title>
     <desc lang="pt"> - Hunter encara a tundra ártica quando a dica de um geólogo leva a um uma área rica em ouro na fronteira da mina dos Hoffmans. No acampamento, Andy se esforça para processar ouro em um antigo canal fluvial.</desc>
@@ -29765,7 +29799,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915105200 -0300" stop="20250915114100 -0300" channel="ID HD">
+  <programme start="20250915105200 -0300" stop="20250915111300 -0300" channel="ID HD">
     <title lang="pt">Vivendo com o Inimigo</title>
     <sub-title lang="pt">Retrato de Família</sub-title>
     <desc lang="pt"> - Brooke é criada acreditando que Kevin era seu pai. Sua mãe esconde a verdade por muito tempo, sem perceber que Kevin tem segredos muito mais obscuros.</desc>
@@ -29774,7 +29808,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915114100 -0300" stop="20250915120500 -0300" channel="ID HD">
+  <programme start="20250915111300 -0300" stop="20250915114100 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">O Predador</sub-title>
     <desc lang="pt"> - Em Portland, uma jovem é estuprada e estrangulada. Um mês depois, outra mulher é brutalmente assassinada da mesma forma. O principal suspeito é um sem-teto que alimenta fantasias sexuais sombrias.</desc>
@@ -29783,7 +29817,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915120500 -0300" stop="20250915122900 -0300" channel="ID HD">
+  <programme start="20250915114100 -0300" stop="20250915120900 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">Você Não Vai Embora</sub-title>
     <desc lang="pt"> - Um trabalhador de uma plataforma de petróleo de 33 anos liga para o 911 para relatar o desaparecimento de sua namorada. Ele parece estar ajudando na busca urgente para encontrá-la.</desc>
@@ -29792,7 +29826,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915122900 -0300" stop="20250915131800 -0300" channel="ID HD">
+  <programme start="20250915120900 -0300" stop="20250915125800 -0300" channel="ID HD">
     <title lang="pt">Lobo Em Pele De Cordeiro</title>
     <sub-title lang="pt">Eu a Levei Para um Local Tranquilo</sub-title>
     <desc lang="pt"> - Tawnee Baird e Victoria Mendoza se apaixonaram na adolescência. Apesar das origens diferentes, ambos amam música e sonham em ser famosos. Mas quando a paixão vira raiva, apenas uma jovem sai viva.</desc>
@@ -29801,7 +29835,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915131800 -0300" stop="20250915140600 -0300" channel="ID HD">
+  <programme start="20250915125800 -0300" stop="20250915134700 -0300" channel="ID HD">
     <title lang="pt">Lobo Em Pele De Cordeiro</title>
     <sub-title lang="pt">Amigos Fora do Trabalho</sub-title>
     <desc lang="pt"> - Os pais Gary e Tasha Bentley estão aproveitando a vida. Eles ganham bem, têm uma bela casa e sempre tiram férias. Mas com cinco anos de casados, alguém tentar fugir da união com tiros.</desc>
@@ -29810,7 +29844,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915140600 -0300" stop="20250915145500 -0300" channel="ID HD">
+  <programme start="20250915134700 -0300" stop="20250915143600 -0300" channel="ID HD">
     <title lang="pt">Desaparecidos</title>
     <sub-title lang="pt">Montanha Misteriosa</sub-title>
     <desc lang="pt"> - Em 5 de maio de 2020, Davohnte Morgan desaparece na misteriosa cidade de Mt. Shasta. Durante as buscas, sua família percebe que a cidade desconfia de estranhos e que a namorada dele esconde alguma coisa.</desc>
@@ -29819,7 +29853,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915145500 -0300" stop="20250915154400 -0300" channel="ID HD">
+  <programme start="20250915143600 -0300" stop="20250915152500 -0300" channel="ID HD">
     <title lang="pt">Desaparecidos</title>
     <sub-title lang="pt">Amor e Mentiras em Idyllwild</sub-title>
     <desc lang="pt"> - Dia Abrams é dona de várias propriedades na comunidade de Idyllwild, na Califórnia, incluindo uma fazenda. Em 6 de junho de 2020, Dia diz ao parceiro, Keith Harper, que alimentará os cavalos, mas nunca mais é vista.</desc>
@@ -29828,7 +29862,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915154400 -0300" stop="20250915163300 -0300" channel="ID HD">
+  <programme start="20250915152500 -0300" stop="20250915161600 -0300" channel="ID HD">
     <title lang="pt">Cidade Pacata, Crime Cruel</title>
     <sub-title lang="pt">Quem Matou Angie Lee?</sub-title>
     <desc lang="pt"> - A morte de uma jovem mãe por estrangulamento envolve uma pequena cidade em Ohio em uma nuvem de suspeitas.</desc>
@@ -29837,7 +29871,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915163300 -0300" stop="20250915172200 -0300" channel="ID HD">
+  <programme start="20250915161600 -0300" stop="20250915170800 -0300" channel="ID HD">
     <title lang="pt">Cidade Pacata, Crime Cruel</title>
     <sub-title lang="pt">Caçando um Assassino</sub-title>
     <desc lang="pt"> - Na zona rural de Missouri, um caçador é encontrado morto em seu carro perto das populares trilhas de veados. Foi um acidente de caça ou algo mais sinistro?</desc>
@@ -29846,7 +29880,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915172200 -0300" stop="20250915181000 -0300" channel="ID HD">
+  <programme start="20250915170800 -0300" stop="20250915180000 -0300" channel="ID HD">
     <title lang="pt">Vivendo com o Inimigo</title>
     <sub-title lang="pt">Retrato de Família</sub-title>
     <desc lang="pt"> - Brooke é criada acreditando que Kevin era seu pai. Sua mãe esconde a verdade por muito tempo, sem perceber que Kevin tem segredos muito mais obscuros.</desc>
@@ -29855,7 +29889,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915181000 -0300" stop="20250915183400 -0300" channel="ID HD">
+  <programme start="20250915180000 -0300" stop="20250915182900 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">O Predador</sub-title>
     <desc lang="pt"> - Em Portland, uma jovem é estuprada e estrangulada. Um mês depois, outra mulher é brutalmente assassinada da mesma forma. O principal suspeito é um sem-teto que alimenta fantasias sexuais sombrias.</desc>
@@ -29864,7 +29898,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915183400 -0300" stop="20250915185800 -0300" channel="ID HD">
+  <programme start="20250915182900 -0300" stop="20250915185800 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">Você Não Vai Embora</sub-title>
     <desc lang="pt"> - Um trabalhador de uma plataforma de petróleo de 33 anos liga para o 911 para relatar o desaparecimento de sua namorada. Ele parece estar ajudando na busca urgente para encontrá-la.</desc>
@@ -29891,7 +29925,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915203700 -0300" stop="20250915212100 -0300" channel="ID HD">
+  <programme start="20250915203700 -0300" stop="20250915212500 -0300" channel="ID HD">
     <title lang="pt">Vivendo com o Inimigo: De Frente com o Assassino</title>
     <sub-title lang="pt">Um Verdadeiro Ato de Maldade</sub-title>
     <desc lang="pt"> - Criada em um orfanato, Kristin e seu irmão só tinham um ao outro. No início, ele era um bom irmão, mas, à medida que crescia, tornou-se um criminoso violento.</desc>
@@ -29900,7 +29934,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915212100 -0300" stop="20250915221000 -0300" channel="ID HD">
+  <programme start="20250915212500 -0300" stop="20250915221400 -0300" channel="ID HD">
     <title lang="pt">Vivendo Com O Inimigo: Sombras da Morte</title>
     <sub-title lang="pt">Eles Roubaram a minha Infância</sub-title>
     <desc lang="pt"> - Christina Thomas acredita em seu irmão, John White, quando ele quase mata uma mulher e o perdoa quando ele assassina outra. Quando os crimes se repetem, ela se pergunta como pôde ser tão ingênua.</desc>
@@ -29909,7 +29943,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915221000 -0300" stop="20250915225400 -0300" channel="ID HD">
+  <programme start="20250915221400 -0300" stop="20250915230200 -0300" channel="ID HD">
     <title lang="pt">Lobo em Pele de Cordeiro: Abuso de Poder</title>
     <sub-title lang="pt">Corpos em Evidência</sub-title>
     <desc lang="pt"> - Após ajudar os EUA a vencer, Larry Nassar vira referência. Anos depois, a verdade sobre suas técnicas vem à tona.</desc>
@@ -29918,7 +29952,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915225400 -0300" stop="20250915231900 -0300" channel="ID HD">
+  <programme start="20250915230200 -0300" stop="20250915232600 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">Sou Muito Estranho</sub-title>
     <desc lang="pt"> - Uma mulher acorda e encontra os dois filhos degolados. O namorado da tia das crianças confessa o crime à sua mãe, que usa uma escuta. A polícia descobre que ele cometeu o crime em um acesso de raiva.</desc>
@@ -29927,7 +29961,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915231900 -0300" stop="20250915234400 -0300" channel="ID HD">
+  <programme start="20250915232600 -0300" stop="20250915235100 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">Morte na Estrada</sub-title>
     <desc lang="pt"> - Em um incidente em uma estrada, um idoso é espancado até a morte por um adolescente que alega legítima defesa. Durante a investigação, a polícia descobre que ele é um psicopata frio e manipulador.</desc>
@@ -29936,7 +29970,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250915234400 -0300" stop="20250916003300 -0300" channel="ID HD">
+  <programme start="20250915235100 -0300" stop="20250916004000 -0300" channel="ID HD">
     <title lang="pt">Assassinato de Uma Sexta à Noite</title>
     <sub-title lang="pt">Nada a Torcer</sub-title>
     <desc lang="pt"> - Josh Missiledine, líder de torcida, desaparece antes do campeonato estadual. A polícia desvenda segredos de um passado perturbador.</desc>
@@ -42395,7 +42429,7 @@
     </rating>
   </programme>
   <programme start="20250916014500 -0300" stop="20250916023000 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt"> - Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
     <episode-num system="xmltv_ns">0.258.</episode-num>
     <rating system="Brazil">
@@ -42430,60 +42464,57 @@
     <desc lang="pt"> - O programa terá um formato de jornalismo policial local, com foco em notícias da região.</desc>
     <episode-num system="xmltv_ns">70.258.</episode-num>
   </programme>
-  <programme start="20250916140000 -0300" stop="20250916153000 -0300" channel="SBT São Paulo">
+  <programme start="20250916140000 -0300" stop="20250916144500 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Tita conta para Maria que Nandinho está apaixonado por ela. Nandinho diz para Agripina que não consegue esquecer de Tita.</desc>
     <episode-num system="xmltv_ns">73.258.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250916153000 -0300" stop="20250916170000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Fofocalizando</title>
-    <desc lang="pt"> - Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
-    <episode-num system="xmltv_ns">14.258.</episode-num>
+  <programme start="20250916144500 -0300" stop="20250916154500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt"> - Rubi não cumpri o que disse que faria pela amiga e apenas diz para Heitor que Maribel o aguarda na cafeteria para lhe fazer uma revelação importante.</desc>
+    <episode-num system="xmltv_ns">73.258.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916170000 -0300" stop="20250916180000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Casos de Família</title>
-    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
-    <episode-num system="xmltv_ns">16.258.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+  <programme start="20250916154500 -0300" stop="20250916180000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Real Madrid (ESP) x Olympique de Marseille (FRA) - ao vivo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250916180000 -0300" stop="20250916194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Aqui Agora</title>
     <desc lang="pt"> - Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
     <episode-num system="xmltv_ns">77.258.</episode-num>
   </programme>
-  <programme start="20250916194500 -0300" stop="20250916210000 -0300" channel="SBT São Paulo">
+  <programme start="20250916194500 -0300" stop="20250916203000 -0300" channel="SBT São Paulo">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
     <episode-num system="xmltv_ns">78.258.</episode-num>
   </programme>
-  <programme start="20250916210000 -0300" stop="20250916221500 -0300" channel="SBT São Paulo">
+  <programme start="20250916203000 -0300" stop="20250916211500 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
-    <episode-num system="xmltv_ns">70.258.</episode-num>
+    <desc lang="pt"> - Camila desmaia, e Juan e Mar a levam ao hospital, onde são informados de que ela está grávida. Paula conta à amiga repórter onde encontrar Ofélia e tira fotos da pobreza em que ela vive.</desc>
+    <episode-num system="xmltv_ns">69.258.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916221500 -0300" stop="20250916231500 -0300" channel="SBT São Paulo">
-    <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-    <episode-num system="xmltv_ns">21.258.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+  <programme start="20250916211500 -0300" stop="20250916231500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Lanús (ARG) x Fluminense - ao vivo</title>
+    <desc lang="pt"> - Fora de casa, o Fluminense vai em busca de um bom resultado diante do Lanús (ARG).</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250916231500 -0300" stop="20250917001500 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Repórter</title>
-    <desc lang="pt"> - O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
-    <episode-num system="xmltv_ns">72.258.</episode-num>
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <episode-num system="xmltv_ns">22.258.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20250916000000 -0300" stop="20250916001500 -0300" channel="CULTURA HD">
     <title lang="pt">Metrópolis</title>
@@ -48497,7 +48528,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916000900 -0300" stop="20250916003300 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916000900 -0300" stop="20250916003400 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Receitas Caseiras da Valerie</title>
     <sub-title lang="pt">Refeição de Agradecimento</sub-title>
     <desc lang="pt"> - Valerie Bertinelli cozinha para um bombeiro e sua esposa enfermeira como agradecimento por seu trabalho para a comunidade. O cardápio inclui sanduíches de peru defumado, vagens de pimenta shishito e barras de s'mores.</desc>
@@ -48506,7 +48537,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916003300 -0300" stop="20250916005600 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916003400 -0300" stop="20250916005900 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Receitas Caseiras da Valerie</title>
     <sub-title lang="pt">Sessão de Cinema Estrelada</sub-title>
     <desc lang="pt"> - Valerie Bertinelli organiza uma sessão de cinema no quintal para seu filho e a namorada dele. O saboroso cardápio inclui salada de anéis de cebola com molho Ranch caseiro, e uma sobremesa digna de um filme.</desc>
@@ -48515,7 +48546,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916005600 -0300" stop="20250916011900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916005900 -0300" stop="20250916012200 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Refeição em 30 Minutos</title>
     <sub-title lang="pt">Salada de Asas de Frango com Molho Ranch</sub-title>
     <desc lang="pt"> - Rachael Ray prepara uma salada grande com buffalo wings, cobertas por um saboroso molho ranch caseiro.</desc>
@@ -48524,7 +48555,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916011900 -0300" stop="20250916014200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916012200 -0300" stop="20250916014600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Refeição em 30 Minutos</title>
     <sub-title lang="pt">Pizza de Frigideira de Frango</sub-title>
     <desc lang="pt"> - A pizza de frigideira de Rachael Ray com churrasco de frango é a combinação perfeita de sabores picantes e agridoces.</desc>
@@ -48533,7 +48564,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916014200 -0300" stop="20250916020500 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916014600 -0300" stop="20250916020900 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Loucos por Churrasco</title>
     <sub-title lang="pt">Delícias Californianas</sub-title>
     <desc lang="pt"> - A culinária da Califórnia começou uma revolução pelos EUA com sua devoção aos ingredientes frescos, locais e sazonais. Bobby Flay adora levar o frescor do 31º estado para a grelha.</desc>
@@ -48542,7 +48573,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916020500 -0300" stop="20250916022800 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916020900 -0300" stop="20250916023200 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Loucos por Churrasco</title>
     <sub-title lang="pt">O Novo Sul: Além do Churrasco</sub-title>
     <desc lang="pt"> - A clássica culinária sulista é uma das cozinhas regionais mais adoradas dos EUA. Um novo estilo de cozinhar está nascendo em Dixie, e Bobby Flay acha que ele combina muito bem com a grelha.</desc>
@@ -48551,7 +48582,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916022800 -0300" stop="20250916025200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916023200 -0300" stop="20250916025400 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabor na Brasa</title>
     <sub-title lang="pt">Sanduíches de Churrasco</sub-title>
     <desc lang="pt"> - Roger Mooking adora um bom sanduíche de churrasco. Na Barbecue Exchange, ele prova sanduíches feitos de pescoço de porco e bacon. Já na Papa KayJoe's BBQ, em Centerville, o recheio é de porco, picles e molho picante.</desc>
@@ -48560,7 +48591,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916025200 -0300" stop="20250916031500 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916025400 -0300" stop="20250916031600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabor na Brasa</title>
     <sub-title lang="pt">A Arte do Presunto</sub-title>
     <desc lang="pt"> - Roger Mooking visita os melhores fornecedores de carne de porco dos EUA. Ele visita Sam Edwards, que produz presuntos defumados há gerações, e Allan Benton, que transformou a cura a seco de presunto e bacon em uma arte.</desc>
@@ -48569,7 +48600,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916031500 -0300" stop="20250916033900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916031600 -0300" stop="20250916033900 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <sub-title lang="pt">Passeando em Cuba</sub-title>
     <desc lang="pt"> - Guy Fieri sai em uma jornada internacional na cena gastronômica de Cuba. Primeiro, uma homenagem ao chef mais famoso de Cuba, que vai preparar sua marca registrada, lagosta com café, e um prato regional de porco.</desc>
@@ -48614,7 +48645,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916060000 -0300" stop="20250916062300 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916060000 -0300" stop="20250916062400 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Duelo Com Bobby Flay</title>
     <sub-title lang="pt">O Fino da Costa Leste</sub-title>
     <desc lang="pt"> - O chef celebridade e escritor Curtis Stone se une a Michael Symon para desnortear o Bobby. O chef Antonio Franco de Rhode Island fica cara a cara com o chef Luke Venner, de Nova York, por uma chance de enfrentar Bobby Flay.</desc>
@@ -48623,7 +48654,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916062300 -0300" stop="20250916064600 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916062400 -0300" stop="20250916064700 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Duelo Com Bobby Flay</title>
     <sub-title lang="pt">Duelo de Titãs</sub-title>
     <desc lang="pt"> - Tamron Hall, e Ted Allen, de Chopped, tentam derrotar Bobby Flay recorrendo às habilidades de dois chefs talentosos. Na batalha culinária entre Katherine Humphus e John Wassil, quem será o vencedor?</desc>
@@ -48632,7 +48663,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916064600 -0300" stop="20250916073200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916064700 -0300" stop="20250916073300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Chopped: O Desafio</title>
     <sub-title lang="pt">No Mundo dos Caracóis</sub-title>
     <desc lang="pt"> - Uma cesta selvagem, que inclui caracóis do mar e barras de limão, faz os chefs lutarem contra o tempo para criarem pratos deliciosos.</desc>
@@ -48641,7 +48672,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916073200 -0300" stop="20250916081800 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916073300 -0300" stop="20250916082000 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Food Truck: A Grande Corrida</title>
     <desc lang="pt"> - Uma série de food trucks em uma competição para ver quem ganha mais dinheiro, com o caminhão com menor ganho sendo iniciado no final de cada episódio.</desc>
     <episode-num system="xmltv_ns">15.5.</episode-num>
@@ -48649,7 +48680,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916081800 -0300" stop="20250916084100 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916082000 -0300" stop="20250916084300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <sub-title lang="pt">África, Ásia e Índia</sub-title>
     <desc lang="pt"> - Esta viagem de Guy Fieri tem sabores internacionais da Ásia, da África e da Índia.</desc>
@@ -48658,7 +48689,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916084100 -0300" stop="20250916090400 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916084300 -0300" stop="20250916090600 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <sub-title lang="pt">Culinária Creola, Frios e Cres</sub-title>
     <desc lang="pt"> - Neste programa, Guy Fieri cozinha de tudo, desde culinária creole a crepes asiáticos surpreendentes, passando por frios.</desc>
@@ -48667,7 +48698,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916090400 -0300" stop="20250916092500 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916090600 -0300" stop="20250916092700 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <sub-title lang="pt">Mastigar e Fabricar</sub-title>
     <desc lang="pt"> - Nessa viagem o Guy vai comer uns rangos feito em pubs. Em Minneapolis, uma grande cervejaria que tem pratos como uma deliciosa carne de porco desfiada e um sanduíche de peito bovino que é matador.</desc>
@@ -48676,7 +48707,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916092500 -0300" stop="20250916094600 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916092700 -0300" stop="20250916094700 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <sub-title lang="pt">Linguiças, Frutos do Mar e Shawarma</sub-title>
     <desc lang="pt"> - Nesta viagem, Guy Fieri viaja pela eclética e globalizada 'Cidade dos Sabores'. Em Minneapolis, um restaurante italiano de bairro mantém uma tradição familiar divertida de fazer pizza.</desc>
@@ -48685,7 +48716,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916094600 -0300" stop="20250916103300 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916094700 -0300" stop="20250916103300 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Na Rota do Sabor</title>
     <sub-title lang="pt">Paraíso do Burrito</sub-title>
     <desc lang="pt"> - Burritos desembrulhados por todos os EUA, passando por burritos com carne de porco suculenta marinada em Coca-Cola no Colorado e um burrito de lagosta apimentada com muito queijo no Maine.</desc>
@@ -48712,7 +48743,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916111500 -0300" stop="20250916113900 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916111500 -0300" stop="20250916113800 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabores da América com Michael Symon</title>
     <sub-title lang="pt">A Comida Preferida do Super Chef</sub-title>
     <desc lang="pt"> - A lenda do futebol americano, Earl Campbell, e Michael Symon mergulham em um peito de boi e em uma torta de pêssego em uma das churrascarias mais famosas do Texas.</desc>
@@ -48721,7 +48752,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916113900 -0300" stop="20250916120200 -0300" channel="FOOD NETWORK HD">
+  <programme start="20250916113800 -0300" stop="20250916120200 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabores da América com Michael Symon</title>
     <sub-title lang="pt">Suculento, Crocante e Azedo</sub-title>
     <desc lang="pt"> - Michael Symon começa em Lexington, Kentucky, para um hambúrguer gordo de carne de porco e asa de frango defumada e mergulhada em um molho de amora com pimento-jalapeño.</desc>
@@ -48928,25 +48959,23 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916000000 -0300" stop="20250916005000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <sub-title lang="pt">Transformação Inteligente</sub-title>
-    <desc lang="pt"> - Uma família adora a estrutura de sua casa, mas com um quarto filho a caminho, o espaço lotado perdeu funcionalidade. Drew e Jonathan projetam uma casa organizada com espaço para a família em expansão.</desc>
-    <episode-num system="xmltv_ns">5.12.</episode-num>
+  <programme start="20250916000000 -0300" stop="20250916004800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Pesadelo na Cozinha com Gordon Ramsay</title>
+    <desc lang="pt"> - Reality series britânico em que o chef de renome mundial Gordon Ramsay visita restaurantes em dificuldades, num esforço para ajudá-los a ter sucesso.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916005000 -0300" stop="20250916013900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <sub-title lang="pt">Sheryl e Frank</sub-title>
-    <desc lang="pt"> - O bairro suburbano onde moram Sheryl e Frank foi uma mudança bem-vinda enquanto precisavam de um bom lugar para criar os filhos. Agora, eles são adolescentes e o casal precisa encontrar um novo lar.</desc>
+  <programme start="20250916004800 -0300" stop="20250916013800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Chefs De Alto Nível Com Gordon Ramsay</title>
+    <sub-title lang="pt">Audições dos Chefs Profissionais</sub-title>
+    <desc lang="pt"> - Na rodada final de testes, oito chefs profissionais devem impressionar os jurados para avançar para a próxima fase.</desc>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916013900 -0300" stop="20250916022300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916013800 -0300" stop="20250916022500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">90 Dias Na Cama</title>
     <sub-title lang="pt">Na Cama: Sob Pressão</sub-title>
     <desc lang="pt"> - Os casais favoritos de "90 Dias para Casar" abrem as portas de sua casa para o público e assistem juntos ao episódio de hoje. Tim e Veronica, Kenny e Armando, David e Annie, Jovi e Yara não poupam comentários.</desc>
@@ -48955,16 +48984,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916022300 -0300" stop="20250916035800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Quilos Mortais</title>
-    <sub-title lang="pt">A Jornada de Kristal</sub-title>
-    <desc lang="pt"> - Kristal começa a comer demais para se proteger com uma camada de obesidade depois de sofrer anos de abuso. Sua forma de proteção agora ameaça destruir sua vida se ela não arrumar ajuda.</desc>
-    <episode-num system="xmltv_ns">8.0.</episode-num>
+  <programme start="20250916022500 -0300" stop="20250916035600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <sub-title lang="pt">Escondidinho da Amada</sub-title>
+    <desc lang="pt"> - O chef Erick Jacquin chega ao "Escondidinho da Amada" e se vê obrigado a contrariar o velho ditado de "não meter a colher na briga entre marido e mulher".</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916035800 -0300" stop="20250916044600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916035600 -0300" stop="20250916044600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
     <sub-title lang="pt">Bettie Jo e Susan</sub-title>
     <desc lang="pt"> - Bettie Jo luta contra a depressão e um câncer  quando descobre que está grávida. Susan sofre um revés depois de uma cirurgia para remover o excesso de pele, dificultando a perda de peso.</desc>
@@ -48973,7 +49002,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916044600 -0300" stop="20250916053400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916044600 -0300" stop="20250916053500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
     <sub-title lang="pt">Joe</sub-title>
     <desc lang="pt"> - Com mais de 300 quilos, Joe conseguiu emagrecer e está de casamento marcado. Mas ele ainda precisa perder muito peso e essa perspectiva que pode impedi-lo de realizar seu grande sonho.</desc>
@@ -48982,7 +49011,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916053400 -0300" stop="20250916060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916053500 -0300" stop="20250916060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <sub-title lang="pt">Escada para o Paraíso</sub-title>
     <desc lang="pt"> - Os Primos transformam uma cozinha antiga de arenito em um oásis aberto, mesclando acessórios modernos e vintage.</desc>
@@ -48991,7 +49020,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916060000 -0300" stop="20250916062200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916060000 -0300" stop="20250916062600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <sub-title lang="pt">Duas Cozinhas</sub-title>
     <desc lang="pt"> - Os Primos evitam fazer o trabalho sujo quando projetam duas cozinhas diferentes.</desc>
@@ -49000,16 +49029,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916062200 -0300" stop="20250916071200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916062600 -0300" stop="20250916071700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Imóveis Que Cabem No Bolso</title>
-    <sub-title lang="pt">A Corrida pelo Design</sub-title>
-    <desc lang="pt"> - A busca por um novo lar se tornou uma maratona para essa família com um bebê prestes a dar os primeiros passos. Eles precisam encontrar um espaço novo e funcional o quanto antes, mas não abrem mão de um toque especial no d...</desc>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <sub-title lang="pt">Um Refúgio Japandi</sub-title>
+    <desc lang="pt"> - Uma família com dois filhos e a avó está vivendo em um espaço apertado e buscando um novo lar com mais espaço e personalidade.</desc>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916071200 -0300" stop="20250916080200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916071700 -0300" stop="20250916080800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Renovação Sem Demolição</title>
     <sub-title lang="pt">Recomeço</sub-title>
     <desc lang="pt"> - Um casal começou a reformar a casa e o marido faleceu. Agora Jenn vai ajudá-la a terminar a casa dos sonhos com um design tradicional, mas moderno para manter o espírito dele vivo e dar a ela um recomeço.</desc>
@@ -49018,7 +49047,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916080200 -0300" stop="20250916085100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916080800 -0300" stop="20250916085900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Reforma Em Família Com Karen e Mina</title>
     <sub-title lang="pt">O Pivô do Problema</sub-title>
     <desc lang="pt"> - Mina e a equipe estão de volta a Bates-Hendricks para reformar uma casa antiga com dois andares e uma suíte de renda separada.</desc>
@@ -49027,16 +49056,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916085100 -0300" stop="20250916094000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
-    <sub-title lang="pt">Cheryl Hines</sub-title>
-    <desc lang="pt"> - Famosos de Hollywood expressam sua gratidão a pessoas que impactaram suas vidas.</desc>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
+  <programme start="20250916085900 -0300" stop="20250916094800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Irmãos À Obra: Um Lar Para Amar</title>
+    <desc lang="pt"> - Um casal comprou uma casa que podia pagar no bairro dos seus sonhos, mas 10 anos depois, com dois filhos, o layout encaixotado não funciona. Jonathan e Drew têm um novo design elegante.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916094000 -0300" stop="20250916103000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916094800 -0300" stop="20250916103800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">90 Dias Na Cama: De Volta Pra Pista</title>
     <sub-title lang="pt">Na Cama: Não Estou Tão a Fim de Você</sub-title>
     <desc lang="pt"> - Seus favoritos do 90 Dias os convidam para entrar em suas casas: Jovi e Yara, Angela e Skyla, Tim e Veronica, Robert e Anny e até alguns ex estão assistindo, e eles vão com tudo!</desc>
@@ -49045,7 +49073,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916103000 -0300" stop="20250916112200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+  <programme start="20250916103800 -0300" stop="20250916113000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Os Pequenos Johnstons</title>
     <sub-title lang="pt">Mais um Pequeno Johnston?</sub-title>
     <desc lang="pt"> - Liz faz uma revelação que choca toda a família. Os irmãos reagem ao fato de Liz esconder um grande segredo. Trent e Amber assimilam a notícia da mudança na dinâmica da família Johnston.</desc>
@@ -49054,11 +49082,11 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916112200 -0300" stop="20250916130700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <sub-title lang="pt">Cillas e Tiffany</sub-title>
-    <desc lang="pt"> - Cillas deve enfrentar dificuldades desde a infância para progredir até o peso ideal e ser um exemplo para seus filhos. Tiffany luta para perder peso quando as dificuldades financeiras afetam seu relacionamento com o namorado</desc>
-    <episode-num system="xmltv_ns">5.5.</episode-num>
+  <programme start="20250916113000 -0300" stop="20250916130700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <sub-title lang="pt">Saia do Padre</sub-title>
+    <desc lang="pt"> - Casados há 11 anos, Elaine ajudou o Itamar a realizar seu grande sonho: abrir um bar. No entanto, hoje o estabelecimento está devendo cerca de R$ 30 mil.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -49187,10 +49215,10 @@
     </rating>
   </programme>
   <programme start="20250916023000 -0300" stop="20250916040000 -0300" channel="CURTA">
-    <title lang="pt">Uma Garota Chamada Marina</title>
-    <desc lang="pt"> - O documentário musical de longa-metragem retrata a trajetória da cantora carioca Marina Lima. O documentário é composto por imagens de arquivos audiovisuais, imagens inéditas do acervo privado da artista, registro.</desc>
+    <title lang="pt">O Menino D'Olho D'Água</title>
+    <desc lang="pt"> - Na música de Hermeto Pascoal, quando nos deparamos com uma sonoridade assombrosamente simples, que remete diretamente à sua infância, no sertão alagoano, na cidade de Olho d'Água Grande.</desc>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250916040000 -0300" stop="20250916053000 -0300" channel="CURTA">
@@ -49212,7 +49240,7 @@
   <programme start="20250916060000 -0300" stop="20250916063000 -0300" channel="CURTA">
     <title lang="pt">O Povo Brasileiro: Matriz Tupi</title>
     <desc lang="pt"> - "Brasil" é palavra que pertence à toponímia utópica dos tempos medievais, designando uma ilha de sonho, terra da felicidade imaginada.</desc>
-    <episode-num system="xmltv_ns">11.179.</episode-num>
+    <episode-num system="xmltv_ns">14.39.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -49227,7 +49255,7 @@
   <programme start="20250916080000 -0300" stop="20250916083000 -0300" channel="CURTA">
     <title lang="pt">Histórias da Gente Brasileira: Império - Tiro, Porrada e Bomba!</title>
     <desc lang="pt"> - As novas configurações populacionais geraram tensões crescentes que assolaram a era imperial, materializadas em dezenas de rebeliões sangrentas que contradizem o mito do brasileiro cordial.</desc>
-    <episode-num system="xmltv_ns">11.199.</episode-num>
+    <episode-num system="xmltv_ns">14.139.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -49235,7 +49263,7 @@
   <programme start="20250916083000 -0300" stop="20250916090000 -0300" channel="CURTA">
     <title lang="pt">Mistérios do Arquivo: 1960: Fidel Castro nas Nações Unidas</title>
     <desc lang="pt"> - Setembro de 1960 em Nova York Representantes de mais de 90 países participarão da 15ª Assembléia Geral das Nações Unidas. No entanto, alguns não são bem-vindos em solo americano. É o caso de Fidel Castro.</desc>
-    <episode-num system="xmltv_ns">11.202.</episode-num>
+    <episode-num system="xmltv_ns">14.142.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -49243,7 +49271,7 @@
   <programme start="20250916090000 -0300" stop="20250916100000 -0300" channel="CURTA">
     <title lang="pt">Libertárias: Mulheres Inspiradoras na História do Brasil: Clara …</title>
     <desc lang="pt"> - A história de Clara Camarão, indígena potiguara que se destacou no século 17 em batalhas ocorridas em Olinda e Recife durante o período das invasões holandesas.</desc>
-    <episode-num system="xmltv_ns">11.209.</episode-num>
+    <episode-num system="xmltv_ns">14.149.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -49258,7 +49286,7 @@
   <programme start="20250916110000 -0300" stop="20250916120000 -0300" channel="CURTA">
     <title lang="pt">Mussolini, O Primeiro Fascista</title>
     <desc lang="pt"> - O primeiro episódio deste retrato de Il Duce irá explorar como Mussolini assumiu o poder e o consolidou até a Segunda Guerra Ítalo-Etíope em meados da década de 1930.</desc>
-    <episode-num system="xmltv_ns">11.0.</episode-num>
+    <episode-num system="xmltv_ns">14.0.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -49313,10 +49341,10 @@
     </rating>
   </programme>
   <programme start="20250916163000 -0300" stop="20250916180000 -0300" channel="CURTA">
-    <title lang="pt">Uma Garota Chamada Marina</title>
-    <desc lang="pt"> - O documentário musical de longa-metragem retrata a trajetória da cantora carioca Marina Lima. O documentário é composto por imagens de arquivos audiovisuais, imagens inéditas do acervo privado da artista, registro.</desc>
+    <title lang="pt">O Menino D'Olho D'Água</title>
+    <desc lang="pt"> - Na música de Hermeto Pascoal, quando nos deparamos com uma sonoridade assombrosamente simples, que remete diretamente à sua infância, no sertão alagoano, na cidade de Olho d'Água Grande.</desc>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250916180000 -0300" stop="20250916183000 -0300" channel="CURTA">
@@ -50115,7 +50143,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915234900 -0300" stop="20250916003700 -0300" channel="HGTV HD">
+  <programme start="20250915234700 -0300" stop="20250916003600 -0300" channel="HGTV HD">
     <title lang="pt">Piscinas Incríveis</title>
     <sub-title lang="pt">Zen e a Arte das Piscinas</sub-title>
     <desc lang="pt"> - Lucas leva sua arte para Parrish, Flórida, onde um casal encomenda um espaço para relaxar. Construir um oásis de serenidade parece fácil, mas a equipe de Lucas está longe de ser zen.</desc>
@@ -50124,7 +50152,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916003700 -0300" stop="20250916010100 -0300" channel="HGTV HD">
+  <programme start="20250916003600 -0300" stop="20250916005900 -0300" channel="HGTV HD">
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <sub-title lang="pt">Um Lugar Para Relaxar</sub-title>
     <desc lang="pt"> - Um quintal vazio e desolado em Las Vegas se torna um luxuoso espaço para relaxar.</desc>
@@ -50133,7 +50161,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916010100 -0300" stop="20250916014900 -0300" channel="HGTV HD">
+  <programme start="20250916005900 -0300" stop="20250916012100 -0300" channel="HGTV HD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+    <sub-title lang="pt">Refúgio Rústico</sub-title>
+    <desc lang="pt"> - Matt Blashaw convence uma garota que trabalha no showbiz em Las Vegas a transformar seu quintal sem graça em um relaxante refúgio ao ar livre.</desc>
+    <episode-num system="xmltv_ns">9.5.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916012100 -0300" stop="20250916014500 -0300" channel="HGTV HD">
     <title lang="pt">Desafio da Renovação</title>
     <sub-title lang="pt">Pode Negociar com a Noiva!</sub-title>
     <desc lang="pt"> - Namorados estilosos, Princess e Mark Anthony enfrentam um casal de decoradores, Simone e Christian.</desc>
@@ -50142,7 +50179,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916014900 -0300" stop="20250916021200 -0300" channel="HGTV HD">
+  <programme start="20250916014500 -0300" stop="20250916020900 -0300" channel="HGTV HD">
     <title lang="pt">Desafio da Renovação</title>
     <sub-title lang="pt">Paz, Amor e Pechincha</sub-title>
     <desc lang="pt"> - As amigas Bridget e Eileen competem contra Fred e Denise, um casal "paz e amor".</desc>
@@ -50151,7 +50188,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916021200 -0300" stop="20250916023500 -0300" channel="HGTV HD">
+  <programme start="20250916020900 -0300" stop="20250916023300 -0300" channel="HGTV HD">
     <title lang="pt">Desafio da Renovação</title>
     <sub-title lang="pt">Competição Acirrada</sub-title>
     <desc lang="pt"> - Laura e Kim são duas amigas competitivas que colocam suas técnicas de negociação à prova contra dois colegas de faculdade, Drew e Justin.</desc>
@@ -50160,7 +50197,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916023500 -0300" stop="20250916025800 -0300" channel="HGTV HD">
+  <programme start="20250916023300 -0300" stop="20250916025700 -0300" channel="HGTV HD">
     <title lang="pt">Vida No Paraíso: Bahamas</title>
     <sub-title lang="pt">De Iowa a Eleuthera</sub-title>
     <desc lang="pt"> - Com seis filhos e uma rotina agitada, um casal de Iowa se apaixona pela ilha de Eleuthera, nas Bahamas. Eles estão determinados a encontrar a casa perfeita para aproveitar o paraíso em família.</desc>
@@ -50169,7 +50206,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916025800 -0300" stop="20250916032100 -0300" channel="HGTV HD">
+  <programme start="20250916025700 -0300" stop="20250916032100 -0300" channel="HGTV HD">
     <title lang="pt">Vida No Paraíso: Bahamas</title>
     <sub-title lang="pt">Longe do Frio de Montreal</sub-title>
     <desc lang="pt"> - Um casal se prepara para deixar para trás o ritmo frenético de Montreal e se estabelecer na paradisíaca ilha de Grande Bahama. Seu corretor de imóveis precisa encontrar uma casa que acomode seu estilo de vida náutico.</desc>
@@ -50196,7 +50233,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916040400 -0300" stop="20250916045100 -0300" channel="HGTV HD">
+  <programme start="20250916040400 -0300" stop="20250916042900 -0300" channel="HGTV HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <sub-title lang="pt">Seja Meu Marido, Não Meu Corretor</sub-title>
+    <desc lang="pt"> - Um casal quer aumentar a família e procura uma nova casa espaçosa perto de Washington, DC. Ele trabalha com imóveis e tem apresentado várias propriedades, mas não está encontrando as casas que ela procura.</desc>
+    <episode-num system="xmltv_ns">19.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916042900 -0300" stop="20250916045400 -0300" channel="HGTV HD">
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <sub-title lang="pt">Casa Nova</sub-title>
     <desc lang="pt"> - Um jovem casal tem ideias muito diferentes em sua busca por uma casa em Nova Rochelle, Nova York. Ela quer uma casa antiga e reformada com personalidade que possa gerar valorização, mas ele prefere gastar dinheiro adiantado.</desc>
@@ -50205,7 +50251,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916045100 -0300" stop="20250916051300 -0300" channel="HGTV HD">
+  <programme start="20250916045400 -0300" stop="20250916051500 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago</title>
     <sub-title lang="pt">Retorno às Origens em Owasco Lake</sub-title>
     <desc lang="pt"> - Uma família de San Diego decide se reconectar com suas raízes voltando a morar no estado de Nova York. Eles buscam uma casa à beira d'água por menos 300 mil dólares em Owasco Lake.</desc>
@@ -50214,7 +50260,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916051300 -0300" stop="20250916053500 -0300" channel="HGTV HD">
+  <programme start="20250916051500 -0300" stop="20250916053600 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago</title>
     <sub-title lang="pt">Pescando No Lago Watauga</sub-title>
     <desc lang="pt"> - Após visitar o lago Watauga durante anos, uma família de Rogersville, no Tennessee, quer comprar uma casa para curtir o local sempre que quiser. A família gosta de pescar e quer um retiro com acesso para barco.</desc>
@@ -50223,7 +50269,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916053500 -0300" stop="20250916060000 -0300" channel="HGTV HD">
+  <programme start="20250916053600 -0300" stop="20250916060000 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago</title>
     <sub-title lang="pt">Lagos Próximos</sub-title>
     <desc lang="pt"> - Uma família de Pittsburgh quer uma casa de férias em frente a algum lago que fique a, no máximo, duas horas de sua casa. Eles decidem procurar uma propriedade nos lagos Mohawk e Atwood, em Ohio.</desc>
@@ -50250,7 +50296,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916073600 -0300" stop="20250916080000 -0300" channel="HGTV HD">
+  <programme start="20250916073600 -0300" stop="20250916082400 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa de Praia</title>
     <sub-title lang="pt">Artistas Praianos</sub-title>
     <desc lang="pt"> - Um casal de artistas profissionais quer realizar o sonho de ter uma casa nas belas praias da baía de Barnegat, em Nova Jersey. Com poucas opções na costa, mas eles ficam ansiosos para encontrar a casa perfeita.</desc>
@@ -50259,7 +50305,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916080000 -0300" stop="20250916084700 -0300" channel="HGTV HD">
+  <programme start="20250916082400 -0300" stop="20250916084700 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago</title>
     <sub-title lang="pt">Refúgio Rústico na Flórida</sub-title>
     <desc lang="pt"> - Mike e Sara cresceram no meio oeste dos EUA, onde passavam os verões à beira de lagos. Agora, eles querem criar novas lembranças comprando um refúgio rústico em Frostproof, Flórida, por 375 mil dólares.</desc>
@@ -51971,130 +52017,156 @@
     <desc lang="pt"> - COPA PICKLEBALL - BRASIL x MUNDO - A seleção Brasileira enfrenta os melhores do mundo em um duelo de melhor de 5 partidas.</desc>
   </programme>
   <programme start="20250916014500 -0300" stop="20250916020000 -0300" channel="Nsports HD">
-    <title lang="pt">Drops CBT</title>
-    <desc lang="pt"> - O Drops CBT é um programa que traz informações e histórias sobre o mundo do tênis, do beach tennis e do tênis em cadeira de rodas do Brasil, assim como informações sobre os atletas do país e os principa...</desc>
-    <episode-num system="xmltv_ns">0.258.</episode-num>
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
   </programme>
-  <programme start="20250916020000 -0300" stop="20250916030000 -0300" channel="Nsports HD">
-    <title lang="pt">World Poker Tour</title>
-    <desc lang="pt"> - O World Poker Tour (WPT) reúne os maiores nomes do pôquer em torneios internacionais com finais emocionantes, destacando os melhores momentos e grandes jogadas.</desc>
-  </programme>
-  <programme start="20250916030000 -0300" stop="20250916040000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <episode-num system="xmltv_ns">72.258.</episode-num>
-  </programme>
-  <programme start="20250916040000 -0300" stop="20250916054500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Unity Cup - Jamaica x Trinidad e Tobago</title>
-    <desc lang="pt"> - Acompanhe na NSports a Unity Cup uma competição reúne seleções de futebol de países como Nigéria, Gana, Jamaica e Trinidad e Tobago. Diretamente de Londres no Gtech Community Stadium em Brentford.</desc>
-  </programme>
-  <programme start="20250916054500 -0300" stop="20250916064500 -0300" channel="Nsports HD">
-    <title lang="pt">Egames</title>
-    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
-  </programme>
-  <programme start="20250916064500 -0300" stop="20250916074500 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <episode-num system="xmltv_ns">75.258.</episode-num>
-  </programme>
-  <programme start="20250916074500 -0300" stop="20250916090000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - EHF - Champions League Handebol - 3° Lugar</title>
-    <desc lang="pt"> - Acompanhe com a NSports a Liga Europeia de Handebol, a segunda principal competição de clubes masculinos da Europa. Times de todo o continente disputam o título, em jogos emocionantes e de alto nível.</desc>
-  </programme>
-  <programme start="20250916090000 -0300" stop="20250916100000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Hopman Cup Feminino: Grécia x Canadá</title>
-    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
-  </programme>
-  <programme start="20250916100000 -0300" stop="20250916113000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Hopman Cup Masculino: Grécia x Canadá</title>
-    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
-  </programme>
-  <programme start="20250916113000 -0300" stop="20250916120000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Hopman Cup Duplas - Grécia x Canadá</title>
-    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
-  </programme>
-  <programme start="20250916120000 -0300" stop="20250916121500 -0300" channel="Nsports HD">
-    <title lang="pt">Giro Nsports</title>
-    <desc lang="pt"> - Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <episode-num system="xmltv_ns">71.258.</episode-num>
-  </programme>
-  <programme start="20250916121500 -0300" stop="20250916124500 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+  <programme start="20250916020000 -0300" stop="20250916023000 -0300" channel="Nsports HD">
+    <title lang="pt">Raíz do Futebol</title>
+    <desc lang="pt"> - O Brasil ainda é o país do futebol mesmo depois do 7 a 1? "Raíz do Futebol" vai tratar da paixão que o país ainda tem pelo jogo e como ela se manifesta, buscando os detalhes dessa relação singular em ci...</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916124500 -0300" stop="20250916131500 -0300" channel="Nsports HD">
+  <programme start="20250916023000 -0300" stop="20250916024500 -0300" channel="Nsports HD">
+    <title lang="pt">Fala Comigo</title>
+    <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
+    <episode-num system="xmltv_ns">0.258.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916024500 -0300" stop="20250916030000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250916030000 -0300" stop="20250916040000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Feminino: Grécia x Canadá</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916040000 -0300" stop="20250916053000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Masculino: Grécia x Canadá</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916053000 -0300" stop="20250916060000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Duplas - Grécia x Canadá</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916060000 -0300" stop="20250916063000 -0300" channel="Nsports HD">
     <title lang="pt">Quinestesia</title>
     <desc lang="pt"> - Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916131500 -0300" stop="20250916141500 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <episode-num system="xmltv_ns">72.258.</episode-num>
-  </programme>
-  <programme start="20250916141500 -0300" stop="20250916151500 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <episode-num system="xmltv_ns">73.258.</episode-num>
-  </programme>
-  <programme start="20250916151500 -0300" stop="20250916170000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Ajax (HOL) x Mônaco (FRA)</title>
-    <desc lang="pt"> - Acompanhe ao vivo no SportyNet mais um grande Amistoso Internacional. Emoção, técnica e os craques em campo!</desc>
-  </programme>
-  <programme start="20250916170000 -0300" stop="20250916180000 -0300" channel="Nsports HD">
-    <title lang="pt">Especial: El Clásico Golf Cup</title>
-    <desc lang="pt"> - Lendas de Real Madrid e Barcelona voltam a campo para mais um El Clásico, só que dessa vez a disputa é no golfe.</desc>
-  </programme>
-  <programme start="20250916180000 -0300" stop="20250916191500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Marrocos</title>
-    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
-  </programme>
-  <programme start="20250916191500 -0300" stop="20250916193000 -0300" channel="Nsports HD">
+  <programme start="20250916063000 -0300" stop="20250916064500 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">18.258.</episode-num>
+    <episode-num system="xmltv_ns">5.258.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916193000 -0300" stop="20250916200000 -0300" channel="Nsports HD">
+  <programme start="20250916064500 -0300" stop="20250916071500 -0300" channel="Nsports HD">
+    <title lang="pt">Fala Comigo</title>
+    <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
+    <episode-num system="xmltv_ns">0.258.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916071500 -0300" stop="20250916081500 -0300" channel="Nsports HD">
+    <title lang="pt">Ewc</title>
+    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
+  </programme>
+  <programme start="20250916081500 -0300" stop="20250916093000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Supercopa de Handebol Masculino - Pinheiros x Criciúma</title>
+    <desc lang="pt"> - A Supercopa do Brasil de Handebol está chegando com tudo! Acompanhe na NSports momentos de pura adrenalina, disputas acirradas e uma verdadeira comemoração do Handebol.</desc>
+  </programme>
+  <programme start="20250916093000 -0300" stop="20250916100000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916200000 -0300" stop="20250916210000 -0300" channel="Nsports HD">
-    <title lang="pt">Egames</title>
+  <programme start="20250916100000 -0300" stop="20250916114500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Masculino: Itália x Canadá</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916114500 -0300" stop="20250916120000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">10.258.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916120000 -0300" stop="20250916121500 -0300" channel="Nsports HD">
+    <title lang="pt">Giro Nsports</title>
+    <desc lang="pt"> - Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
+    <episode-num system="xmltv_ns">71.258.</episode-num>
+  </programme>
+  <programme start="20250916121500 -0300" stop="20250916123000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250916123000 -0300" stop="20250916134500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Marrocos</title>
+    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
+  </programme>
+  <programme start="20250916134500 -0300" stop="20250916141500 -0300" channel="Nsports HD">
+    <title lang="pt">Fala Comigo</title>
+    <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
+    <episode-num system="xmltv_ns">0.258.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250916141500 -0300" stop="20250916161500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Feminino: Itália x França</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916161500 -0300" stop="20250916171500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Masculino: Itália x França</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país.</desc>
+  </programme>
+  <programme start="20250916171500 -0300" stop="20250916174500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Hopman Cup Duplas - Itália x França</title>
+    <desc lang="pt"> - Acompanhe na NSports a Hopman Cup um torneio internacional de tênis por equipes mistas (um homem e uma mulher) que representa cada país</desc>
+  </programme>
+  <programme start="20250916174500 -0300" stop="20250916180000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250916180000 -0300" stop="20250916190000 -0300" channel="Nsports HD">
+    <title lang="pt">Ewc</title>
     <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
+  </programme>
+  <programme start="20250916190000 -0300" stop="20250916204500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Juventus x Milan</title>
+    <desc lang="pt"> - Os melhores times da Itália se enfrentam em mata mata para ver o grande campeão.</desc>
+  </programme>
+  <programme start="20250916204500 -0300" stop="20250916210000 -0300" channel="Nsports HD">
+    <title lang="pt">Raíz do Futebol</title>
+    <desc lang="pt"> - O Brasil ainda é o país do futebol mesmo depois do 7 a 1? "Raíz do Futebol" vai tratar da paixão que o país ainda tem pelo jogo e como ela se manifesta, buscando os detalhes dessa relação singular em ci...</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20250916210000 -0300" stop="20250916211500 -0300" channel="Nsports HD">
     <title lang="pt">Giro Nsports</title>
     <desc lang="pt"> - Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
     <episode-num system="xmltv_ns">70.258.</episode-num>
   </programme>
-  <programme start="20250916211500 -0300" stop="20250916223000 -0300" channel="Nsports HD">
+  <programme start="20250916211500 -0300" stop="20250916230000 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
     <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
     <episode-num system="xmltv_ns">70.258.</episode-num>
   </programme>
-  <programme start="20250916223000 -0300" stop="20250916224500 -0300" channel="Nsports HD">
-    <title lang="pt">Drops CBT</title>
-    <desc lang="pt"> - O Drops CBT é um programa que traz informações e histórias sobre o mundo do tênis, do beach tennis e do tênis em cadeira de rodas do Brasil, assim como informações sobre os atletas do país e os principa...</desc>
-    <episode-num system="xmltv_ns">0.258.</episode-num>
-  </programme>
-  <programme start="20250916224500 -0300" stop="20250916234500 -0300" channel="Nsports HD">
-    <title lang="pt">Egames</title>
-    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
-  </programme>
-  <programme start="20250916234500 -0300" stop="20250917000000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  <programme start="20250916230000 -0300" stop="20250917000000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <episode-num system="xmltv_ns">72.258.</episode-num>
   </programme>
   <programme start="20250915223000 -0300" stop="20250916003000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Bayern de Munique x Hamburgo</title>
@@ -53349,7 +53421,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250915234700 -0300" stop="20250916003500 -0300" channel="DISCOVERY HD">
+  <programme start="20250915234800 -0300" stop="20250916003500 -0300" channel="DISCOVERY HD">
     <title lang="pt">Febre do Ouro: Família Hoffman</title>
     <sub-title lang="pt">Fronteira Promissora</sub-title>
     <desc lang="pt"> - Hunter encara a tundra ártica quando a dica de um geólogo leva a um uma área rica em ouro na fronteira da mina dos Hoffmans. No acampamento, Andy se esforça para processar ouro em um antigo canal fluvial.</desc>
@@ -53358,7 +53430,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250916003500 -0300" stop="20250916010600 -0300" channel="DISCOVERY HD">
+  <programme start="20250916003500 -0300" stop="20250916012200 -0300" channel="DISCOVERY HD">
     <title lang="pt">Presos Em Um Tornado</title>
     <desc lang="pt"> - Centenas de câmeras registram uma série de tornados que atingiram Rolling Fork, Mississippi e Little Rock, Arkansas, em 2023. Em Lewistown, Illinois, observadores de tornados ficam presos no centro de uma tempestade mortal.</desc>
     <episode-num system="xmltv_ns">.0.</episode-num>
@@ -53366,7 +53438,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916010600 -0300" stop="20250916022300 -0300" channel="DISCOVERY HD">
+  <programme start="20250916012200 -0300" stop="20250916020300 -0300" channel="DISCOVERY HD">
     <title lang="pt">Inferno no Havaí</title>
     <desc lang="pt"> - Maui enfrenta seu pior desastre natural em 2023, onde ventos violentos provocam incêndios florestais arrasadores. Enquanto fogem das chamas, testemunhas filmam suas tentativas angustiantes de escapar do desastre.</desc>
     <episode-num system="xmltv_ns">.1.</episode-num>
@@ -53374,15 +53446,15 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916022300 -0300" stop="20250916030700 -0300" channel="DISCOVERY HD">
+  <programme start="20250916020300 -0300" stop="20250916024600 -0300" channel="DISCOVERY HD">
     <title lang="pt">Curiosidade: América do Norte</title>
     <desc lang="pt"> - Os cientistas sabem menos a respeito da formação do nosso continente do que sobre galáxias distantes. Mas um projeto ambicioso, chamado Earthscope, está mudando isso.</desc>
-    <episode-num system="xmltv_ns">15.21.</episode-num>
+    <episode-num system="xmltv_ns">15.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916030700 -0300" stop="20250916035400 -0300" channel="DISCOVERY HD">
+  <programme start="20250916024600 -0300" stop="20250916033000 -0300" channel="DISCOVERY HD">
     <title lang="pt">Instintos da Vida Selvagem</title>
     <sub-title lang="pt">Oceanos</sub-title>
     <desc lang="pt"> - A criação de filhos no oceano exige dedicação e inteligência. Da navegação nos recifes à educação dos filhotes para caçar gigantes, esses pais possuem as estratégias mais extraordin...</desc>
@@ -53391,7 +53463,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250916035400 -0300" stop="20250916044300 -0300" channel="DISCOVERY HD">
+  <programme start="20250916033000 -0300" stop="20250916042000 -0300" channel="DISCOVERY HD">
     <title lang="pt">Blue Planet II</title>
     <sub-title lang="pt">Nosso Planeta Azul</sub-title>
     <desc lang="pt"> - O oceano está se transformando rapidamente. Será tarde demais para salvá-lo? Neste episódio, cientistas de todo o mundo compartilham suas descobertas mais recentes e revelam o que o futuro reserva.</desc>
@@ -53400,7 +53472,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916044300 -0300" stop="20250916053600 -0300" channel="DISCOVERY HD">
+  <programme start="20250916042000 -0300" stop="20250916051200 -0300" channel="DISCOVERY HD">
     <title lang="pt">Vivendo com Predadores</title>
     <desc lang="pt"> - Três quartos dos carnívoros estão em declínio. O último episódio da série acompanha o trabalho dos cientistas que lutam para salvar os grandes predadores da Terra, como leões, tigres, ursos-polares e baleias.</desc>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -53408,11 +53480,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916053600 -0300" stop="20250916060000 -0300" channel="DISCOVERY HD">
+  <programme start="20250916051200 -0300" stop="20250916060000 -0300" channel="DISCOVERY HD">
     <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
-    <sub-title lang="pt">A Sombra da Onça</sub-title>
-    <desc lang="pt"> - Coyote Peterson comprova que filmar as ariscas onças é uma missão quase impossível, mas equipamentos modernos, como armadilhas fotográficas, permitem que os amantes da natureza as observem em seu habitat natural.</desc>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <sub-title lang="pt">Piscinas Naturais Mortiferas</sub-title>
+    <desc lang="pt"> - O especialista em animais Coyote Peterson explora as piscinas naturais ao longo da Sunshine Coast, na Austrália, para encontrar e se aproximar de suas criaturas marinhas venenosas.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -70992,7 +71064,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250915234400 -0300" stop="20250916003300 -0300" channel="ID HD">
+  <programme start="20250915235100 -0300" stop="20250916004000 -0300" channel="ID HD">
     <title lang="pt">Assassinato de Uma Sexta à Noite</title>
     <sub-title lang="pt">Nada a Torcer</sub-title>
     <desc lang="pt"> - Josh Missiledine, líder de torcida, desaparece antes do campeonato estadual. A polícia desvenda segredos de um passado perturbador.</desc>
@@ -71001,7 +71073,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916003300 -0300" stop="20250916012100 -0300" channel="ID HD">
+  <programme start="20250916004000 -0300" stop="20250916012800 -0300" channel="ID HD">
     <title lang="pt">Câmera Crime</title>
     <sub-title lang="pt">Ilha de Wight</sub-title>
     <desc lang="pt"> - A polícia encontra um jovem morto a tiros em um estacionamento de trailers, a quilômetros de sua casa. Enquanto tentam resolver o mistério, várias testemunhas se apresentam para denunciar suspeitos distintos.</desc>
@@ -71010,7 +71082,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250916012100 -0300" stop="20250916020900 -0300" channel="ID HD">
+  <programme start="20250916012800 -0300" stop="20250916021400 -0300" channel="ID HD">
     <title lang="pt">A Queda de P.Diddy</title>
     <sub-title lang="pt">A Formação de um Magnata</sub-title>
     <desc lang="pt"> - Em 2023, Sean Combs é acusado de tráfico sexual e abuso, abalando a imagem do magnata da música construída em meio a problemas do passado.</desc>
@@ -71019,7 +71091,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916020900 -0300" stop="20250916025700 -0300" channel="ID HD">
+  <programme start="20250916021400 -0300" stop="20250916025800 -0300" channel="ID HD">
     <title lang="pt">A Queda de P.Diddy</title>
     <sub-title lang="pt">Império Sob Fogo</sub-title>
     <desc lang="pt"> - Diddy constrói um império intocável. Em 2001, ele enfrenta seu maior teste, quando é julgado por um crime grave após acusações de agressão.</desc>
@@ -71028,7 +71100,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916025700 -0300" stop="20250916034100 -0300" channel="ID HD">
+  <programme start="20250916025800 -0300" stop="20250916034400 -0300" channel="ID HD">
     <title lang="pt">A Queda de P.Diddy</title>
     <sub-title lang="pt">Intocável</sub-title>
     <desc lang="pt"> - Sean Combs, agora bilionário, enfrenta novas acusações de abuso de poder, agressões e estupros brutais, abalando seu legado.</desc>
@@ -71037,7 +71109,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916034100 -0300" stop="20250916042900 -0300" channel="ID HD">
+  <programme start="20250916034400 -0300" stop="20250916042900 -0300" channel="ID HD">
     <title lang="pt">A Queda d</title>
     <sub-title lang="pt">A Queda</sub-title>
     <desc lang="pt"> - Combs e Cassie formam um casal poderoso, mas acusações de agressões abafadas por anos e novas denúncias em 2021 colocam seu legado em xeque.</desc>
@@ -71046,7 +71118,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916042900 -0300" stop="20250916051300 -0300" channel="ID HD">
+  <programme start="20250916042900 -0300" stop="20250916051400 -0300" channel="ID HD">
     <title lang="pt">A Queda de P.Diddy</title>
     <sub-title lang="pt">O Assistente</sub-title>
     <desc lang="pt"> - Conheça os bastidores do escândalo envolvendo o magnata da música Sean Combs, incluindo as acusações</desc>
@@ -71055,7 +71127,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250916051300 -0300" stop="20250916053800 -0300" channel="ID HD">
+  <programme start="20250916051400 -0300" stop="20250916053800 -0300" channel="ID HD">
     <title lang="pt">Sinais de um Psicopata</title>
     <sub-title lang="pt">Queriam Matar Alguém</sub-title>
     <desc lang="pt"> - A polícia encontra o corpo de uma mulher desaparecida com marcas de espancamento. O caso perde fôlego, até um adolescente confessar o assassinato com detalhes que revelam um psicopata manipulador.</desc>
@@ -84000,9 +84072,12 @@
     </rating>
   </programme>
   <programme start="20250916231500 -0300" stop="20250917001500 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Repórter</title>
-    <desc lang="pt"> - O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
-    <episode-num system="xmltv_ns">72.258.</episode-num>
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <episode-num system="xmltv_ns">22.258.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20250917001500 -0300" stop="20250917011500 -0300" channel="SBT São Paulo">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -85640,46 +85715,33 @@
     </rating>
   </programme>
   <programme start="20250917000000 -0300" stop="20250917040000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
   </programme>
   <programme start="20250917040000 -0300" stop="20250917080000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
   </programme>
   <programme start="20250917080000 -0300" stop="20250917120000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
   </programme>
   <programme start="20250917120000 -0300" stop="20250917160000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
   </programme>
   <programme start="20250917160000 -0300" stop="20250917200000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
   </programme>
-  <programme start="20250917200000 -0300" stop="20250918000000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20250917200000 -0300" stop="20250917213000 -0300" channel="GE TV HD">
+    <title lang="pt">Hoje a partir das 21:30 - River Plate (ARG) x Palmeiras</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
+  </programme>
+  <programme start="20250917213000 -0300" stop="20250918003000 -0300" channel="GE TV HD">
+    <title lang="pt">River Plate (ARG) x Palmeiras - Ao Vivo</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250916233000 -0300" stop="20250917021500 -0300" channel="SPORTV 3">
     <title lang="pt">Faixa Combate: Mac 14</title>
@@ -90816,10 +90878,10 @@
     </rating>
   </programme>
   <programme start="20250917103000 -0300" stop="20250917120000 -0300" channel="CURTA">
-    <title lang="pt">Uma Garota Chamada Marina</title>
-    <desc lang="pt"> - O documentário musical de longa-metragem retrata a trajetória da cantora carioca Marina Lima. O documentário é composto por imagens de arquivos audiovisuais, imagens inéditas do acervo privado da artista, registro.</desc>
+    <title lang="pt">O Menino D'Olho D'Água</title>
+    <desc lang="pt"> - Na música de Hermeto Pascoal, quando nos deparamos com uma sonoridade assombrosamente simples, que remete diretamente à sua infância, no sertão alagoano, na cidade de Olho d'Água Grande.</desc>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250917120000 -0300" stop="20250917123000 -0300" channel="CURTA">
@@ -127444,7 +127506,12 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250918000000 -0300" stop="20250918040000 -0300" channel="GE TV HD">
+  <programme start="20250917213000 -0300" stop="20250918003000 -0300" channel="GE TV HD">
+    <title lang="pt">River Plate (ARG) x Palmeiras - Ao Vivo</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250918003000 -0300" stop="20250918040000 -0300" channel="GE TV HD">
     <title lang="pt">Programação GE TV</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <rating system="Brazil">
