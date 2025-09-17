@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-16 11:32:21" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-16 23:32:28" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -47,9 +47,6 @@
   </channel>
   <channel id="GNT HD">
     <display-name lang="pt">GNT HD</display-name>
-  </channel>
-  <channel id="Claro TV + 4K - The Town 2025">
-    <display-name lang="pt">Claro TV + 4K - The Town 2025</display-name>
   </channel>
   <channel id="MULTISHOW HD">
     <display-name lang="pt">MULTISHOW HD</display-name>
@@ -505,7 +502,7 @@
   <programme start="20250916024500 -0300" stop="20250916032500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">14.30.</episode-num>
+    <episode-num system="xmltv_ns">15.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -626,7 +623,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916222500 -0300" stop="20250916232500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250916222500 -0300" stop="20250916230000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
     <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
     <episode-num system="xmltv_ns">1.22.</episode-num>
@@ -634,9 +631,14 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250916232500 -0300" stop="20250917000500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250916230000 -0300" stop="20250916234000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Profissão Repórter</title>
     <desc lang="pt"> - Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.</desc>
+    <episode-num system="xmltv_ns">72.258.</episode-num>
+  </programme>
+  <programme start="20250916234000 -0300" stop="20250917003000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt"> - As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
     <episode-num system="xmltv_ns">72.258.</episode-num>
   </programme>
   <programme start="20250916000000 -0300" stop="20250916005500 -0300" channel="BAND HD">
@@ -2583,66 +2585,71 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916013457 -0300" stop="20250916061936 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20250916013457 -0300" stop="20250916052229 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250916052229 -0300" stop="20250916063133 -0300" channel="SPORTV 3">
+    <title lang="pt">1/1 Olheiros Olímpicos</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916061936 -0300" stop="20250916063317 -0300" channel="SPORTV 3">
-    <title lang="pt">Abre Aspas: Vanderlei Cordeiro Relembra História De Superação</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250916063133 -0300" stop="20250916063905 -0300" channel="SPORTV 3">
+    <title lang="pt">Ee - Surfistas De Onda Gigante</title>
+    <sub-title lang="pt">realizado em 31/07/2022</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="en">sports (general)</category>
+    <date>31/07/2022</date>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916063317 -0300" stop="20250916070500 -0300" channel="SPORTV 3">
+  <programme start="20250916063905 -0300" stop="20250916065535 -0300" channel="SPORTV 3">
     <title lang="pt">Baú do Esporte: Lendas - Nadia Comaneci</title>
     <desc lang="pt">Neste episódio de Lendas, vamos relembrar a trajetória de Nadia Comaneci, a pequena romena que aos quinze anos ganhou a primeira nota 10 na ginástica em uma Olimpíada.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">75.14.</episode-num>
   </programme>
-  <programme start="20250916070500 -0300" stop="20250916073000 -0300" channel="SPORTV 3">
+  <programme start="20250916065535 -0300" stop="20250916152617 -0300" channel="SPORTV 3">
     <title lang="pt">Lendas - Usain Bolt</title>
     <desc lang="pt"> - Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250916073000 -0300" stop="20250916143000 -0300" channel="SPORTV 3">
-    <title lang="pt">Mundial De Atletismo: Sessão Da Tarde - Tóqio,Japão - Ao Vivo</title>
-    <desc lang="pt"> - Atletismo é no SporTV! Acompanhe mais um grande evento. SporTV: Somos Todos Campeões!</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250916143000 -0300" stop="20250916154000 -0300" channel="SPORTV 3">
+  <programme start="20250916152617 -0300" stop="20250916163358 -0300" channel="SPORTV 3">
     <title lang="pt">SLS - Select Series: Final Feminina - Saquarema-Rj</title>
     <desc lang="pt"> - As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250916154000 -0300" stop="20250916170000 -0300" channel="SPORTV 3">
+  <programme start="20250916163358 -0300" stop="20250916175008 -0300" channel="SPORTV 3">
     <title lang="pt">SLS - Select Series: Final Masculina - Saquarema-Rj</title>
     <desc lang="pt"> - As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250916170000 -0300" stop="20250916173000 -0300" channel="SPORTV 3">
+  <programme start="20250916175008 -0300" stop="20250916182048 -0300" channel="SPORTV 3">
     <title lang="pt">Cine Marcial - Força Destruidora</title>
     <desc lang="pt"> - Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20250916173000 -0300" stop="20250916180000 -0300" channel="SPORTV 3">
+  <programme start="20250916182048 -0300" stop="20250916185156 -0300" channel="SPORTV 3">
     <title lang="pt">Cine Marcial - Nico Acima Da Lei</title>
     <desc lang="pt"> - Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20250916180000 -0300" stop="20250916193000 -0300" channel="SPORTV 3">
-    <title lang="pt">Sail GP: 9ª Etapa - Dia 1 - Saint-Tropez,França</title>
-    <desc lang="pt"> - A maior competição de Sail Gp está rolando, acompanheno sportv!</desc>
-    <category lang="en">sports (general)</category>
+  <programme start="20250916185156 -0300" stop="20250916185531 -0300" channel="SPORTV 3">
+    <title lang="pt">Sail GP - 9ª Etapa - Dia 1 - Saint-Tropez,França - Ao Vivo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20250916193000 -0300" stop="20250916200000 -0300" channel="SPORTV 3">
+  <programme start="20250916185531 -0300" stop="20250916200000 -0300" channel="SPORTV 3">
     <title lang="pt">Cine Marcial - Operação Dragão</title>
     <desc lang="pt"> - Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
     <category lang="en">sports (general)</category>
@@ -2890,52 +2897,52 @@
     <episode-num system="xmltv_ns">72.258.</episode-num>
   </programme>
   <programme start="20250916000000 -0300" stop="20250916020000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916020000 -0300" stop="20250916040000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916040000 -0300" stop="20250916060000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916060000 -0300" stop="20250916080000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916080000 -0300" stop="20250916100000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916100000 -0300" stop="20250916120000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916120000 -0300" stop="20250916140000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916140000 -0300" stop="20250916160000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916160000 -0300" stop="20250916180000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916180000 -0300" stop="20250916200000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916200000 -0300" stop="20250916220000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250916220000 -0300" stop="20250917000000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250915232900 -0300" stop="20250916010000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
@@ -3295,90 +3302,6 @@
     <episode-num system="xmltv_ns">22.577.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250916000000 -0300" stop="20250916020000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916020000 -0300" stop="20250916040000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916040000 -0300" stop="20250916060000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916060000 -0300" stop="20250916080000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916080000 -0300" stop="20250916100000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916100000 -0300" stop="20250916120000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916120000 -0300" stop="20250916140000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916140000 -0300" stop="20250916160000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916160000 -0300" stop="20250916180000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916180000 -0300" stop="20250916200000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916200000 -0300" stop="20250916220000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916220000 -0300" stop="20250917000000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250915232400 -0300" stop="20250916002400 -0300" channel="MULTISHOW HD">
@@ -35608,15 +35531,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916165000 -0300" stop="20250916191000 -0300" channel="CANAL DO BOI">
+  <programme start="20250916165000 -0300" stop="20250916185700 -0300" channel="CANAL DO BOI">
     <title lang="pt">Mais Pecuária</title>
     <desc lang="pt"> - Reportagens especiais sobre agronegócio, análises gráficas, entrevistas com especialistas do setor, agenda de leilões, notícias do mercado financeiro, físico e futuro.</desc>
     <episode-num system="xmltv_ns">75.258.</episode-num>
   </programme>
-  <programme start="20250916191000 -0300" stop="20250916191500 -0300" channel="CANAL DO BOI">
+  <programme start="20250916185700 -0300" stop="20250916191500 -0300" channel="CANAL DO BOI">
     <title lang="pt">ABCZ TV</title>
     <desc lang="pt"> - Acompanhe nossos conteúdos e fique por dentro de todas as novidades da pecuária zebuína e da ABCZ!</desc>
-    <episode-num system="xmltv_ns">78.258.</episode-num>
+    <episode-num system="xmltv_ns">77.258.</episode-num>
   </programme>
   <programme start="20250916191500 -0300" stop="20250916193000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Terra Pecuária</title>
@@ -35634,7 +35557,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916200000 -0300" stop="20250916210000 -0300" channel="CANAL DO BOI">
+  <programme start="20250916200000 -0300" stop="20250916220000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Genética BR</title>
     <desc lang="pt"> - Venda de material genético de touros Nelore avaliados, integrantes do programa de gado de corte da Pecuária Br.</desc>
     <episode-num system="xmltv_ns">19.258.</episode-num>
@@ -35642,25 +35565,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916210000 -0300" stop="20250916220000 -0300" channel="CANAL DO BOI">
+  <programme start="20250916220000 -0300" stop="20250916223000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Leilões Em Destaque</title>
     <desc lang="pt"> - Fique ligado nas transmissões do SBA e prepare-se para bons negócios!</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916220000 -0300" stop="20250916230000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Genética BR</title>
-    <desc lang="pt"> - Venda de material genético de touros Nelore avaliados, integrantes do programa de gado de corte da Pecuária Br.</desc>
-    <episode-num system="xmltv_ns">21.258.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250916230000 -0300" stop="20250917053000 -0300" channel="CANAL DO BOI">
+  <programme start="20250916223000 -0300" stop="20250917000000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Cine Canal</title>
     <desc lang="pt"> - Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.</desc>
-    <episode-num system="xmltv_ns">22.258.</episode-num>
+    <episode-num system="xmltv_ns">21.258.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -40626,63 +40541,63 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916000000 -0300" stop="20250916020000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916020000 -0300" stop="20250916040000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916040000 -0300" stop="20250916060000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916060000 -0300" stop="20250916080000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916080000 -0300" stop="20250916100000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916100000 -0300" stop="20250916120000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916120000 -0300" stop="20250916140000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916140000 -0300" stop="20250916160000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916160000 -0300" stop="20250916180000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916180000 -0300" stop="20250916200000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916200000 -0300" stop="20250916220000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916220000 -0300" stop="20250917000000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250916000000 -0300" stop="20250916020000 -0300" channel="PREMIERE 3 HD">
@@ -42011,24 +41926,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916232500 -0300" stop="20250917000500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Profissão Repórter</title>
-    <desc lang="pt"> - Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.</desc>
-    <episode-num system="xmltv_ns">72.258.</episode-num>
-  </programme>
-  <programme start="20250917000500 -0300" stop="20250917005500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250916234000 -0300" stop="20250917003000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt"> - As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <episode-num system="xmltv_ns">69.259.</episode-num>
+    <episode-num system="xmltv_ns">72.258.</episode-num>
   </programme>
-  <programme start="20250917005500 -0300" stop="20250917013500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250917003000 -0300" stop="20250917011000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Conversa com Bial</title>
     <desc lang="pt"> - Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250917013500 -0300" stop="20250917022000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250917011000 -0300" stop="20250917015500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
     <desc lang="pt"> - Marlon tenta convencer Kami a esquecer Bárbara. Ryan e Bárbara se beijam. Bárbara provoca Leo. Peter conversa com Nina sobre Danilo. Nina se insinua para Danilo.</desc>
     <episode-num system="xmltv_ns">70.259.</episode-num>
@@ -42036,18 +41946,26 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250917022000 -0300" stop="20250917031500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250917015500 -0300" stop="20250917023500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">14.30.</episode-num>
+    <episode-num system="xmltv_ns">15.23.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250917023500 -0300" stop="20250917031500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Comédia na Madruga - Vai Que Cola II</title>
+    <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <episode-num system="xmltv_ns">15.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250917031500 -0300" stop="20250917040000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Comédia na Madruga - Vai Que Cola II</title>
+    <title lang="pt">Comédia na Madruga - Vai Que Cola III</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">15.31.</episode-num>
+    <episode-num system="xmltv_ns">16.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -42113,7 +42031,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250917170500 -0300" stop="20250917180500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250917170500 -0300" stop="20250917171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt"> - Boletim com as principais notícias de São Paulo.</desc>
+    <episode-num system="xmltv_ns">76.259.</episode-num>
+  </programme>
+  <programme start="20250917171500 -0300" stop="20250917180500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
     <desc lang="pt"> - Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
     <episode-num system="xmltv_ns">76.259.</episode-num>
@@ -42123,7 +42046,7 @@
   </programme>
   <programme start="20250917180500 -0300" stop="20250917184500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor</title>
-    <desc lang="pt"> - Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
+    <desc lang="pt"> - Sabiá acompanha Candinho, Zulma e Aladin na busca por Samir e Jasmin. Samir teme as atitudes de Marilda e Aderbal, e clama por Candinho. Estela visita Ernesto na delegacia.</desc>
     <episode-num system="xmltv_ns">77.259.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -42136,7 +42059,7 @@
   </programme>
   <programme start="20250917191500 -0300" stop="20250917200000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt"> - Leona tem sua vida transformada pela relação com Sofia, uma menina de sete anos de quem passa a ser babá. Sofia é uma criança que perdeu a mãe ainda bebê e cresceu se sentindo sozinha na casa da família de s...</desc>
+    <desc lang="pt"> - Letícia afirma a Rosa que a doença está avançando. Samuel diz a Breno que Jaques suspendeu a produção das revistas da Boaz, e ambos se preocupam com Ayla. Jaques faz uma revelação a Davi.</desc>
     <episode-num system="xmltv_ns">78.259.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -42149,15 +42072,16 @@
   </programme>
   <programme start="20250917203000 -0300" stop="20250917211500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale Tudo</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <desc lang="pt"> - Leila e Marco Aurélio conversam sobre a desconfiança de Freitas e Mário Sérgio. César grava a conversa de Odete com pessoas suspeitas. Aldeíde tenta incentivar André a ir à formatura da irmã.</desc>
     <episode-num system="xmltv_ns">69.259.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250917211500 -0300" stop="20250917233000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Futebol 2025</title>
-    <desc lang="pt"> - Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+    <title lang="pt">River Plate (ARG) x Palmeiras - Ao Vivo</title>
+    <desc lang="pt"> - River Plate (ARG) e Palmeiras jogam a rodada de ida da Quartas De Final da CONMEBOL Libertadores, no Monumental de Núñez.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250917233000 -0300" stop="20250917234500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Segue o Jogo</title>
@@ -42166,8 +42090,8 @@
   </programme>
   <programme start="20250917234500 -0300" stop="20250918000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt"> - No novo reality show, artistas dividem o mesmo teto em uma casa totalmente vigiada. Enquanto convivem cercados de câmeras e com transmissão 24 horas.</desc>
-    <episode-num system="xmltv_ns">22.259.</episode-num>
+    <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -44148,10 +44072,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250917153000 -0300" stop="20250917180000 -0300" channel="SPORTV 3">
+  <programme start="20250917153000 -0300" stop="20250917170000 -0300" channel="SPORTV 3">
     <title lang="pt">Sail GP: 9ª Etapa - Dia 1 - Saint-Tropez,França</title>
     <desc lang="pt"> - A maior competição de Sail Gp está rolando, acompanheno sportv!</desc>
     <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250917170000 -0300" stop="20250917180000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Copa do Mundo de Escalada</title>
+    <desc lang="pt"> - Fique ligado na Copa do Mundo de Escalada aqui no sportv!</desc>
+    <category lang="en">sports (general)</category>
+    <previously-shown />
   </programme>
   <programme start="20250917180000 -0300" stop="20250917220000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
@@ -44334,52 +44264,52 @@
     <episode-num system="xmltv_ns">72.259.</episode-num>
   </programme>
   <programme start="20250917000000 -0300" stop="20250917020000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917020000 -0300" stop="20250917040000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917040000 -0300" stop="20250917060000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917060000 -0300" stop="20250917080000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917080000 -0300" stop="20250917100000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917100000 -0300" stop="20250917120000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917120000 -0300" stop="20250917140000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917140000 -0300" stop="20250917160000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917160000 -0300" stop="20250917180000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917180000 -0300" stop="20250917200000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917200000 -0300" stop="20250917220000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917220000 -0300" stop="20250918000000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Em Breve Transmissão sportv 4K</title>
-    <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
+    <title lang="pt">Dia 20/09 - Palmeiras x Fortaleza</title>
+    <desc lang="pt"> - Palmeiras e Fortaleza jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
   <programme start="20250917000000 -0300" stop="20250917010000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
@@ -44758,90 +44688,6 @@
     <episode-num system="xmltv_ns">22.578.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250917000000 -0300" stop="20250917020000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917020000 -0300" stop="20250917040000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917040000 -0300" stop="20250917060000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917060000 -0300" stop="20250917080000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917080000 -0300" stop="20250917100000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917100000 -0300" stop="20250917120000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917120000 -0300" stop="20250917140000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917140000 -0300" stop="20250917160000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917160000 -0300" stop="20250917180000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917180000 -0300" stop="20250917200000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917200000 -0300" stop="20250917220000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250917220000 -0300" stop="20250918000000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250916232500 -0300" stop="20250917001400 -0300" channel="MULTISHOW HD">
@@ -76920,10 +76766,9 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250916230000 -0300" stop="20250917053000 -0300" channel="CANAL DO BOI">
+  <programme start="20250917000000 -0300" stop="20250917053000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Cine Canal</title>
     <desc lang="pt"> - Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.</desc>
-    <episode-num system="xmltv_ns">22.258.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -77151,7 +76996,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250917220000 -0300" stop="20250917230000 -0300" channel="CANAL DO BOI">
+  <programme start="20250917220000 -0300" stop="20250917223400 -0300" channel="CANAL DO BOI">
     <title lang="pt">Genética BR</title>
     <desc lang="pt"> - Venda de material genético de touros Nelore avaliados, integrantes do programa de gado de corte da Pecuária Br.</desc>
     <episode-num system="xmltv_ns">21.259.</episode-num>
@@ -77159,10 +77004,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250917230000 -0300" stop="20250918053000 -0300" channel="CANAL DO BOI">
+  <programme start="20250917223400 -0300" stop="20250918053000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Cine Canal</title>
     <desc lang="pt"> - Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.</desc>
-    <episode-num system="xmltv_ns">22.259.</episode-num>
+    <episode-num system="xmltv_ns">21.259.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -82050,63 +81895,63 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917000000 -0300" stop="20250917020000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917020000 -0300" stop="20250917040000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917040000 -0300" stop="20250917060000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917060000 -0300" stop="20250917080000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917080000 -0300" stop="20250917100000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917100000 -0300" stop="20250917120000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917120000 -0300" stop="20250917140000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917140000 -0300" stop="20250917160000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917160000 -0300" stop="20250917180000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917180000 -0300" stop="20250917190000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917190000 -0300" stop="20250917220000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917220000 -0300" stop="20250918000000 -0300" channel="PREMIERE 2 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 20/09 - Ceará x Bahia</title>
+    <desc lang="pt"> - Ceará e Bahia jogam pela 24ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250917000000 -0300" stop="20250917020000 -0300" channel="PREMIERE 3 HD">
@@ -83435,8 +83280,8 @@
   </programme>
   <programme start="20250917234500 -0300" stop="20250918000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt"> - No novo reality show, artistas dividem o mesmo teto em uma casa totalmente vigiada. Enquanto convivem cercados de câmeras e com transmissão 24 horas.</desc>
-    <episode-num system="xmltv_ns">22.259.</episode-num>
+    <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -86194,90 +86039,6 @@
     <episode-num system="xmltv_ns">22.579.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250918000000 -0300" stop="20250918020000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918020000 -0300" stop="20250918040000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918040000 -0300" stop="20250918060000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918060000 -0300" stop="20250918080000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918080000 -0300" stop="20250918100000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918100000 -0300" stop="20250918120000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918120000 -0300" stop="20250918140000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918140000 -0300" stop="20250918160000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918160000 -0300" stop="20250918180000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918180000 -0300" stop="20250918200000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918200000 -0300" stop="20250918220000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250918220000 -0300" stop="20250919000000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250917234500 -0300" stop="20250918000500 -0300" channel="MULTISHOW HD">
@@ -118413,10 +118174,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250917230000 -0300" stop="20250918053000 -0300" channel="CANAL DO BOI">
+  <programme start="20250917223400 -0300" stop="20250918053000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Cine Canal</title>
     <desc lang="pt"> - Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.</desc>
-    <episode-num system="xmltv_ns">22.259.</episode-num>
+    <episode-num system="xmltv_ns">21.259.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -127553,90 +127314,6 @@
     <episode-num system="xmltv_ns">22.580.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250919000000 -0300" stop="20250919020000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919020000 -0300" stop="20250919040000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919040000 -0300" stop="20250919060000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919060000 -0300" stop="20250919080000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919080000 -0300" stop="20250919100000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919100000 -0300" stop="20250919120000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919120000 -0300" stop="20250919140000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919140000 -0300" stop="20250919160000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919160000 -0300" stop="20250919180000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919180000 -0300" stop="20250919200000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919200000 -0300" stop="20250919220000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250919220000 -0300" stop="20250920000000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250919000000 -0300" stop="20250919004500 -0300" channel="MULTISHOW HD">
@@ -169055,90 +168732,6 @@
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250920000000 -0300" stop="20250920020000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920020000 -0300" stop="20250920040000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920040000 -0300" stop="20250920060000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920060000 -0300" stop="20250920080000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920080000 -0300" stop="20250920100000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920100000 -0300" stop="20250920120000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920120000 -0300" stop="20250920140000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920140000 -0300" stop="20250920160000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920160000 -0300" stop="20250920180000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920180000 -0300" stop="20250920200000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920200000 -0300" stop="20250920220000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250920220000 -0300" stop="20250921000000 -0300" channel="Claro TV + 4K - The Town 2025">
-    <title lang="pt">The Town 2025 em 4K</title>
-    <desc lang="pt"> - The Town 2025</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250920000000 -0300" stop="20250920004000 -0300" channel="MULTISHOW HD">
