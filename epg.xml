@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-23 11:33:43" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-23 23:34:42" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -494,7 +494,7 @@
   <programme start="20250923020500 -0300" stop="20250923024500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">21.30.</episode-num>
+    <episode-num system="xmltv_ns">22.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -614,7 +614,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923222500 -0300" stop="20250923232500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250923222500 -0300" stop="20250923230500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
     <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
     <episode-num system="xmltv_ns">1.29.</episode-num>
@@ -622,9 +622,14 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923232500 -0300" stop="20250924000500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250923230500 -0300" stop="20250923234500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Profissão Repórter</title>
     <desc lang="pt"> - Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.</desc>
+    <episode-num system="xmltv_ns">72.265.</episode-num>
+  </programme>
+  <programme start="20250923234500 -0300" stop="20250924003500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt"> - As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
     <episode-num system="xmltv_ns">72.265.</episode-num>
   </programme>
   <programme start="20250923000000 -0300" stop="20250923005500 -0300" channel="BAND HD">
@@ -2499,9 +2504,14 @@
     <title lang="pt">Dia 24/09 - Palmeiras x River Plate (ARG)</title>
     <desc lang="pt"> - Palmeiras e River Plate (ARG) jogam a rodada de volta das Quartas De Final do CONMEBOL Libertadores, no Allianz Parque, em São Paulo (SP).</desc>
   </programme>
-  <programme start="20250922233908 -0300" stop="20250923014230 -0300" channel="SPORTV 3">
+  <programme start="20250922233908 -0300" stop="20250923014134 -0300" channel="SPORTV 3">
     <title lang="pt">São Paulo Open: Final - São Paulo, SP</title>
     <desc lang="pt"> - Tênis de alto nível na capital paulista, não perca grandes talentos em batalhas emocionantes.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250923014134 -0300" stop="20250923014230 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250923014230 -0300" stop="20250923050000 -0300" channel="SPORTV 3">
@@ -2568,11 +2578,16 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">21.265.</episode-num>
   </programme>
-  <programme start="20250922233141 -0300" stop="20250923030000 -0300" channel="SPORTV 2">
+  <programme start="20250922233141 -0300" stop="20250923004553 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Mundial de Vôlei Masculino</title>
     <desc lang="pt"> - Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!</desc>
     <category lang="en">team sports</category>
     <previously-shown />
+  </programme>
+  <programme start="20250923004553 -0300" stop="20250923030000 -0300" channel="SPORTV 2">
+    <title lang="pt">Conteúdo não disponível</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250923030000 -0300" stop="20250923042000 -0300" channel="SPORTV 2">
     <title lang="pt">Hello La</title>
@@ -2643,11 +2658,16 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250922232331 -0300" stop="20250923003000 -0300" channel="SPORTV">
+  <programme start="20250922232331 -0300" stop="20250923002853 -0300" channel="SPORTV">
     <title lang="pt">Giro Da Rodada - Brasileirão - 24ª Rodada</title>
     <desc lang="pt"> - Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">22.264.</episode-num>
+  </programme>
+  <programme start="20250923002853 -0300" stop="20250923003000 -0300" channel="SPORTV">
+    <title lang="pt">Conteúdo não disponível</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20250923003000 -0300" stop="20250923013000 -0300" channel="SPORTV">
     <title lang="pt">Flamengo x Vasco</title>
@@ -26483,8 +26503,8 @@
     </rating>
   </programme>
   <programme start="20250923160000 -0300" stop="20250923170000 -0300" channel="MTV 00's">
-    <title lang="pt">2002 Replay!</title>
-    <desc lang="pt"> - A MTV embarca em uma máquina do tempo e viaja de volta para o ano de 2002, recarregando e reproduzindo as faixas que roubaram corações e dominaram as paradas de sua época.</desc>
+    <title lang="pt">2004 Replay!</title>
+    <desc lang="pt"> - Entre na máquina do tempo da MTV e embarque em uma viagem ao passado. O destino é o ano de 2004 e a missão é muito simples: tocar todas aquelas músicas que um dia roubaram corações e dominaram as paradas.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -29867,9 +29887,158 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250923000100 -0300" stop="20250923053000 -0300" channel="Adult Swim HD">
-    <title lang="pt">Conteúdo não disponível</title>
-    <desc lang="pt"> - </desc>
+  <programme start="20250923000100 -0300" stop="20250923002200 -0300" channel="Adult Swim HD">
+    <title lang="pt">Batman do Futuro</title>
+    <desc lang="pt"> - Tomado pelo remorso e a vingança, um adolescente chamado Terry McGinnis revive o papel de Batman. Sob a supervisão de um Bruce Wayne envelhecido, ele enfrenta o crime, numa impiedosa Gotham futurista.</desc>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250923002200 -0300" stop="20250923004600 -0300" channel="Adult Swim HD">
+    <title lang="pt">Os Cavaleiros do Zodíaco</title>
+    <desc lang="pt"> - O segundo adversário de Seiya é o Dragão Cavaleiro Shiryu. Seiya tenta derrotar Shiryu, mas seu ataque e defesa são perfeitos, já que seu escudo é muito poderoso, assim como seu soco!</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250923004600 -0300" stop="20250923011100 -0300" channel="Adult Swim HD">
+    <title lang="pt">Os Cavaleiros do Zodíaco</title>
+    <sub-title lang="pt">À Procura da Armadura de Ouro</sub-title>
+    <desc lang="pt"> - Cavaleiro Phoenix Ikki e seu exército sombrio, os Cavaleiros Negros, roubam a Armadura de Ouro. Ele tenta dominar o mundo com ela!</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250923011100 -0300" stop="20250923013500 -0300" channel="Adult Swim HD">
+    <title lang="pt">Jujutsu Kaisen</title>
+    <desc lang="pt"> - Um menino engole um talismã maldito e se torna amaldiçoado. Ele entra na escola de um xamã para poder localizar as outras partes do corpo do demônio e assim se exorcizar.</desc>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250923013500 -0300" stop="20250923020100 -0300" channel="Adult Swim HD">
+    <title lang="pt">Dragon Ball Z</title>
+    <sub-title lang="pt">Uma Cura Miraculosa</sub-title>
+    <desc lang="pt"> - Enquanto Goku treina mais para Namek, Yamcha, Tien e Chiaotzu completam o primeiro teste do Rei Kai. Até Piccolo ajuda na segunda prova.</desc>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250923020100 -0300" stop="20250923022600 -0300" channel="Adult Swim HD">
+    <title lang="pt">Dragon Ball Z</title>
+    <sub-title lang="pt">Quem Rirá Por Último?</sub-title>
+    <desc lang="pt"> - Vegeta se recuperou e, sem ninguém observando-o, ele sai de sua câmara médica e se esconde. Ele cria uma distração para afastar Freeza e Zarbon das cinco Dragon Balls.</desc>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20250923022600 -0300" stop="20250923024900 -0300" channel="Adult Swim HD">
+    <title lang="pt">Common Side Effects</title>
+    <desc lang="pt"> - Acompanha os ex-colegas de laboratório do ensino médio Marshall e Frances enquanto eles desvendam uma conspiração envolvendo grandes empresas farmacêuticas e o governo para suprimir o conhecimento de um fungo raro secreto.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250923024900 -0300" stop="20250923030000 -0300" channel="Adult Swim HD">
+    <title lang="pt">Robot Chicken</title>
+    <desc lang="pt"> - Animação stop-motion protagonizada por alguns bonequinhos com os quais é melhor não brincar com mais piadas por minuto do que uma mente pode digerir.</desc>
+    <episode-num system="xmltv_ns">1.265.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923030000 -0300" stop="20250923031100 -0300" channel="Adult Swim HD">
+    <title lang="pt">Robot Chicken</title>
+    <desc lang="pt"> - Animação stop-motion protagonizada por alguns bonequinhos com os quais é melhor não brincar com mais piadas por minuto do que uma mente pode digerir.</desc>
+    <episode-num system="xmltv_ns">2.265.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923031100 -0300" stop="20250923032200 -0300" channel="Adult Swim HD">
+    <title lang="pt">Smiling Friends</title>
+    <sub-title lang="pt">Especial De Halloween Bobo</sub-title>
+    <desc lang="pt"> - Pim se aventura na floresta do outro lado da estrada para buscar lenha para a festa de Halloween da empresa.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250923032200 -0300" stop="20250923033300 -0300" channel="Adult Swim HD">
+    <title lang="pt">Smiling Friends</title>
+    <sub-title lang="pt">Quem Matou Simon S. Salty Violentamente?</sub-title>
+    <desc lang="pt"> - Quem é o famoso magnata da comida Simon S. Salty? Por que ele foi brutalmente assassinado em seu próprio restaurante? Quem é o assassino?</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250923033300 -0300" stop="20250923035900 -0300" channel="Adult Swim HD">
+    <title lang="pt">Projeto Clonagem</title>
+    <sub-title lang="pt">Festa Do Pijama</sub-title>
+    <desc lang="pt"> - Tentando reprimir os sentimentos por Abe, Joan encontra consolo em Harriet e Frida, que podem estar escondendo os próprios segredos. Enquanto isso, Confúcio ensina JFK sobre a internet e Abe passa a noite com o trol virtual.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923035900 -0300" stop="20250923042200 -0300" channel="Adult Swim HD">
+    <title lang="pt">Primal</title>
+    <sub-title lang="pt">Sombra Do Destino</sub-title>
+    <desc lang="pt"> - Spear e Fang se separam e um território desconhecido.</desc>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250923042200 -0300" stop="20250923044400 -0300" channel="Adult Swim HD">
+    <title lang="pt">Samurai Jack</title>
+    <sub-title lang="pt">XIX</sub-title>
+    <desc lang="pt"> - Ao se deparar com as ruínas de um vilarejo, Jack descobre aquele lugar é sua casa.</desc>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250923044400 -0300" stop="20250923045500 -0300" channel="Adult Swim HD">
+    <title lang="pt">Mike Tyson Mysteries</title>
+    <sub-title lang="pt">A Maldição Do Bardo</sub-title>
+    <desc lang="pt"> - Um diretor de teatro teme que sua produção de Macbeth esteja amaldiçoada!</desc>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923045500 -0300" stop="20250923050700 -0300" channel="Adult Swim HD">
+    <title lang="pt">Mike Tyson Mysteries</title>
+    <sub-title lang="pt">Salve-me</sub-title>
+    <desc lang="pt"> - Yung se junta a um Grupo de Jovens Cristãos.</desc>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923050700 -0300" stop="20250923051900 -0300" channel="Adult Swim HD">
+    <title lang="pt">Space Ghost de Costa a Costa</title>
+    <desc lang="pt"> - Space Ghost apresenta um programa intergalático de entrevistas com celebridades do mundo animado.</desc>
+    <episode-num system="xmltv_ns">4.265.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250923051900 -0300" stop="20250923053000 -0300" channel="Adult Swim HD">
+    <title lang="pt">Space Ghost de Costa a Costa</title>
+    <desc lang="pt"> - Space Ghost apresenta um programa intergalático de entrevistas com celebridades do mundo animado.</desc>
+    <episode-num system="xmltv_ns">4.265.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
   </programme>
   <programme start="20250923053000 -0300" stop="20250923060000 -0300" channel="Adult Swim HD">
     <title lang="pt">Ambient Swim</title>
@@ -32259,77 +32428,77 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923070000 -0300" stop="20250923073000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923070000 -0300" stop="20250923072500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um novo episódio de Ridiculousness, Rob e Steelo recebem Draya Michele.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923073000 -0300" stop="20250923075500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923072500 -0300" stop="20250923075000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um novo episódio de Ridiculousness, Rob e Steelo recebem Karrueche Tran.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923075500 -0300" stop="20250923080000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923075000 -0300" stop="20250923081500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Nesse novo episódio de Ridiculousness, Rob e Steelo recebem Nina Agdal.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923080000 -0300" stop="20250923084500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923081500 -0300" stop="20250923083500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Nesse novo episódio de Ridiculousness, Rob e Steelo recebem Carly Aquilino.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923084500 -0300" stop="20250923095000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923083500 -0300" stop="20250923101500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Max Salva o Mundo</title>
     <desc lang="pt"> - Sean e seu cachorro Max querem ser detetives, mas nada de perturbador está acontecendo em sua vizinhança, até que um diamante desaparece e eles iniciam uma investigação.</desc>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250923095000 -0300" stop="20250923111000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923101500 -0300" stop="20250923120500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">A Sombra de Summer</title>
     <desc lang="pt"> - Summer Larsen uma inteligente e independente garota de 12 anos resgata um cachorro lindo e sem dono e nada à detera de salvá-lo. E é sua determinação que comove todos ao seu redor.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250923111000 -0300" stop="20250923125000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923120500 -0300" stop="20250923135000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Jogo Assassino</title>
     <desc lang="pt"> - Michael e Lara são uma dupla de vigilantes que caça predadores sexuais de jovens mulheres. Quando Lara é sequestrada, Michael é obrigado a procurar a ajuda do investigador Marshall para resgatar sua parceira.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250923125000 -0300" stop="20250923141000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923135000 -0300" stop="20250923154500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Demolidor: O Homem Sem Medo</title>
     <desc lang="pt"> - Garoto atingido por produto radioativo perde a visão, mas ganha grandes poderes extra-sensoriais. Ao crescer passa a combater o crime.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250923141000 -0300" stop="20250923155000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923154500 -0300" stop="20250923174000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Vida em Jogo</title>
     <desc lang="pt"> - O adolescente Sonny perde a chance de se tornar um astro do beisebol quando participa de um crime. Após 17 anos na prisão, ele recebe uma nova chance para recomeçar a vida, mas novos obstáculos o desafiam.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923155000 -0300" stop="20250923175500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923174000 -0300" stop="20250923194000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">A Grande Mentira</title>
     <desc lang="pt"> - Em 1965, três agentes novatos da Inteligência Israelense, a Mossad, são enviados para capturar e matar um nazista criminoso de guerra. O criminoso é capturado e o grupo decide fazer a lei com as próprias mãos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923175500 -0300" stop="20250923182500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923194000 -0300" stop="20250923201000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">Venda Casada</sub-title>
     <desc lang="pt"> - Roberval descobre que Sandra será sua opositora e tenta comprar votos. Os gêmeos são convidados para gravar clipe com uma super estrela. No casamento de Esdras, Nelson exagera, cai e bate a cabeça.</desc>
@@ -32337,14 +32506,14 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923182500 -0300" stop="20250923191000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923201000 -0300" stop="20250923204500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <desc lang="pt"> - Enquanto Nelson está em coma, Joana encurrala Roberval com a CPI do Combustível. Nelson desperta do coma ao ouvir que irá ganhar uma fortuna por conta de um hit dos gêmeos e recompra o posto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923191000 -0300" stop="20250923193500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923204500 -0300" stop="20250923211500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">O cheiro do ralo</sub-title>
     <desc lang="pt"> - A fiscal Joana detecta um vazamento no velho reservatório do posto. Nelson é obrigado a fazer uma complexa obra de reparo. Bernadete, Osíris e Batata movem uma ação trabalhista contra o ex-chefe.</desc>
@@ -32352,7 +32521,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923193500 -0300" stop="20250923195000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923211500 -0300" stop="20250923215000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">Largados e Alterados</sub-title>
     <desc lang="pt"> - O ex-fiscal Roberval trabalha em um túnel para tentar escapar da prisão antes mesmo de seu julgamento. Uma nova balada faz a loja do posto bombar de pessoas alteradas durante a madrugada.</desc>
@@ -32360,7 +32529,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923195000 -0300" stop="20250923210000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923215000 -0300" stop="20250923230000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ronald Rios Talk Show</title>
     <sub-title lang="pt">João Pimenta</sub-title>
     <desc lang="pt"> - Ronald Rios recebe o comediante João Pimenta, um dos maiores e melhores da cena de stand up hoje no Brasil. Adriano Cabeça almoça com seu sogro e as coisas vão bem como você imagina.</desc>
@@ -32368,18 +32537,11 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250923210000 -0300" stop="20250923225500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923230000 -0300" stop="20250924005000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">O Operário</title>
     <desc lang="pt"> - Imagine não dormir por um ano, ter pessoas conspirando contra seu infortúnio, não confiar nem em sua memória? Este é o mundo visto pelos olhos de Trevor Reznik.</desc>
     <rating system="Brazil">
       <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20250923225500 -0300" stop="20250924002500 -0300" channel="PARAMOUNT NETWORK">
-    <title lang="pt">A Grande Aposta</title>
-    <desc lang="pt"> - Em 2006, um grupo de investidores apostou contra o mercado hipotecário dos Estados Unidos. Esta investigação revela o quão defeituoso e corrupto é o mercado.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250922232800 -0300" stop="20250923032500 -0300" channel="TCM BR">
@@ -32568,7 +32730,7 @@
     <title lang="pt">O Retorno Da Múmia</title>
     <desc lang="pt"> - Rick, Eve e seu filho Alex acham o bracelete de Anúbis numa escavação. Quando Alex usa o objeto, eles viram alvo de uma seita que deseja ressuscitar a múmia Imhotep.</desc>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250923015500 -0300" stop="20250923041000 -0300" channel="TELECINE ACTION">
@@ -41669,24 +41831,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250923232500 -0300" stop="20250924000500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Profissão Repórter</title>
-    <desc lang="pt"> - Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.</desc>
-    <episode-num system="xmltv_ns">72.265.</episode-num>
-  </programme>
-  <programme start="20250924000500 -0300" stop="20250924005500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250923234500 -0300" stop="20250924003500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt"> - As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <episode-num system="xmltv_ns">69.266.</episode-num>
+    <episode-num system="xmltv_ns">72.265.</episode-num>
   </programme>
-  <programme start="20250924005500 -0300" stop="20250924013500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250924003500 -0300" stop="20250924011500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Conversa com Bial</title>
     <desc lang="pt"> - Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924013500 -0300" stop="20250924022000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250924011500 -0300" stop="20250924020000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
     <desc lang="pt"> - Pam alerta Marlon sobre a demissão de Kami. Isabela conta a Filipa que está sem dinheiro, e cobra apoio da filha. Kami desabafa com Leo sobre o crime do qual foi vítima, e ambas decidem ir até a delegacia.</desc>
     <episode-num system="xmltv_ns">70.266.</episode-num>
@@ -41694,18 +41851,26 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924022000 -0300" stop="20250924031000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250924020000 -0300" stop="20250924024500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">21.30.</episode-num>
+    <episode-num system="xmltv_ns">23.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924031000 -0300" stop="20250924040000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250924024500 -0300" stop="20250924033000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola II</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">23.30.</episode-num>
+    <episode-num system="xmltv_ns">23.23.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250924033000 -0300" stop="20250924040000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Comédia na Madruga - Vai Que Cola III</title>
+    <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <episode-num system="xmltv_ns">23.32.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -41771,7 +41936,12 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924170500 -0300" stop="20250924180500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20250924170500 -0300" stop="20250924171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt"> - Boletim com as principais notícias de São Paulo.</desc>
+    <episode-num system="xmltv_ns">76.266.</episode-num>
+  </programme>
+  <programme start="20250924171500 -0300" stop="20250924180500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
     <desc lang="pt"> - Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
     <episode-num system="xmltv_ns">76.266.</episode-num>
@@ -41781,7 +41951,7 @@
   </programme>
   <programme start="20250924180500 -0300" stop="20250924184500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor</title>
-    <desc lang="pt"> - Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
+    <desc lang="pt"> - Celso fica aflito com a determinação de Candinho e Samir. Dita sofre com as dificuldades que encontra para se reorganizar. Paixão pede ajuda a Lúcio apra encontrar Ernesto.</desc>
     <episode-num system="xmltv_ns">77.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -41794,7 +41964,7 @@
   </programme>
   <programme start="20250924191500 -0300" stop="20250924200000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt"> - Leona tem sua vida transformada pela relação com Sofia, uma menina de sete anos de quem passa a ser babá. Sofia é uma criança que perdeu a mãe ainda bebê e cresceu se sentindo sozinha na casa da família de s...</desc>
+    <desc lang="pt"> - Marlon tenta conter Kami. Samuel e Jaques se enfrentam. Kami pede que o crime que sofreu seja mantido em segredo. Dedé gosta de Ryan com Bárbara. Marlon pede dispensa do trabalho para cuidar de Kami.</desc>
     <episode-num system="xmltv_ns">78.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -41807,15 +41977,16 @@
   </programme>
   <programme start="20250924203500 -0300" stop="20250924212000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale Tudo</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <desc lang="pt"> - Cecília avisa a Laís que o advogado falou que Sarita tem o direito de conhecer sua origem. Doutor Fernando comunica que a resposta do organismo de Afonso à quimioterapia está melhor.</desc>
     <episode-num system="xmltv_ns">69.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250924212000 -0300" stop="20250924233000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Futebol 2025</title>
-    <desc lang="pt"> - Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+    <title lang="pt">Palmeiras x River Plate (ARG) - Ao Vivo</title>
+    <desc lang="pt"> - Palmeiras e River Plate (ARG) jogam a rodada de volta das Quartas De Final do CONMEBOL Libertadores, no Allianz Parque, em São Paulo (SP).</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250924233000 -0300" stop="20250924234500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Segue o Jogo</title>
@@ -41824,8 +41995,8 @@
   </programme>
   <programme start="20250924234500 -0300" stop="20250925000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt"> - No novo reality show, artistas dividem o mesmo teto em uma casa totalmente vigiada. Enquanto convivem cercados de câmeras e com transmissão 24 horas.</desc>
-    <episode-num system="xmltv_ns">22.266.</episode-num>
+    <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+    <episode-num system="xmltv_ns">1.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -42124,7 +42295,7 @@
   </programme>
   <programme start="20250924140000 -0300" stop="20250924144500 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Vitória diz para Luís Fernando que Soraya está interessada nele e quer separá-lo de Maria.</desc>
     <episode-num system="xmltv_ns">73.266.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -42132,7 +42303,7 @@
   </programme>
   <programme start="20250924144500 -0300" stop="20250924153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt"> - Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt"> - Rubi finge estar chateada por Heitor ter deixado Maribel esperando e convida-o  para jantar, ela tem que o convencer de que Alessandro a enganou.</desc>
     <episode-num system="xmltv_ns">73.266.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -42161,7 +42332,7 @@
   </programme>
   <programme start="20250924183000 -0300" stop="20250924194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt"> - Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt"> - Otávio ameaça demitir Eusébio se voltar a assediar Maricruz. Na cabana, Ramiro lembra que prometeu a Lupita que nunca falaria de Alessandro com Maricruz.</desc>
     <episode-num system="xmltv_ns">77.266.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -42174,7 +42345,7 @@
   </programme>
   <programme start="20250924210000 -0300" stop="20250924223000 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+    <desc lang="pt"> - Valeria prossegue com o lançamento, apesar do áudio constrangedor vazado por Paula. Luis fica furioso com os filhos e os demite da empresa por serem uma vergonha para ele.</desc>
     <episode-num system="xmltv_ns">70.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -68050,17 +68221,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250924000000 -0300" stop="20250924023500 -0300" channel="MTV 00's">
-    <title lang="pt">Pop-Punk Vs Hip-Hop! Top 40</title>
-    <desc lang="pt"> - A doce mistura de rock e rap dominou os anos 2000, então vamos fazer uma contagem regressiva de dois gêneros que dominaram as paradas não apenas separadamente, mas juntos!</desc>
+  <programme start="20250924000000 -0300" stop="20250924030000 -0300" channel="MTV 00's">
+    <title lang="pt">Love Vs Heartbreak Anthems! Top 40</title>
+    <desc lang="pt"> - Às vezes, uma música só precisa de algo extra para levá-la ao próximo nível, por isso alinhamos as faixas clássicas com as 'apresentações' mais icônicas de todos os tempos!</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924023500 -0300" stop="20250924050000 -0300" channel="MTV 00's">
+  <programme start="20250924030000 -0300" stop="20250924050000 -0300" channel="MTV 00's">
     <title lang="pt">Non-Stop Y2Ks!</title>
     <desc lang="pt"> - Os anos 2000 nos deram algumas faixas icônicas e vamos tocar algumas delas sem parar!</desc>
-    <episode-num system="xmltv_ns">1.266.</episode-num>
+    <episode-num system="xmltv_ns">2.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -68087,14 +68258,14 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924160000 -0300" stop="20250924164500 -0300" channel="MTV 00's">
-    <title lang="pt">Britney Spears: The Hits!</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250924160000 -0300" stop="20250924170000 -0300" channel="MTV 00's">
+    <title lang="pt">MTV VMA Winners: Video Of The Year</title>
+    <desc lang="pt"> - Descubra quem fez história no VMA e ganhou o prêmio de Melhor Vídeo do Ano entre 2000 e 2009!</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924164500 -0300" stop="20250924230000 -0300" channel="MTV 00's">
+  <programme start="20250924170000 -0300" stop="20250924230000 -0300" channel="MTV 00's">
     <title lang="pt">Hits Don't Lie!</title>
     <desc lang="pt"> - Os sucessos da MTV não mentem! Esta contagem regressiva de retrocesso está agora com os maiores sucessos que nos fizeram dançar.</desc>
     <rating system="Brazil">
@@ -68102,8 +68273,8 @@
     </rating>
   </programme>
   <programme start="20250924230000 -0300" stop="20250925000000 -0300" channel="MTV 00's">
-    <title lang="pt">2002 Replay!</title>
-    <desc lang="pt"> - A MTV embarca em uma máquina do tempo e viaja de volta para o ano de 2002, recarregando e reproduzindo as faixas que roubaram corações e dominaram as paradas de sua época.</desc>
+    <title lang="pt">2004 Replay!</title>
+    <desc lang="pt"> - Entre na máquina do tempo da MTV e embarque em uma viagem ao passado. O destino é o ano de 2004 e a missão é muito simples: tocar todas aquelas músicas que um dia roubaram corações e dominaram as paradas.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -73871,21 +74042,28 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250923225500 -0300" stop="20250924002500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250923230000 -0300" stop="20250924005000 -0300" channel="PARAMOUNT NETWORK">
+    <title lang="pt">O Operário</title>
+    <desc lang="pt"> - Imagine não dormir por um ano, ter pessoas conspirando contra seu infortúnio, não confiar nem em sua memória? Este é o mundo visto pelos olhos de Trevor Reznik.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250924005000 -0300" stop="20250924031000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">A Grande Aposta</title>
     <desc lang="pt"> - Em 2006, um grupo de investidores apostou contra o mercado hipotecário dos Estados Unidos. Esta investigação revela o quão defeituoso e corrupto é o mercado.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924002500 -0300" stop="20250924024000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924031000 -0300" stop="20250924045000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Street Fighter: A Lenda de Chun-Li</title>
     <desc lang="pt"> - Muita ação e o melhor das artes marciais em Street Fighter: A Lenda de Chun-Li, adrenalina pura baseada no popular videogame.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924024000 -0300" stop="20250924033000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924045000 -0300" stop="20250924051500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">South Park</title>
     <sub-title lang="pt">Subindo o nível</sub-title>
     <desc lang="pt"> - Cartman finalmente admite que é gordo e providencia imediatamente uma scooter para se locomover.</desc>
@@ -73893,28 +74071,14 @@
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20250924033000 -0300" stop="20250924035500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924051500 -0300" stop="20250924054000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um novo episódio de Ridiculousness, Rob eSteelo recebem Karrueche Tran.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924035500 -0300" stop="20250924042000 -0300" channel="PARAMOUNT NETWORK">
-    <title lang="pt">Ridículos</title>
-    <desc lang="pt"> - Nesse novo episódio de Ridiculousness, Rob e Steelo recebem Karrueche Tran.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250924042000 -0300" stop="20250924045500 -0300" channel="PARAMOUNT NETWORK">
-    <title lang="pt">Ridículos</title>
-    <desc lang="pt"> - Nesse novo episódio de Ridiculousness, Rob e Steelo recebem Nina Agdal.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250924045500 -0300" stop="20250924060000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924054000 -0300" stop="20250924060000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Bloco Musical</title>
     <desc lang="pt"> - Vídeoclipes para animar seu dia com o melhor da música internacional e nacional</desc>
     <rating system="Brazil">
@@ -73928,84 +74092,77 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924065500 -0300" stop="20250924070500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924065500 -0300" stop="20250924071500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um novo episódio de Ridiculousness, Rob e Steelo dão as boas-vindas à Lolo Wood</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924070500 -0300" stop="20250924073500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924071500 -0300" stop="20250924074000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um novo episódio de Ridiculousness, Rob e Steelo dão as boas-vindas à Lolo Wood</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924073500 -0300" stop="20250924080000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924074000 -0300" stop="20250924080000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Em um episódio totalmente novo de Ridiculousness, Rob e Steelo recebem Brie Bella.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924080000 -0300" stop="20250924085000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924080000 -0300" stop="20250924082500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ridículos</title>
     <desc lang="pt"> - Neste episódio de Ridiculousness, Rob e Steelo recebem Nina Agdal.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250924085000 -0300" stop="20250924090500 -0300" channel="PARAMOUNT NETWORK">
-    <title lang="pt">Ridículos</title>
-    <desc lang="pt"> - Neste novo episódio de "Ridiculousness", Rob e Steelo recebem Lolo Wood.</desc>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250924090500 -0300" stop="20250924101000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924082500 -0300" stop="20250924101500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Os Mais Jovens</title>
     <desc lang="pt"> - No futuro, a população sofre com a escassez de água. Cabe a um adolescente (Kodi Smit-McPhee) percorrer o planeta em busca de água para salvar a si mesmo e a sua família.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924101000 -0300" stop="20250924111500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924101500 -0300" stop="20250924115500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">A História de uma Criança com Fome</title>
     <desc lang="pt"> - Quando a mãe do pequeno Nigel falece devido uma doença respiratória, seu pai contrata a Sra. Pottel, uma dona de casa que vai deixar sua marca através das habilidades culinárias.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250924111500 -0300" stop="20250924124500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924115500 -0300" stop="20250924132500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Penelope</title>
     <desc lang="pt"> - Recai uma maldição sobre Penelope: seu nariz, igual ao focinho de um porco, é uma prova disso.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250924124500 -0300" stop="20250924141000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924132500 -0300" stop="20250924150000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Perseguição Mortal</title>
     <desc lang="pt"> - O ladrão realiza o roubo de sua vida quando rouba o traficante psicótico, Temple. O plano corre bem até que o ladrão descobre um clandestino em seu carro de fuga: a esposa grávida de Temple, Mia.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924141000 -0300" stop="20250924160500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924150000 -0300" stop="20250924171500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">A Grande Aposta</title>
     <desc lang="pt"> - Em 2006, um grupo de investidores apostou contra o mercado hipotecário dos Estados Unidos. Esta investigação revela o quão defeituoso e corrupto é o mercado.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924160500 -0300" stop="20250924175500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924171500 -0300" stop="20250924190000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Rastros de Violência</title>
     <desc lang="pt"> - Há um ano, o detetive corrupto Callahan recebeu um tiro e foi salvo por um desconhecido, dando uma segunda oportunidade de limpar sua vida. Mas agora, um crime recente pode trazer de volta seu passado.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924175500 -0300" stop="20250924182500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924190000 -0300" stop="20250924193000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">Resultado Positivo</sub-title>
     <desc lang="pt"> - Rayanne, filha de Firula, aparece no dia em que o time do posto disputa um torneio do bairro e Suellen se sente enganada. Roberval consegue soltura e pretende jogar água no chopp da festa do título.</desc>
@@ -74013,7 +74170,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924182500 -0300" stop="20250924185500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924193000 -0300" stop="20250924200500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">Entregues e Recebidos</sub-title>
     <desc lang="pt"> - Após saber que será pai, Adilson aproveita o marasmo do posto pra fazer entregas de delivery usando uma bike alugada. Wesley está bombando de recebidos, mas cada vez mais em crise existencial.</desc>
@@ -74021,7 +74178,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924185500 -0300" stop="20250924193500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924200500 -0300" stop="20250924203500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Auto Posto</title>
     <sub-title lang="pt">Desmanche</sub-title>
     <desc lang="pt"> - Maicon discute com Douglas e pede demissão do posto. Nelson vê nisso a oportunidade de enxugar a folha de pagamento do posto. Peres e Mariângela tentam forjar provas para incriminar Mestre.</desc>
@@ -74029,7 +74186,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924193500 -0300" stop="20250924202500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924203500 -0300" stop="20250924215000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">Ronald Rios Talk Show</title>
     <sub-title lang="pt">Valentina Bandeira</sub-title>
     <desc lang="pt"> - Ronald entrevista hoje Valentina Bandeira, a Valen. Atriz, YouTuber e malandra. Não tem muito o que dizer fora ícone carioca. Ela fala sobre comédia, paranoias, alegrias, pagode, paquera, BALA BOMBOM E CHOCOLATE e outras delícias.</desc>
@@ -74037,14 +74194,14 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250924202500 -0300" stop="20250924222000 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924215000 -0300" stop="20250924234000 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">O Último Guarda Costas</title>
     <desc lang="pt"> - Este thriller acompanha a vida de um ex-presidiário que tenta recomeçar sua vida em um relacionamento com uma atriz reclusa.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924222000 -0300" stop="20250925001500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924234000 -0300" stop="20250925011500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">O Sequestro do Ônibus 657</title>
     <desc lang="pt"> - Um pai está sem condições para pagar o tratamento médico de sua filha. Como último recurso, ele pede ajuda a um colega de trabalho ganancioso que propõe roubar um cassino.</desc>
     <rating system="Brazil">
@@ -83404,8 +83561,8 @@
   </programme>
   <programme start="20250924234500 -0300" stop="20250925000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt"> - No novo reality show, artistas dividem o mesmo teto em uma casa totalmente vigiada. Enquanto convivem cercados de câmeras e com transmissão 24 horas.</desc>
-    <episode-num system="xmltv_ns">22.266.</episode-num>
+    <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+    <episode-num system="xmltv_ns">1.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -115628,7 +115785,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250924222000 -0300" stop="20250925001500 -0300" channel="PARAMOUNT NETWORK">
+  <programme start="20250924234000 -0300" stop="20250925011500 -0300" channel="PARAMOUNT NETWORK">
     <title lang="pt">O Sequestro do Ônibus 657</title>
     <desc lang="pt"> - Um pai está sem condições para pagar o tratamento médico de sua filha. Como último recurso, ele pede ajuda a um colega de trabalho ganancioso que propõe roubar um cassino.</desc>
     <rating system="Brazil">
