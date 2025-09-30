@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-09-29 11:32:15" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-09-29 23:32:20" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -898,7 +898,7 @@
   </programme>
   <programme start="20250929140000 -0300" stop="20250929144500 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Alícia fica feliz por Nandinho ter deixado Soraya esperando. Soraya quer conquistar Nandinho como homem e enlouquece-lo para tê-lo ao seus pés.</desc>
     <episode-num system="xmltv_ns">73.271.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -906,7 +906,7 @@
   </programme>
   <programme start="20250929144500 -0300" stop="20250929153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt"> - Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt"> - Heitor desculpa-se com Maribel, fala que está sentindo uma dor forte na cabeça e por conta disto não poderá ir junto a ela para o teatro.</desc>
     <episode-num system="xmltv_ns">73.271.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -935,7 +935,7 @@
   </programme>
   <programme start="20250929183000 -0300" stop="20250929194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt"> - Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt"> - Maricruz sai sem avisar e Lúcia diz a Ofélia que seu comportamento pode ajudá-las a preparar uma armadilha e convencer Otávio a se divorciar da caipira.</desc>
     <episode-num system="xmltv_ns">77.271.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -948,7 +948,7 @@
   </programme>
   <programme start="20250929210000 -0300" stop="20250929221500 -0300" channel="SBT São Paulo">
     <title lang="pt">As Filhas da Senhora Garcia</title>
-    <desc lang="pt"> - Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+    <desc lang="pt"> - Nicolás e Leonardo suspeitam que alguém queria incriminar Mar, já que Leonardo pediu a Mar provas de que ela não machucou seu pai. Então, de quem os irmãos Portilla suspeitarão.</desc>
     <episode-num system="xmltv_ns">70.271.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -2430,6 +2430,11 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20250928210000 -0300" stop="20250929011428 -0300" channel="SPORTV 3">
+    <title lang="pt">NFL: Packers x Cowboys - Ao Vivo</title>
+    <desc lang="pt"> - Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
   <programme start="20250929000000 -0300" stop="20250929022500 -0300" channel="SPORTV 3">
     <title lang="pt">Jungle Fight 140</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
@@ -2516,6 +2521,12 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">21.271.</episode-num>
   </programme>
+  <programme start="20250928220000 -0300" stop="20250929001054 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Mundial de Vôlei Masculino</title>
+    <desc lang="pt"> - Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!</desc>
+    <category lang="en">team sports</category>
+    <previously-shown />
+  </programme>
   <programme start="20250929000000 -0300" stop="20250929003000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt"> - Vamos à Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL, no Maracanãzinho.</desc>
@@ -2601,108 +2612,122 @@
     <category lang="en">team sports</category>
     <previously-shown />
   </programme>
-  <programme start="20250928223000 -0300" stop="20250929003000 -0300" channel="SPORTV">
+  <programme start="20250928223000 -0300" stop="20250929003224 -0300" channel="SPORTV">
     <title lang="pt">Fechamento sportv - Ao Vivo</title>
     <desc lang="pt"> - André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol,  mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós-jogo é no</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">71.270.</episode-num>
   </programme>
-  <programme start="20250929003000 -0300" stop="20250929013000 -0300" channel="SPORTV">
+  <programme start="20250929003224 -0300" stop="20250929013303 -0300" channel="SPORTV">
     <title lang="pt">Bahia x Palmeiras</title>
     <desc lang="pt"> - Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929013000 -0300" stop="20250929023000 -0300" channel="SPORTV">
+  <programme start="20250929013303 -0300" stop="20250929023126 -0300" channel="SPORTV">
     <title lang="pt">Grêmio x Vitória</title>
     <desc lang="pt"> - Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929023000 -0300" stop="20250929033000 -0300" channel="SPORTV">
+  <programme start="20250929023126 -0300" stop="20250929033115 -0300" channel="SPORTV">
     <title lang="pt">Fluminense x Botafogo</title>
     <desc lang="pt"> - Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929033000 -0300" stop="20250929043000 -0300" channel="SPORTV">
+  <programme start="20250929033115 -0300" stop="20250929043055 -0300" channel="SPORTV">
     <title lang="pt">Bragantino x Santos</title>
     <desc lang="pt"> - Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929043000 -0300" stop="20250929053000 -0300" channel="SPORTV">
+  <programme start="20250929043055 -0300" stop="20250929053045 -0300" channel="SPORTV">
     <title lang="pt">Juventude x Internacional</title>
     <desc lang="pt"> - Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929053000 -0300" stop="20250929063000 -0300" channel="SPORTV">
+  <programme start="20250929053045 -0300" stop="20250929063026 -0300" channel="SPORTV">
     <title lang="pt">Atlético-MG x Mirassol</title>
     <desc lang="pt"> - Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250929063000 -0300" stop="20250929083000 -0300" channel="SPORTV">
+  <programme start="20250929063026 -0300" stop="20250929082959 -0300" channel="SPORTV">
     <title lang="pt">Fechamento sportv</title>
     <desc lang="pt"> - André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol,  mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós-jogo é no</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">75.271.</episode-num>
   </programme>
-  <programme start="20250929083000 -0300" stop="20250929100000 -0300" channel="SPORTV">
+  <programme start="20250929082959 -0300" stop="20250929100744 -0300" channel="SPORTV">
     <title lang="pt">sportv News - Ao Vivo</title>
     <desc lang="pt"> - Inicie o dia atualizado com as notícias do mundo do esporte.</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">77.271.</episode-num>
   </programme>
-  <programme start="20250929100000 -0300" stop="20250929121500 -0300" channel="SPORTV">
+  <programme start="20250929100744 -0300" stop="20250929120957 -0300" channel="SPORTV">
     <title lang="pt">Redação sportv - Ao Vivo</title>
     <desc lang="pt"> - Acompanhe as informações diárias de uma maneira descontraída sobre o esporte no Brasil e no mundo, jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais com</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">69.271.</episode-num>
   </programme>
-  <programme start="20250929121500 -0300" stop="20250929130000 -0300" channel="SPORTV">
+  <programme start="20250929120957 -0300" stop="20250929121350 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">71.271.</episode-num>
+  </programme>
+  <programme start="20250929121350 -0300" stop="20250929130059 -0300" channel="SPORTV">
     <title lang="pt">Tá On - Ao Vivo</title>
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">71.271.</episode-num>
   </programme>
-  <programme start="20250929130000 -0300" stop="20250929153000 -0300" channel="SPORTV">
+  <programme start="20250929130059 -0300" stop="20250929152502 -0300" channel="SPORTV">
     <title lang="pt">Seleção sportv - Ao Vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">72.271.</episode-num>
   </programme>
-  <programme start="20250929153000 -0300" stop="20250929161500 -0300" channel="SPORTV">
+  <programme start="20250929152502 -0300" stop="20250929161103 -0300" channel="SPORTV">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">74.271.</episode-num>
   </programme>
-  <programme start="20250929161500 -0300" stop="20250929170000 -0300" channel="SPORTV">
+  <programme start="20250929161103 -0300" stop="20250929164654 -0300" channel="SPORTV">
     <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
     <desc lang="pt"> - Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">15.271.</episode-num>
   </programme>
-  <programme start="20250929170000 -0300" stop="20250929180000 -0300" channel="SPORTV">
+  <programme start="20250929164654 -0300" stop="20250929165949 -0300" channel="SPORTV">
+    <title lang="pt">Abre Aspas: Romário Reflete Sobre Os 60 Anos E Garante Não Fazer</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929165949 -0300" stop="20250929175909 -0300" channel="SPORTV">
     <title lang="pt">Panela sportv - Ao Vivo</title>
     <desc lang="pt"> - Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">76.271.</episode-num>
+    <episode-num system="xmltv_ns">75.271.</episode-num>
   </programme>
-  <programme start="20250929180000 -0300" stop="20250929190000 -0300" channel="SPORTV">
+  <programme start="20250929175909 -0300" stop="20250929185831 -0300" channel="SPORTV">
     <title lang="pt">Tá Na Área - Ao Vivo</title>
     <desc lang="pt"> - Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assuntos em alta do esporte com Camila Carelli e Thiago Benevenutte</desc>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">77.271.</episode-num>
+    <episode-num system="xmltv_ns">76.271.</episode-num>
   </programme>
-  <programme start="20250929190000 -0300" stop="20250929200000 -0300" channel="SPORTV">
+  <programme start="20250929185831 -0300" stop="20250929195931 -0300" channel="SPORTV">
     <title lang="pt">Aquecimento sportv: Aquecimento sportv São Paulo x Ceará - Ao Vivo</title>
     <desc lang="pt"> - Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes.</desc>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">78.271.</episode-num>
+    <episode-num system="xmltv_ns">77.271.</episode-num>
   </programme>
-  <programme start="20250929200000 -0300" stop="20250929220000 -0300" channel="SPORTV">
+  <programme start="20250929195931 -0300" stop="20250929220003 -0300" channel="SPORTV">
     <title lang="pt">São Paulo x Ceará - Ao Vivo</title>
     <desc lang="pt"> - Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250929220000 -0300" stop="20250929233000 -0300" channel="SPORTV">
+  <programme start="20250929220003 -0300" stop="20250929233000 -0300" channel="SPORTV">
     <title lang="pt">Troca De Passes - Ao Vivo</title>
     <desc lang="pt"> - Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
     <category lang="en">live broadcast</category>
@@ -2767,76 +2792,116 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">72.270.</episode-num>
   </programme>
-  <programme start="20250929023500 -0300" stop="20250929032000 -0300" channel="GLOBONEWS">
+  <programme start="20250929010519 -0300" stop="20250929020822 -0300" channel="GLOBONEWS">
+    <title lang="pt">Fantástico Year 2025</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">2024.271.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929020822 -0300" stop="20250929022715 -0300" channel="GLOBONEWS">
+    <title lang="pt">BL4 FANTÁSTICO</title>
+    <sub-title lang="pt">realizado em 28/09/2025</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>28/09/2025</date>
+    <episode-num system="xmltv_ns">1.271.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929022715 -0300" stop="20250929024438 -0300" channel="GLOBONEWS">
+    <title lang="pt">BL5 FANTÁSTICO</title>
+    <sub-title lang="pt">realizado em 28/09/2025</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <date>28/09/2025</date>
+    <episode-num system="xmltv_ns">1.271.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929024438 -0300" stop="20250929032158 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 03h</title>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">71.271.</episode-num>
   </programme>
-  <programme start="20250929032000 -0300" stop="20250929040000 -0300" channel="GLOBONEWS">
+  <programme start="20250929032158 -0300" stop="20250929040022 -0300" channel="GLOBONEWS">
     <title lang="pt">Pequenas Empresas Grandes Negócios</title>
     <desc lang="pt"> - O programa traça um perfil do microempresário brasileiro, mostra como funcionam pequenos empreendimentos e apresenta soluções criativas para problemas.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">72.271.</episode-num>
   </programme>
-  <programme start="20250929040000 -0300" stop="20250929050000 -0300" channel="GLOBONEWS">
+  <programme start="20250929040022 -0300" stop="20250929050004 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">73.271.</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20250929050000 -0300" stop="20250929060000 -0300" channel="GLOBONEWS">
+  <programme start="20250929050004 -0300" stop="20250929060036 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 05h</title>
     <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">74.271.</episode-num>
   </programme>
-  <programme start="20250929060000 -0300" stop="20250929070000 -0300" channel="GLOBONEWS">
+  <programme start="20250929060036 -0300" stop="20250929070014 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 06h</title>
     <desc lang="pt"> - As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">75.271.</episode-num>
   </programme>
-  <programme start="20250929070000 -0300" stop="20250929093000 -0300" channel="GLOBONEWS">
+  <programme start="20250929070014 -0300" stop="20250929093011 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Ponto</title>
     <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">76.271.</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20250929093000 -0300" stop="20250929130000 -0300" channel="GLOBONEWS">
+  <programme start="20250929093011 -0300" stop="20250929130102 -0300" channel="GLOBONEWS">
     <title lang="pt">Conexão GloboNews</title>
     <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">78.271.</episode-num>
   </programme>
-  <programme start="20250929130000 -0300" stop="20250929160000 -0300" channel="GLOBONEWS">
+  <programme start="20250929130102 -0300" stop="20250929161014 -0300" channel="GLOBONEWS">
     <title lang="pt">Estúdio I</title>
     <desc lang="pt"> - Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">72.271.</episode-num>
   </programme>
-  <programme start="20250929160000 -0300" stop="20250929180000 -0300" channel="GLOBONEWS">
+  <programme start="20250929161014 -0300" stop="20250929165515 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais Year 2025 - Ao Vivo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">15.271.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929165515 -0300" stop="20250929181424 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Mais</title>
     <desc lang="pt"> - Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">75.271.</episode-num>
   </programme>
-  <programme start="20250929180000 -0300" stop="20250929200000 -0300" channel="GLOBONEWS">
+  <programme start="20250929181424 -0300" stop="20250929201335 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 18h</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">77.271.</episode-num>
   </programme>
-  <programme start="20250929200000 -0300" stop="20250929220000 -0300" channel="GLOBONEWS">
+  <programme start="20250929201335 -0300" stop="20250929221405 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Pauta</title>
     <desc lang="pt"> - Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">69.271.</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20250929220000 -0300" stop="20250929230000 -0300" channel="GLOBONEWS">
+  <programme start="20250929221405 -0300" stop="20250929230000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
@@ -6118,7 +6183,7 @@
   <programme start="20250929040000 -0300" stop="20250929043000 -0300" channel="ARTE 1 HD">
     <title lang="pt">As Múltiplas Faces de Mário: Encontros com Mário</title>
     <desc lang="pt"> - O autor Luis Ruffato, a cantora Ná Ozzetti, o compositor Luiz Tatit falam sobre a importância das correspondências de Mário de Andrade com outros autores brasileiros.</desc>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -6170,7 +6235,7 @@
   <programme start="20250929120000 -0300" stop="20250929123000 -0300" channel="ARTE 1 HD">
     <title lang="pt">As Múltiplas Faces de Mário: Encontros com Mário</title>
     <desc lang="pt"> - O autor Luis Ruffato, a cantora Ná Ozzetti, o compositor Luiz Tatit falam sobre a importância das correspondências de Mário de Andrade com outros autores brasileiros.</desc>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -6217,7 +6282,7 @@
   <programme start="20250929190000 -0300" stop="20250929191500 -0300" channel="ARTE 1 HD">
     <title lang="pt">Curta Arte 1: Museu do Ipiranga - USP 130 anos: Cadê Aquela Carruagem?</title>
     <desc lang="pt"> - O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
-    <episode-num system="xmltv_ns">26.3.</episode-num>
+    <episode-num system="xmltv_ns">28.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -8453,31 +8518,40 @@
     </rating>
   </programme>
   <programme start="20250929073500 -0300" stop="20250929081000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+    <title lang="pt">Rota Do Sabor</title>
+    <desc lang="pt"> - Um bom prato nunca é apenas a combinação de ingredientes de uma receita específica. É a soma das trajetórias, experiências e afetos da pessoa que prepara a comida.</desc>
     <episode-num system="xmltv_ns">6.271.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250929081000 -0300" stop="20250929084500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+    <title lang="pt">Sabor Vegetal</title>
+    <desc lang="pt"> - O programa 100% vegano convida o assinante a revisitar hábitos de forma leve e divertida, com pratos criativos, lindos e deliciosos.</desc>
     <episode-num system="xmltv_ns">7.271.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250929084500 -0300" stop="20250929092000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Rota Do Sabor</title>
-    <desc lang="pt"> - Um bom prato nunca é apenas a combinação de ingredientes de uma receita específica. É a soma das trajetórias, experiências e afetos da pessoa que prepara a comida.</desc>
+    <title lang="pt">Jantar O Quê?</title>
+    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
     <episode-num system="xmltv_ns">7.271.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250929092000 -0300" stop="20250929103000 -0300" channel="Sabor &amp; Arte">
+  <programme start="20250929092000 -0300" stop="20250929095500 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Jantar O Quê?</title>
+    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+    <episode-num system="xmltv_ns">8.271.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250929095500 -0300" stop="20250929103000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Adega Sabor &amp; Arte</title>
+    <sub-title lang="pt">Elia Jr</sub-title>
     <desc lang="pt"> - A Adega Sabor &amp; Arte traz jornalismo, história, dicas, editoriais, cobertura de eventos e produções especiais. O conteúdo usa a expertise de Christian Burgos, publisher da revista Adega, e de outros especialistas.</desc>
     <episode-num system="xmltv_ns">8.271.</episode-num>
     <rating system="Brazil">
@@ -8485,11 +8559,11 @@
     </rating>
   </programme>
   <programme start="20250929103000 -0300" stop="20250929110500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Sabor Vegetal</title>
-    <desc lang="pt"> - O programa 100% vegano convida o assinante a revisitar hábitos de forma leve e divertida, com pratos criativos, lindos e deliciosos.</desc>
+    <title lang="pt">Rota Do Sabor</title>
+    <desc lang="pt"> - Um bom prato nunca é apenas a combinação de ingredientes de uma receita específica. É a soma das trajetórias, experiências e afetos da pessoa que prepara a comida.</desc>
     <episode-num system="xmltv_ns">9.271.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250929110500 -0300" stop="20250929114000 -0300" channel="Sabor &amp; Arte">
@@ -8534,33 +8608,25 @@
     </rating>
   </programme>
   <programme start="20250929140000 -0300" stop="20250929143500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Hashi</title>
-    <desc lang="pt"> - No programa "Hashi" o chef Flávio Miyamura conduz o espectador à uma viagem pela culinária asiática para além dos clichês.</desc>
-    <episode-num system="xmltv_ns">13.271.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250929143500 -0300" stop="20250929151000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Chefs Digitais</title>
-    <sub-title lang="pt">Confeitaria no Ponto - Dário Héberson</sub-title>
+    <sub-title lang="pt">Cozinhe Comigo - Fernanda Martini e Maurício Cezarin</sub-title>
     <desc lang="pt"> - O canal Sabor &amp; Arte traz para a TV toda a diversidade, repertório e frescor dos chefs de cozinha que conquistam cada vez mais espaço a internet.</desc>
     <episode-num system="xmltv_ns">13.271.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250929151000 -0300" stop="20250929154500 -0300" channel="Sabor &amp; Arte">
+  <programme start="20250929143500 -0300" stop="20250929151000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Jantar O Quê?</title>
     <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
-    <episode-num system="xmltv_ns">14.271.</episode-num>
+    <episode-num system="xmltv_ns">13.271.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250929154500 -0300" stop="20250929162000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+  <programme start="20250929151000 -0300" stop="20250929162000 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Vida De Merendeira</title>
+    <desc lang="pt"> - O programa visa reconhecer o importante papel das merendeiras na promoção de uma alimentação adequada e saudável no ambiente escolar, além de incentivar a participação ativa da comunidade escolar.</desc>
     <episode-num system="xmltv_ns">14.271.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -8575,8 +8641,8 @@
     </rating>
   </programme>
   <programme start="20250929165500 -0300" stop="20250929173000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Le Cordon Bleu</title>
-    <desc lang="pt"> - Sejam bem vindos a Le Cordon Bleu, a mais tradicional escola de gastronomia do mundo, que pela primeira vez mostrará os segredos de suas aulas na televisão.</desc>
+    <title lang="pt">Hashi</title>
+    <desc lang="pt"> - No programa "Hashi" o chef Flávio Miyamura conduz o espectador à uma viagem pela culinária asiática para além dos clichês.</desc>
     <episode-num system="xmltv_ns">15.271.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -10077,28 +10143,26 @@
     <title lang="pt">VT - Famalicão x Rio Ave</title>
     <desc lang="pt"> - Liga Portugal: Clubes históricos, confrontos acirrados e craques em busca da glória nacional e continental.</desc>
   </programme>
-  <programme start="20250929153000 -0300" stop="20250929155000 -0300" channel="Xsports HD">
-    <title lang="pt">Tapete Verde - Ao Vivo</title>
-    <desc lang="pt"> - Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">74.271.</episode-num>
+  <programme start="20250929153000 -0300" stop="20250929173000 -0300" channel="Xsports HD">
+    <title lang="pt">VT - Manchester United x Burnley</title>
+    <desc lang="pt"> - Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
   </programme>
-  <programme start="20250929155000 -0300" stop="20250929180000 -0300" channel="Xsports HD">
-    <title lang="pt">Valencia x Real Oviedo - Ao Vivo</title>
-    <desc lang="pt"> - Valencia e Real Oviedo jogam pela 7ª rodada do Primeiro Turno da Campeonato La Liga, Série A, no Mestalla.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250929180000 -0300" stop="20250929190000 -0300" channel="Xsports HD">
+  <programme start="20250929173000 -0300" stop="20250929183000 -0300" channel="Xsports HD">
     <title lang="pt">Global Champions League - 1ª Rodada: Etapa de Viena - Áustria</title>
     <desc lang="pt"> - Hipismo: saltos, adestramento e provas de resistência em um esporte de precisão e elegância, onde cavalo e cavaleiro formam uma parceria perfeita.</desc>
   </programme>
-  <programme start="20250929190000 -0300" stop="20250929210000 -0300" channel="Xsports HD">
+  <programme start="20250929183000 -0300" stop="20250929203000 -0300" channel="Xsports HD">
     <title lang="pt">Global Champions League - 2ª Rodada: Etapa de Viena - Áustria</title>
     <desc lang="pt"> - Hipismo: saltos, adestramento e provas de resistência em um esporte de precisão e elegância, onde cavalo e cavaleiro formam uma parceria perfeita.</desc>
   </programme>
-  <programme start="20250929210000 -0300" stop="20250929230000 -0300" channel="Xsports HD">
+  <programme start="20250929203000 -0300" stop="20250929223000 -0300" channel="Xsports HD">
     <title lang="pt">VT - Barcelona x Real Sociedad</title>
     <desc lang="pt"> - La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+  </programme>
+  <programme start="20250929223000 -0300" stop="20250929230000 -0300" channel="Xsports HD">
+    <title lang="pt">Especial Gols Pelo Mundo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">71.271.</episode-num>
   </programme>
   <programme start="20250929230000 -0300" stop="20250930020000 -0300" channel="Xsports HD">
     <title lang="pt">Especial Gols Pelo Mundo</title>
@@ -25280,8 +25344,8 @@
     </rating>
   </programme>
   <programme start="20250929100000 -0300" stop="20250929110000 -0300" channel="MTV 00's">
-    <title lang="pt">2004 Replay!</title>
-    <desc lang="pt"> - Entre na máquina do tempo da MTV e embarque em uma viagem ao passado. O destino é o ano de 2004 e a missão é muito simples: tocar todas aquelas músicas que um dia roubaram corações e dominaram as paradas.</desc>
+    <title lang="pt">2003 Replay!</title>
+    <desc lang="pt"> - Viaje de volta para 2003 com as músicas que roubaram os corações e dominaram as paradas.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -30504,7 +30568,7 @@
   </programme>
   <programme start="20250929015200 -0300" stop="20250929033100 -0300" channel="CINEMAX HD">
     <title lang="pt">Sem Limites</title>
-    <desc lang="pt"> - O escritor medíocre Eddie Morra experimenta uma nova droga capaz de potencializar a capacidade cerebral. Agora uma versão perfeita de si mesmo, ele descobre que o aprimoramento pode custar muito caro.</desc>
+    <desc lang="pt"> - Com a ajuda de uma pílula que permite ao usuário acessar 100% de suas habilidades cerebrais, um escritor vira um mago das finanças, mas também conhece um mundo cheio de perigos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -31309,53 +31373,88 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250928212500 -0300" stop="20250929012500 -0300" channel="TELECINE ACTION">
+  <programme start="20250928212500 -0300" stop="20250929013050 -0300" channel="TELECINE ACTION">
     <title lang="pt">Programação Telecine</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250929012500 -0300" stop="20250929052500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929013050 -0300" stop="20250929035045 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Bacurau</title>
+    <desc lang="pt"> - No sertão brasileiro, Bacurau acaba de perder dona Carmelita, uma moradora respeitada por todos.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250929052500 -0300" stop="20250929092500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929035045 -0300" stop="20250929061049 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Viking</title>
+    <desc lang="pt"> - Vladimir é exilado após a morte do pai, o rei de Kievan Rus. Com seu traiçoeiro meio-irmão no controle, o príncipe herdeiro e seu exército viking tentam retomar o trono.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929092500 -0300" stop="20250929132500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929061049 -0300" stop="20250929081056 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Largo Winch II - A Conspiração Burma</title>
+    <desc lang="pt"> - No dia em que anuncia a venda de sua empresa, Largo Winch é vítima de uma armação, sendo acusado de crimes que não cometeu.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929132500 -0300" stop="20250929172500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929081056 -0300" stop="20250929095051 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Noite Sangrenta</title>
+    <desc lang="pt"> - Um grupo de invasores interrompe uma despedida de solteira. O que eles não esperavam é que entre as convidadas teria Tess, uma veterana de guerra pronta para contra-atacar.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250929172500 -0300" stop="20250929212500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929095051 -0300" stop="20250929112052 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Distrito 666</title>
+    <desc lang="pt"> - Num mundo distópico em 2042, jovens descobrem segredos do governo sobre a pandemia. Lutando contra a opressão, eles tentam sobreviver e confinamento absoluto.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929212500 -0300" stop="20250930012500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250929112052 -0300" stop="20250929130553 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Céu em Chamas (2019)</title>
+    <desc lang="pt"> - Após uma erupção vulcânica matar sua esposa, Li prometeu que nunca mais voltaria à Ilha de Tianhuo. Vinte anos depois, ao quebrar sua promessa e retornar ao local, ele precisará impedir um desastre.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250929130553 -0300" stop="20250929150047 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Missão Resgate</title>
+    <desc lang="pt"> - Uma mina remota de diamantes desmorona no norte do Canadá. Mike, um motorista de estrada de gelo, deve conduzir uma missão de resgate impossível para salvar os mineiros presos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250929150047 -0300" stop="20250929165549 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt"> - Ray é um agente secreto e precisa transportar um objeto valioso. No caminho, ele conhece Jane, que acaba envolvida na missão. Agora ele terá que fazer de tudo para protegê-la e concluir a tarefa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250929165549 -0300" stop="20250929183551 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Blitz</title>
+    <desc lang="pt"> - O sargento Brent vive um momento conturbado: sob julgamento por agressão, ele vê o esquadrão no qual trabalha ser abandonado. Para se reerguer, Brent vai atrás de Blitz, um serial killer de policiais.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250929183551 -0300" stop="20250929202044 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Atirador Fantasma</title>
+    <desc lang="pt"> - O sniper Beckett deve proteger um gasoduto que está exposto a ataques de um grupo terrorista. Em meio à missão, a morte de um agente levanta a suspeita de que possa haver um traidor no time.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250929202044 -0300" stop="20250930000500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Legado Explosivo</title>
+    <desc lang="pt"> - Tom é um assaltante de banco que decide deixar o mundo do crime após se apaixonar por Annie. Ele só não contava que, ao tentar levar uma vida honesta, seria engando por agentes corruptos do FBI.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250928233500 -0300" stop="20250929014500 -0300" channel="TELECINE TOUCH">
@@ -32443,35 +32542,35 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929155100 -0300" stop="20250929175600 -0300" channel="HBO">
+  <programme start="20250929155100 -0300" stop="20250929174400 -0300" channel="HBO">
     <title lang="pt">Missão de Sobrevivência</title>
     <desc lang="pt"> - Um agente disfarçado da CIA fica preso em território hostil no Afeganistão depois que sua missão é exposta. Acompanhado por seu tradutor, ele precisa lutar contra combatentes inimigos enquanto tenta chegar a um ponto de ex...</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929175600 -0300" stop="20250929203100 -0300" channel="HBO">
+  <programme start="20250929174400 -0300" stop="20250929202000 -0300" channel="HBO">
     <title lang="pt">A Origem</title>
     <desc lang="pt"> - Dom Cobb é um habilidoso ladrão, o melhor na perigosa arte da extração, o roubo de segredos valiosos das profundezas do inconsciente durante o sono com sonhos, quando a mente está mais vulnerável.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929203100 -0300" stop="20250929221100 -0300" channel="HBO">
+  <programme start="20250929202000 -0300" stop="20250929220000 -0300" channel="HBO">
     <title lang="pt">Fale Comigo</title>
     <desc lang="pt"> - Inspirado na história real de Ralph Waldo Petey Greene, o filme retrata a luta do ativista negro contra o preconceito racial em uma rádio exclusiva para brancos na década de 60.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250929221100 -0300" stop="20250929235800 -0300" channel="HBO">
+  <programme start="20250929220000 -0300" stop="20250929235800 -0300" channel="HBO">
     <title lang="pt">Tropa de Elite</title>
     <desc lang="pt"> - Um capitão do BOPE quer deixar o posto e busca um substituto, ao mesmo tempo em que 2 amigos se destacam por sua honestidade como policiais.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250929235800 -0300" stop="20250930005900 -0300" channel="HBO">
+  <programme start="20250929235800 -0300" stop="20250930004700 -0300" channel="HBO">
     <title lang="pt">Máscaras de Oxigênio Não Cairão Automaticamente</title>
     <desc lang="pt"> - Já se passaram vários meses desde o fim do contrabando e Nando ficou sem AZT. No entanto, após reencontrar Caio, ele transforma sua tristeza em espírito de luta e, com o apoio de Raul, organiza uma manifestação contra...</desc>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -37612,7 +37711,7 @@
   <programme start="20250929151500 -0300" stop="20250929160000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -37649,7 +37748,7 @@
   <programme start="20250929193000 -0300" stop="20250929200000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -37686,7 +37785,7 @@
   <programme start="20250929234500 -0300" stop="20250930003000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -40646,7 +40745,7 @@
     </rating>
   </programme>
   <programme start="20250930014500 -0300" stop="20250930023000 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt"> - Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
     <episode-num system="xmltv_ns">0.272.</episode-num>
     <rating system="Brazil">
@@ -40683,65 +40782,63 @@
   </programme>
   <programme start="20250930140000 -0300" stop="20250930144500 -0300" channel="SBT São Paulo">
     <title lang="pt">Maria do Bairro</title>
-    <desc lang="pt"> - Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+    <desc lang="pt"> - Nandinho diz para Soraya que Luís Fernando pediu para que ele se afastasse dela. Nandinho ouve a voz de Vitória e fica com medo dela surpreendê-lo.</desc>
     <episode-num system="xmltv_ns">73.272.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930144500 -0300" stop="20250930153000 -0300" channel="SBT São Paulo">
+  <programme start="20250930144500 -0300" stop="20250930154500 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt"> - Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt"> - Fingida, Rubi fala para Heitor passar a noite com ela e depois que se afaste para sempre. Marcos pede para Cristina ser sua namorada.</desc>
     <episode-num system="xmltv_ns">73.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930153000 -0300" stop="20250930164500 -0300" channel="SBT São Paulo">
-    <title lang="pt">Fofocalizando</title>
-    <desc lang="pt"> - Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
-    <episode-num system="xmltv_ns">14.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20250930154500 -0300" stop="20250930180000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Chelsea (ING) x Benfica (POR) - ao vivo</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250930164500 -0300" stop="20250930173000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Casos de Família</title>
-    <desc lang="pt"> - Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
-    <episode-num system="xmltv_ns">15.272.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250930173000 -0300" stop="20250930183000 -0300" channel="SBT São Paulo">
+  <programme start="20250930180000 -0300" stop="20250930183000 -0300" channel="SBT São Paulo">
     <title lang="pt">Aqui Agora</title>
     <desc lang="pt"> - Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
-    <episode-num system="xmltv_ns">76.272.</episode-num>
+    <episode-num system="xmltv_ns">77.272.</episode-num>
   </programme>
   <programme start="20250930183000 -0300" stop="20250930194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt"> - Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt"> - Lúcia conversa com Otávio sobre a festa que farão em ''homenagem'' a Maricruz. Otávio diz a Maricruz que ela é a única mulher que amou na vida.</desc>
     <episode-num system="xmltv_ns">77.272.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930194500 -0300" stop="20250930211500 -0300" channel="SBT São Paulo">
+  <programme start="20250930194500 -0300" stop="20250930210000 -0300" channel="SBT São Paulo">
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt"> - Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
     <episode-num system="xmltv_ns">78.272.</episode-num>
   </programme>
-  <programme start="20250930211500 -0300" stop="20250930231500 -0300" channel="SBT São Paulo">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt"> - Sinopse não Disponível.</desc>
-  </programme>
-  <programme start="20250930231500 -0300" stop="20251001001500 -0300" channel="SBT São Paulo">
-    <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-    <episode-num system="xmltv_ns">22.272.</episode-num>
+  <programme start="20250930210000 -0300" stop="20250930221500 -0300" channel="SBT São Paulo">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt"> - Paula descobre que a polícia ainda está investigando o ocorrido e tentará eliminar as provas que a incriminam. Enquanto isso, Camila descobre que sua gravidez é de alto risco.</desc>
+    <episode-num system="xmltv_ns">70.272.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20250930221500 -0300" stop="20250930231500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <episode-num system="xmltv_ns">21.272.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250930231500 -0300" stop="20251001001500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Repórter</title>
+    <desc lang="pt"> - O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+    <episode-num system="xmltv_ns">72.272.</episode-num>
   </programme>
   <programme start="20250930000000 -0300" stop="20250930001500 -0300" channel="CULTURA HD">
     <title lang="pt">Trip FM</title>
@@ -42651,76 +42748,67 @@
     <episode-num system="xmltv_ns">74.272.</episode-num>
   </programme>
   <programme start="20250930060000 -0300" stop="20250930070000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição das 06h</title>
     <desc lang="pt"> - As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">5.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">75.272.</episode-num>
   </programme>
   <programme start="20250930070000 -0300" stop="20250930093000 -0300" channel="GLOBONEWS">
-    <title lang="pt">VT - GloboNews em Ponto - Ao Vivo</title>
+    <title lang="pt">VT - GloboNews em Ponto</title>
     <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
-    <category lang="en">live broadcast</category>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">76.272.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250930093000 -0300" stop="20250930130000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
-    <desc lang="pt"> - A notícia de um jeito único. Apresentado por Leilane Neubarth e Camila Bomfim, de Brasília.</desc>
-    <category lang="en">live broadcast</category>
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">78.272.</episode-num>
   </programme>
   <programme start="20250930130000 -0300" stop="20250930160000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <title lang="pt">Estúdio I</title>
     <desc lang="pt"> - Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">12.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">72.272.</episode-num>
   </programme>
   <programme start="20250930160000 -0300" stop="20250930180000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+    <title lang="pt">GloboNews Mais</title>
     <desc lang="pt"> - Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
-    <category lang="en">live broadcast</category>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">75.272.</episode-num>
   </programme>
   <programme start="20250930180000 -0300" stop="20250930200000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 18h</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">17.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">77.272.</episode-num>
   </programme>
-  <programme start="20250930200000 -0300" stop="20250930220000 -0300" channel="GLOBONEWS">
+  <programme start="20250930200000 -0300" stop="20250930213000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Pauta</title>
     <desc lang="pt"> - Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">69.272.</episode-num>
     <previously-shown />
   </programme>
+  <programme start="20250930213000 -0300" stop="20250930220000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Debate</title>
+    <desc lang="pt"> - GloboNews Debate promove discussões sobre temas de repercussão. Convidados com visões distintas falam sobre política, economia, segurança e comportamento.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">70.272.</episode-num>
+  </programme>
   <programme start="20250930220000 -0300" stop="20250930233000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">21.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">71.272.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250930233000 -0300" stop="20251001000000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Roberto D'Avila</title>
+    <title lang="pt">Roberto D'avila</title>
     <desc lang="pt"> - Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">22.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">72.272.</episode-num>
   </programme>
   <programme start="20250929234700 -0300" stop="20250930002400 -0300" channel="GNT HD">
     <title lang="pt">Conversa Com Bial</title>
@@ -42761,7 +42849,7 @@
     <title lang="pt">Por Trás Do Prato</title>
     <sub-title lang="pt">Torresmo &amp; Rillon e embutidos</sub-title>
     <desc lang="pt"> - Se o torresmo brasileiro é acompanhado por uma cachaça, o rillon é servido com vinho.Visitamos os dois preparos, assim como a tradição dos embutidos na França e no Brasil.</desc>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">29.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -42833,7 +42921,7 @@
     <title lang="pt">Especial Negr</title>
     <sub-title lang="pt">Negritudes</sub-title>
     <desc lang="pt"> - Edição de 3 edições do evento "Negritudes".</desc>
-    <episode-num system="xmltv_ns">27.2.</episode-num>
+    <episode-num system="xmltv_ns">29.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -42972,7 +43060,8 @@
   </programme>
   <programme start="20250930224600 -0300" stop="20250930233400 -0300" channel="GNT HD">
     <title lang="pt">Sua Maravilhosa</title>
-    <desc lang="pt"> - "Nesse divertido e emocionante reality, Sabrina Sato vai usar todo seu carisma e network pra dar um up na vida de uma mulher comum.</desc>
+    <sub-title lang="pt">A Maravilhosa Lenda do Pijama Eterno</sub-title>
+    <desc lang="pt"> - Após uma vida de luta e dedicação, Rute se tornou uma pessoa muito caseira. A missão de Sabrina e squad é tirar essa maravilhosa de casa e provar que existe uma vida linda lá fora.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -46081,7 +46170,7 @@
   <programme start="20250930163000 -0300" stop="20250930170000 -0300" channel="ARTE 1 HD">
     <title lang="pt">As Múltiplas Faces de Mário: Encontros com Mário</title>
     <desc lang="pt"> - O autor Luis Ruffato, a cantora Ná Ozzetti, o compositor Luiz Tatit falam sobre a importância das correspondências de Mário de Andrade com outros autores brasileiros.</desc>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -46136,7 +46225,7 @@
   <programme start="20250930224500 -0300" stop="20250930230000 -0300" channel="ARTE 1 HD">
     <title lang="pt">Curta Arte 1: Museu do Ipiranga - USP 130 anos: Cadê Aquela Carruagem?</title>
     <desc lang="pt"> - O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
-    <episode-num system="xmltv_ns">26.3.</episode-num>
+    <episode-num system="xmltv_ns">28.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -48311,14 +48400,22 @@
     </rating>
   </programme>
   <programme start="20250930073500 -0300" stop="20250930081000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+    <title lang="pt">O Melhor Prato</title>
+    <desc lang="pt"> - Receitas fáceis para o dia dia e dicas de como deixar sua comida de casa com gosto de comida de restaurante.</desc>
     <episode-num system="xmltv_ns">6.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20250930081000 -0300" stop="20250930084500 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Direto da Brasa</title>
+    <desc lang="pt"> - Com a autoridade de ser uma das primeiras "Pitmasters" do Brasil, Paula Labaki faz parte do seleto grupo de mestres churrasqueiros que divulgam a carne, a brasa e os preparos pelo Brasil.</desc>
+    <episode-num system="xmltv_ns">7.272.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930084500 -0300" stop="20250930092000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Jantar O Quê?</title>
     <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
     <episode-num system="xmltv_ns">7.272.</episode-num>
@@ -48326,17 +48423,9 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930084500 -0300" stop="20250930092000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">O Melhor Prato</title>
-    <desc lang="pt"> - Receitas fáceis para o dia dia e dicas de como deixar sua comida de casa com gosto de comida de restaurante.</desc>
-    <episode-num system="xmltv_ns">7.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20250930092000 -0300" stop="20250930095500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Direto da Brasa</title>
-    <desc lang="pt"> - Com a autoridade de ser uma das primeiras "Pitmasters" do Brasil, Paula Labaki faz parte do seleto grupo de mestres churrasqueiros que divulgam a carne, a brasa e os preparos pelo Brasil.</desc>
+    <title lang="pt">Jantar O Quê?</title>
+    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
     <episode-num system="xmltv_ns">8.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -48399,34 +48488,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930140000 -0300" stop="20250930143500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Bons Drinks</title>
-    <desc lang="pt"> - A oportunidade de levar a experiência do bar para sua casa chegou! A atração ensina a preparar e apreciar coquetéis incríveis e famosos.</desc>
+  <programme start="20250930140000 -0300" stop="20250930151000 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Vida De Merendeira</title>
+    <desc lang="pt"> - O programa visa reconhecer o importante papel das merendeiras na promoção de uma alimentação adequada e saudável no ambiente escolar, além de incentivar a participação ativa da comunidade escolar.</desc>
     <episode-num system="xmltv_ns">13.272.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250930143500 -0300" stop="20250930151000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Chefs Digitais</title>
-    <sub-title lang="pt">Papo de Cozinha Com Vivian Araujo E Patrick Maia</sub-title>
-    <desc lang="pt"> - Não existe coisa melhor no Mundo do que receber em nossa casa pessoas especiais e cheias de histórias. Quer coisa melhor do que cozinhar, comer, beber e dar boas risadas? Esse é o Papo de Cozinha com Vivian Araujo</desc>
-    <episode-num system="xmltv_ns">13.272.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20250930151000 -0300" stop="20250930154500 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
-    <episode-num system="xmltv_ns">14.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930154500 -0300" stop="20250930162000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Jantar O Quê?</title>
-    <desc lang="pt"> - Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
+  <programme start="20250930151000 -0300" stop="20250930162000 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Vida De Merendeira</title>
+    <desc lang="pt"> - O programa visa reconhecer o importante papel das merendeiras na promoção de uma alimentação adequada e saudável no ambiente escolar, além de incentivar a participação ativa da comunidade escolar.</desc>
     <episode-num system="xmltv_ns">14.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -48441,11 +48513,11 @@
     </rating>
   </programme>
   <programme start="20250930165500 -0300" stop="20250930173000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Le Cordon Bleu</title>
-    <desc lang="pt"> - Sejam bem vindos a Le Cordon Bleu, a mais tradicional escola de gastronomia do mundo, que pela primeira vez mostrará os segredos de suas aulas na televisão.</desc>
+    <title lang="pt">Bons Drinks</title>
+    <desc lang="pt"> - A oportunidade de levar a experiência do bar para sua casa chegou! A atração ensina a preparar e apreciar coquetéis incríveis e famosos.</desc>
     <episode-num system="xmltv_ns">15.272.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250930173000 -0300" stop="20250930180000 -0300" channel="Sabor &amp; Arte">
@@ -48482,8 +48554,8 @@
     </rating>
   </programme>
   <programme start="20250930193000 -0300" stop="20250930200000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Origens do Sabor</title>
-    <desc lang="pt"> - No programa Origens do Sabor, o jornalista e cozinheiro Renato Bueno viaja pelo Brasil, visitando cidades e descobrindo ingredientes.</desc>
+    <title lang="pt">Que Seja Eterno Enquanto Cure</title>
+    <desc lang="pt"> - Em cada episódio, Dudu Prado, queijista profissional, garimpa por todo esse Brasil, os melhores produtores de queijos artesanais, que já estão entre os melhores do mundo.</desc>
     <episode-num system="xmltv_ns">18.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -48529,20 +48601,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930230000 -0300" stop="20250930233000 -0300" channel="Sabor &amp; Arte">
+  <programme start="20250930230000 -0300" stop="20251001000000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Adega Sabor &amp; Arte</title>
     <desc lang="pt"> - A Adega Sabor &amp; Arte traz jornalismo, história, dicas, editoriais, cobertura de eventos e produções especiais. O conteúdo usa a expertise de Christian Burgos, publisher da revista Adega, e de outros especialistas.</desc>
     <episode-num system="xmltv_ns">22.272.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930233000 -0300" stop="20251001000000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Rota Do Sabor</title>
-    <desc lang="pt"> - Um bom prato nunca é apenas a combinação de ingredientes de uma receita específica. É a soma das trajetórias, experiências e afetos da pessoa que prepara a comida.</desc>
-    <episode-num system="xmltv_ns">22.272.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20250929230000 -0300" stop="20250930010000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -49546,62 +49610,62 @@
     </rating>
   </programme>
   <programme start="20250930000000 -0300" stop="20250930010000 -0300" channel="Nsports HD">
-    <title lang="pt">Beach Tennis: A Praia do Brasil</title>
-    <desc lang="pt"> - O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <episode-num system="xmltv_ns">69.272.</episode-num>
   </programme>
-  <programme start="20250930010000 -0300" stop="20250930020000 -0300" channel="Nsports HD">
+  <programme start="20250930010000 -0300" stop="20250930014500 -0300" channel="Nsports HD">
     <title lang="pt">GG Pôquer</title>
     <desc lang="pt"> - Toda semana alguns dos maiores jogadores profissionais de pôquer se encontram em Las Vegas para participar de uma mesa exclusiva de Texas Hold 'Em.</desc>
   </programme>
-  <programme start="20250930020000 -0300" stop="20250930034500 -0300" channel="Nsports HD">
-    <title lang="pt">Copa Pickleball</title>
-    <desc lang="pt"> - COPA PICKLEBALL - BRASIL x MUNDO - A seleção Brasileira enfrenta os melhores do mundo em um duelo de melhor de 5 partidas.</desc>
+  <programme start="20250930014500 -0300" stop="20250930020000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
   </programme>
-  <programme start="20250930034500 -0300" stop="20250930040000 -0300" channel="Nsports HD">
+  <programme start="20250930020000 -0300" stop="20250930033000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - United Cup - EUA x Tchéquia</title>
+    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+  </programme>
+  <programme start="20250930033000 -0300" stop="20250930051500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - United Cup - EUA x Tchéquia</title>
+    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+  </programme>
+  <programme start="20250930051500 -0300" stop="20250930063000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - United Cup - EUA x Tchéquia</title>
+    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+  </programme>
+  <programme start="20250930063000 -0300" stop="20250930070000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930040000 -0300" stop="20250930051500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - United Cup - Cazaquistão x Polônia</title>
-    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+  <programme start="20250930070000 -0300" stop="20250930080000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <episode-num system="xmltv_ns">76.272.</episode-num>
   </programme>
-  <programme start="20250930051500 -0300" stop="20250930074500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - United Cup - Cazaquistão x Polônia</title>
-    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+  <programme start="20250930080000 -0300" stop="20250930091500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - EHF Champions League - Montpellier x Flensburg</title>
+    <desc lang="pt"> - Acompanhe na NSports a EHF FINAL4 Feminina 2025 é o destaque indiscutível do handebol feminino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
   </programme>
-  <programme start="20250930074500 -0300" stop="20250930080000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - United Cup - Cazaquistão x Polônia</title>
-    <desc lang="pt"> - Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
-  </programme>
-  <programme start="20250930080000 -0300" stop="20250930090000 -0300" channel="Nsports HD">
-    <title lang="pt">Especial: El Clásico Golf Cup</title>
-    <desc lang="pt"> - Lendas de Real Madrid e Barcelona voltam a campo para mais um El Clásico, só que dessa vez a disputa é no golfe.</desc>
-  </programme>
-  <programme start="20250930090000 -0300" stop="20250930104500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Fenerbahce (TUR) x Feyenoord (HOL)</title>
-    <desc lang="pt"> - A nova temporada da Champions League está para começar! Mas ainda há vagas a serem disputadas. Fernebahçe e Feyenoord querem entrar de vez no torneio edisputam entre si uma vaga.</desc>
-  </programme>
-  <programme start="20250930104500 -0300" stop="20250930110000 -0300" channel="Nsports HD">
+  <programme start="20250930091500 -0300" stop="20250930093000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
   </programme>
-  <programme start="20250930110000 -0300" stop="20250930113000 -0300" channel="Nsports HD">
-    <title lang="pt">Fala Comigo</title>
-    <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
-    <episode-num system="xmltv_ns">0.272.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20250930093000 -0300" stop="20250930094500 -0300" channel="Nsports HD">
+    <title lang="pt">Boletim Rally</title>
+    <desc lang="pt"> - O Campeonato Mundial de Rali (WRC) é a categoria máxima do rali, organizada pela FIA, disputada em terrenos como asfalto, terra, neve e cascalho.</desc>
+    <episode-num system="xmltv_ns">78.272.</episode-num>
   </programme>
-  <programme start="20250930113000 -0300" stop="20250930120000 -0300" channel="Nsports HD">
-    <title lang="pt">Quinestesia</title>
-    <desc lang="pt"> - Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
+  <programme start="20250930094500 -0300" stop="20250930110000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Daegu (KOR) x Barcelona (ESP)</title>
+    <desc lang="pt"> - A nova temporada dos campeonatos europeus está chegando. E para abrirmos os trabalhos, os principais times internacionais se juntam para disputar amistosos e se preparar nessa pré-temporada.</desc>
+  </programme>
+  <programme start="20250930110000 -0300" stop="20250930120000 -0300" channel="Nsports HD">
+    <title lang="pt">Beach Tennis: A Praia do Brasil</title>
+    <desc lang="pt"> - O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -49612,53 +49676,6 @@
     <episode-num system="xmltv_ns">71.272.</episode-num>
   </programme>
   <programme start="20250930121500 -0300" stop="20250930123000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-  </programme>
-  <programme start="20250930123000 -0300" stop="20250930130000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930130000 -0300" stop="20250930140000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt"> - Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <episode-num system="xmltv_ns">72.272.</episode-num>
-  </programme>
-  <programme start="20250930140000 -0300" stop="20250930154500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Daegu (KOR) x Barcelona (ESP)</title>
-    <desc lang="pt"> - A nova temporada dos campeonatos europeus está chegando. E para abrirmos os trabalhos, os principais times internacionais se juntam para disputar amistosos e se preparar nessa pré-temporada.</desc>
-  </programme>
-  <programme start="20250930154500 -0300" stop="20250930161500 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930161500 -0300" stop="20250930171500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Guatemala</title>
-    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
-  </programme>
-  <programme start="20250930171500 -0300" stop="20250930180000 -0300" channel="Nsports HD">
-    <title lang="pt">Ewc</title>
-    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
-  </programme>
-  <programme start="20250930180000 -0300" stop="20250930191500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - EHF Champions League - Feminino - Gyori Audi x Team Esbjerg</title>
-    <desc lang="pt"> - Acompanhe na NSports a EHF FINAL  é o destaque indiscutível do handebol masculino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
-  </programme>
-  <programme start="20250930191500 -0300" stop="20250930193000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-  </programme>
-  <programme start="20250930193000 -0300" stop="20250930204500 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Guatemala</title>
-    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
-  </programme>
-  <programme start="20250930204500 -0300" stop="20250930210000 -0300" channel="Nsports HD">
     <title lang="pt">Fala Comigo</title>
     <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
     <episode-num system="xmltv_ns">0.272.</episode-num>
@@ -49666,19 +49683,111 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20250930123000 -0300" stop="20250930141500 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <episode-num system="xmltv_ns">71.272.</episode-num>
+  </programme>
+  <programme start="20250930141500 -0300" stop="20250930143000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">13.272.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930143000 -0300" stop="20250930150000 -0300" channel="Nsports HD">
+    <title lang="pt">Quinestesia</title>
+    <desc lang="pt"> - Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930150000 -0300" stop="20250930154500 -0300" channel="Nsports HD">
+    <title lang="pt">Ewc</title>
+    <desc lang="pt"> - Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
+  </programme>
+  <programme start="20250930154500 -0300" stop="20250930160000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">14.272.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930160000 -0300" stop="20250930161500 -0300" channel="Nsports HD">
+    <title lang="pt">Boletim Rally</title>
+    <desc lang="pt"> - O Campeonato Mundial de Rali (WRC) é a categoria máxima do rali, organizada pela FIA, disputada em terrenos como asfalto, terra, neve e cascalho.</desc>
+    <episode-num system="xmltv_ns">75.272.</episode-num>
+  </programme>
+  <programme start="20250930161500 -0300" stop="20250930171500 -0300" channel="Nsports HD">
+    <title lang="pt">VT - EHF Champions League - Gyori Audi x Team Esbjerg</title>
+    <desc lang="pt"> - Acompanhe na NSports a EHF FINAL4 Feminina 2025 é o destaque indiscutível do handebol feminino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
+  </programme>
+  <programme start="20250930171500 -0300" stop="20250930173000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt"> - Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+  </programme>
+  <programme start="20250930173000 -0300" stop="20250930183000 -0300" channel="Nsports HD">
+    <title lang="pt">Beach Tennis: A Praia do Brasil</title>
+    <desc lang="pt"> - O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930183000 -0300" stop="20250930184500 -0300" channel="Nsports HD">
+    <title lang="pt">Fala Comigo</title>
+    <desc lang="pt"> - Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
+    <episode-num system="xmltv_ns">0.272.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930184500 -0300" stop="20250930203000 -0300" channel="Nsports HD">
+    <title lang="pt">Na Raça: O DNA do Atleta Brasileiro</title>
+    <desc lang="pt"> - O documentário trata do esporte brasileiro sob diferentes perspectivas - médica, psicológica e social - na tentativa de compreender a importância das nossas origens na construção de ídolos nacionais.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930203000 -0300" stop="20250930204500 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt"> - Os mais "Brabos" do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930204500 -0300" stop="20250930210000 -0300" channel="Nsports HD">
+    <title lang="pt">Boletim Rally</title>
+    <desc lang="pt"> - O Campeonato Mundial de Rali (WRC) é a categoria máxima do rali, organizada pela FIA, disputada em terrenos como asfalto, terra, neve e cascalho.</desc>
+    <episode-num system="xmltv_ns">69.272.</episode-num>
+  </programme>
   <programme start="20250930210000 -0300" stop="20250930211500 -0300" channel="Nsports HD">
     <title lang="pt">Giro Nsports</title>
     <desc lang="pt"> - Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
     <episode-num system="xmltv_ns">70.272.</episode-num>
   </programme>
-  <programme start="20250930211500 -0300" stop="20250930223000 -0300" channel="Nsports HD">
+  <programme start="20250930211500 -0300" stop="20250930221500 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
     <desc lang="pt"> - O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
     <episode-num system="xmltv_ns">70.272.</episode-num>
   </programme>
-  <programme start="20250930223000 -0300" stop="20251001000000 -0300" channel="Nsports HD">
-    <title lang="pt">VT - Legends Charity Game - Portugal x Mundo</title>
-    <desc lang="pt"> - "Legends Charity Game" é um jogo-beneficente de futebol que reunirá lendas de Portugal e de várias partes do mundo para disputar uma partida em Lisboa, no dia 15 de setembro de 2025.</desc>
+  <programme start="20250930221500 -0300" stop="20250930223000 -0300" channel="Nsports HD">
+    <title lang="pt">Boletim Rally</title>
+    <desc lang="pt"> - O Campeonato Mundial de Rali (WRC) é a categoria máxima do rali, organizada pela FIA, disputada em terrenos como asfalto, terra, neve e cascalho.</desc>
+    <episode-num system="xmltv_ns">71.272.</episode-num>
+  </programme>
+  <programme start="20250930223000 -0300" stop="20250930224500 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <episode-num system="xmltv_ns">21.272.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20250930224500 -0300" stop="20251001000000 -0300" channel="Nsports HD">
+    <title lang="pt">VT - Torneio Internacional de Futsal Feminino - Brasil x Colômbia</title>
+    <desc lang="pt"> - O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
   </programme>
   <programme start="20250929224500 -0300" stop="20250930003000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - América-MX x Pumas</title>
@@ -50069,15 +50178,15 @@
     <desc lang="pt"> - O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250930140000 -0300" stop="20250930150000 -0300" channel="ESPN 2">
+  <programme start="20250930140000 -0300" stop="20250930170000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB Wild Card: Detroit Tigers x Cleveland Guardians - Ao Vivo</title>
+    <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20250930170000 -0300" stop="20250930180000 -0300" channel="ESPN 2">
     <title lang="pt">VT - NFL: New Orleans Saints x Buffalo Bills</title>
     <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20250930150000 -0300" stop="20250930180000 -0300" channel="ESPN 2">
-    <title lang="pt">MLB Wild Card - Ao Vivo</title>
-    <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250930180000 -0300" stop="20250930183000 -0300" channel="ESPN 2">
     <title lang="pt">ATP Tour: This Week</title>
@@ -50103,17 +50212,22 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20250930200000 -0300" stop="20250930210000 -0300" channel="ESPN 2">
+    <title lang="pt">Laver Cup Review Show</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250930210000 -0300" stop="20250930213000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt"> - Apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte em alto nível.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250930213000 -0300" stop="20250930223000 -0300" channel="ESPN 2">
     <title lang="pt">VT - NFL: Indianapolis Colts x Los Angeles Rams</title>
     <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250930210000 -0300" stop="20250930230000 -0300" channel="ESPN 2">
-    <title lang="pt">WNBA Playoffs - Ao Vivo</title>
-    <desc lang="pt"> - A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20250930230000 -0300" stop="20251001010000 -0300" channel="ESPN 2">
-    <title lang="pt">WNBA Playoffs - Ao Vivo</title>
+  <programme start="20250930223000 -0300" stop="20251001003000 -0300" channel="ESPN 2">
+    <title lang="pt">WNBA Playoffs: Indiana Fever x Las Vegas Aces - Ao Vivo</title>
     <desc lang="pt"> - A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
     <category lang="en">live broadcast</category>
   </programme>
@@ -50187,18 +50301,23 @@
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250930153000 -0300" stop="20250930170000 -0300" channel="ESPN 3">
-    <title lang="pt">Mundial de Motovelocidade: GP do Japão: Sprint: Moto GP</title>
-    <desc lang="pt"> - Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+  <programme start="20250930153000 -0300" stop="20250930160000 -0300" channel="ESPN 3">
+    <title lang="pt">Destaques da CONMEBOL Sul-Americana</title>
+    <desc lang="pt"> - Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250930170000 -0300" stop="20250930200000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB Wild Card - Ao Vivo</title>
+  <programme start="20250930160000 -0300" stop="20250930190000 -0300" channel="ESPN 3">
+    <title lang="pt">MLB Wild Card: San Diego Padres x Chicago Cubs - Ao Vivo</title>
     <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20250930190000 -0300" stop="20250930200000 -0300" channel="ESPN 3">
+    <title lang="pt">Laver Cup Review Show</title>
+    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
   <programme start="20250930200000 -0300" stop="20250930220000 -0300" channel="ESPN 3">
-    <title lang="pt">VT - ATP 500: Pequim: Semifinal</title>
+    <title lang="pt">ATP 500: Pequim: Jannik Sinner x Alex de Minaur</title>
     <desc lang="pt"> - É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
@@ -64985,8 +65104,8 @@
     </rating>
   </programme>
   <programme start="20250930160000 -0300" stop="20250930170000 -0300" channel="MTV 00's">
-    <title lang="pt">2004 Replay!</title>
-    <desc lang="pt"> - Entre na máquina do tempo da MTV e embarque em uma viagem ao passado. O destino é o ano de 2004 e a missão é muito simples: tocar todas aquelas músicas que um dia roubaram corações e dominaram as paradas.</desc>
+    <title lang="pt">2003 Replay!</title>
+    <desc lang="pt"> - Viaje de volta para 2003 com as músicas que roubaram os corações e dominaram as paradas.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -65473,7 +65592,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930060000 -0300" stop="20250930062300 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930060000 -0300" stop="20250930062400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Starstruck</title>
     <sub-title lang="pt">Outono</sub-title>
     <desc lang="pt"> - Kate é convidada para a pré-estreia de Tom e obriga uma relutante Jessie a ir junto. Tom e Jessie são interrompidos por uma visita inesperada.</desc>
@@ -65482,7 +65601,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930062300 -0300" stop="20250930064800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930062400 -0300" stop="20250930065000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Starstruck</title>
     <sub-title lang="pt">Inverno</sub-title>
     <desc lang="pt"> - Recuperando-se da briga recente, Tom e Jessie têm dificuldade no trabalho, e Jessie se pergunta se Londres é o lugar certo para ela.</desc>
@@ -65491,7 +65610,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930064800 -0300" stop="20250930071800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930065000 -0300" stop="20250930071200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe saudita que quer comprar bens.</desc>
     <episode-num system="xmltv_ns">1.3.</episode-num>
@@ -65499,7 +65618,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930071800 -0300" stop="20250930073900 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930071200 -0300" stop="20250930073500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, a versão feminina de Charlie.</desc>
     <episode-num system="xmltv_ns">1.4.</episode-num>
@@ -65507,7 +65626,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930073900 -0300" stop="20250930080200 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930073500 -0300" stop="20250930075900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Quando Evelyn diz a Jake que Alan roubou um brinquedo quando era criança, Alan nega o fato, como sempre o negou desde que o incidente aconteceu.</desc>
     <episode-num system="xmltv_ns">1.5.</episode-num>
@@ -65515,7 +65634,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930080200 -0300" stop="20250930082600 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930075900 -0300" stop="20250930082200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem a Evelyn para celebrar suas conquistas.</desc>
     <episode-num system="xmltv_ns">1.6.</episode-num>
@@ -65523,7 +65642,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930082600 -0300" stop="20250930085100 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930082200 -0300" stop="20250930084500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
     <episode-num system="xmltv_ns">1.7.</episode-num>
@@ -65531,7 +65650,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930085100 -0300" stop="20250930091200 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930084500 -0300" stop="20250930090900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
     <episode-num system="xmltv_ns">1.8.</episode-num>
@@ -65539,7 +65658,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930091200 -0300" stop="20250930100100 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930090900 -0300" stop="20250930095600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt"> - Enquanto Alaric e Jo relutantemente participam das festas de solteiros organizadas para eles, Damon e Elena discutem as ramificações de uma oferta impulsiva feita pelo Salvatore mais velho.</desc>
     <episode-num system="xmltv_ns">5.19.</episode-num>
@@ -65547,7 +65666,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930100100 -0300" stop="20250930104800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930095600 -0300" stop="20250930104300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt"> - É o dia do casamento de Alaric e Jo, o que faz com que Elena e Bonnie tentem ajudar uma estressada noiva com os preparativos de última hora.</desc>
     <episode-num system="xmltv_ns">5.20.</episode-num>
@@ -65555,7 +65674,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930104800 -0300" stop="20250930110700 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930104300 -0300" stop="20250930110600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Sheldon inicia a primeira guerra flamejante da internet e Missy defende os garotos de sua equipe de beisebol. Enquanto isso, Meemaw fica contrariada quando George se diverte com o novo namorado dela.</desc>
     <episode-num system="xmltv_ns">2.6.</episode-num>
@@ -65563,7 +65682,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930110700 -0300" stop="20250930113100 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930110600 -0300" stop="20250930112900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - A Universidade tenta recrutar Sheldon fazendo uma lucrativa proposta de trabalho a George. Enquanto isso, Georgie começa a trabalhar para o novo namorado de Meemaw.</desc>
     <episode-num system="xmltv_ns">2.7.</episode-num>
@@ -65571,7 +65690,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930113100 -0300" stop="20250930115400 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930112900 -0300" stop="20250930115200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Mary envolve o Pastor Jeff quando Sheldon não é convidado para a festa de aniversário de Billy. Além disso, George Sr. tem um "momento de união masculina" com o Dr. Sturgis.</desc>
     <episode-num system="xmltv_ns">2.8.</episode-num>
@@ -65579,7 +65698,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930115400 -0300" stop="20250930121400 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930115200 -0300" stop="20250930121200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Sheldon finge estar doente para se esquivar de um teste de natação na escola. Enquanto isso, Dr. Sturgis espiona o novo namorado de Meemaw.</desc>
     <episode-num system="xmltv_ns">2.9.</episode-num>
@@ -65587,7 +65706,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930121400 -0300" stop="20250930123400 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930121200 -0300" stop="20250930123300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Leonard, Penny e Raj se adaptam à nova combinação de moradia, e Sheldon demonstra interesse pelo trabalho de Amy.</desc>
     <episode-num system="xmltv_ns">9.18.</episode-num>
@@ -65595,7 +65714,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930123400 -0300" stop="20250930125600 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930123300 -0300" stop="20250930125400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Sheldon se leva ao limite quando colabora em projetos com Leonard e Wolowitz, assim como Amy no mesmo dia.</desc>
     <episode-num system="xmltv_ns">9.19.</episode-num>
@@ -65603,7 +65722,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930125600 -0300" stop="20250930131800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930125400 -0300" stop="20250930131500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Howard e Bernadette sofrem para deixar Halley no berçário quando Bernadette volta ao trabalho. Bert apresenta a turma à sua nova namorada, Rebecca.</desc>
     <episode-num system="xmltv_ns">9.20.</episode-num>
@@ -65611,7 +65730,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930131800 -0300" stop="20250930133800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930131500 -0300" stop="20250930133800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Leonard não fica nada contente quando Penny considera aceitar um novo emprego oferecido por seu ex-namorado, Zack</desc>
     <episode-num system="xmltv_ns">9.21.</episode-num>
@@ -65619,7 +65738,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930133800 -0300" stop="20250930140100 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930133800 -0300" stop="20250930140000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Depois de Leonard, Sheldon e Wolowitz comemorarem a conclusão do projeto da força aérea, eles têm uma surpresa desagradável.</desc>
     <episode-num system="xmltv_ns">9.22.</episode-num>
@@ -65627,7 +65746,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930140100 -0300" stop="20250930142300 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930140000 -0300" stop="20250930142100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - A turma fica preocupada quando a ex-admiradora de Sheldon, Dr. Ramona Nowitzki, ressurge enquanto Amy está longe em Princeton.</desc>
     <episode-num system="xmltv_ns">9.23.</episode-num>
@@ -65635,7 +65754,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930142300 -0300" stop="20250930144800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930142100 -0300" stop="20250930144500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe saudita que quer comprar bens.</desc>
     <episode-num system="xmltv_ns">1.3.</episode-num>
@@ -65643,7 +65762,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930144800 -0300" stop="20250930150900 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930144500 -0300" stop="20250930150800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, a versão feminina de Charlie.</desc>
     <episode-num system="xmltv_ns">1.4.</episode-num>
@@ -65651,7 +65770,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930150900 -0300" stop="20250930153400 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930150800 -0300" stop="20250930153200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Quando Evelyn diz a Jake que Alan roubou um brinquedo quando era criança, Alan nega o fato, como sempre o negou desde que o incidente aconteceu.</desc>
     <episode-num system="xmltv_ns">1.5.</episode-num>
@@ -65659,7 +65778,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930153400 -0300" stop="20250930155800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930153200 -0300" stop="20250930155500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem a Evelyn para celebrar suas conquistas.</desc>
     <episode-num system="xmltv_ns">1.6.</episode-num>
@@ -65667,7 +65786,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930155800 -0300" stop="20250930162300 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930155500 -0300" stop="20250930161900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
     <episode-num system="xmltv_ns">1.7.</episode-num>
@@ -65675,7 +65794,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930162300 -0300" stop="20250930164800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930161900 -0300" stop="20250930164300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
     <episode-num system="xmltv_ns">1.8.</episode-num>
@@ -65683,32 +65802,14 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930164800 -0300" stop="20250930172300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Cobra Kai</title>
-    <sub-title lang="pt">Vire á direita</sub-title>
-    <desc lang="pt"> - Os alunos de Daniel recebem uma lição para superar suas rixas. Johnny passa algum tempo fora do dojo, enquanto Kreese exerce sua influência.</desc>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20250930164300 -0300" stop="20250930185000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Jack Reacher: Sem Retorno</title>
+    <desc lang="pt"> - Jack descobre que a major Susan está presa, acusada pela morte de dois soldados. Acreditando em sua inocência, ele resolve investigar o caso por conta própria.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250930172300 -0300" stop="20250930181300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <desc lang="pt"> - Enquanto Alaric e Jo relutantemente participam das festas de solteiros organizadas para eles, Damon e Elena discutem as ramificações de uma oferta impulsiva feita pelo Salvatore mais velho.</desc>
-    <episode-num system="xmltv_ns">5.19.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250930181300 -0300" stop="20250930185800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <desc lang="pt"> - É o dia do casamento de Alaric e Jo, o que faz com que Elena e Bonnie tentem ajudar uma estressada noiva com os preparativos de última hora.</desc>
-    <episode-num system="xmltv_ns">5.20.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250930185800 -0300" stop="20250930192100 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930185000 -0300" stop="20250930191300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Sheldon inicia a primeira guerra flamejante da internet e Missy defende os garotos de sua equipe de beisebol. Enquanto isso, Meemaw fica contrariada quando George se diverte com o novo namorado dela.</desc>
     <episode-num system="xmltv_ns">2.6.</episode-num>
@@ -65716,7 +65817,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930192100 -0300" stop="20250930194200 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930191300 -0300" stop="20250930193700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - A Universidade tenta recrutar Sheldon fazendo uma lucrativa proposta de trabalho a George. Enquanto isso, Georgie começa a trabalhar para o novo namorado de Meemaw.</desc>
     <episode-num system="xmltv_ns">2.7.</episode-num>
@@ -65724,7 +65825,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930194200 -0300" stop="20250930200300 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930193700 -0300" stop="20250930200000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Mary envolve o Pastor Jeff quando Sheldon não é convidado para a festa de aniversário de Billy. Além disso, George Sr. tem um "momento de união masculina" com o Dr. Sturgis.</desc>
     <episode-num system="xmltv_ns">2.8.</episode-num>
@@ -65732,7 +65833,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930200300 -0300" stop="20250930202400 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930200000 -0300" stop="20250930202100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt"> - Sheldon finge estar doente para se esquivar de um teste de natação na escola. Enquanto isso, Dr. Sturgis espiona o novo namorado de Meemaw.</desc>
     <episode-num system="xmltv_ns">2.9.</episode-num>
@@ -65740,7 +65841,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930202400 -0300" stop="20250930204200 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930202100 -0300" stop="20250930204200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Leonard, Penny e Raj se adaptam à nova combinação de moradia, e Sheldon demonstra interesse pelo trabalho de Amy.</desc>
     <episode-num system="xmltv_ns">9.18.</episode-num>
@@ -65756,7 +65857,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930210300 -0300" stop="20250930212600 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930210300 -0300" stop="20250930212500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Howard e Bernadette sofrem para deixar Halley no berçário quando Bernadette volta ao trabalho. Bert apresenta a turma à sua nova namorada, Rebecca.</desc>
     <episode-num system="xmltv_ns">9.20.</episode-num>
@@ -65764,7 +65865,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930212600 -0300" stop="20250930214900 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930212500 -0300" stop="20250930214900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Leonard não fica nada contente quando Penny considera aceitar um novo emprego oferecido por seu ex-namorado, Zack</desc>
     <episode-num system="xmltv_ns">9.21.</episode-num>
@@ -65772,7 +65873,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930214900 -0300" stop="20250930220800 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930214900 -0300" stop="20250930220900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - Depois de Leonard, Sheldon e Wolowitz comemorarem a conclusão do projeto da força aérea, eles têm uma surpresa desagradável.</desc>
     <episode-num system="xmltv_ns">9.22.</episode-num>
@@ -65780,7 +65881,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930220800 -0300" stop="20250930223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930220900 -0300" stop="20250930223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt"> - A turma fica preocupada quando a ex-admiradora de Sheldon, Dr. Ramona Nowitzki, ressurge enquanto Amy está longe em Princeton.</desc>
     <episode-num system="xmltv_ns">9.23.</episode-num>
@@ -65788,7 +65889,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930223000 -0300" stop="20250930233600 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930223000 -0300" stop="20250930233100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">A Senhora Davis</title>
     <desc lang="pt"> - Wiley recebe uma oferta inesperada da Sra. Davis.</desc>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -65796,10 +65897,18 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930233600 -0300" stop="20251001000000 -0300" channel="WARNER CHANNEL">
+  <programme start="20250930233100 -0300" stop="20250930235600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe saudita que quer comprar bens.</desc>
     <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250930235600 -0300" stop="20251001001800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt"> - Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, a versão feminina de Charlie.</desc>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -70965,53 +71074,109 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250929212500 -0300" stop="20250930012500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
+  <programme start="20250929202044 -0300" stop="20250930000500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Legado Explosivo</title>
+    <desc lang="pt"> - Tom é um assaltante de banco que decide deixar o mundo do crime após se apaixonar por Annie. Ele só não contava que, ao tentar levar uma vida honesta, seria engando por agentes corruptos do FBI.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250930000500 -0300" stop="20250930021000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Os Mercenários 3</title>
+    <desc lang="pt"> - Após resgatar Doc, Barney Ross e seu time de mercenários descobrem que Conrad, um ex-integrante do grupo que acreditavam estar morto, está vivo. Ameaçado, Ross reúne uma nova equipe para detê-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250930021000 -0300" stop="20250930041500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">As Panteras (2019)</title>
+    <desc lang="pt"> - Uma poderosa fonte de energia sustentável é roubada para ser usada como uma arma de destruição em massa. Para impedir essa tragédia, as Panteras Sabina, Elena e Jane entram em ação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250930041500 -0300" stop="20250930060500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">A Profissional</title>
+    <desc lang="pt"> - Resgatada na infância, Anna foi treinada por um sujeito para ser a assassina profissional mais habilidosa do mundo. Quando o homem é assassinado, ela busca vingança.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930060500 -0300" stop="20250930075500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Macabro</title>
+    <desc lang="pt"> - Na década de 90, assassinatos na serra fluminense levam o policial Teo a voltar para sua cidade e investigar o caso. Em meio às buscas, ele se vê confrontando o passado.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930075500 -0300" stop="20250930095500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Largo Winch II - A Conspiração Burma</title>
+    <desc lang="pt"> - No dia em que anuncia a venda de sua empresa, Largo Winch é vítima de uma armação, sendo acusado de crimes que não cometeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250930095500 -0300" stop="20250930113500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Perigo Na Montanha</title>
+    <desc lang="pt"> - Joe Braven vive com a família numa região montanhosa. Quando vai até sua cabana acompanhado do pai, eles descobrem uma mala cheia de drogas e um grupo de traficantes armados cercando a área.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930113500 -0300" stop="20250930133500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Refém</title>
+    <desc lang="pt"> - Jeff sai do cargo de negociador de reféns e se torna delegado de uma cidade pequena. Ele, então, se vê obrigado a voltar à ativa quando um grupo de criminosos ameaça duas famílias, incluindo a dele.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930133500 -0300" stop="20250930155500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Viking</title>
+    <desc lang="pt"> - Vladimir é exilado após a morte do pai, o rei de Kievan Rus. Com seu traiçoeiro meio-irmão no controle, o príncipe herdeiro e seu exército viking tentam retomar o trono.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250930155500 -0300" stop="20250930175000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">MIB: Homens de Preto Internacional</title>
+    <desc lang="pt"> - Molly consegue realizar seu sonho de fazer parte da agência  MIB. Ela é enviada para Londres e, junto de H, começa a investigar casos estranhos que vêm acontecendo por lá.</desc>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20250930175000 -0300" stop="20250930175500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Preview No Action</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20250930012500 -0300" stop="20250930052500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930175500 -0300" stop="20250930194000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Os Mercenários</title>
+    <desc lang="pt"> - Barney Ross e seu grupo de mercenários são contratados para matar um ditador. Ao chegar lá, eles descobrem que a tarefa é mais difícil do que esperavam, mas insistem na missão para salvar uma aliada.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930052500 -0300" stop="20250930092500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930194000 -0300" stop="20250930220000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Bacurau</title>
+    <desc lang="pt"> - No sertão brasileiro, Bacurau acaba de perder dona Carmelita, uma moradora respeitada por todos.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930092500 -0300" stop="20250930132500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930220000 -0300" stop="20250930234500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Vingança Fatal (2022)</title>
+    <desc lang="pt"> - Após a morte de sua filha, o fuzileiro William inicia uma caçada aos assassinos. Ao matar um dos criminosos, os outros vão atrás dele, iniciando um jogo de vingança.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930132500 -0300" stop="20250930172500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930234500 -0300" stop="20251001015000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Protetor 2</title>
+    <desc lang="pt"> - Robert é um ex-agente da CIA que atua secretamente indo atrás de criminosos que saem impunes. Mas, quando sua melhor amiga é assassinada, ele precisa voltar à ativa para se vingar dos responsáveis.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930172500 -0300" stop="20250930212500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930212500 -0300" stop="20251001012500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20250929234500 -0300" stop="20250930014500 -0300" channel="TELECINE TOUCH">
@@ -71989,7 +72154,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20250929235800 -0300" stop="20250930005900 -0300" channel="HBO">
+  <programme start="20250929235800 -0300" stop="20250930004700 -0300" channel="HBO">
     <title lang="pt">Máscaras de Oxigênio Não Cairão Automaticamente</title>
     <desc lang="pt"> - Já se passaram vários meses desde o fim do contrabando e Nando ficou sem AZT. No entanto, após reencontrar Caio, ele transforma sua tristeza em espírito de luta e, com o apoio de Raul, organiza uma manifestação contra...</desc>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -71997,7 +72162,7 @@
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20250930005900 -0300" stop="20250930013900 -0300" channel="HBO">
+  <programme start="20250930004700 -0300" stop="20250930013300 -0300" channel="HBO">
     <title lang="pt">Last Week Tonight With John Oliver</title>
     <desc lang="pt"> - John Oliver está de volta para uma nova temporada de sua aclamada série que lança um olhar satírico e perspicaz sobre os eventos atuais nos EUA e no mundo, juntamente com uma variedade de estrelas convidadas e segmentos especiais.</desc>
     <episode-num system="xmltv_ns">11.23.</episode-num>
@@ -72005,28 +72170,28 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930013900 -0300" stop="20250930040300 -0300" channel="HBO">
+  <programme start="20250930013300 -0300" stop="20250930040500 -0300" channel="HBO">
     <title lang="pt">Mulher-Maravilha 1984</title>
     <desc lang="pt"> - Volte aos anos 80 e siga Gal Gadot em seu retorno como a mítica guerreira amazona para enfrentar dois novos inimigos: Max Lord e Cheetah.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930040300 -0300" stop="20250930060000 -0300" channel="HBO">
+  <programme start="20250930040500 -0300" stop="20250930060000 -0300" channel="HBO">
     <title lang="pt">Extermínio</title>
     <desc lang="pt"> - Um estranho vírus disseminado por macacos faz com que todos os habitantes da Inglaterra fiquem infectados. Restando apenas alguns sobreviventes, começa agora a busca por uma forma de cura para esse mal.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930060000 -0300" stop="20250930082000 -0300" channel="HBO">
+  <programme start="20250930060000 -0300" stop="20250930072500 -0300" channel="HBO">
     <title lang="pt">Premonição 4</title>
     <desc lang="pt"> - Um novo grupo de adolescentes escapa de um acidente de carro. O que os jovens não esperavam era que seriam perseguidos pela Morte, que tenta levá-los de maneiras inesperadas.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930082000 -0300" stop="20250930090000 -0300" channel="HBO">
+  <programme start="20250930072500 -0300" stop="20250930081000 -0300" channel="HBO">
     <title lang="pt">Last Week Tonight With John Oliver</title>
     <desc lang="pt"> - John Oliver está de volta para uma nova temporada de sua aclamada série que lança um olhar satírico e perspicaz sobre os eventos atuais nos EUA e no mundo, juntamente com uma variedade de estrelas convidadas e segmentos especiais.</desc>
     <episode-num system="xmltv_ns">11.23.</episode-num>
@@ -72034,60 +72199,69 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930090000 -0300" stop="20250930112000 -0300" channel="HBO">
+  <programme start="20250930081000 -0300" stop="20250930102300 -0300" channel="HBO">
     <title lang="pt">Sniper Americano</title>
     <desc lang="pt"> - Nascido no Texas, Chris Kyle aprendeu a atirar ainda na infância ao caçar veados com seu pai. Quando cresceu, se tornou um dedicado e habilidoso atirador de elite das forças especiais da marinha norte-americana.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930112000 -0300" stop="20250930133500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930133500 -0300" stop="20250930144000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20250930144000 -0300" stop="20250930164000 -0300" channel="HBO">
+  <programme start="20250930102300 -0300" stop="20250930122000 -0300" channel="HBO">
     <title lang="pt">Bad Boys: Até O Fim</title>
     <desc lang="pt"> - Os Bad Boys favoritos do mundo estão de volta, mas desta vez com uma reviravolta: os melhores de Miami são agora os mais procurados.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930164000 -0300" stop="20250930183500 -0300" channel="HBO">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt"> - No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade.</desc>
+  <programme start="20250930122000 -0300" stop="20250930140500 -0300" channel="HBO">
+    <title lang="pt">Sequestro 1971</title>
+    <desc lang="pt"> - O filme retrata a história de pessoas que lutam por suas vidas em uma situação extrema quando um avião de passageiros é sequestrado no espaço aéreo da Coreia em 1971.</desc>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930183500 -0300" stop="20250930211000 -0300" channel="HBO">
+  <programme start="20250930140500 -0300" stop="20250930151000 -0300" channel="HBO">
+    <title lang="pt">Task</title>
+    <desc lang="pt"> - Mark Ruffalo estrela esta série da HBO como um agente responsável por uma unidade especial criada para impedir uma série de roubos na Filadélfia.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930151000 -0300" stop="20250930165000 -0300" channel="HBO">
+    <title lang="pt">Órfã 2: A Origem</title>
+    <desc lang="pt"> - Esther consegue escapar de um centro psiquiátrico onde está confinada, e viaja para os Estados Unidos se passando por filha desaparecida de uma família rica. No entanto, uma reviravolta confrontará Esther.</desc>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930165000 -0300" stop="20250930192500 -0300" channel="HBO">
     <title lang="pt">Mulher-Maravilha 1984</title>
     <desc lang="pt"> - Volte aos anos 80 e siga Gal Gadot em seu retorno como a mítica guerreira amazona para enfrentar dois novos inimigos: Max Lord e Cheetah.</desc>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20250930211000 -0300" stop="20250930220000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930192500 -0300" stop="20250930211000 -0300" channel="HBO">
+    <title lang="pt">Sequestro 1971</title>
+    <desc lang="pt"> - O filme retrata a história de pessoas que lutam por suas vidas em uma situação extrema quando um avião de passageiros é sequestrado no espaço aéreo da Coreia em 1971.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20250930211000 -0300" stop="20250930220000 -0300" channel="HBO">
+    <title lang="pt">Pílula de Farinha: O Escândalo que Gerou Vidas</title>
+    <desc lang="pt"> - Em Mauá, quatro mulheres engravidam apesar de tomar corretamente o anticoncepcional mais vendido do Brasil: Microvlar. A coincidência chama a atenção da imprensa.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250930220000 -0300" stop="20251001001500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">Kraven: O Caçador</title>
+    <desc lang="pt"> - A complexa relação de Kraven com o pai, Nikolai Kravinoff, o leva a uma jornada de vingança com consequências brutais, o motivando a se tornar um dos maiores e mais temidos caçadores do mundo.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20250929220500 -0300" stop="20250930002000 -0300" channel="HBO2">
@@ -77193,7 +77367,7 @@
   <programme start="20250929234500 -0300" stop="20250930003000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -77289,7 +77463,7 @@
   <programme start="20250930151500 -0300" stop="20250930160000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -77326,7 +77500,7 @@
   <programme start="20250930193000 -0300" stop="20250930200000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -77363,7 +77537,7 @@
   <programme start="20250930234500 -0300" stop="20251001003000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -80373,12 +80547,9 @@
     </rating>
   </programme>
   <programme start="20250930231500 -0300" stop="20251001001500 -0300" channel="SBT São Paulo">
-    <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt"> - Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-    <episode-num system="xmltv_ns">22.272.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+    <title lang="pt">SBT Repórter</title>
+    <desc lang="pt"> - O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+    <episode-num system="xmltv_ns">72.272.</episode-num>
   </programme>
   <programme start="20251001001500 -0300" stop="20251001011500 -0300" channel="SBT São Paulo">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -82360,93 +82531,79 @@
     <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
   </programme>
   <programme start="20251001000000 -0300" stop="20251001010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
     <desc lang="pt"> - Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
-    <category lang="en">live broadcast</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">69.273.</episode-num>
   </programme>
-  <programme start="20251001010000 -0300" stop="20251001030000 -0300" channel="GLOBONEWS">
+  <programme start="20251001010000 -0300" stop="20251001023000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Pauta</title>
     <desc lang="pt"> - Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">70.273.</episode-num>
     <previously-shown />
   </programme>
+  <programme start="20251001023000 -0300" stop="20251001030000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Debate</title>
+    <desc lang="pt"> - GloboNews Debate promove discussões sobre temas de repercussão. Convidados com visões distintas falam sobre política, economia, segurança e comportamento.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">71.273.</episode-num>
+  </programme>
   <programme start="20251001030000 -0300" stop="20251001033000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Roberto D'Avila</title>
+    <title lang="pt">Roberto D'avila</title>
     <desc lang="pt"> - Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">2.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">72.273.</episode-num>
   </programme>
   <programme start="20251001033000 -0300" stop="20251001050000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">2.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">72.273.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20251001050000 -0300" stop="20251001060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
-    <desc lang="pt"> - As principais notícias do brasil e do mundo.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">4.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Jornal GloboNews - Edição das 05h</title>
+    <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">74.273.</episode-num>
   </programme>
   <programme start="20251001060000 -0300" stop="20251001070000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição das 06h</title>
     <desc lang="pt"> - As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">5.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">75.273.</episode-num>
   </programme>
   <programme start="20251001070000 -0300" stop="20251001093000 -0300" channel="GLOBONEWS">
-    <title lang="pt">VT - GloboNews em Ponto - Ao Vivo</title>
+    <title lang="pt">VT - GloboNews em Ponto</title>
     <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
-    <category lang="en">live broadcast</category>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">76.273.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20251001093000 -0300" stop="20251001130000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
-    <desc lang="pt"> - A notícia de um jeito único. Apresentado por Leilane Neubarth e Camila Bomfim, de Brasília.</desc>
-    <category lang="en">live broadcast</category>
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt"> - Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">78.273.</episode-num>
   </programme>
   <programme start="20251001130000 -0300" stop="20251001160000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <title lang="pt">Estúdio I</title>
     <desc lang="pt"> - Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">12.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">72.273.</episode-num>
   </programme>
   <programme start="20251001160000 -0300" stop="20251001180000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+    <title lang="pt">GloboNews Mais</title>
     <desc lang="pt"> - Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
-    <category lang="en">live broadcast</category>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">75.273.</episode-num>
   </programme>
   <programme start="20251001180000 -0300" stop="20251001200000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 18h</title>
     <desc lang="pt"> - Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">17.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">77.273.</episode-num>
   </programme>
   <programme start="20251001200000 -0300" stop="20251001220000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Pauta</title>
@@ -82459,10 +82616,7 @@
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">21.273.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">71.273.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20251001233000 -0300" stop="20251002000000 -0300" channel="GLOBONEWS">
@@ -89433,10 +89587,15 @@
     <desc lang="pt"> - Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250930230000 -0300" stop="20251001010000 -0300" channel="ESPN 2">
-    <title lang="pt">WNBA Playoffs - Ao Vivo</title>
+  <programme start="20250930223000 -0300" stop="20251001003000 -0300" channel="ESPN 2">
+    <title lang="pt">WNBA Playoffs: Indiana Fever x Las Vegas Aces - Ao Vivo</title>
     <desc lang="pt"> - A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251001003000 -0300" stop="20251001010000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt"> - Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251001010000 -0300" stop="20251001020000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter</title>
@@ -89463,22 +89622,32 @@
     <desc lang="pt"> - Pelas Quadras traz pra você todas as informações, entrevistas e reportagens especiais durante a disputa do ATP 1000 de Miami.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251001123000 -0300" stop="20251001150000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - NFL: New Orleans Saints x Buffalo Bills</title>
-    <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+  <programme start="20251001123000 -0300" stop="20251001130000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt"> - Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251001150000 -0300" stop="20251001180000 -0300" channel="ESPN 2">
-    <title lang="pt">MLB Wild Card - Ao Vivo</title>
+  <programme start="20251001130000 -0300" stop="20251001133000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da CONMEBOL Sul-Americana</title>
+    <desc lang="pt"> - Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20251001133000 -0300" stop="20251001140000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da CONMEBOL Libertadores</title>
+    <desc lang="pt"> - Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20251001140000 -0300" stop="20251001170000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB Wild Card: Detroit Tigers x Cleveland Guardians - Ao Vivo</title>
     <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251001180000 -0300" stop="20251001190000 -0300" channel="ESPN 2">
+  <programme start="20251001170000 -0300" stop="20251001180000 -0300" channel="ESPN 2">
     <title lang="pt">Laver Cup Review Show</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251001190000 -0300" stop="20251001200000 -0300" channel="ESPN 2">
+  <programme start="20251001180000 -0300" stop="20251001190000 -0300" channel="ESPN 2">
     <title lang="pt">ESPN FIlmes: Running With The Wolves</title>
     <desc lang="pt"> - Um mergulho profundo na história do esporte, de seus principais personagens. "ESPN Filmes" é uma faixa de programação inteiramente dedicada à exibição de documentários produzidos pela ESPN.</desc>
     <category lang="en">sports (general)</category>
@@ -89486,13 +89655,18 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251001200000 -0300" stop="20251001230000 -0300" channel="ESPN 2">
-    <title lang="pt">MLB Wild Card - Ao Vivo</title>
+  <programme start="20251001190000 -0300" stop="20251001220000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB Wild Card: Boston Red Sox x New York Yankees - Ao Vivo</title>
     <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
     <category lang="en">live broadcast</category>
   </programme>
+  <programme start="20251001220000 -0300" stop="20251001230000 -0300" channel="ESPN 2">
+    <title lang="pt">Bola da Vez: Yane Marques</title>
+    <desc lang="pt"> - O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
   <programme start="20251001230000 -0300" stop="20251002010000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - ATP 500: Tóquio: Final</title>
+    <title lang="pt">VT - ATP 500: Tóquio: Carlos Alcaraz x Taylor Fritz</title>
     <desc lang="pt"> - É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
@@ -89546,14 +89720,9 @@
     <desc lang="pt"> - O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251001110000 -0300" stop="20251001130000 -0300" channel="ESPN 3">
-    <title lang="pt">WNBA Playoffs</title>
-    <desc lang="pt"> - A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20251001130000 -0300" stop="20251001133000 -0300" channel="ESPN 3">
-    <title lang="pt">Show da Rodada da Premier League</title>
-    <desc lang="pt"> - Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+  <programme start="20251001110000 -0300" stop="20251001133000 -0300" channel="ESPN 3">
+    <title lang="pt">VT - NFL: New Orleans Saints x Buffalo Bills</title>
+    <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251001133000 -0300" stop="20251001153000 -0300" channel="ESPN 3">
@@ -89566,15 +89735,15 @@
     <desc lang="pt"> - Sinopse não disponível.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251001160000 -0300" stop="20251001170000 -0300" channel="ESPN 3">
+  <programme start="20251001160000 -0300" stop="20251001190000 -0300" channel="ESPN 3">
+    <title lang="pt">MLB Wild Card: San Diego Padres x Chicago Cubs - Ao Vivo</title>
+    <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251001190000 -0300" stop="20251001200000 -0300" channel="ESPN 3">
     <title lang="pt">Pelas Quadras</title>
     <desc lang="pt"> - Pelas Quadras traz pra você todas as informações, entrevistas e reportagens especiais durante a disputa do ATP 1000 de Miami.</desc>
     <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20251001170000 -0300" stop="20251001200000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB Wild Card - Ao Vivo</title>
-    <desc lang="pt"> - A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.</desc>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251001200000 -0300" stop="20251001220000 -0300" channel="ESPN 3">
     <title lang="pt">ATP 500: Pequim: Final</title>
@@ -105113,6 +105282,14 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20250930235600 -0300" stop="20251001001800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt"> - Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, a versão feminina de Charlie.</desc>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
   <programme start="20251001000000 -0300" stop="20251001002300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt"> - Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, a versão feminina de Charlie.</desc>
@@ -110636,11 +110813,11 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20250930212500 -0300" stop="20251001012500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programação Telecine</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20250930234500 -0300" stop="20251001015000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Protetor 2</title>
+    <desc lang="pt"> - Robert é um ex-agente da CIA que atua secretamente indo atrás de criminosos que saem impunes. Mas, quando sua melhor amiga é assassinada, ele precisa voltar à ativa para se vingar dos responsáveis.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20251001012500 -0300" stop="20251001052500 -0300" channel="TELECINE ACTION">
@@ -111733,10 +111910,10 @@
     </rating>
   </programme>
   <programme start="20250930220000 -0300" stop="20251001001500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">Kraven: O Caçador</title>
+    <desc lang="pt"> - A complexa relação de Kraven com o pai, Nikolai Kravinoff, o leva a uma jornada de vingança com consequências brutais, o motivando a se tornar um dos maiores e mais temidos caçadores do mundo.</desc>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20251001001500 -0300" stop="20251001020000 -0300" channel="HBO">
@@ -117078,7 +117255,7 @@
   <programme start="20250930234500 -0300" stop="20251001003000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista - Segundas Núpcias</title>
     <desc lang="pt"> - Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
-    <episode-num system="xmltv_ns">25.150.</episode-num>
+    <episode-num system="xmltv_ns">28.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -122117,12 +122294,10 @@
     <desc lang="pt"> - Em Breve Transmissão sportv 4K.</desc>
   </programme>
   <programme start="20251002000000 -0300" stop="20251002010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
     <desc lang="pt"> - Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
-    <category lang="en">live broadcast</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">69.274.</episode-num>
   </programme>
   <programme start="20251002010000 -0300" stop="20251002030000 -0300" channel="GLOBONEWS">
     <title lang="pt">VT - GloboNews em Pauta</title>
@@ -122141,20 +122316,14 @@
     <title lang="pt">VT - Jornal das Dez</title>
     <desc lang="pt"> - Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">2.274.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">72.274.</episode-num>
     <previously-shown />
   </programme>
   <programme start="20251002050000 -0300" stop="20251002060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
-    <desc lang="pt"> - As principais notícias do brasil e do mundo.</desc>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">4.274.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <title lang="pt">Jornal GloboNews - Edição das 05h</title>
+    <desc lang="pt"> - As principais notícias do Brasil e do mundo.</desc>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">74.274.</episode-num>
   </programme>
   <programme start="20251002060000 -0300" stop="20251002070000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Ao Vivo</title>
@@ -129166,7 +129335,7 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251001230000 -0300" stop="20251002010000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - ATP 500: Tóquio: Final</title>
+    <title lang="pt">VT - ATP 500: Tóquio: Carlos Alcaraz x Taylor Fritz</title>
     <desc lang="pt"> - É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
