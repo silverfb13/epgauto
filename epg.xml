@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-03 11:32:00" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-03 23:32:07" generator-info-url="http://limaalef.com">
   <channel id="GLOBO SÃO PAULO">
     <display-name lang="pt">GLOBO SÃO PAULO</display-name>
   </channel>
@@ -504,7 +504,7 @@
   <programme start="20251003024000 -0300" stop="20251003032000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -512,7 +512,7 @@
   <programme start="20251003032000 -0300" stop="20251003040000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola II</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="xmltv_ns">2.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -10380,7 +10380,7 @@
     <desc lang="pt"> - Torneio amistoso com equipes da Superliga e convidados em preparação para a temporada.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251003220000 -0300" stop="20251004004500 -0300" channel="SportyNet HD">
+  <programme start="20251003220000 -0300" stop="20251004000000 -0300" channel="SportyNet HD">
     <title lang="pt">Necaxa x Pachuca - - ao vivo</title>
     <desc lang="pt"> - Necaxa e Pachuca jogam pela 12ª rodada da fase Apertura da Liga MX, Série A.</desc>
     <category lang="en">live broadcast</category>
@@ -40993,14 +40993,21 @@
   <programme start="20251004021000 -0300" stop="20251004025500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Comédia na Madruga - Vai Que Cola I</title>
     <desc lang="pt"> - Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251004025500 -0300" stop="20251004060000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251004025500 -0300" stop="20251004042500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Corujão: Miss França</title>
     <desc lang="pt"> - Desde criança, Alex tem a ambição de se tornar Miss França. Aos 24 anos, ele recupera o sonho de infância e, escondendo a sua identidade masculina, entra na competição pelo título da mais bela mulher francesa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251004042500 -0300" stop="20251004060000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Corujão II: Manobras do Destino</title>
+    <desc lang="pt"> - A inspiradora história de um campeão de BMX, que supera uma infância abusiva através do amor e lições de vida da sua família interracial adotiva.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -41051,11 +41058,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251004144000 -0300" stop="20251004161500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Sessão de Sábado: Onze Homens e um Segredo</title>
-    <desc lang="pt"> - Danny Ocean está de volta à ativa após uma estada na Penitenciária. Em condicional, planeja um ambicioso roubo, e vai precisar do melhor time.</desc>
+  <programme start="20251004144000 -0300" stop="20251004152000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt"> - Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <episode-num system="xmltv_ns">73.276.</episode-num>
+  </programme>
+  <programme start="20251004152000 -0300" stop="20251004161500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt"> - Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <episode-num system="xmltv_ns">14.276.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251004161500 -0300" stop="20251004184000 -0300" channel="GLOBO SÃO PAULO">
@@ -41068,7 +41081,7 @@
   </programme>
   <programme start="20251004184000 -0300" stop="20251004192500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor!</title>
-    <desc lang="pt"> - Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
+    <desc lang="pt"> - Todos repercutem a notícia sobre o desaparecimento de Estela nas águas da lagoa. Quitéria insinua a Celso que Sandra pode estar por perto. Aladim apoia Anabela. Candinho implora o perdão de Dita, e Zulma chega.</desc>
     <episode-num system="xmltv_ns">77.276.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -41094,7 +41107,7 @@
   </programme>
   <programme start="20251004212000 -0300" stop="20251004222500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale Tudo</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <desc lang="pt"> - Fátima fica apavorada ao ser deixada por Odete em uma fábrica abandonada, na companhia de um homem chamado Celso. Raquel e Poliana decidem ir atrás de Maria de Fátima.</desc>
     <episode-num system="xmltv_ns">70.276.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -41102,15 +41115,19 @@
   </programme>
   <programme start="20251004222500 -0300" stop="20251004231000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt"> - No novo reality show, artistas dividem o mesmo teto em uma casa totalmente vigiada. Enquanto convivem cercados de câmeras e com transmissão 24 horas.</desc>
-    <episode-num system="xmltv_ns">21.276.</episode-num>
+    <desc lang="pt"> - Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+    <episode-num system="xmltv_ns">1.40.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251004231000 -0300" stop="20251005002000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Faixa Combate - Jungle Fight</title>
-    <desc lang="pt"> - Melhores momentos do Jungle Fight.</desc>
+  <programme start="20251004231000 -0300" stop="20251005005500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt"> - Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <episode-num system="xmltv_ns">22.276.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20251003224500 -0300" stop="20251004001500 -0300" channel="BAND HD">
     <title lang="pt">Melhor da Noite</title>
@@ -50968,51 +50985,49 @@
     <desc lang="pt"> - O Campeonato Mundial de Rali (WRC) é a categoria máxima do rali, organizada pela FIA, disputada em terrenos como asfalto, terra, neve e cascalho.</desc>
     <episode-num system="xmltv_ns">72.276.</episode-num>
   </programme>
-  <programme start="20251003220000 -0300" stop="20251004004500 -0300" channel="SportyNet HD">
-    <title lang="pt">Necaxa x Pachuca - - ao vivo</title>
-    <desc lang="pt"> - Necaxa e Pachuca jogam pela 12ª rodada da fase Apertura da Liga MX, Série A.</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20251004000000 -0300" stop="20251004020000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - AEK x Volos</title>
+    <desc lang="pt"> - Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
   </programme>
-  <programme start="20251004004500 -0300" stop="20251004013000 -0300" channel="SportyNet HD">
+  <programme start="20251004020000 -0300" stop="20251004030000 -0300" channel="SportyNet HD">
     <title lang="pt">Nossa Resenha</title>
     <desc lang="pt"> - A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <episode-num system="xmltv_ns">69.276.</episode-num>
+    <episode-num system="xmltv_ns">71.276.</episode-num>
   </programme>
-  <programme start="20251004013000 -0300" stop="20251004033000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Udinese x Palermo</title>
-    <desc lang="pt"> - Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão</desc>
-  </programme>
-  <programme start="20251004033000 -0300" stop="20251004061500 -0300" channel="SportyNet HD">
+  <programme start="20251004030000 -0300" stop="20251004053000 -0300" channel="SportyNet HD">
     <title lang="pt">Fora Do Jogo</title>
     <desc lang="pt"> - JP Scofano recebe personalidades do futebol para um bate-papo bem-humorado e com muita resenha.</desc>
   </programme>
-  <programme start="20251004061500 -0300" stop="20251004064500 -0300" channel="SportyNet HD">
+  <programme start="20251004053000 -0300" stop="20251004073000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - São Bernardo x Floresta</title>
+    <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+  </programme>
+  <programme start="20251004073000 -0300" stop="20251004091500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Caxias x Londrina</title>
+    <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C</desc>
+  </programme>
+  <programme start="20251004091500 -0300" stop="20251004101500 -0300" channel="SportyNet HD">
+    <title lang="pt">Sporty Clube</title>
+    <desc lang="pt"> - No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251004101500 -0300" stop="20251004120000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Brusque x Guarani</title>
+    <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+  </programme>
+  <programme start="20251004120000 -0300" stop="20251004121500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré Jogo Série B Italiana</title>
+    <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C</desc>
+  </programme>
+  <programme start="20251004121500 -0300" stop="20251004141500 -0300" channel="SportyNet HD">
+    <title lang="pt">Spezia x Palermo - - ao vivo</title>
+    <desc lang="pt"> - Spezia e Palermo jogam pela 7ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Alberto Picco, em La Spezia, Itália.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251004141500 -0300" stop="20251004153000 -0300" channel="SportyNet HD">
     <title lang="pt">Compactos - Copa Da Itália</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-  </programme>
-  <programme start="20251004064500 -0300" stop="20251004084500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Milan x Lecce</title>
-    <desc lang="pt"> - Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão</desc>
-  </programme>
-  <programme start="20251004084500 -0300" stop="20251004094500 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt"> - Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <episode-num system="xmltv_ns">77.276.</episode-num>
-  </programme>
-  <programme start="20251004094500 -0300" stop="20251004103000 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré Jogo Bundesliga</title>
-    <desc lang="pt"> - Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-  </programme>
-  <programme start="20251004103000 -0300" stop="20251004123000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-  </programme>
-  <programme start="20251004123000 -0300" stop="20251004133000 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré Jogo Bundesliga</title>
-    <desc lang="pt"> - Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-  </programme>
-  <programme start="20251004133000 -0300" stop="20251004153000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
   </programme>
   <programme start="20251004153000 -0300" stop="20251004170000 -0300" channel="SportyNet HD">
@@ -51020,24 +51035,29 @@
     <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C</desc>
   </programme>
   <programme start="20251004170000 -0300" stop="20251004190000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">Guarani x Náutico - - ao vivo</title>
+    <desc lang="pt"> - Guarani e Náutico jogam pela 5ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Brinco de Ouro, em Campinas (SP).</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251004190000 -0300" stop="20251004193000 -0300" channel="SportyNet HD">
     <title lang="pt">Pré Jogo Campeonato Brasileiro Série C</title>
     <desc lang="pt"> - Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C</desc>
   </programme>
   <programme start="20251004193000 -0300" stop="20251004213000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">Brusque x Ponte Preta - - ao vivo</title>
+    <desc lang="pt"> - Brusque e Ponte Preta jogam pela 5ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Augusto Bauer, em Brusque (SC).</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251004213000 -0300" stop="20251004220000 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré Jogo Campeonato Mexicano</title>
-    <desc lang="pt"> - Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
+    <title lang="pt">Entrevista Zico</title>
+    <desc lang="pt"> - No Sporty Entrevista o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada  tudo no clima descontraído que só o Nosso F...</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251004220000 -0300" stop="20251005000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+    <title lang="pt">VT - América-MX x Pumas</title>
+    <desc lang="pt"> - Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
   </programme>
   <programme start="20251004000000 -0300" stop="20251004020000 -0300" channel="Xsports HD">
     <title lang="pt">VT: Corinthians x Independiente del Valle (EQU)</title>
@@ -51064,26 +51084,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004050000 -0300" stop="20251004070000 -0300" channel="Xsports HD">
+  <programme start="20251004050000 -0300" stop="20251004063000 -0300" channel="Xsports HD">
     <title lang="pt">Nascar Cup Series: 400 Milhas De Kansas: Kansas City: Global Champions League</title>
     <desc lang="pt">NASCAR: velocidade, adrenalina e manobras ousadas nas pistas americanas, com disputas emocionantes carro a carro até a linha de chegada!</desc>
   </programme>
-  <programme start="20251004070000 -0300" stop="20251004073000 -0300" channel="Xsports HD">
-    <title lang="pt">The Inside Line</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">5.18.</episode-num>
+  <programme start="20251004063000 -0300" stop="20251004082000 -0300" channel="Xsports HD">
+    <title lang="pt">VT: Racing x River Plate</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251004073000 -0300" stop="20251004082500 -0300" channel="Xsports HD">
-    <title lang="pt">World's Strongest Man 2024</title>
-    <desc lang="pt"> - World's Strongest Man: os atletas mais poderosos do planeta enfrentam desafios extremos de força, resistência e coragem em provas épicas!</desc>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251004082500 -0300" stop="20251004103000 -0300" channel="Xsports HD">
-    <title lang="pt">Coventry City x Birmingham City - ao vivo</title>
-    <desc lang="pt"> - Coventry City e Birmingham City jogam pela 7ª rodada do Primeiro Turno do Campeonato EFL Championship, Série B.</desc>
+  <programme start="20251004082000 -0300" stop="20251004103000 -0300" channel="Xsports HD">
+    <title lang="pt">Hull City x Sheffield United - ao vivo</title>
+    <desc lang="pt"> - EFL Championship: Segunda divisão inglesa com jogos intensos, gols emocionantes e clubes lutando pelo acesso à Premiere League.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251004103000 -0300" stop="20251004105000 -0300" channel="Xsports HD">
@@ -51093,51 +51104,50 @@
     <episode-num system="xmltv_ns">69.276.</episode-num>
   </programme>
   <programme start="20251004105000 -0300" stop="20251004130000 -0300" channel="Xsports HD">
-    <title lang="pt">Manchester City x Burnley - ao vivo</title>
-    <desc lang="pt"> - Manchester City e Burnley jogam pela 6ª rodada do Primeiro Turno da Premier League, Série A, no Etihad Stadium, em Manchester, Inglaterra.</desc>
+    <title lang="pt">Manchester United x Sunderland - ao vivo</title>
+    <desc lang="pt"> - Manchester United e Sunderland jogam pela 7ª rodada do Primeiro Turno da Premier League, Série A, no Old Trafford, em Old Trafford, Inglaterra.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251004130000 -0300" stop="20251004150000 -0300" channel="Xsports HD">
-    <title lang="pt">Mainz x Borussia Dortmund - ao vivo</title>
-    <desc lang="pt"> - Mainz e Borussia Dortmund jogam pela 5ª rodada do Primeiro Turno da Bundesliga, Série A, na Mewa Arena, em Main, Alemanha.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251004150000 -0300" stop="20251004153500 -0300" channel="Xsports HD">
+  <programme start="20251004130000 -0300" stop="20251004132000 -0300" channel="Xsports HD">
     <title lang="pt">Total Combat - ao vivo</title>
     <desc lang="pt"> - Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">74.276.</episode-num>
+    <episode-num system="xmltv_ns">72.276.</episode-num>
   </programme>
-  <programme start="20251004153500 -0300" stop="20251004174500 -0300" channel="Xsports HD">
-    <title lang="pt">Cagliari x Inter De Milão - ao vivo</title>
-    <desc lang="pt"> - Cagliari e Inter De Milão jogam pela 5ª rodada do Primeiro Turno do Campeonato Italiano, Série A.</desc>
+  <programme start="20251004132000 -0300" stop="20251004153000 -0300" channel="Xsports HD">
+    <title lang="pt">Eintracht Frankfurt x Bayern De Munique - ao vivo</title>
+    <desc lang="pt"> - Eintracht Frankfurt e Bayern De Munique jogam pela 6ª rodada do Primeiro Turno da Bundesliga, Série A, no Deutsche Bank Park, em Frankfurt, Alemanha.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251004174500 -0300" stop="20251004193000 -0300" channel="Xsports HD">
-    <title lang="pt">Handebol Taubaté x Barcelona</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
+  <programme start="20251004153000 -0300" stop="20251004162000 -0300" channel="Xsports HD">
+    <title lang="pt">VT: São Paulo x San Lorenzo (ARG)</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251004193000 -0300" stop="20251004200000 -0300" channel="Xsports HD">
+  <programme start="20251004162000 -0300" stop="20251004183000 -0300" channel="Xsports HD">
+    <title lang="pt">Vitória De Guimarães x Santa Clara - ao vivo</title>
+    <desc lang="pt"> - Vitória De Guimarães e Santa Clara jogam pela 8ª rodada do Primeiro Turno do Campeonato Português, Série A, no Dom Afonso Henriques, em Guimarães, Portugal.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251004183000 -0300" stop="20251004203000 -0300" channel="Xsports HD">
+    <title lang="pt">VT: Lazio x Torino</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+  </programme>
+  <programme start="20251004203000 -0300" stop="20251004223000 -0300" channel="Xsports HD">
+    <title lang="pt">NC Courage x Racing Louisville - ao vivo</title>
+    <desc lang="pt"> - NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251004223000 -0300" stop="20251004230000 -0300" channel="Xsports HD">
     <title lang="pt">Total Combat</title>
     <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">4.54.</episode-num>
+    <episode-num system="xmltv_ns">4.55.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251004200000 -0300" stop="20251004203000 -0300" channel="Xsports HD">
-    <title lang="pt">The Inside Line</title>
-    <desc lang="pt"> - Sinopse não disponível.</desc>
-    <episode-num system="xmltv_ns">5.18.</episode-num>
-  </programme>
-  <programme start="20251004203000 -0300" stop="20251004223000 -0300" channel="Xsports HD">
-    <title lang="pt">Racing Louisville x Angel City - ao vivo</title>
-    <desc lang="pt"> - NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251004223000 -0300" stop="20251005003000 -0300" channel="Xsports HD">
-    <title lang="pt">VT: Arsenal x Aston Villa</title>
-    <desc lang="pt">FA Women's Super League: Duelo de estrelas do futebol feminino em partidas intensas e cheias de talento.</desc>
+  <programme start="20251004230000 -0300" stop="20251005010000 -0300" channel="Xsports HD">
+    <title lang="pt">VT: Real Madrid x Villarreal</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
   </programme>
   <programme start="20251003213000 -0300" stop="20251004003000 -0300" channel="ESPN 6">
     <title lang="pt">Nascar Cup Series: Play-offs: GP de Kansas</title>
@@ -51395,15 +51405,15 @@
     <desc lang="pt"> - Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004193000 -0300" stop="20251004223000 -0300" channel="ESPN 2">
-    <title lang="pt">Mlb Play-offs: Liga Americana - - ao vivo</title>
+  <programme start="20251004193000 -0300" stop="20251004213000 -0300" channel="ESPN 2">
+    <title lang="pt">VT - Inter de Milão x Cremonese</title>
+    <desc lang="pt"> - Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20251004213000 -0300" stop="20251005003000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Detroit Tigers x Seattle Mariners - - ao vivo</title>
     <desc lang="pt"> - Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251004223000 -0300" stop="20251005003000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - Manchester United x Sunderland</title>
-    <desc lang="pt"> - Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
-    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251004000000 -0300" stop="20251004010000 -0300" channel="ESPN 3">
     <title lang="pt">VT - NFL: Indianapolis Colts x Los Angeles Rams</title>
@@ -51440,12 +51450,20 @@
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004063000 -0300" stop="20251004084500 -0300" channel="ESPN 3">
+  <programme start="20251004063000 -0300" stop="20251004070000 -0300" channel="ESPN 3">
+    <title lang="pt">Premier League Stories</title>
+    <desc lang="pt"> - Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251004070000 -0300" stop="20251004090000 -0300" channel="ESPN 3">
     <title lang="pt">The Rugby Championship: Austrália x Nova Zelândia - - ao vivo</title>
     <desc lang="pt"> - Torneio anual que reúne as quatro melhores seleções do Hemisfério Sul: Argentina, Austrália, Nova Zelândia e África do Sul.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251004084500 -0300" stop="20251004095000 -0300" channel="ESPN 3">
+  <programme start="20251004090000 -0300" stop="20251004095000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - - ao vivo</title>
     <desc lang="pt"> - O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="en">live broadcast</category>
@@ -51465,20 +51483,20 @@
     <desc lang="pt"> - Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004140000 -0300" stop="20251004170000 -0300" channel="ESPN 3">
-    <title lang="pt">Mlb Play-offs: Liga Americana - - ao vivo</title>
-    <desc lang="pt"> - Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20251004140000 -0300" stop="20251004150000 -0300" channel="ESPN 3">
+    <title lang="pt">Mundial de Motovelocidade: GP da Indonésia: Classificação: Moto 2</title>
+    <desc lang="pt"> - Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004170000 -0300" stop="20251004190000 -0300" channel="ESPN 3">
+  <programme start="20251004150000 -0300" stop="20251004170000 -0300" channel="ESPN 3">
     <title lang="pt">VT - WNBA: Phoenix Mercury x Las Vegas Aces</title>
     <desc lang="pt"> - A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004190000 -0300" stop="20251004200000 -0300" channel="ESPN 3">
-    <title lang="pt">Mundial de Motovelocidade: GP da Indonésia: Classificação: Moto 2</title>
-    <desc lang="pt"> - Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
-    <category lang="en">sports (general)</category>
+  <programme start="20251004170000 -0300" stop="20251004200000 -0300" channel="ESPN 3">
+    <title lang="pt">MLB: New York Yankees x Toronto Blue Jays - - ao vivo</title>
+    <desc lang="pt"> - Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251004200000 -0300" stop="20251004230000 -0300" channel="ESPN 3">
     <title lang="pt">College Football: Texas Tech x Houston - - ao vivo</title>
@@ -51539,7 +51557,7 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251004060000 -0300" stop="20251004070000 -0300" channel="ESPN 4">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Caio Bonfim</title>
     <desc lang="pt"> - Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
     <category lang="en">sports (general)</category>
   </programme>
@@ -51604,28 +51622,28 @@
     <desc lang="pt"> - Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos com a transmissão e cobertura completa da ESPN.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251004180000 -0300" stop="20251004200000 -0300" channel="ESPN 4">
+  <programme start="20251004180000 -0300" stop="20251004185000 -0300" channel="ESPN 4">
+    <title lang="pt">Extreme E: Desert X Prix - The Final Lap: Corrida 1</title>
+    <desc lang="pt"> - As areias do deserto recebem os carros mais velozes e equipados do mundo. Acompanhe a odisséia do Extreme E.</desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20251004185000 -0300" stop="20251004210000 -0300" channel="ESPN 4">
+    <title lang="pt">Huracán x Banfield - - ao vivo</title>
+    <desc lang="pt"> - Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251004210000 -0300" stop="20251004230000 -0300" channel="ESPN 4">
     <title lang="pt">VT - Arsenal x West Ham</title>
     <desc lang="pt"> - Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251004200000 -0300" stop="20251004220000 -0300" channel="ESPN 4">
-    <title lang="pt">Campeonato Argentino - - ao vivo</title>
-    <desc lang="pt"> - Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251004220000 -0300" stop="20251004221500 -0300" channel="ESPN 4">
+  <programme start="20251004230000 -0300" stop="20251004231500 -0300" channel="ESPN 4">
     <title lang="pt">Momento ESPN</title>
     <desc lang="pt"> - Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
-  </programme>
-  <programme start="20251004221500 -0300" stop="20251004231500 -0300" channel="ESPN 4">
-    <title lang="pt">Extreme E: Desert X Prix - The Final Lap: Corrida 1</title>
-    <desc lang="pt"> - As areias do deserto recebem os carros mais velozes e equipados do mundo. Acompanhe a odisséia do Extreme E.</desc>
-    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251004231500 -0300" stop="20251005004500 -0300" channel="ESPN 4">
     <title lang="pt">MotoGP: GP da Indonésia: Sprint</title>
@@ -66387,45 +66405,35 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004010000 -0300" stop="20251004022100 -0300" channel="MEZZO HD">
-    <title lang="pt">Gustavo Dudamel Opening Concert - Opéra de Paris</title>
+  <programme start="20251004010000 -0300" stop="20251004022900 -0300" channel="MEZZO HD">
+    <title lang="pt">Orchestre Philharmonique de Liège, Gergely Madaras: Beethoven, Strauss</title>
+    <desc lang="pt"> - Orquestra Filarmônica Real de Liège, Gergely Madaras (regente); Coro Nacional da Hungria (Csaba Somos, regente do coro).</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251004022900 -0300" stop="20251004035500 -0300" channel="MEZZO HD">
+    <title lang="pt">Orchestre Philharmonique Royal de Liège, Lionel Bringuier: Ravel, …</title>
+    <desc lang="pt"> - Orquestra Filarmônica Real de Liège, Gergely Madaras (regente); Coro Nacional da Hungria (Csaba Somos, regente do coro).</desc>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251004035500 -0300" stop="20251004053600 -0300" channel="MEZZO HD">
+    <title lang="pt">Simón Bolívar Symphony Orchestra, Gustavo Dudamel: Abreu, Mahler</title>
     <desc lang="pt"> - Orquestra e Coro da Ópera Nacional de Paris com a participação da Maîtrise des Hauts-de-Seine, do Coro Infantil da Ópera Nacional de Paris e dos artistas residentes Gustavo Dudamel (maestro) e Alessandro Di Stefano.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004022100 -0300" stop="20251004035100 -0300" channel="MEZZO HD">
-    <title lang="pt">Augustin Hadelich, Gautier Capuçon, Wiener Philharmoniker, Christian …</title>
-    <sub-title lang="pt">Brahms</sub-title>
-    <desc lang="pt"> - Wiener Philharmoniker, Christian Thielemann (maestro). Ludwig van Beethoven (1770 - 1827). Sinfonia nº 9 em fá maior op. 93. Gravado em 2008 no Musikverein, Viena.</desc>
+  <programme start="20251004053600 -0300" stop="20251004071500 -0300" channel="MEZZO HD">
+    <title lang="pt">Lang Lang: Fauré, Schumann, Chopin - Philharmonie, Paris</title>
+    <desc lang="pt"> - A equipe formada por marido e mulher, Lang Lang e Gina Alice, junta-se a Andris Nelsons e aos membros da Gewandhausorchester para uma apresentação muito especial do sempre popular Carnaval dos Animais de Saint-Saëns.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004035100 -0300" stop="20251004043000 -0300" channel="MEZZO HD">
-    <title lang="pt">Intermezzo</title>
-    <desc lang="pt"> - Clips</desc>
-    <episode-num system="xmltv_ns">2.276.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251004043000 -0300" stop="20251004060300 -0300" channel="MEZZO HD">
-    <title lang="pt">Klaus Mäkelä, Yuja Wang, Orchestre de Paris</title>
-    <sub-title lang="pt">Sibelius, Lindberg, Tchaikovsky</sub-title>
-    <desc lang="pt"> - Orquestra de Paris, Klaus Mäkelä (maestro); Yuja Wang (piano). Jean Sibelius (1865 - 1957). Valse triste, op. 44, nº 1.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251004060300 -0300" stop="20251004073100 -0300" channel="MEZZO HD">
-    <title lang="pt">Orchestre de l'Opéra national de Paris, Gustavo Dudamel: Mahler</title>
-    <desc lang="pt"> - Orchestre de l'Opéra National de Paris, Gustavo Dudamel (Maestro). Gustav Mahler (1860 - 1911), Sinfonia nº. 9 em ré maior. Barcelona, Gran Teatre del Liceu, 20 de setembro de 2022.</desc>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251004073100 -0300" stop="20251004080000 -0300" channel="MEZZO HD">
+  <programme start="20251004071500 -0300" stop="20251004080000 -0300" channel="MEZZO HD">
     <title lang="pt">Intermezzo</title>
     <desc lang="pt"> - Clips</desc>
     <episode-num system="xmltv_ns">6.276.</episode-num>
@@ -66433,32 +66441,31 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004080000 -0300" stop="20251004092100 -0300" channel="MEZZO HD">
-    <title lang="pt">Roberto Fonseca at Jazz à la Villette</title>
-    <desc lang="pt"> - Roberto Fonseca (coro, piano); Mathew Simon (trompete); Ruly Herrera (bateria); Yandy Martinez (baixo); Jimmy Jenks (saxofone); Javier Zalva (saxofone, flauta); Andrés Coayo (bateria).</desc>
+  <programme start="20251004080000 -0300" stop="20251004085500 -0300" channel="MEZZO HD">
+    <title lang="pt">Naïssam Jalal: Landscapes of Eternity - Jazz Sous les Pommiers</title>
+    <desc lang="pt"> - Naïssam Jalal: Paisagens da Eternidade. Naïssam Jalal (flauta), Debasmita Bhattacharya (sarod), Leonardo Montana (piano), Flo Comment (tanpura), Anuja Borude (pakhawaj), Zaza Desiderio (bateria).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004092100 -0300" stop="20251004100800 -0300" channel="MEZZO HD">
-    <title lang="pt">Neue Grafik Ensemble - Jazz à La Villette</title>
-    <desc lang="pt"> - "Neue Grafik Ensemble: Fred Ntepe - teclado, Matt Gedrych - baixo, Jack Banjo - trompete, Benjamin Appiah - bateria, Faye Thompson - saxophone, Fred N'Thepe, Jordan Figueroa Saintard, Emma-Jean Thackray, Algo está faltando.</desc>
-    <episode-num system="xmltv_ns">8.276.</episode-num>
+  <programme start="20251004085500 -0300" stop="20251004101900 -0300" channel="MEZZO HD">
+    <title lang="pt">Fidel Fourneyron Quartet - Jazz sous les Pommiers</title>
+    <desc lang="pt"> - Fidel Fourneyron 4tet: Fidel Fourneyron (trombone), Vincent Peirani (acordeão), Ana Carla Maza (violoncelo), Arnaud Dolmen (bateria, percussão).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004105700 -0300" stop="20251004120000 -0300" channel="MEZZO HD">
-    <title lang="pt">Intermezzo</title>
-    <desc lang="pt"> - Clips</desc>
-    <episode-num system="xmltv_ns">9.276.</episode-num>
+  <programme start="20251004101900 -0300" stop="20251004121500 -0300" channel="MEZZO HD">
+    <title lang="pt">Bojan Z, Louis Winsberg, Airelle Besson, Anne Paceo</title>
+    <sub-title lang="pt">at Jazz sous les Pommiers</sub-title>
+    <desc lang="pt"> - Concerto dos artistas residentes: Franck Tortiller (vibrafone), Yves Rousseau (contrabaixo), Bojan Z (piano), Louis Winsberg (guitarra), Andy Sheppard (saxofone), Thomas de Pourquery (saxofone), Airelle Besson (trompete).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004120000 -0300" stop="20251004151600 -0300" channel="MEZZO HD">
-    <title lang="pt">Rameau: Les Indes Galantes - Opéra de Paris</title>
-    <desc lang="pt"> - Les Indes Galantes 'Opéra-ballet' em prólogo e quatro entradas de Jean-Philippe Rameau (1683 - 1764). Libreto de Louis Fuzelier. Primeira apresentação em Paris, Ópera, 23 de agosto de 1735.</desc>
+  <programme start="20251004121500 -0300" stop="20251004151600 -0300" channel="MEZZO HD">
+    <title lang="pt">Mussorgsky: Boris Godunov - DNO Amsterdam</title>
+    <desc lang="pt"> - Ópera em um prólogo e quatro atos de Modest Mussorgsky (1839 - 1881). Libreto de Modest Mussorgsky baseado em 'Boris Godunov' de Alexander Pushkin.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -66471,30 +66478,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004160000 -0300" stop="20251004174000 -0300" channel="MEZZO HD">
-    <title lang="pt">Simón Bolívar Symphony Orchestra, Gustavo Dudamel: Abreu, Mahler</title>
-    <desc lang="pt"> - Orquestra e Coro da Ópera Nacional de Paris com a participação da Maîtrise des Hauts-de-Seine, do Coro Infantil da Ópera Nacional de Paris e dos artistas residentes Gustavo Dudamel (maestro) e Alessandro Di Stefano.</desc>
+  <programme start="20251004160000 -0300" stop="20251004173000 -0300" channel="MEZZO HD">
+    <title lang="pt">Gautier Capuçon, OPRL, Lionel Bringuier: Dukas, Saint-Saëns, …</title>
+    <desc lang="pt"> - Orquestra Filarmônica Real de Liège, Lionel Bringuier (maestro), Gautier Capuçon (violoncelo).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004174000 -0300" stop="20251004191900 -0300" channel="MEZZO HD">
-    <title lang="pt">Lang Lang: Fauré, Schumann, Chopin - Philharmonie, Paris</title>
-    <desc lang="pt"> - A equipe formada por marido e mulher, Lang Lang e Gina Alice, junta-se a Andris Nelsons e aos membros da Gewandhausorchester para uma apresentação muito especial do sempre popular Carnaval dos Animais de Saint-Saëns.</desc>
+  <programme start="20251004173000 -0300" stop="20251004190000 -0300" channel="MEZZO HD">
+    <title lang="pt">Czech Philharmonic, Jakub Hrusa, Vilde Frang: Beethoven, Prokofiev</title>
+    <desc lang="pt"> - O concerto de abertura da 66ª edição do Festival Litomysl de Smetana, regido por Jakub Hrusa será aberto com a Marcha para a Festa de Shakespeare, de Smetana, e o grand finale será uma suíte do balé Romeu e Julieta.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004191900 -0300" stop="20251004204200 -0300" channel="MEZZO HD">
-    <title lang="pt">Orchestre de Paris, Lahav Shani, Kirill Gerstein</title>
-    <sub-title lang="pt">Beethoven, Tchaikovsky</sub-title>
-    <desc lang="pt"> - Orchestre de Paris, Lahav Shani (condutor), Kirill Gerstein (piano).</desc>
-    <episode-num system="xmltv_ns">18.276.</episode-num>
+  <programme start="20251004190000 -0300" stop="20251004204000 -0300" channel="MEZZO HD">
+    <title lang="pt">Véronique Gens, Kazuki Yamada, Philharmonique de Monte-Carlo</title>
+    <sub-title lang="pt">Berlioz</sub-title>
+    <desc lang="pt"> - Orquestra Filarmônica de Monte-Carlo, Kazuki Yamada (regente), Véronique Gens (soprano), Hector Berlioz (1803-1869). Le Corsaire, Abertura, Op. 21.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004204200 -0300" stop="20251004210000 -0300" channel="MEZZO HD">
+  <programme start="20251004204000 -0300" stop="20251004210000 -0300" channel="MEZZO HD">
     <title lang="pt">Intermezzo</title>
     <desc lang="pt"> - Clips</desc>
     <episode-num system="xmltv_ns">19.276.</episode-num>
@@ -66502,24 +66508,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004210000 -0300" stop="20251004224900 -0300" channel="MEZZO HD">
-    <title lang="pt">Strauss: Salome - Opéra National de Paris</title>
-    <desc lang="pt"> - Salomé 'Drama musical' em um ato de Richard Strauss (1864 - 1949). Libreto de Richard Strauss após "Salomé", de Oscar Wilde. Primeira apresentação em Dresden, Hofoper, em 9 de dezembro de 1905.</desc>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251004224900 -0300" stop="20251004235100 -0300" channel="MEZZO HD">
-    <title lang="pt">Staatskapelle Dresden, Antonio Pappano</title>
-    <sub-title lang="pt">Rachmaninov</sub-title>
-    <desc lang="pt"> - Staatskapelle Dresden, Antonio Pappano (Regente). Sergei Rachmaninov (1873-1943) - Sinfonia nº 2 em Mi menor, Op. 27.</desc>
+  <programme start="20251004210000 -0300" stop="20251004234100 -0300" channel="MEZZO HD">
+    <title lang="pt">Jonas Kaufmann sings 'Werther' by Massenet At the Paris Opera</title>
+    <desc lang="pt"> - Werther 'Drame lyrique' em quatro atos e cinco tableaux de Jules Massenet (1842 - 1912). Libreto de Edouard Blau, Paul Millet e Georges Hartmann segundo Goethe.</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004235100 -0300" stop="20251005010000 -0300" channel="MEZZO HD">
-    <title lang="pt">Fondation Singer Polignac: Justin Taylor et Sophie de Bardonnèche</title>
-    <desc lang="pt"> - Justin Taylor (harpsichord), Sophie de Bardonnèch (violin).</desc>
+  <programme start="20251004234100 -0300" stop="20251005003600 -0300" channel="MEZZO HD">
+    <title lang="pt">Naïssam Jalal: Landscapes of Eternity - Jazz Sous les Pommiers</title>
+    <desc lang="pt"> - Naïssam Jalal: Paisagens da Eternidade. Naïssam Jalal (flauta), Debasmita Bhattacharya (sarod), Leonardo Montana (piano), Flo Comment (tanpura), Anuja Borude (pakhawaj), Zaza Desiderio (bateria).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -81087,9 +81085,13 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251004231000 -0300" stop="20251005002000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Faixa Combate - Jungle Fight</title>
-    <desc lang="pt"> - Melhores momentos do Jungle Fight.</desc>
+  <programme start="20251004231000 -0300" stop="20251005005500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt"> - Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <episode-num system="xmltv_ns">22.276.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20251005002000 -0300" stop="20251005012500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Altas Horas</title>
@@ -90948,9 +90950,9 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251004223000 -0300" stop="20251005003000 -0300" channel="Xsports HD">
-    <title lang="pt">VT: Arsenal x Aston Villa</title>
-    <desc lang="pt">FA Women's Super League: Duelo de estrelas do futebol feminino em partidas intensas e cheias de talento.</desc>
+  <programme start="20251004230000 -0300" stop="20251005010000 -0300" channel="Xsports HD">
+    <title lang="pt">VT: Real Madrid x Villarreal</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
   </programme>
   <programme start="20251005003000 -0300" stop="20251005021500 -0300" channel="Xsports HD">
     <title lang="pt">VT: Bayern De Munique x Werder Bremen</title>
@@ -91186,10 +91188,10 @@
     <desc lang="pt"> - Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251004223000 -0300" stop="20251005003000 -0300" channel="ESPN 2">
-    <title lang="pt">VT - Manchester United x Sunderland</title>
-    <desc lang="pt"> - Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
-    <category lang="en">sports (general)</category>
+  <programme start="20251004213000 -0300" stop="20251005003000 -0300" channel="ESPN 2">
+    <title lang="pt">MLB: Detroit Tigers x Seattle Mariners - - ao vivo</title>
+    <desc lang="pt"> - Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251005003000 -0300" stop="20251005013000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter</title>
@@ -91345,23 +91347,23 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251005020000 -0300" stop="20251005031500 -0300" channel="ESPN 4">
-    <title lang="pt">Moto 2: GP da Malásia - - ao vivo</title>
-    <desc lang="pt"> - Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <title lang="pt">Moto 2: GP da Indonésia - - ao vivo</title>
+    <desc lang="pt"> - Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251005031500 -0300" stop="20251005051500 -0300" channel="ESPN 4">
-    <title lang="pt">MotoGP: GP da Malásia - - ao vivo</title>
-    <desc lang="pt"> - Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <title lang="pt">MotoGP: GP da Indonésia - - ao vivo</title>
+    <desc lang="pt"> - Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.</desc>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251005051500 -0300" stop="20251005071500 -0300" channel="ESPN 4">
     <title lang="pt">VT - Manchester United x Chelsea</title>
-    <desc lang="pt"> - Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
+    <desc lang="pt"> - É a principal categoria da modalidade na Inglaterra e reúne as melhores equipes do país, que disputam o título e a classificação para a Champions League.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251005071500 -0300" stop="20251005081500 -0300" channel="ESPN 4">
-    <title lang="pt">Bola da Vez</title>
-    <desc lang="pt"> - Grandes personalidades são colocadas no "paredão" pelos jornalistas da ESPN. O principal programa de entrevista dos canais ESPN recebe grandes nomes do esporte nacional e internacional para encarar as perguntas da bancada de entre</desc>
+    <title lang="pt">Bola da Vez: Lucas Moraes</title>
+    <desc lang="pt"> - O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251005081500 -0300" stop="20251005095000 -0300" channel="ESPN 4">
@@ -91374,23 +91376,15 @@
     <desc lang="pt"> - Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251005120000 -0300" stop="20251005121500 -0300" channel="ESPN 4">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt"> - Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251005121500 -0300" stop="20251005125000 -0300" channel="ESPN 4">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt"> - Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas, estatísticas, curiosidades e muito mais!</desc>
+  <programme start="20251005120000 -0300" stop="20251005130000 -0300" channel="ESPN 4">
+    <title lang="pt">Extreme E: Desert X Prix - The Final Lap: Corrida 1</title>
+    <desc lang="pt"> - As areias do deserto recebem os carros mais velozes e equipados do mundo. Acompanhe a odisséia do Extreme E.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251005125000 -0300" stop="20251005150000 -0300" channel="ESPN 4">
-    <title lang="pt">Napoli x Genoa - - ao vivo</title>
-    <desc lang="pt"> - Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
-    <category lang="en">live broadcast</category>
+  <programme start="20251005130000 -0300" stop="20251005150000 -0300" channel="ESPN 4">
+    <title lang="pt">MotoGP: GP da Indonésia</title>
+    <desc lang="pt"> - Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.</desc>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251005150000 -0300" stop="20251005151000 -0300" channel="ESPN 4">
     <title lang="pt">Sportscenter Abre o Jogo - - ao vivo</title>
@@ -91407,30 +91401,17 @@
     <desc lang="pt"> - É a divisão de elite do futebol português e um dos maiores campeonatos da Europa. Acompanhe 18 clubes na luta pelo título e pelas vagas nas competições do continente.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251005191500 -0300" stop="20251005193000 -0300" channel="ESPN 4">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt"> - Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251005193000 -0300" stop="20251005200000 -0300" channel="ESPN 4">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt"> - Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas, estatísticas, curiosidades e muito mais!</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20251005200000 -0300" stop="20251005203000 -0300" channel="ESPN 4">
-    <title lang="pt">European Qualifiers Preview</title>
-    <desc lang="pt"> - As melhores jogadas e os destaques do dia. Fique por dentro das Eliminatórias Européias para a Euro 2024.</desc>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20251005203000 -0300" stop="20251005223000 -0300" channel="ESPN 4">
-    <title lang="pt">Campeonato Argentino - - ao vivo</title>
+  <programme start="20251005191500 -0300" stop="20251005210000 -0300" channel="ESPN 4">
+    <title lang="pt">Boca Juniors x Newell's Old Boys - - ao vivo</title>
     <desc lang="pt"> - Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251005223000 -0300" stop="20251006003000 -0300" channel="ESPN 4">
+  <programme start="20251005210000 -0300" stop="20251005231500 -0300" channel="ESPN 4">
+    <title lang="pt">Rosario Central x River Plate - - ao vivo</title>
+    <desc lang="pt"> - Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251005231500 -0300" stop="20251006010500 -0300" channel="ESPN 4">
     <title lang="pt">VT - Juventus x Milan</title>
     <desc lang="pt"> - Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
     <category lang="en">sports (general)</category>
@@ -106641,12 +106622,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251004235100 -0300" stop="20251005010000 -0300" channel="MEZZO HD">
-    <title lang="pt">Fondation Singer Polignac: Justin Taylor et Sophie de Bardonnèche</title>
-    <desc lang="pt"> - Justin Taylor (harpsichord), Sophie de Bardonnèch (violin).</desc>
+  <programme start="20251004234100 -0300" stop="20251005003600 -0300" channel="MEZZO HD">
+    <title lang="pt">Naïssam Jalal: Landscapes of Eternity - Jazz Sous les Pommiers</title>
+    <desc lang="pt"> - Naïssam Jalal: Paisagens da Eternidade. Naïssam Jalal (flauta), Debasmita Bhattacharya (sarod), Leonardo Montana (piano), Flo Comment (tanpura), Anuja Borude (pakhawaj), Zaza Desiderio (bateria).</desc>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20251005003600 -0300" stop="20251005010000 -0300" channel="MEZZO HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <desc lang="pt"> - </desc>
   </programme>
   <programme start="20251005010000 -0300" stop="20251005014700 -0300" channel="MEZZO HD">
     <title lang="pt">Neue Grafik Ensemble - Jazz à La Villette</title>
@@ -120101,17 +120086,17 @@
     <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251005120000 -0300" stop="20251005140000 -0300" channel="PREMIERE 6 HD">
+  <programme start="20251005120000 -0300" stop="20251005130000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251005140000 -0300" stop="20251005160000 -0300" channel="PREMIERE 6 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="en">sports (general)</category>
+  <programme start="20251005130000 -0300" stop="20251005170000 -0300" channel="PREMIERE 6 HD">
+    <title lang="pt">NFL: New Orleans Saints x New York Giants - - ao vivo</title>
+    <desc lang="pt"> - Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251005160000 -0300" stop="20251005180000 -0300" channel="PREMIERE 6 HD">
+  <programme start="20251005170000 -0300" stop="20251005180000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt"> - Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
     <category lang="en">sports (general)</category>
@@ -131133,7 +131118,7 @@
     <desc lang="pt"> - Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251005223000 -0300" stop="20251006003000 -0300" channel="ESPN 4">
+  <programme start="20251005231500 -0300" stop="20251006010500 -0300" channel="ESPN 4">
     <title lang="pt">VT - Juventus x Milan</title>
     <desc lang="pt"> - Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
     <category lang="en">sports (general)</category>
