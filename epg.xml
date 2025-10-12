@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-12 11:30:53" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-12 20:42:20" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -185287,52 +185287,78 @@
     <length units="minutes">9000</length>
     <category lang="en">team sports</category>
   </programme>
-  <programme start="20251012020000 -0300" stop="20251012042000 -0300" channel="SPORTV 2">
+  <programme start="20251012020000 -0300" stop="20251012020315 -0300" channel="SPORTV 2">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">195</length>
+  </programme>
+  <programme start="20251012020315 -0300" stop="20251012042924 -0300" channel="SPORTV 2">
     <title lang="pt">Mundial de Vôlei Feminino</title>
     <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!</desc>
-    <length units="minutes">8400</length>
+    <length units="minutes">8769</length>
     <category lang="en">team sports</category>
   </programme>
-  <programme start="20251012042000 -0300" stop="20251012062000 -0300" channel="SPORTV 2">
+  <programme start="20251012042924 -0300" stop="20251012063557 -0300" channel="SPORTV 2">
     <title lang="pt">Mundial de Vôlei Feminino</title>
     <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7593</length>
     <category lang="en">team sports</category>
   </programme>
-  <programme start="20251012062000 -0300" stop="20251012070000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello La</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">76.285.</episode-num>
-  </programme>
-  <programme start="20251012070000 -0300" stop="20251012110000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20251012063557 -0300" stop="20251012064321 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Abre Aspas Bruninho Relembra Parque De Diversão Na Vila Olím</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">444</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251012110000 -0300" stop="20251012150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20251012064321 -0300" stop="20251012070012 -0300" channel="SPORTV 2">
+    <title lang="pt">Filler Hello La - Tati West</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">1011</length>
+    <episode-num system="xmltv_ns">6.285.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251012150000 -0300" stop="20251012170000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20251012070012 -0300" stop="20251012072650 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Onda - 2023, A 0</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">1598</length>
+    <episode-num system="xmltv_ns">..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251012170000 -0300" stop="20251012200000 -0300" channel="SPORTV 2">
+  <programme start="20251012072650 -0300" stop="20251012075604 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Onda, A 0</title>
+    <sub-title lang="pt">realizado em 09/09/2023</sub-title>
+    <desc lang="pt">realizado em 09/09/2023 - Sinopse não disponível.</desc>
+    <length units="minutes">1754</length>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251012075604 -0300" stop="20251012082507 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Onda - 2023, A Ep4 0</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1743</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251012082507 -0300" stop="20251012152431 -0300" channel="SPORTV 2">
+    <title lang="pt">Circuito Mundial De Surfe - Challenger Series - Etapa Saquarema - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Skate, você acompanha aqui no sportv!</desc>
+    <length units="minutes">25164</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">8.285.</episode-num>
+    <new/>
+  </programme>
+  <programme start="20251012152431 -0300" stop="20251012200000 -0300" channel="SPORTV 2">
     <title lang="pt">NFL: 49Ers x Buccaneers - ao vivo</title>
     <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">16529</length>
     <category lang="en">live broadcast</category>
     <new/>
   </programme>
@@ -185397,21 +185423,20 @@
     <category lang="en">live broadcast</category>
     <new/>
   </programme>
-  <programme start="20251013174500 -0300" stop="20251013184500 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello La</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">77.286.</episode-num>
+  <programme start="20251013174500 -0300" stop="20251013181500 -0300" channel="SPORTV 2">
+    <title lang="pt">Lendas - Michael Phelps</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do</desc>
+    <length units="minutes">1800</length>
   </programme>
-  <programme start="20251013184500 -0300" stop="20251013204500 -0300" channel="SPORTV 2">
+  <programme start="20251013181500 -0300" stop="20251013201500 -0300" channel="SPORTV 2">
     <title lang="pt">Copa Do Mundo De Natação: Etapa 1 - Dia 2 - EUA</title>
     <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv</desc>
     <length units="minutes">7200</length>
   </programme>
-  <programme start="20251013204500 -0300" stop="20251013230000 -0300" channel="SPORTV 2">
+  <programme start="20251013201500 -0300" stop="20251013230000 -0300" channel="SPORTV 2">
     <title lang="pt">Campeonato Carioca Feminino De Vôlei - ao vivo</title>
     <desc lang="pt">As maiores estrelas do vôlei feminino do Rio se enfrentam no Campeonato Carioca. Emoção, rivalidade e talento em quadra, aqui no sportv!&quot;</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">9900</length>
     <category lang="en">live broadcast</category>
     <new/>
   </programme>
