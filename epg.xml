@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-13 11:30:56" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-13 14:31:14" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -83164,43 +83164,39 @@
     <length units="minutes">9000</length>
     <previously-shown/>
   </programme>
-  <programme start="20251014113000 -0300" stop="20251014141000 -0300" channel="ESPN 2">
+  <programme start="20251014113000 -0300" stop="20251014140000 -0300" channel="ESPN 2">
     <title lang="pt">NBA: Cleveland Cavaliers x Boston Celtics - ao vivo</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
-    <length units="minutes">9600</length>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251014141000 -0300" stop="20251014154000 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">74.287.</episode-num>
-  </programme>
-  <programme start="20251014154000 -0300" stop="20251014174500 -0300" channel="ESPN 2">
-    <title lang="pt">Arábia Saudita x Iraque - ao vivo</title>
-    <desc lang="pt">As seleções de futebol asiáticas correm atrás do sonho da classificação para a Copa do Mundo.</desc>
-    <length units="minutes">7500</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251014174500 -0300" stop="20251014180000 -0300" channel="ESPN 2">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">17.287.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251014180000 -0300" stop="20251014183000 -0300" channel="ESPN 2">
-    <title lang="pt">Spirit of Yachting: Maxi Yacht Rolex Cup</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20251014140000 -0300" stop="20251014143000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt">Apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte em alto nível.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">18.287.</episode-num>
   </programme>
-  <programme start="20251014183000 -0300" stop="20251014190000 -0300" channel="ESPN 2">
+  <programme start="20251014143000 -0300" stop="20251014170000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP 250: Bruxelas: João Fonseca x Botic Van de Zandschulp - ao vivo</title>
+    <desc lang="pt">ATP 250 Series, é uma série de torneios profissionais de tênis disputados internacionalmente que são parte do circuito da Associação de Tênis Profissional (ATP).</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251014170000 -0300" stop="20251014173000 -0300" channel="ESPN 2">
     <title lang="pt">Clássicos ESPN</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
+  </programme>
+  <programme start="20251014173000 -0300" stop="20251014180000 -0300" channel="ESPN 2">
+    <title lang="pt">Spirit of Yachting: Maxi Yacht Rolex Cup</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">17.287.</episode-num>
+  </programme>
+  <programme start="20251014180000 -0300" stop="20251014190000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL: Cincinnati Bengals x Green Bay Packers</title>
+    <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
   </programme>
   <programme start="20251014190000 -0300" stop="20251014200000 -0300" channel="ESPN 2">
     <title lang="pt">Pelas Quadras - ao vivo</title>
@@ -83648,11 +83644,10 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20251013210000 -0300" stop="20251014000000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB Play-Offs - ao vivo</title>
-    <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
+    <title lang="pt">MLB: Los Angeles Dodgers x Milwaukee Brewers - ao vivo</title>
+    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">21.286.</episode-num>
   </programme>
   <programme start="20251014000000 -0300" stop="20251014001500 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - ao vivo</title>
@@ -83758,11 +83753,28 @@
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20251014160000 -0300" stop="20251014183000 -0300" channel="ESPN 3">
-    <title lang="pt">NFL: Buffalo Bills x Atlanta Falcons</title>
-    <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
-    <length units="minutes">9000</length>
-    <previously-shown/>
+  <programme start="20251014160000 -0300" stop="20251014174500 -0300" channel="ESPN 3">
+    <title lang="pt">Arábia Saudita x Iraque - ao vivo</title>
+    <desc lang="pt">As seleções de futebol asiáticas correm atrás do sonho da classificação para a Copa do Mundo.</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251014174500 -0300" stop="20251014180000 -0300" channel="ESPN 3">
+    <title lang="pt">Momento ESPN</title>
+    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">17.287.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251014180000 -0300" stop="20251014183000 -0300" channel="ESPN 3">
+    <title lang="pt">Premier League Stories</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251014183000 -0300" stop="20251014193000 -0300" channel="ESPN 3">
     <title lang="pt">Bola da Vez: Tamara Klink</title>
@@ -83771,9 +83783,10 @@
     <episode-num system="xmltv_ns">78.287.</episode-num>
   </programme>
   <programme start="20251014193000 -0300" stop="20251014220000 -0300" channel="ESPN 3">
-    <title lang="pt">Nascar Cup Series: Play-offs: GP de Las Vegas</title>
-    <desc lang="pt">A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais, stock cars e pilotos que não têm medo de pisar fundo.</desc>
+    <title lang="pt">ATP 250: Bruxelas: João Fonseca x Botic Van de Zandschulp</title>
+    <desc lang="pt">ATP 250 Series, é uma série de torneios profissionais de tênis disputados internacionalmente que são parte do circuito da Associação de Tênis Profissional (ATP).</desc>
     <length units="minutes">9000</length>
+    <previously-shown/>
   </programme>
   <programme start="20251014220000 -0300" stop="20251015000000 -0300" channel="ESPN 3">
     <title lang="pt">Espanha x Bulgária</title>
@@ -84769,11 +84782,10 @@
     </rating>
   </programme>
   <programme start="20251013180000 -0300" stop="20251013210000 -0300" channel="ESPN 5">
-    <title lang="pt">MLB Play-Offs - ao vivo</title>
+    <title lang="pt">MLB: Seattle Mariners x Toronto Blue Jays - ao vivo</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">18.286.</episode-num>
   </programme>
   <programme start="20251013210000 -0300" stop="20251013220000 -0300" channel="ESPN 5">
     <title lang="pt">Resenha: Moisés e William</title>
@@ -84800,10 +84812,10 @@
     <previously-shown/>
   </programme>
   <programme start="20251014033000 -0300" stop="20251014060000 -0300" channel="ESPN 5">
-    <title lang="pt">MLB Play-Offs</title>
+    <title lang="pt">MLB: Seattle Mariners x Toronto Blue Jays</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
     <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">3.287.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20251014060000 -0300" stop="20251014080000 -0300" channel="ESPN 5">
     <title lang="pt">Volta Redonda x Atlético-GO</title>
