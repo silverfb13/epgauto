@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-14 14:30:54" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-14 17:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -22954,11 +22954,20 @@
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">78.287.</episode-num>
   </programme>
-  <programme start="20251014193000 -0300" stop="20251014200000 -0300" channel="CANÇÃO NOVA HD">
+  <programme start="20251014193000 -0300" stop="20251014195300 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Terra Santa News</title>
     <desc lang="pt">As principais notícias do Oriente Médio, com destaque para as ações da Igreja Católica.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">79.287.</episode-num>
+  </programme>
+  <programme start="20251014195300 -0300" stop="20251014200000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Parábolas de Corações Especiais</title>
+    <desc lang="pt">O programa é uma parceria com a Comunidade Católica Jesus Menino, de Petrópolis/RJ, que acolhe e adota crianças e jovens especiais abandonados.</desc>
+    <length units="minutes">420</length>
+    <episode-num system="xmltv_ns">19.287.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251014200000 -0300" stop="20251014210000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Pra Ser Feliz</title>
@@ -23296,8 +23305,8 @@
     </rating>
   </programme>
   <programme start="20251015200000 -0300" stop="20251015220000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santa Missa: Clube da Evangelização</title>
-    <desc lang="pt">Missas transmitidas diretamente da comunidade local.</desc>
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Apice da Espiritualidade Católica.</desc>
     <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">20.288.</episode-num>
     <rating system="Brazil">
@@ -103651,7 +103660,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">13.22.</episode-num>
+    <episode-num system="xmltv_ns">14.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103660,7 +103669,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">13.32.</episode-num>
+    <episode-num system="xmltv_ns">14.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103807,7 +103816,7 @@
   </programme>
   <programme start="20251014230000 -0300" stop="20251014233500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Aberto Ao Público</title>
-    <desc lang="pt">Programa inédito gravado em um teatro de São Paulo em que a plateia aparece como protagonista, participando ativamente de esquetes e desafios.</desc>
+    <desc lang="pt">Um quarteto de peso da comédia brasileira, formado por Maurício Meirelles, Bruna Louise, Murilo Couto e Thiago Ventura, recebe, a cada episódio, convidados especiais para um programa em que a plateia é protagonista.</desc>
     <length units="minutes">2100</length>
     <episode-num system="xmltv_ns">23.287.</episode-num>
     <rating system="Brazil">
@@ -103854,7 +103863,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">13.22.</episode-num>
+    <episode-num system="xmltv_ns">14.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103863,7 +103872,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">13.32.</episode-num>
+    <episode-num system="xmltv_ns">14.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103994,9 +104003,10 @@
     </rating>
   </programme>
   <programme start="20251015212000 -0300" stop="20251015233000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Futebol 2025</title>
-    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+    <title lang="pt">Santos x Corinthians - ao vivo</title>
+    <desc lang="pt">Santos e Corinthians jogam pela 28ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Vila Belmiro, em Santos (SP).</desc>
     <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251015233000 -0300" stop="20251015234500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Segue o Jogo</title>
@@ -118563,7 +118573,7 @@
     <sub-title lang="pt">Quitandas &amp; Biscuiterie et viennosserie</sub-title>
     <desc lang="pt">Neste episódio, exploramos como as quitandas brasileiras e as biscuiteries ou viennoiseries francesas ajudaram a empoderar mulheres ao longo da história.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">12.7.</episode-num>
+    <episode-num system="xmltv_ns">14.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -118816,29 +118826,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014234600 -0300" stop="20251015002300 -0300" channel="GNT HD">
+  <programme start="20251014234600 -0300" stop="20251015001700 -0300" channel="GNT HD">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt">Com a experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
-    <length units="minutes">2220</length>
-    <episode-num system="xmltv_ns">23.598.</episode-num>
+    <length units="minutes">1860</length>
+    <episode-num system="xmltv_ns">23.597.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251014234600 -0300" stop="20251015002300 -0300" channel="GNT HD">
+  <programme start="20251014234600 -0300" stop="20251015001700 -0300" channel="GNT HD">
     <title lang="pt">Conversa Com Bial</title>
     <desc lang="pt">Com a experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.</desc>
-    <length units="minutes">2220</length>
-    <episode-num system="xmltv_ns">23.598.</episode-num>
+    <length units="minutes">1860</length>
+    <episode-num system="xmltv_ns">23.597.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015002300 -0300" stop="20251015013600 -0300" channel="GNT HD">
+  <programme start="20251015001700 -0300" stop="20251015013600 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Guilherme Weber + Hugo Bonemer + Carine Klimeck</sub-title>
     <desc lang="pt">Porchat recebe Guilherme Weber, Hugo Bonemer e Carine Klimeck. Na plateia, um susto no cemitério e uma casa com bonecos assombrados.</desc>
-    <length units="minutes">4380</length>
+    <length units="minutes">4740</length>
     <episode-num system="xmltv_ns">5.33.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -118967,7 +118977,7 @@
     <sub-title lang="pt">Quitandas &amp; Biscuiterie et viennosserie</sub-title>
     <desc lang="pt">Neste episódio, exploramos como as quitandas brasileiras e as biscuiteries ou viennoiseries francesas ajudaram a empoderar mulheres ao longo da história.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">12.7.</episode-num>
+    <episode-num system="xmltv_ns">14.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -120024,7 +120034,7 @@
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt">Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">13.193.</episode-num>
+    <episode-num system="xmltv_ns">14.193.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -120108,7 +120118,7 @@
     <sub-title lang="pt">Caras E Bocas</sub-title>
     <desc lang="pt">Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela.  A reaproximação, porém, põe em risco os planos da megera Judith.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">13.193.</episode-num>
+    <episode-num system="xmltv_ns">14.193.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -120151,19 +120161,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014120500 -0300" stop="20251014125000 -0300" channel="Globoplay Novelas">
+  <programme start="20251014120500 -0300" stop="20251014125600 -0300" channel="Globoplay Novelas">
     <title lang="pt">Quatro Por Quatro</title>
     <desc lang="pt">Abigail, Auxiliadora, Tatiana e Babalu se envolvem em um acidente e descobrem que perderam seus amores no mesmo dia. As quatro mulheres se unem para se vingar dos ex-parceiros.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">1.128.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014125000 -0300" stop="20251014135000 -0300" channel="Globoplay Novelas">
+  <programme start="20251014125600 -0300" stop="20251014135000 -0300" channel="Globoplay Novelas">
     <title lang="pt">Celebridade</title>
     <desc lang="pt">Beatriz cede à chantagem de Marcos. Sandra é convidada a ser modelo por Bruno. Paulo César não aceita o novo ofício da namorada. Ana Paula arma um barraco ao ver Nelito e Eliete.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3240</length>
     <episode-num system="xmltv_ns">1.175.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -184700,31 +184710,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014083300 -0300" stop="20251014102300 -0300" channel="SPACE HD">
+  <programme start="20251014083300 -0300" stop="20251014102000 -0300" channel="SPACE HD">
     <title lang="pt">O Procurado</title>
     <desc lang="pt">Wesley Gibson tem 25 anos e detesta sua vida. Ele segue o caminho de seu pai e entra para a Fraternidade, uma liga de assassinos treinados para executar as ordens do destino, cujo lema é &quot;matar um, salvar mil&quot;.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6420</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20251014102300 -0300" stop="20251014130000 -0300" channel="SPACE HD">
+  <programme start="20251014102000 -0300" stop="20251014130200 -0300" channel="SPACE HD">
     <title lang="pt">O Último Samurai</title>
     <desc lang="pt">Designado a treinar as tropas japonesas para derrotar os samurais, o capitão americano Nathan Algren é capturado. No entanto, quanto mais conhece sobre os samurais, mais começa a duvidar da própria missão.</desc>
-    <length units="minutes">9420</length>
+    <length units="minutes">9720</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014130000 -0300" stop="20251014150900 -0300" channel="SPACE HD">
+  <programme start="20251014130200 -0300" stop="20251014151600 -0300" channel="SPACE HD">
     <title lang="pt">Oblivion</title>
     <desc lang="pt">A Terra foi destruída pela raça Scav. Jack conserta as naves não-tripuladas que coletam os recursos vitais que restam no planeta. Mas a duas semanas de encontrar outros humanos, ele descobre algo que muda seus conceitos.</desc>
-    <length units="minutes">7740</length>
+    <length units="minutes">8040</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251014150900 -0300" stop="20251014155600 -0300" channel="SPACE HD">
+  <programme start="20251014151600 -0300" stop="20251014160300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um garoto e seu pai estão brincando de &quot;jogar o graveto&quot; com seu cachorro no deserto. Quando o cachorro retorna com o graveto, eles encontram não um graveto, e sim um grande osso.</desc>
     <length units="minutes">2820</length>
@@ -184733,34 +184743,34 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014155600 -0300" stop="20251014164400 -0300" channel="SPACE HD">
+  <programme start="20251014160300 -0300" stop="20251014165000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um homem é encontrado num elevador panorâmico, morto com tiros no tórax e na cabeça. No chão do elevador são encontrados uma bituca de cigarro, clipes de papel e a arma do crime.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014164400 -0300" stop="20251014173000 -0300" channel="SPACE HD">
+  <programme start="20251014165000 -0300" stop="20251014173800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um homem é baleado pelas costas e é encontrado em seu quintal. Seu vizinho admite que atirou nele, mas alega que foi em legítima defesa.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014173000 -0300" stop="20251014181800 -0300" channel="SPACE HD">
+  <programme start="20251014173800 -0300" stop="20251014182400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Uma família do Canadá está de férias, em Miami, e um de seus filhos é assassinado.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014181800 -0300" stop="20251014190300 -0300" channel="SPACE HD">
+  <programme start="20251014182400 -0300" stop="20251014190900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Um serial killer está solto com um grande desejo de matar, fazendo de Calleigh sua próxima vítima, o que também coloca em risco a habilidade dela de fazer o seu trabalho.</desc>
     <length units="minutes">2700</length>
@@ -184769,16 +184779,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014190300 -0300" stop="20251014195200 -0300" channel="SPACE HD">
+  <programme start="20251014190900 -0300" stop="20251014195600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Os proprietários de uma loja que foi saqueada, encontram o corpo de um homem ao lado do cofre. A equipe do CSI chega para iniciar as investigações e encontra a vítima, de 40 anos, morta com vários golpes na cabeça.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014195200 -0300" stop="20251014203700 -0300" channel="SPACE HD">
+  <programme start="20251014195600 -0300" stop="20251014204100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Os corpos de um homem e de uma mulher, bem vestidos, são encontrados próximos a um estacionamento vazio, numa rua escura. A mulher está com o rosto na calçada, numa poça de sangue, ao lado de uma embalagem    com comida.</desc>
     <length units="minutes">2700</length>
@@ -184787,16 +184797,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014203700 -0300" stop="20251014212700 -0300" channel="SPACE HD">
+  <programme start="20251014204100 -0300" stop="20251014212800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Grissom tem dificuldades em controlar suas emoções ao investigar o suposto sequestro de um bebê de uma rica família de Las Vegas, especialmente quando as evidências apontam para membros da família.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014212700 -0300" stop="20251014221300 -0300" channel="SPACE HD">
+  <programme start="20251014212800 -0300" stop="20251014221400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Os estilos de vida dos ricos e famosos ficam sob o microscópio dos CSIs, quando a babá de uma família abastada é morta.</desc>
     <length units="minutes">2760</length>
@@ -184805,99 +184815,72 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014221300 -0300" stop="20251014230000 -0300" channel="SPACE HD">
+  <programme start="20251014221400 -0300" stop="20251014230000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Uma metralhadora rara e ilegal, que &quot;vaporiza&quot; suas vítimas, é encontrada nas ruas de Miami.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014230000 -0300" stop="20251014232500 -0300" channel="SPACE HD">
+  <programme start="20251014230000 -0300" stop="20251014232600 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Motorista em Fuga</sub-title>
     <desc lang="pt">Tráfico de maconha, fuga de fiscalização e arma ilegal na fronteira.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014232500 -0300" stop="20251014235000 -0300" channel="SPACE HD">
+  <programme start="20251014232600 -0300" stop="20251014235200 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Tocaia</sub-title>
     <desc lang="pt">eja o trabalho incansável da Polícia Rodoviária Federal no combate ao contrabando e ao crime organizado. Em um país de dimensão continental, acompanhe os desafios dos agentes em defesa das fronteiras, de norte a sul.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014235000 -0300" stop="20251015003500 -0300" channel="SPACE HD">
+  <programme start="20251014235200 -0300" stop="20251015003700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">Duas lindas mulheres são assassinadas num hotel em Las Vegas e os CSIs descobrem um serial killer pouco comum em suas investigações.</desc>
+    <desc lang="pt">A equipe investiga quando um clérigo é morto na sepultura do CSI Warrick Brown.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
+    <episode-num system="xmltv_ns">13.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251014235000 -0300" stop="20251015003500 -0300" channel="SPACE HD">
+  <programme start="20251014235200 -0300" stop="20251015003700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">Duas lindas mulheres são assassinadas num hotel em Las Vegas e os CSIs descobrem um serial killer pouco comum em suas investigações.</desc>
+    <desc lang="pt">A equipe investiga quando um clérigo é morto na sepultura do CSI Warrick Brown.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
+    <episode-num system="xmltv_ns">13.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015003500 -0300" stop="20251015012000 -0300" channel="SPACE HD">
+  <programme start="20251015003700 -0300" stop="20251015012200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">A equipe CSI entra no mundo do golfe profissional, quando o corpo de um lendário jogador é descoberto durante um torneio de grande importância.</desc>
+    <desc lang="pt">Quando corpos decompostos de oito jovens mulheres aparecem em uma vala comum,  feita no deserto de Nevada, Finley rapidamente percebe que uma das mulheres - e, presumivelmente, as outras sete - é vítima do serial killer.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
+    <episode-num system="xmltv_ns">13.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015012000 -0300" stop="20251015020400 -0300" channel="SPACE HD">
+  <programme start="20251015012200 -0300" stop="20251015020600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Delko está em coma e os telespectadores são levados para o ano de 1997, para quando a equipe de CSI Miami foi formada.</desc>
+    <desc lang="pt">Horatio faz as vezes de negociador, quando um homem armado toma controle do QG dos CSIs e os faz de reféns.</desc>
     <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <episode-num system="xmltv_ns">8.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015020400 -0300" stop="20251015025000 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Delko está em coma e os telespectadores são levados para o ano de 1997, para quando a equipe de CSI Miami foi formada.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015025000 -0300" stop="20251015033400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">O caso de dois estudantes de colégio, um morto e outra desaparecida, levam os CSIs ao mundo das corridas de rua e a uma rede complexa de competição mortal.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015033400 -0300" stop="20251015041700 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">Quando um membro da banda country Rascal Flatts, é eletrocutado por sua própria guitarra durante um show, a equipe CSI investiga o caso.,</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015041700 -0300" stop="20251015050100 -0300" channel="SPACE HD">
+  <programme start="20251015020600 -0300" stop="20251015025000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">O depoimento de Calleigh pode prejudicar o futuro de Delko. Os CSIs investigam a morte de três jogadores de volêi durante uma partida.</desc>
     <length units="minutes">2640</length>
@@ -184906,19 +184889,46 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015050100 -0300" stop="20251015054400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Uma mulher misteriosa do passado de Jesse retorna durante a investigação de um assassinato cometido com águas-vivas.</desc>
+  <programme start="20251015025000 -0300" stop="20251015033300 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Quando a equipe ajuda a aplicação da lei local com várias prisões na Strip, um homem não identificado é encontrado em um carro; capitão Brass descobre informações sobre sua filha.</desc>
     <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">8.9.</episode-num>
+    <episode-num system="xmltv_ns">13.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015054400 -0300" stop="20251015060000 -0300" channel="SPACE HD">
+  <programme start="20251015033300 -0300" stop="20251015041500 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Cinco pessoas são mortas quando um pequeno avião cai perto de Las Vegas; quando um dos ex-amantes de Sara se envolve com a investigação, ela sente a pressão de seu relacionamento de longa distância com Grissom.</desc>
+    <length units="minutes">2520</length>
+    <episode-num system="xmltv_ns">13.10.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015041500 -0300" stop="20251015045900 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">O investidor Howard Burgess é o homem mais odiado de Miami, porque ele desviou o investimento de várias pessoas. Quando ele é assassinado, os CSIs procuram o assassino e encontram um tesouro escondido.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">8.4.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015045900 -0300" stop="20251015054000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Diamantes são roubados durante um assalto a uma joalheria e um cliente é baleado. Os diamantes são rapidamente recuperados, mas eles desaparecem do depósito de evidências.</desc>
+    <length units="minutes">2460</length>
+    <episode-num system="xmltv_ns">8.21.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015054000 -0300" stop="20251015060000 -0300" channel="SPACE HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">960</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">5.288.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -184936,9 +184946,9 @@
   </programme>
   <programme start="20251015062600 -0300" stop="20251015071100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">A equipe revela a vida secreta de um agente inescrupuloso do FBI, enquanto investiga também o assassinato de uma mulher.</desc>
+    <desc lang="pt">A mãe de Kyle aparece em Miami e está, agora, viúva de um bilionário. Ela quer Kyle de volta e fará qualquer coisa para tê-lo.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">6.12.</episode-num>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -185004,18 +185014,18 @@
   </programme>
   <programme start="20251015173200 -0300" stop="20251015181900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">A mãe de Kyle aparece em Miami e está, agora, viúva de um bilionário. Ela quer Kyle de volta e fará qualquer coisa para tê-lo.</desc>
+    <desc lang="pt">A equipe revela a vida secreta de um agente inescrupuloso do FBI, enquanto investiga também o assassinato de uma mulher.</desc>
     <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">6.13.</episode-num>
+    <episode-num system="xmltv_ns">6.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251015181900 -0300" stop="20251015190400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">A equipe revela a vida secreta de um agente inescrupuloso do FBI, enquanto investiga também o assassinato de uma mulher.</desc>
+    <desc lang="pt">A mãe de Kyle aparece em Miami e está, agora, viúva de um bilionário. Ela quer Kyle de volta e fará qualquer coisa para tê-lo.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">6.12.</episode-num>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -185031,18 +185041,18 @@
   </programme>
   <programme start="20251015195300 -0300" stop="20251015203900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">A equipe do CSI fica perplexa com dois casos bizarros, num episódio complexo. Um caso envolve um apartamento abandonado que tem gotas de sangue pelas paredes.</desc>
+    <desc lang="pt">Grissom e sua equipe são chamados após o rei dos cassinos de Las Vegas, Tony Braun, um conhecido viciado em drogas, ser encontrado morto em sua casa por um jardineiro.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251015203900 -0300" stop="20251015212700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">Uma restauradora de livros é encontrada morta, aparentemente de causas naturais, numa &quot;jaula&quot; de metal usada para proteger livros raros.</desc>
+    <desc lang="pt">Quando uma aluna de uma faculdade desaparece sem deixar nenhuma pista, após arrumar suas malas para retornar para sua casa, a equipe do CSI corre contra o tempo na tentativa de descobrir o que aconteceu com ela.</desc>
     <length units="minutes">2880</length>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -197456,35 +197466,35 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251014093800 -0300" stop="20251014115700 -0300" channel="TNT HD">
+  <programme start="20251014093800 -0300" stop="20251014114000 -0300" channel="TNT HD">
     <title lang="pt">Círculo de Fogo</title>
     <desc lang="pt">Em 1942, os exércitos alemães e russos se defrontam na grande Batalha de Stalingrado. Atirador russo, ganha fama ao matar um número recorde de oficiais alemães, fazendo com que os alemães tragam seu próprio franco-ati...</desc>
-    <length units="minutes">8340</length>
+    <length units="minutes">7320</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251014115700 -0300" stop="20251014122100 -0300" channel="TNT HD">
+  <programme start="20251014114000 -0300" stop="20251014120300 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Conversa de vendedor</sub-title>
     <desc lang="pt">O poder persuasivo de Will faz com que ele seja contratado como vendedor de carros em uma loja. Ao ver que consegue ter muito êxito neste meio, Will resolve deixar a faculdade para se dedicar exclusivamente à sua nova carreira.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251014122100 -0300" stop="20251014124400 -0300" channel="TNT HD">
+  <programme start="20251014120300 -0300" stop="20251014122800 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Juntando as escovas de dentes</sub-title>
     <desc lang="pt">Jazz anuncia que irá se casar com sua namorada, uma mulher que acaba de sair da prisão. Porém, ela dá em cima de Will várias vezes, e agora Will não sabe como alertar seu amigo sobre o comportamento duvidoso de sua no...</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.20.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251014124400 -0300" stop="20251014130800 -0300" channel="TNT HD">
+  <programme start="20251014122800 -0300" stop="20251014125200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Quanto maior a altura, maior o tombo</sub-title>
     <desc lang="pt">O pai superprotetor da Lisa quer assustar o Will para que eles não namorem.</desc>
@@ -197494,74 +197504,74 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251014130800 -0300" stop="20251014133200 -0300" channel="TNT HD">
+  <programme start="20251014125200 -0300" stop="20251014131700 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O passado bate à porta</sub-title>
     <desc lang="pt">Um antigo amor da faculdade de Philip, Janice, está de visita pela mansão, e Vivian fica com ciúmes. Will se interessa pela filha de Janice, Wendy, e dá em cima dela. Porém, é Janice quem flerta com o Will.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.22.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251014133200 -0300" stop="20251014135500 -0300" channel="TNT HD">
+  <programme start="20251014131700 -0300" stop="20251014133900 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia o Piloto</sub-title>
     <desc lang="pt">Chris luta para encontrar seu lugar em sua nova escola, enquanto tenta manter seus irmãos sob controle e lidar com o valentão da escola, Joey.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014135500 -0300" stop="20251014141700 -0300" channel="TNT HD">
+  <programme start="20251014133900 -0300" stop="20251014140200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Linguiça</sub-title>
     <desc lang="pt">Julius compra uma caixa grande de linguiças e obriga todos a comê-las por dias seguidos em diferentes refeições. Tonya se recusa, gerando atritos entre ela e Rochelle.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014141700 -0300" stop="20251014143800 -0300" channel="TNT HD">
+  <programme start="20251014140200 -0300" stop="20251014142500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Keisha</sub-title>
     <desc lang="pt">Rochelle pede à Keisha, uma garota da vizinhança, que ajude Drew em matemática. Chris tenta impressioná-la, mas talvez outra pessoa tenha as mesmas intenções.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014143800 -0300" stop="20251014173100 -0300" channel="TNT HD">
+  <programme start="20251014142500 -0300" stop="20251014172400 -0300" channel="TNT HD">
     <title lang="pt">It: Capítulo Dois</title>
     <desc lang="pt">Passaram-se vinte e sete anos e &quot;A Coisa&quot; está de volta a Derry. Os membros do Clube dos Perdedores, agora adultos e traumatizados pelo passado, devem superar seus medos mais profundos para derrotar Pennywise.</desc>
-    <length units="minutes">10380</length>
+    <length units="minutes">10740</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251014173100 -0300" stop="20251014191900 -0300" channel="TNT HD">
+  <programme start="20251014172400 -0300" stop="20251014191800 -0300" channel="TNT HD">
     <title lang="pt">O Impossível</title>
     <desc lang="pt">De férias na Tailândia, uma família é separada quando um feroz tsunami choca contra o hotel. Começa assim um frenético e desesperado périplo para reencontrar-se e sobreviver.</desc>
-    <length units="minutes">6480</length>
+    <length units="minutes">6840</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251014191900 -0300" stop="20251014213600 -0300" channel="TNT HD">
+  <programme start="20251014191800 -0300" stop="20251014213400 -0300" channel="TNT HD">
     <title lang="pt">Pequenos Vestígios</title>
     <desc lang="pt">Os vencedores do Oscar Denzel Washington e Rami Malek estrelam este thriller sobre um serial killer que aterroriza Los Angeles.</desc>
-    <length units="minutes">8220</length>
+    <length units="minutes">8160</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251014213600 -0300" stop="20251014233000 -0300" channel="TNT HD">
+  <programme start="20251014213400 -0300" stop="20251014233000 -0300" channel="TNT HD">
     <title lang="pt">Família Do Bagulho</title>
     <desc lang="pt">Jason Sudeikis interpreta nesta louca comédia a um pequeno traficante de maconha, quem prefere manter um perfil baixo em um pequeno subúrbio.</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -197576,27 +197586,27 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014235200 -0300" stop="20251015001400 -0300" channel="TNT HD">
+  <programme start="20251014235200 -0300" stop="20251015001600 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Linguiça</sub-title>
     <desc lang="pt">Julius compra uma caixa grande de linguiças e obriga todos a comê-las por dias seguidos em diferentes refeições. Tonya se recusa, gerando atritos entre ela e Rochelle.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251014235200 -0300" stop="20251015001400 -0300" channel="TNT HD">
+  <programme start="20251014235200 -0300" stop="20251015001600 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Linguiça</sub-title>
     <desc lang="pt">Julius compra uma caixa grande de linguiças e obriga todos a comê-las por dias seguidos em diferentes refeições. Tonya se recusa, gerando atritos entre ela e Rochelle.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251015001400 -0300" stop="20251015003600 -0300" channel="TNT HD">
+  <programme start="20251015001600 -0300" stop="20251015003800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Keisha</sub-title>
     <desc lang="pt">Rochelle pede à Keisha, uma garota da vizinhança, que ajude Drew em matemática. Chris tenta impressioná-la, mas talvez outra pessoa tenha as mesmas intenções.</desc>
@@ -197606,17 +197616,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251015003600 -0300" stop="20251015005900 -0300" channel="TNT HD">
+  <programme start="20251015003800 -0300" stop="20251015010200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Conversa de vendedor</sub-title>
     <desc lang="pt">O poder persuasivo de Will faz com que ele seja contratado como vendedor de carros em uma loja. Ao ver que consegue ter muito êxito neste meio, Will resolve deixar a faculdade para se dedicar exclusivamente à sua nova carreira.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251015005900 -0300" stop="20251015012300 -0300" channel="TNT HD">
+  <programme start="20251015010200 -0300" stop="20251015012600 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Juntando as escovas de dentes</sub-title>
     <desc lang="pt">Jazz anuncia que irá se casar com sua namorada, uma mulher que acaba de sair da prisão. Porém, ela dá em cima de Will várias vezes, e agora Will não sabe como alertar seu amigo sobre o comportamento duvidoso de sua no...</desc>
@@ -197626,17 +197636,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251015012300 -0300" stop="20251015014700 -0300" channel="TNT HD">
+  <programme start="20251015012600 -0300" stop="20251015015100 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Quanto maior a altura, maior o tombo</sub-title>
     <desc lang="pt">O pai superprotetor da Lisa quer assustar o Will para que eles não namorem.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.21.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251015014700 -0300" stop="20251015020900 -0300" channel="TNT HD">
+  <programme start="20251015015100 -0300" stop="20251015021300 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O passado bate à porta</sub-title>
     <desc lang="pt">Um antigo amor da faculdade de Philip, Janice, está de visita pela mansão, e Vivian fica com ciúmes. Will se interessa pela filha de Janice, Wendy, e dá em cima dela. Porém, é Janice quem flerta com o Will.</desc>
@@ -197646,26 +197656,26 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251015020900 -0300" stop="20251015035700 -0300" channel="TNT HD">
+  <programme start="20251015021300 -0300" stop="20251015035800 -0300" channel="TNT HD">
     <title lang="pt">O Escândalo</title>
     <desc lang="pt">O presidente da Fox News é processado por Gretchen Carlson por assédio sexual. Com a repercursão da notícia, outras mulheres se manisfestam sobre o caso contra a gigande das notícias.</desc>
-    <length units="minutes">6480</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015035700 -0300" stop="20251015055100 -0300" channel="TNT HD">
+  <programme start="20251015035800 -0300" stop="20251015055400 -0300" channel="TNT HD">
     <title lang="pt">Gran Torino</title>
     <desc lang="pt">Walt Kowalski, um veterano de Guerra, passa seu tempo cuidando de um Gran Torino 72. Quando uma quadrilha tenta roubar seu carro, Walt se vê obrigado a enfrentar seus vizinhos imigrantes e seus velhos preconceitos.</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015055100 -0300" stop="20251015060000 -0300" channel="TNT HD">
+  <programme start="20251015055400 -0300" stop="20251015060000 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">540</length>
+    <length units="minutes">360</length>
     <episode-num system="xmltv_ns">5.288.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -200421,25 +200431,42 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251015060000 -0300" stop="20251015064500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <desc lang="pt">A verdade sobre um policial suspeito de estuprar a esposa vem à tona quando uma história de abuso sexual na família é revelada.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
+  <programme start="20251015060000 -0300" stop="20251015061400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">840</length>
+    <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251015064500 -0300" stop="20251015072900 -0300" channel="TNT SERIES HD">
+  <programme start="20251015061400 -0300" stop="20251015062900 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251015062900 -0300" stop="20251015063200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015063200 -0300" stop="20251015071700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Voluntária em centro de refugiados para soldados é assassinada.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">9.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015072900 -0300" stop="20251015081400 -0300" channel="TNT SERIES HD">
+  <programme start="20251015071700 -0300" stop="20251015080200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">A equipe investiga o roubo à mão armada de um dispensário de maconha medicinal. O caso muda seu rumo durante a investigação e Brenda tem chances de ser promovida.</desc>
     <length units="minutes">2700</length>
@@ -200448,16 +200475,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015081400 -0300" stop="20251015085800 -0300" channel="TNT SERIES HD">
+  <programme start="20251015080200 -0300" stop="20251015084800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Ao prenderem um viciado em crack, a equipe descobre um centro de reabilitação suspeito e corre contra o relógio para encontrar uma garota desaparecida.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015085800 -0300" stop="20251015094300 -0300" channel="TNT SERIES HD">
+  <programme start="20251015084800 -0300" stop="20251015093300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">O time trabalha para capturar um assassino incansável. Enquanto isso, Raydor fica dividida entre duas decisões. Para completar, Rusty ganha mais liberdade.</desc>
     <length units="minutes">2700</length>
@@ -200466,25 +200493,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015094300 -0300" stop="20251015102700 -0300" channel="TNT SERIES HD">
+  <programme start="20251015093300 -0300" stop="20251015101900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">Dois estudantes russos em intercâmbio escolar são encontrados mortos após uma festa. Em um primeiro momento, parece que ambos perderam a vida por causa de uma overdose de êxtase.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015102700 -0300" stop="20251015112900 -0300" channel="TNT SERIES HD">
+  <programme start="20251015101900 -0300" stop="20251015112200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
-    <length units="minutes">3720</length>
+    <length units="minutes">3780</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015112900 -0300" stop="20251015123100 -0300" channel="TNT SERIES HD">
+  <programme start="20251015112200 -0300" stop="20251015122400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
     <length units="minutes">3720</length>
@@ -200493,7 +200520,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015123100 -0300" stop="20251015131900 -0300" channel="TNT SERIES HD">
+  <programme start="20251015122400 -0300" stop="20251015131200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">A verdade sobre um policial suspeito de estuprar a esposa vem à tona quando uma história de abuso sexual na família é revelada.</desc>
     <length units="minutes">2880</length>
@@ -200502,16 +200529,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015131900 -0300" stop="20251015140300 -0300" channel="TNT SERIES HD">
+  <programme start="20251015131200 -0300" stop="20251015135800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">A busca pela filha desaparecida de um policial é vista pelos detetives como um assunto pessoal e da Corregedoria.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015140300 -0300" stop="20251015145000 -0300" channel="TNT SERIES HD">
+  <programme start="20251015135800 -0300" stop="20251015144500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Luxúria</sub-title>
     <desc lang="pt">A esposa de um advogado aposentado é encontrada morta e estuprada. Seu trabalho com pessoas infectadas pelo vírus HIV leva a uma extensa lista de suspeitos.</desc>
@@ -200521,17 +200548,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015145000 -0300" stop="20251015153500 -0300" channel="TNT SERIES HD">
+  <programme start="20251015144500 -0300" stop="20251015153300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Vulnerável</sub-title>
     <desc lang="pt">Quando uma mulher idosa invade um apartamento, os detetives descobrem que ela foi maltratada. Eles descobrem que ela saiu de um asilo e voltam para buscar suspeitos, incluindo o diretor.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015153500 -0300" stop="20251015162200 -0300" channel="TNT SERIES HD">
+  <programme start="20251015153300 -0300" stop="20251015162000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Decima persegue Reese e Shaw usando os dados do Samaritano. Enquanto isso, Greer arma uma armadilha para Finch, mirando em sua ex-noiva, Grace.</desc>
     <length units="minutes">2820</length>
@@ -200540,25 +200567,52 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015162200 -0300" stop="20251015170700 -0300" channel="TNT SERIES HD">
+  <programme start="20251015162000 -0300" stop="20251015170700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Quando uma entidade desconhecida impede a Máquina de ver o quadro inteiro de um iminente evento catastrófico, ela envia à equipe cinco números separados para ajudá-los a montar o quebra-cabeça.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015170700 -0300" stop="20251015175500 -0300" channel="TNT SERIES HD">
+  <programme start="20251015170700 -0300" stop="20251015175400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">No episódio final da terceira temporada, atitudes desesperadas são tomadas e fatos surpreendentes são revelados enquanto a batalha para impedir Samaritan de entrar online chega ao fim.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.23.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015175500 -0300" stop="20251015184200 -0300" channel="TNT SERIES HD">
+  <programme start="20251015175400 -0300" stop="20251015184200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015184200 -0300" stop="20251015192700 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Patrick Jane fica muito interessado em um caso que envolve sua ex-psiquiatra, que é a esposa da vítima e também a principal suspeita.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015192700 -0300" stop="20251015201200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Patrick Jane finalmente fica cara a cara com Red John, o serial killer que ele procura desde que sua esposa e filha foram assassinadas. Por dez anos, Jane caçou seu inimigo, em busca de justiça.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251015201200 -0300" stop="20251015205900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
     <length units="minutes">2820</length>
@@ -200567,7 +200621,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015184200 -0300" stop="20251015192800 -0300" channel="TNT SERIES HD">
+  <programme start="20251015205900 -0300" stop="20251015214500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane fica muito interessado em um caso que envolve sua ex-psiquiatra, que é a esposa da vítima e também a principal suspeita.</desc>
     <length units="minutes">2760</length>
@@ -200576,7 +200630,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015192800 -0300" stop="20251015201300 -0300" channel="TNT SERIES HD">
+  <programme start="20251015214500 -0300" stop="20251015223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane finalmente fica cara a cara com Red John, o serial killer que ele procura desde que sua esposa e filha foram assassinadas. Por dez anos, Jane caçou seu inimigo, em busca de justiça.</desc>
     <length units="minutes">2700</length>
@@ -200585,16 +200639,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015201300 -0300" stop="20251015210100 -0300" channel="TNT SERIES HD">
+  <programme start="20251015223000 -0300" stop="20251015231700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015210100 -0300" stop="20251015214700 -0300" channel="TNT SERIES HD">
+  <programme start="20251015231700 -0300" stop="20251016000300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane fica muito interessado em um caso que envolve sua ex-psiquiatra, que é a esposa da vítima e também a principal suspeita.</desc>
     <length units="minutes">2760</length>
@@ -200603,34 +200657,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015214700 -0300" stop="20251015223000 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Patrick Jane finalmente fica cara a cara com Red John, o serial killer que ele procura desde que sua esposa e filha foram assassinadas. Por dez anos, Jane caçou seu inimigo, em busca de justiça.</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015223000 -0300" stop="20251015231600 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015231600 -0300" stop="20251016000200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Patrick Jane fica muito interessado em um caso que envolve sua ex-psiquiatra, que é a esposa da vítima e também a principal suspeita.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015231600 -0300" stop="20251016000200 -0300" channel="TNT SERIES HD">
+  <programme start="20251015231700 -0300" stop="20251016000300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane fica muito interessado em um caso que envolve sua ex-psiquiatra, que é a esposa da vítima e também a principal suspeita.</desc>
     <length units="minutes">2760</length>
@@ -227888,281 +227915,118 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251015060000 -0300" stop="20251015065800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015060000 -0300" stop="20251015064800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Encontrados</title>
     <sub-title lang="pt">Desaparecido e Sem-Teto</sub-title>
     <desc lang="pt">Dhan lidera a busca pelo homem em situação de rua que era uma peça essencial de um acampamento unido.</desc>
-    <length units="minutes">3480</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015065800 -0300" stop="20251015072200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015072200 -0300" stop="20251015074200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">6.4.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015074200 -0300" stop="20251015080400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015080400 -0300" stop="20251015082800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015082800 -0300" stop="20251015085100 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015085100 -0300" stop="20251015091400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">6.8.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015091400 -0300" stop="20251015095900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <desc lang="pt">Na 7ª temporada acompanhe o esforço de Damon para seguir adiante sem a companhia de Elena e descubra se a união entre Stefan e Caroline é forte o suficiente para sobreviver aos perigos de Mystic Falls.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">7.20.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015095900 -0300" stop="20251015104400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <sub-title lang="pt">Réquiem para um Sonho</sub-title>
-    <desc lang="pt">Quando a tentativa arriscada de Damon para salvar Bonnie toma um rumo inesperado, as consequências de suas ações obrigam todos a se unirem para ajudá-la.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">7.21.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251015104400 -0300" stop="20251015110400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <desc lang="pt">Sheldon participa de sua primeira convenção de quadrinhos. Além disso, Mary tenta vender maquiagem</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">5.12.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015110400 -0300" stop="20251015112500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <desc lang="pt">Sheldon faz amizade com seus vizinhos de dormitório. Além disso, George descobre que seu trabalho está em perigo.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015112500 -0300" stop="20251015114800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <desc lang="pt">Sheldon bate de frente com o Dr. Lee, um novo cientista do laboratório. Além disso, Mary recebe um bilhete de loteria.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015114800 -0300" stop="20251015120800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <desc lang="pt">Sheldon se junta ao Dr. Linkletter e ao Dr. Sturgis em uma viagem científica. Além disso, Georgie continua a mentir sobre sua idade.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">5.15.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015120800 -0300" stop="20251015123200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Quando Sheldon &quot;termina&quot; com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015123200 -0300" stop="20251015125400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015125400 -0300" stop="20251015131800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015131800 -0300" stop="20251015133900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">4.6.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015133900 -0300" stop="20251015140400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015140400 -0300" stop="20251015142600 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">4.8.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015142600 -0300" stop="20251015145000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015145000 -0300" stop="20251015151300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">6.4.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015151300 -0300" stop="20251015153500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015153500 -0300" stop="20251015160000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015160000 -0300" stop="20251015162400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015162400 -0300" stop="20251015164900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">6.8.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251015164900 -0300" stop="20251015171900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015064800 -0300" stop="20251015071900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Cobra Kai</title>
-    <sub-title lang="pt">Obstáculos</sub-title>
-    <desc lang="pt">Daniel passa um tempo com a filha. Johnny planeja abrir um novo dojô de caratê, mas não consegue pensar em um nome legal.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <sub-title lang="pt">Vai ter que pagar</sub-title>
+    <desc lang="pt">A má reputação de Daniel atrapalha as vendas e ele recebe uma oferta de compra. Johnny tenta arrecadar dinheiro para a cirurgia de Miguel.</desc>
+    <length units="minutes">1860</length>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015171900 -0300" stop="20251015180200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015071900 -0300" stop="20251015074100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015074100 -0300" stop="20251015080300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015080300 -0300" stop="20251015082600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015082600 -0300" stop="20251015084900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015084900 -0300" stop="20251015091100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015091100 -0300" stop="20251015093400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015093400 -0300" stop="20251015102000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Na 7ª temporada acompanhe o esforço de Damon para seguir adiante sem a companhia de Elena e descubra se a união entre Stefan e Caroline é forte o suficiente para sobreviver aos perigos de Mystic Falls.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.20.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015180200 -0300" stop="20251015184900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015102000 -0300" stop="20251015110600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <sub-title lang="pt">Réquiem para um Sonho</sub-title>
     <desc lang="pt">Quando a tentativa arriscada de Damon para salvar Bonnie toma um rumo inesperado, as consequências de suas ações obrigam todos a se unirem para ajudá-la.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251015184900 -0300" stop="20251015190800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015110600 -0300" stop="20251015112700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon participa de sua primeira convenção de quadrinhos. Além disso, Mary tenta vender maquiagem</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">5.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015190800 -0300" stop="20251015193000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015112700 -0300" stop="20251015114800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon faz amizade com seus vizinhos de dormitório. Além disso, George descobre que seu trabalho está em perigo.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">5.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015193000 -0300" stop="20251015195300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015114800 -0300" stop="20251015121100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon bate de frente com o Dr. Lee, um novo cientista do laboratório. Além disso, Mary recebe um bilhete de loteria.</desc>
     <length units="minutes">1380</length>
@@ -228171,25 +228035,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015195300 -0300" stop="20251015201500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015121100 -0300" stop="20251015123400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon se junta ao Dr. Linkletter e ao Dr. Sturgis em uma viagem científica. Além disso, Georgie continua a mentir sobre sua idade.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015201500 -0300" stop="20251015203700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015123400 -0300" stop="20251015125800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando Sheldon &quot;termina&quot; com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015203700 -0300" stop="20251015210000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015125800 -0300" stop="20251015132100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
     <length units="minutes">1380</length>
@@ -228198,16 +228062,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015210000 -0300" stop="20251015212400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015132100 -0300" stop="20251015134400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015212400 -0300" stop="20251015214700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015134400 -0300" stop="20251015140700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
     <length units="minutes">1380</length>
@@ -228216,56 +228080,208 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015214700 -0300" stop="20251015220800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015140700 -0300" stop="20251015143100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015220800 -0300" stop="20251015223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015143100 -0300" stop="20251015145200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015223000 -0300" stop="20251015231600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015145200 -0300" stop="20251015151500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015151500 -0300" stop="20251015153900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015153900 -0300" stop="20251015160300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015160300 -0300" stop="20251015162600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015162600 -0300" stop="20251015165000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015165000 -0300" stop="20251015171400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015171400 -0300" stop="20251015184600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Os Pinguins De Madagascar</title>
+    <desc lang="pt">Os pinguins espiões vão se unir à organização secreta Vento do Norte, com o objetivo de impedir que um terrível vilão acabe com todos os pinguins do mundo.</desc>
+    <length units="minutes">5520</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251015184600 -0300" stop="20251015190800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+    <desc lang="pt">Sheldon participa de sua primeira convenção de quadrinhos. Além disso, Mary tenta vender maquiagem</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015190800 -0300" stop="20251015192900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+    <desc lang="pt">Sheldon faz amizade com seus vizinhos de dormitório. Além disso, George descobre que seu trabalho está em perigo.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">5.13.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015192900 -0300" stop="20251015195100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+    <desc lang="pt">Sheldon bate de frente com o Dr. Lee, um novo cientista do laboratório. Além disso, Mary recebe um bilhete de loteria.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015195100 -0300" stop="20251015201300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Young Sheldon</title>
+    <desc lang="pt">Sheldon se junta ao Dr. Linkletter e ao Dr. Sturgis em uma viagem científica. Além disso, Georgie continua a mentir sobre sua idade.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015201300 -0300" stop="20251015203600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Quando Sheldon &quot;termina&quot; com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015203600 -0300" stop="20251015205800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015205800 -0300" stop="20251015212100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">4.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015212100 -0300" stop="20251015214500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015214500 -0300" stop="20251015220900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015220900 -0300" stop="20251015223000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251015223000 -0300" stop="20251015231700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">All American: Homecoming</title>
     <sub-title lang="pt">Novo Normal</sub-title>
     <desc lang="pt">Simone precisa escolher entre as coisas mais importantes em sua vida.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015231600 -0300" stop="20251015233800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015231700 -0300" stop="20251015234000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015233800 -0300" stop="20251016000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015234000 -0300" stop="20251016000300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251015233800 -0300" stop="20251016000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251015234000 -0300" stop="20251016000300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
