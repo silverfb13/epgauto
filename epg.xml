@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-29 14:30:55" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-29 17:30:56" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -104139,7 +104139,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">28.20.</episode-num>
+    <episode-num system="xmltv_ns">29.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104148,7 +104148,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">27.23.</episode-num>
+    <episode-num system="xmltv_ns">29.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104336,7 +104336,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">28.20.</episode-num>
+    <episode-num system="xmltv_ns">29.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104345,7 +104345,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2100</length>
-    <episode-num system="xmltv_ns">27.23.</episode-num>
+    <episode-num system="xmltv_ns">29.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104421,10 +104421,16 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251030172000 -0300" stop="20251030182500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251030172000 -0300" stop="20251030173000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt">Boletim com as principais notícias de São Paulo.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">77.303.</episode-num>
+  </programme>
+  <programme start="20251030173000 -0300" stop="20251030182500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
     <desc lang="pt">Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">77.303.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -104473,16 +104479,17 @@
     <title lang="pt">Rensga Hits</title>
     <desc lang="pt">Na terceira temporada da série, mais momentos de sofrência, rivalidades entre estrelas da música sertaneja e amores avassaladores estão garantidos.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">22.303.</episode-num>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20251030230500 -0300" stop="20251030235500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">This Is Us</title>
-    <desc lang="pt">A série acompanha a história e o cotidiano da família Pearson ao longo das décadas.</desc>
+    <sub-title lang="pt">Os Formandos</sub-title>
+    <desc lang="pt">Kevin mantém um segredo de Zoe. Randall recebe notícias inesperadas sobre Deja. No passado, os trigêmeos se formam no ensino médio.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">23.303.</episode-num>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -146397,22 +146404,22 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029080000 -0300" stop="20251029082000 -0300" channel="MTV LIVE">
+  <programme start="20251029080000 -0300" stop="20251029082500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV Live</title>
     <sub-title lang="pt">Bruno Mars</sub-title>
     <desc lang="pt">O superastro Bruno Mars deu à MTV uma apresentação exclusiva de alguns de seus grandes sucessos clássicos, tudo para seu prazer auditivo.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029082000 -0300" stop="20251029084500 -0300" channel="MTV LIVE">
+  <programme start="20251029082500 -0300" stop="20251029084500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV World Stage</title>
-    <sub-title lang="pt">Ellie Goulding</sub-title>
-    <desc lang="pt">MTV World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.52.</episode-num>
+    <sub-title lang="pt">Ella Henderson</sub-title>
+    <desc lang="pt">A cantora e compositora Ella Henderson traz uma energia inesquecível e uma série de sucessos, apresentando-se no Isle of MTV Malta 2025!</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">8.302.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146459,18 +146466,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029133000 -0300" stop="20251029140000 -0300" channel="MTV LIVE">
+  <programme start="20251029133000 -0300" stop="20251029135500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV Live Vault!</title>
     <desc lang="pt">Fomos ao MTV Live Vault e descobrimos algumas coisas incríveis. É tão bom, tivemos que compartilhar com você. Este é o MTV Live Vault!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1500</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029140000 -0300" stop="20251029150000 -0300" channel="MTV LIVE">
+  <programme start="20251029135500 -0300" stop="20251029150000 -0300" channel="MTV LIVE">
     <title lang="pt">Global Beats!</title>
     <desc lang="pt">Sintonize para uma seleção das maiores batidas de Hip-Hop, R&amp;B e Reggaeton que estão dominando o mundo!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146492,28 +146499,28 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029164500 -0300" stop="20251029173000 -0300" channel="MTV LIVE">
+  <programme start="20251029164500 -0300" stop="20251029173500 -0300" channel="MTV LIVE">
     <title lang="pt">Storytellers</title>
     <sub-title lang="pt">Billy Joel II</sub-title>
     <desc lang="pt">Apresentações incluindo: &quot;We Didn't Start the Fire&quot;, &quot;Matter Of Trust&quot;, &quot;No Man's Land&quot;, &quot;Summer Highland Falls&quot;, &quot;Don't Ask Me Why&quot;, &quot;Hard Days Night&quot; e &quot;Gimme...</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029173000 -0300" stop="20251029190000 -0300" channel="MTV LIVE">
+  <programme start="20251029173500 -0300" stop="20251029185500 -0300" channel="MTV LIVE">
     <title lang="pt">Hd Hits!</title>
     <desc lang="pt">Temos grandes sucessos e eles são ainda maiores em alta definição, baby!</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4800</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029190000 -0300" stop="20251029200000 -0300" channel="MTV LIVE">
+  <programme start="20251029185500 -0300" stop="20251029200000 -0300" channel="MTV LIVE">
     <title lang="pt">MTV Rewind: 2010</title>
     <desc lang="pt">Entre na MTV Time Machine e viaje de volta a 2010 para verificar quais faixas estavam roubando nossos corações e dominando as paradas!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">29.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -146553,38 +146560,38 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029234500 -0300" stop="20251030003000 -0300" channel="MTV LIVE">
+  <programme start="20251029234500 -0300" stop="20251030003500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV World Stage</title>
-    <sub-title lang="pt">Damiano David</sub-title>
-    <desc lang="pt">O cantor e compositor italiano, e vocalista do Måneskin, Damiano David, incendeia o palco com uma apresentação elétrica no Isle Of MTV 2025.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.302.</episode-num>
+    <sub-title lang="pt">Ellie Goulding</sub-title>
+    <desc lang="pt">MTV World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">1.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251029234500 -0300" stop="20251030003000 -0300" channel="MTV LIVE">
+  <programme start="20251029234500 -0300" stop="20251030003500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV World Stage</title>
-    <sub-title lang="pt">Damiano David</sub-title>
-    <desc lang="pt">O cantor e compositor italiano, e vocalista do Måneskin, Damiano David, incendeia o palco com uma apresentação elétrica no Isle Of MTV 2025.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.302.</episode-num>
+    <sub-title lang="pt">Ellie Goulding</sub-title>
+    <desc lang="pt">MTV World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">1.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030003000 -0300" stop="20251030020000 -0300" channel="MTV LIVE">
+  <programme start="20251030003500 -0300" stop="20251030015500 -0300" channel="MTV LIVE">
     <title lang="pt">Hd Hits!</title>
     <desc lang="pt">Temos grandes sucessos e eles são ainda maiores em alta definição, baby!</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4800</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030020000 -0300" stop="20251030030000 -0300" channel="MTV LIVE">
+  <programme start="20251030015500 -0300" stop="20251030030000 -0300" channel="MTV LIVE">
     <title lang="pt">Global Beats!</title>
     <desc lang="pt">Sintonize para uma seleção das maiores batidas de Hip-Hop, R&amp;B e Reggaeton que estão dominando o mundo!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146598,18 +146605,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030040000 -0300" stop="20251030053000 -0300" channel="MTV LIVE">
-    <title lang="pt">MTV's Top 20 Queens of Pop!</title>
-    <desc lang="pt">Pegue seu chapéu e curta as 20 principais atrações dos festivais da MTV!</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251030040000 -0300" stop="20251030052500 -0300" channel="MTV LIVE">
+    <title lang="pt">MTV's Top 20 Festival Headliners</title>
+    <desc lang="pt">Pegue seu chapéu de pescador e curta os 20 principais artistas de festivais da MTV!</desc>
+    <length units="minutes">5100</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030053000 -0300" stop="20251030060000 -0300" channel="MTV LIVE">
+  <programme start="20251030052500 -0300" stop="20251030060000 -0300" channel="MTV LIVE">
     <title lang="pt">Hd Hits!</title>
     <desc lang="pt">Temos grandes sucessos e eles são ainda maiores em alta definição, baby!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2100</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146642,10 +146649,10 @@
   </programme>
   <programme start="20251030084500 -0300" stop="20251030093000 -0300" channel="MTV LIVE">
     <title lang="pt">MTV World Stage</title>
-    <sub-title lang="pt">Damiano David</sub-title>
-    <desc lang="pt">O cantor e compositor italiano, e vocalista do Måneskin, Damiano David, incendeia o palco com uma apresentação elétrica no Isle Of MTV 2025.</desc>
+    <sub-title lang="pt">Ellie Goulding</sub-title>
+    <desc lang="pt">MTV World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">8.303.</episode-num>
+    <episode-num system="xmltv_ns">1.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146667,26 +146674,26 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030120000 -0300" stop="20251030133000 -0300" channel="MTV LIVE">
-    <title lang="pt">MTV's Top 20 Queens of Pop!</title>
-    <desc lang="pt">Pegue seu chapéu e curta as 20 principais atrações dos festivais da MTV!</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251030120000 -0300" stop="20251030133500 -0300" channel="MTV LIVE">
+    <title lang="pt">MTV's Top 20 Festival Headliners</title>
+    <desc lang="pt">Pegue seu chapéu de pescador e curta os 20 principais artistas de festivais da MTV!</desc>
+    <length units="minutes">5700</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030133000 -0300" stop="20251030140000 -0300" channel="MTV LIVE">
+  <programme start="20251030133500 -0300" stop="20251030135500 -0300" channel="MTV LIVE">
     <title lang="pt">Hd Hits!</title>
     <desc lang="pt">Temos grandes sucessos e eles são ainda maiores em alta definição, baby!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1200</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030140000 -0300" stop="20251030150000 -0300" channel="MTV LIVE">
+  <programme start="20251030135500 -0300" stop="20251030150000 -0300" channel="MTV LIVE">
     <title lang="pt">Eat, Sleep, Dance, Repeat!</title>
     <desc lang="pt">Coma, durma, dance, repita! Coma, durma, dance, repita! Coma, durma... essa é a ideia! Estes são os seus sucessos de dança essenciais para passar o dia!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146711,10 +146718,10 @@
   </programme>
   <programme start="20251030162000 -0300" stop="20251030164500 -0300" channel="MTV LIVE">
     <title lang="pt">MTV World Stage</title>
-    <sub-title lang="pt">Ellie Goulding</sub-title>
-    <desc lang="pt">MTV World Stage é a sua oportunidade de ver as melhores apresentações dos maiores artistas do mundo sem deixar o conforto do seu sofá.</desc>
+    <sub-title lang="pt">Ella Henderson</sub-title>
+    <desc lang="pt">A cantora e compositora Ella Henderson traz uma energia inesquecível e uma série de sucessos, apresentando-se no Isle of MTV Malta 2025!</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.52.</episode-num>
+    <episode-num system="xmltv_ns">16.303.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146754,25 +146761,25 @@
     </rating>
   </programme>
   <programme start="20251030200000 -0300" stop="20251030213000 -0300" channel="MTV LIVE">
-    <title lang="pt">MTV's Top 20 Queens of Pop!</title>
-    <desc lang="pt">Pegue seu chapéu e curta as 20 principais atrações dos festivais da MTV!</desc>
+    <title lang="pt">MTV's Top 20 Festival Headliners</title>
+    <desc lang="pt">Pegue seu chapéu de pescador e curta os 20 principais artistas de festivais da MTV!</desc>
     <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030213000 -0300" stop="20251030220000 -0300" channel="MTV LIVE">
+  <programme start="20251030213000 -0300" stop="20251030215500 -0300" channel="MTV LIVE">
     <title lang="pt">Hd Hits!</title>
     <desc lang="pt">Temos grandes sucessos e eles são ainda maiores em alta definição, baby!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1500</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030220000 -0300" stop="20251030230000 -0300" channel="MTV LIVE">
+  <programme start="20251030215500 -0300" stop="20251030230000 -0300" channel="MTV LIVE">
     <title lang="pt">Rock.Alt.Indie</title>
     <desc lang="pt">Conecte sua guitarra e aumente o volume porque estamos trazendo para você o melhor do melhor da cena Rock, Alternativa e Indie!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146786,21 +146793,21 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030234500 -0300" stop="20251031003000 -0300" channel="MTV LIVE">
+  <programme start="20251030234500 -0300" stop="20251031003500 -0300" channel="MTV LIVE">
     <title lang="pt">Storytellers</title>
     <sub-title lang="pt">Billy Joel II</sub-title>
     <desc lang="pt">Apresentações incluindo: &quot;We Didn't Start the Fire&quot;, &quot;Matter Of Trust&quot;, &quot;No Man's Land&quot;, &quot;Summer Highland Falls&quot;, &quot;Don't Ask Me Why&quot;, &quot;Hard Days Night&quot; e &quot;Gimme...</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030234500 -0300" stop="20251031003000 -0300" channel="MTV LIVE">
+  <programme start="20251030234500 -0300" stop="20251031003500 -0300" channel="MTV LIVE">
     <title lang="pt">Storytellers</title>
     <sub-title lang="pt">Billy Joel II</sub-title>
     <desc lang="pt">Apresentações incluindo: &quot;We Didn't Start the Fire&quot;, &quot;Matter Of Trust&quot;, &quot;No Man's Land&quot;, &quot;Summer Highland Falls&quot;, &quot;Don't Ask Me Why&quot;, &quot;Hard Days Night&quot; e &quot;Gimme...</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -198691,43 +198698,52 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251030060000 -0300" stop="20251030065100 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <desc lang="pt">Um médico é assassinado e sua mulher, violentada. Os detetives investigam uma série de suspeitos, incluindo um antigo paciente e o próprio filho do médico.</desc>
-    <length units="minutes">3060</length>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
+  <programme start="20251030060000 -0300" stop="20251030061400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">840</length>
+    <episode-num system="xmltv_ns">6.49.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251030065100 -0300" stop="20251030073600 -0300" channel="TNT SERIES HD">
+  <programme start="20251030061400 -0300" stop="20251030062700 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">6.51.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251030062700 -0300" stop="20251030071400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Depois que um escritor itinerante é encontrado morto, a investigação envolve sua senhoria, a filha adolescente e o namorado da mãe.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030073600 -0300" stop="20251030082000 -0300" channel="TNT SERIES HD">
+  <programme start="20251030071400 -0300" stop="20251030080000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">O assassinato de um padre coloca o esquadrão em rota de colisão contra a Igreja Católica, o que leva a um distanciamento entre Brenda e o chefe Pope.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030082000 -0300" stop="20251030090400 -0300" channel="TNT SERIES HD">
+  <programme start="20251030080000 -0300" stop="20251030084500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Um jovem casal, ao passar um tempo na casa de outra pessoa, descobrem-se em maus lençóis quando um segurança e um veterano de guerra condecorado aparecem mortos na rua logo à frente da residência.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030090400 -0300" stop="20251030095000 -0300" channel="TNT SERIES HD">
+  <programme start="20251030084500 -0300" stop="20251030093100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">O chefe de uma gangue é inocentado de um assassinato e colocado em liberdade. O ex-marido de Sharon, Jack Raydor (TOM BERENGER), representa o suspeito de um assassinato posterior.</desc>
     <length units="minutes">2760</length>
@@ -198736,16 +198752,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030095000 -0300" stop="20251030103300 -0300" channel="TNT SERIES HD">
+  <programme start="20251030093100 -0300" stop="20251030101600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">Papai Noel aparece em uma lista de suspeitos de roubar um banco, mas uma flash mob complica a sua detenção. Os filhos de Sharon chegam para passar férias na cidade.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030103300 -0300" stop="20251030113500 -0300" channel="TNT SERIES HD">
+  <programme start="20251030101600 -0300" stop="20251030111800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
     <length units="minutes">3720</length>
@@ -198754,34 +198770,34 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030113500 -0300" stop="20251030123700 -0300" channel="TNT SERIES HD">
+  <programme start="20251030111800 -0300" stop="20251030122200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
-    <length units="minutes">3720</length>
+    <length units="minutes">3840</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030123700 -0300" stop="20251030132500 -0300" channel="TNT SERIES HD">
+  <programme start="20251030122200 -0300" stop="20251030131100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Um médico é assassinado e sua mulher, violentada. Os detetives investigam uma série de suspeitos, incluindo um antigo paciente e o próprio filho do médico.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030132500 -0300" stop="20251030141000 -0300" channel="TNT SERIES HD">
+  <programme start="20251030131100 -0300" stop="20251030140000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Os detetives investigam a morte de uma mulher estuprada e deixada perto de seu carro. Uma vítima de um caso similar revela ter sido abordada por um policial e alega que ele a violentou após acusá-la de carregar drogas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030141000 -0300" stop="20251030145700 -0300" channel="TNT SERIES HD">
+  <programme start="20251030140000 -0300" stop="20251030144700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Uma vítima de estupro é seqüestrada no hospital e depois assassinada. Os detetives descobrem que os crimes são uma forma de garotos ricos da alta-sociedade se divertirem.</desc>
     <length units="minutes">2820</length>
@@ -198790,35 +198806,35 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030145700 -0300" stop="20251030154200 -0300" channel="TNT SERIES HD">
+  <programme start="20251030144700 -0300" stop="20251030153400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Camaleão</sub-title>
     <desc lang="pt">Os detetives estão na pista de um estuprador em liberdade condicional, cuja arma foi usada em outros crimes enquanto ele estava dentro da prisão, o que leva a uma série de crimes sem solução e a outras vítimas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.25.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030154200 -0300" stop="20251030162800 -0300" channel="TNT SERIES HD">
+  <programme start="20251030153400 -0300" stop="20251030162100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Um inimigo do passado de Reese e Fusco os prende no distrito policial em que eles atuam, ao lado do novo escolhido pela máquina e de uma gangue de criminosos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030162800 -0300" stop="20251030171200 -0300" channel="TNT SERIES HD">
+  <programme start="20251030162100 -0300" stop="20251030170900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">No 100º episódio, o número de Finch é escolhido.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030171200 -0300" stop="20251030175800 -0300" channel="TNT SERIES HD">
+  <programme start="20251030170900 -0300" stop="20251030175500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">A equipe deverá desvendar uma conspiração e sair na frente do Serviço Secreto quando o presidente dos Estados Unidos é escolhido pela Máquina.</desc>
     <length units="minutes">2760</length>
@@ -198827,7 +198843,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030175800 -0300" stop="20251030184400 -0300" channel="TNT SERIES HD">
+  <programme start="20251030175500 -0300" stop="20251030184100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um tiroteio fatal dentro dos muros da CBI coloca Jane, Lisbon e o resto da equipe novamente na trilha de Red John.</desc>
     <length units="minutes">2760</length>
@@ -198836,7 +198852,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030184400 -0300" stop="20251030192800 -0300" channel="TNT SERIES HD">
+  <programme start="20251030184100 -0300" stop="20251030192500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e o CBI investigam o assassinato de um rico joalheiro, que foi morto durante um evento de caridade.</desc>
     <length units="minutes">2640</length>
@@ -198845,16 +198861,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030192800 -0300" stop="20251030201400 -0300" channel="TNT SERIES HD">
+  <programme start="20251030192500 -0300" stop="20251030201200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane entra no mundo dos ricos e poderosos para encontrar um assassino que está se escondendo em um clube social de elite só para homens.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030201400 -0300" stop="20251030210000 -0300" channel="TNT SERIES HD">
+  <programme start="20251030201200 -0300" stop="20251030205800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um tiroteio fatal dentro dos muros da CBI coloca Jane, Lisbon e o resto da equipe novamente na trilha de Red John.</desc>
     <length units="minutes">2760</length>
@@ -198863,59 +198879,54 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030210000 -0300" stop="20251030214400 -0300" channel="TNT SERIES HD">
+  <programme start="20251030205800 -0300" stop="20251030214300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e o CBI investigam o assassinato de um rico joalheiro, que foi morto durante um evento de caridade.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030214400 -0300" stop="20251030223000 -0300" channel="TNT SERIES HD">
+  <programme start="20251030214300 -0300" stop="20251030223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Patrick Jane entra no mundo dos ricos e poderosos para encontrar um assassino que está se escondendo em um clube social de elite só para homens.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030223000 -0300" stop="20251030231600 -0300" channel="TNT SERIES HD">
+  <programme start="20251030223000 -0300" stop="20251030231700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um tiroteio fatal dentro dos muros da CBI coloca Jane, Lisbon e o resto da equipe novamente na trilha de Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030231600 -0300" stop="20251030235900 -0300" channel="TNT SERIES HD">
+  <programme start="20251030231700 -0300" stop="20251031000200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e o CBI investigam o assassinato de um rico joalheiro, que foi morto durante um evento de caridade.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251030231700 -0300" stop="20251031000200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Jane e o CBI investigam o assassinato de um rico joalheiro, que foi morto durante um evento de caridade.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251031000200 -0300" stop="20251031004500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Conteúdo não disponível</title>
     <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251030235900 -0300" stop="20251031004500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Patrick Jane entra no mundo dos ricos e poderosos para encontrar um assassino que está se escondendo em um clube social de elite só para homens.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.18.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251030235900 -0300" stop="20251031004500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Patrick Jane entra no mundo dos ricos e poderosos para encontrar um assassino que está se escondendo em um clube social de elite só para homens.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.18.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
   </programme>
   <programme start="20251031004500 -0300" stop="20251031013000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
@@ -225667,107 +225678,106 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251030060000 -0300" stop="20251030061900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Cobra Kai</title>
-    <sub-title lang="pt">Natal</sub-title>
-    <desc lang="pt">É Natal e o romance está no ar. Daniel e Miguel encontram um ponto em comum inesperado, e os recrutas do Cobra Kai partem em uma missão.</desc>
-    <length units="minutes">1140</length>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
+  <programme start="20251030060000 -0300" stop="20251030062200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Miracle Workers</title>
+    <desc lang="pt">O príncipe Chauncley e o lorde Vexler partem em uma missão diplomática. Uma nova invenção sacode os negócios de Eddie.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030061900 -0300" stop="20251030065100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030062200 -0300" stop="20251030064400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem a Evelyn para celebrar suas conquistas.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030065100 -0300" stop="20251030071400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030064400 -0300" stop="20251030070600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030071400 -0300" stop="20251030073700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030070600 -0300" stop="20251030073000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030073700 -0300" stop="20251030080100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030073000 -0300" stop="20251030075300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030080100 -0300" stop="20251030082500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030075300 -0300" stop="20251030081600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conheceu num bar, o rejeita, porque leu na internet sobre sua má fama com as mulheres.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030082500 -0300" stop="20251030084900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030081600 -0300" stop="20251030083900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Jamie, a melhor amiga de Alan no colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos veem como ela está linda, os dois tentam conquistá-la.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030084900 -0300" stop="20251030093400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030083900 -0300" stop="20251030092600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Elena e Stefan participam da tradicional Festa dos Fundadores. Vicki quer que Tyler a leva na festa. Damon conta a Elena a história dos Salvatores. Stefan tenta tirar o irmão de sua vida.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030093400 -0300" stop="20251030102200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030092600 -0300" stop="20251030101200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Stefan tem esperanças de que seu plano para se livrar de Damon dê certo. Elena e Jenna estão preocupadas com o relacionamento de Jeremy e Vicky. Stefan decide revelar partes de seu passado para Elena.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030102200 -0300" stop="20251030104200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030101200 -0300" stop="20251030103400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">George Sr. recebe uma oferta de emprego interessante; Sheldon se prepara para sua mudança para a Califórnia.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">7.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030104200 -0300" stop="20251030110500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030103400 -0300" stop="20251030105800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Após a morte de seu pai, Sheldon enfrenta novas responsabilidades aventurando-se em um território emocional desconhecido.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">7.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030110500 -0300" stop="20251030112900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030105800 -0300" stop="20251030112200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Young Sheldon encerra sua temporada de sete anos com um final de série de dois episódios imperdível; Jim Parsons e Mayim Bialik reprisam seus papéis como Sheldon Cooper e Amy Farrah Fowler em uma hora inesquecível de telev...</desc>
     <length units="minutes">1440</length>
@@ -225776,79 +225786,79 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030112900 -0300" stop="20251030115300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030112200 -0300" stop="20251030114500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Na estreia de série, conhecemos Sheldon Cooper com nove anos de idade, um garoto capaz de solucionar questões avançadas de ciências e matemática que logo descobre que isso não é grande coisa no leste do Texas.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030115300 -0300" stop="20251030121200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030114500 -0300" stop="20251030120800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Quando Sheldon tenta ser espontâneo, isso leva a um inesperado desentendimento entre Penny, Amy e Bernadette. Enquanto isso, Raj pede ajuda a Howard para se preparar para seu encontro com Emily.</desc>
-    <length units="minutes">1140</length>
-    <episode-num system="xmltv_ns">7.21.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251030121200 -0300" stop="20251030123400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">O professor Proton ajuda Sheldon a lidar com a tristeza, enquanto Leonard transforma um importante marco ao lado de Penny em uma competição. Ao mesmo tempo, Amy e Bernadette presenteiam os companheiros no &quot;Dia de Star Wars&quot;.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">7.22.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251030123400 -0300" stop="20251030125700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Um dia ruim faz Penny reavaliar suas escolhas de vida  incluindo Leonard. Enquanto isso, Howard e Bernadette sofrem para tomar conta da Sra. Wolowitz, ao mesmo tempo em que Raj recebe conselho de relacionamento de Sheldon.</desc>
+    <desc lang="pt">Sheldon busca vingança, quando Amy arruina um de seus filmes favoritos.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">7.23.</episode-num>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030125700 -0300" stop="20251030132100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030120800 -0300" stop="20251030122900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Sheldon enfrenta um futuro incerto e considera fazer uma grande mudança. Enquanto isso, a relação de Raj e Emily se desenvolve</desc>
+    <desc lang="pt">Sheldon precisa decidir o quanto é &quot;muito tempo&quot; ao lado de Amy quando ela aceita trabalhar na universidade.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251030122900 -0300" stop="20251030125300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Uma grande descoberta científica de Sheldon faz o cientista se sentir como uma fraude.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">7.24.</episode-num>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030132100 -0300" stop="20251030134200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030125300 -0300" stop="20251030131400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Leonard e Amy fazem uma viagem inesperada rumo a Arizona para buscar Sheldon. Enquanto isso, Penny vai a uma entrevista de emprego na empresa de Bernadette</desc>
+    <desc lang="pt">Sheldon se sente deixado de lado quando o professor Proton procura Leonard para pedir conselhos. Por vingança, Sheldon faz amizade com o inimigo de Proton da TV, Bill Nye.</desc>
     <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030134200 -0300" stop="20251030140300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030131400 -0300" stop="20251030133700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Quando Sheldon é forçado a dar uma aula, Howard surpreende a todos por se matricular na matéria. Enquanto isso, a tensão entre Penny e Bernadette dá a Amy a oportunidade de jogar em ambos os times.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">8.2.</episode-num>
+    <desc lang="pt">Leonard tenta impedir que Sheldon reaja de forma exagerada quando um erro do passado vem à tona, mas Sheldon castiga Leonard fazendo-o se sentir em sua pele.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">7.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030140300 -0300" stop="20251030142800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030133700 -0300" stop="20251030135900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Sheldon protesta quando a gangue o arrasta para a casa da Sra. Wolowitz para o Dia de Ação de Graças.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251030135900 -0300" stop="20251030142300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem a Evelyn para celebrar suas conquistas.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030142800 -0300" stop="20251030145200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030142300 -0300" stop="20251030144700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
     <length units="minutes">1440</length>
@@ -225857,71 +225867,51 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030145200 -0300" stop="20251030151800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030144700 -0300" stop="20251030151200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030151800 -0300" stop="20251030153900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030151200 -0300" stop="20251030153600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030153900 -0300" stop="20251030160300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030153600 -0300" stop="20251030160100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conheceu num bar, o rejeita, porque leu na internet sobre sua má fama com as mulheres.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030160300 -0300" stop="20251030162800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030160100 -0300" stop="20251030162500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Jamie, a melhor amiga de Alan no colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos veem como ela está linda, os dois tentam conquistá-la.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030162800 -0300" stop="20251030170900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Cobra Kai</title>
-    <sub-title lang="pt">Hora de diversão</sub-title>
-    <desc lang="pt">Miguel e Sam estão empolgados para ir ao baile de formatura, até que outro casal aparece. Terry atrai Johnny para um local familiar.</desc>
-    <length units="minutes">2460</length>
-    <episode-num system="xmltv_ns">4.8.</episode-num>
+  <programme start="20251030162500 -0300" stop="20251030184400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Jack Reacher: O Último Tiro</title>
+    <desc lang="pt">Jack, um ex-militar, vive como um fantasma. Quando um ataque mata cinco pessoas e o principal suspeito é um ex-atirador de elite, Jack é chamado para resolver o caso.</desc>
+    <length units="minutes">8340</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030170900 -0300" stop="20251030175800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <desc lang="pt">Elena e Stefan participam da tradicional Festa dos Fundadores. Vicki quer que Tyler a leva na festa. Damon conta a Elena a história dos Salvatores. Stefan tenta tirar o irmão de sua vida.</desc>
-    <length units="minutes">2940</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251030175800 -0300" stop="20251030184200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <desc lang="pt">Stefan tem esperanças de que seu plano para se livrar de Damon dê certo. Elena e Jenna estão preocupadas com o relacionamento de Jeremy e Vicky. Stefan decide revelar partes de seu passado para Elena.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251030184200 -0300" stop="20251030190400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030184400 -0300" stop="20251030190600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">George Sr. recebe uma oferta de emprego interessante; Sheldon se prepara para sua mudança para a Califórnia.</desc>
     <length units="minutes">1320</length>
@@ -225930,19 +225920,19 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030190400 -0300" stop="20251030192900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030190600 -0300" stop="20251030193000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Após a morte de seu pai, Sheldon enfrenta novas responsabilidades aventurando-se em um território emocional desconhecido.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">7.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030192900 -0300" stop="20251030195400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030193000 -0300" stop="20251030195400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Young Sheldon encerra sua temporada de sete anos com um final de série de dois episódios imperdível; Jim Parsons e Mayim Bialik reprisam seus papéis como Sheldon Cooper e Amy Farrah Fowler em uma hora inesquecível de telev...</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">7.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -225957,56 +225947,56 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030201700 -0300" stop="20251030203500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030201700 -0300" stop="20251030204100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Quando Sheldon tenta ser espontâneo, isso leva a um inesperado desentendimento entre Penny, Amy e Bernadette. Enquanto isso, Raj pede ajuda a Howard para se preparar para seu encontro com Emily.</desc>
-    <length units="minutes">1080</length>
-    <episode-num system="xmltv_ns">7.21.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251030203500 -0300" stop="20251030205900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">O professor Proton ajuda Sheldon a lidar com a tristeza, enquanto Leonard transforma um importante marco ao lado de Penny em uma competição. Ao mesmo tempo, Amy e Bernadette presenteiam os companheiros no &quot;Dia de Star Wars&quot;.</desc>
+    <desc lang="pt">Sheldon busca vingança, quando Amy arruina um de seus filmes favoritos.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">7.22.</episode-num>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030205900 -0300" stop="20251030212200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030204100 -0300" stop="20251030210200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Um dia ruim faz Penny reavaliar suas escolhas de vida  incluindo Leonard. Enquanto isso, Howard e Bernadette sofrem para tomar conta da Sra. Wolowitz, ao mesmo tempo em que Raj recebe conselho de relacionamento de Sheldon.</desc>
+    <desc lang="pt">Sheldon precisa decidir o quanto é &quot;muito tempo&quot; ao lado de Amy quando ela aceita trabalhar na universidade.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251030210200 -0300" stop="20251030212500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <desc lang="pt">Uma grande descoberta científica de Sheldon faz o cientista se sentir como uma fraude.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">7.23.</episode-num>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030212200 -0300" stop="20251030214400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030212500 -0300" stop="20251030214700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Sheldon enfrenta um futuro incerto e considera fazer uma grande mudança. Enquanto isso, a relação de Raj e Emily se desenvolve</desc>
+    <desc lang="pt">Sheldon se sente deixado de lado quando o professor Proton procura Leonard para pedir conselhos. Por vingança, Sheldon faz amizade com o inimigo de Proton da TV, Bill Nye.</desc>
     <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">7.24.</episode-num>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030214400 -0300" stop="20251030220700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030214700 -0300" stop="20251030220900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Leonard e Amy fazem uma viagem inesperada rumo a Arizona para buscar Sheldon. Enquanto isso, Penny vai a uma entrevista de emprego na empresa de Bernadette</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <desc lang="pt">Leonard tenta impedir que Sheldon reaja de forma exagerada quando um erro do passado vem à tona, mas Sheldon castiga Leonard fazendo-o se sentir em sua pele.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">7.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030220700 -0300" stop="20251030223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030220900 -0300" stop="20251030223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <desc lang="pt">Quando Sheldon é forçado a dar uma aula, Howard surpreende a todos por se matricular na matéria. Enquanto isso, a tensão entre Penny e Bernadette dá a Amy a oportunidade de jogar em ambos os times.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">8.2.</episode-num>
+    <desc lang="pt">Sheldon protesta quando a gangue o arrasta para a casa da Sra. Wolowitz para o Dia de Ação de Graças.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -226021,16 +226011,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251030231700 -0300" stop="20251030233800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030231700 -0300" stop="20251030234000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem a Evelyn para celebrar suas conquistas.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030233800 -0300" stop="20251031000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030234000 -0300" stop="20251031000400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
     <length units="minutes">1440</length>
@@ -226039,7 +226029,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251030233800 -0300" stop="20251031000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251030234000 -0300" stop="20251031000400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
     <length units="minutes">1440</length>
