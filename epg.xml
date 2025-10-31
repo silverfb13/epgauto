@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-10-31 14:30:57" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-10-31 17:30:58" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -103553,7 +103553,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">30.24.</episode-num>
+    <episode-num system="xmltv_ns">31.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103562,7 +103562,7 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">29.31.</episode-num>
+    <episode-num system="xmltv_ns">31.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103738,17 +103738,25 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">30.24.</episode-num>
+    <episode-num system="xmltv_ns">31.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251101030000 -0300" stop="20251101060000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101030000 -0300" stop="20251101042500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Corujão: Didi, o Caçador de Tesouros</title>
     <desc lang="pt">Didi é mordomo do dr. Walter e companheiro de aventuras de Pedro, o filho do patrão. Juntos eles acham um mapa que os leva a um hotel abandonado onde, com a ajuda de alguns fantasmas, começam a procurar um carregamento de ouro.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">5100</length>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101042500 -0300" stop="20251101060000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Corujão II: A Colheita da Fé</title>
+    <desc lang="pt">Michael Spurlock é o pastor de uma pequena igreja anglicana prestes a fechar. Quando um grupo de refugiados chega à sua congregação, Michael tentará ajudá-los unindo a comunidade para plantar novas colheitas.</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251101060000 -0300" stop="20251101065000 -0300" channel="GLOBO SÃO PAULO">
@@ -103778,51 +103786,58 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101114500 -0300" stop="20251101124000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101114500 -0300" stop="20251101130000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">SP1</title>
     <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
-    <length units="minutes">3300</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">71.305.</episode-num>
   </programme>
-  <programme start="20251101124000 -0300" stop="20251101130000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101130000 -0300" stop="20251101132500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">72.305.</episode-num>
-  </programme>
-  <programme start="20251101130000 -0300" stop="20251101132500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">73.305.</episode-num>
   </programme>
-  <programme start="20251101132500 -0300" stop="20251101153000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Futebol 2025</title>
-    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
-    <length units="minutes">7500</length>
+  <programme start="20251101132500 -0300" stop="20251101141000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">73.305.</episode-num>
   </programme>
-  <programme start="20251101153000 -0300" stop="20251101161000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Terra Nostra</title>
-    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">75.305.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251101161000 -0300" stop="20251101183500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101141000 -0300" stop="20251101150000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Caldeirão com Mion</title>
     <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
-    <length units="minutes">8700</length>
-    <episode-num system="xmltv_ns">16.305.</episode-num>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">14.305.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251101183500 -0300" stop="20251101192000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101150000 -0300" stop="20251101163000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Taça das Favelas Feminina</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Final Feminina da Taça das Favelas.</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20251101163000 -0300" stop="20251101175000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Taça das Favelas Masculina</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Final Masculina da Taça das Favelas.</desc>
+    <length units="minutes">4800</length>
+  </programme>
+  <programme start="20251101175000 -0300" stop="20251101184000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Caldeirão com Mion</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">17.305.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251101184000 -0300" stop="20251101192000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor!</title>
-    <desc lang="pt">Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
-    <length units="minutes">2700</length>
+    <desc lang="pt">Candinho e a população pressionam o delegado pela soltura de Policarpo. Simbá assume diante do delegado que mentiu sobre Policarpo. Lauro confirma para Estela que Anabela poderá perder sua audição.</desc>
+    <length units="minutes">2400</length>
     <episode-num system="xmltv_ns">78.305.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -103836,7 +103851,7 @@
   </programme>
   <programme start="20251101194500 -0300" stop="20251101203000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt">Leona tem sua vida transformada pela relação com Sofia, uma menina de sete anos de quem passa a ser babá. Sofia é uma criança que perdeu a mãe ainda bebê e cresceu se sentindo sozinha na casa da família de s...</desc>
+    <desc lang="pt">Sofia arma para conseguir sair com Rosa. Filipa descobre que Sofia e Rosa fugiram de casa, e liga para Leo, que aciona Marlon. Sofia consegue ligar para Leo, e Marlon vai ao encontro das duas.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">79.305.</episode-num>
     <rating system="Brazil">
@@ -103851,30 +103866,34 @@
   </programme>
   <programme start="20251101212000 -0300" stop="20251101222500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Três Graças</title>
-    <desc lang="pt">Gerluce, a mãe Lígia e a filha Joélly dividem o mesmo destino: a gravidez solo na adolescência. A vida dessas três mulheres, moradoras de Sâo Paulo, é cheia de desafios, mas também esperança.</desc>
+    <desc lang="pt">Kellen conta a Viviane que o pai de Júnior morreu. Joaquim incentiva Misael a compartilhar com mais pessoas sua desconfiança em relação aos remédios. Arminda pressiona Raul a assinar os documentos da Fundação.</desc>
     <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">71.305.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251101222500 -0300" stop="20251102001500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101222500 -0300" stop="20251102000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Altas Horas</title>
     <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6000</length>
     <episode-num system="xmltv_ns">22.305.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251101222500 -0300" stop="20251102001500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20251101222500 -0300" stop="20251102000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Altas Horas</title>
     <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6000</length>
     <episode-num system="xmltv_ns">22.305.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20251102000500 -0300" stop="20251102001500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">600</length>
   </programme>
   <programme start="20251102001500 -0300" stop="20251102012000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Faixa Combate - Jungle Fight</title>
