@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-11-01 11:30:57" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-11-01 14:31:10" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -20119,28 +20119,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251101000000 -0300" stop="20251101013900 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Os Encrenqueiros</title>
-    <desc lang="pt">Travis é o pistoleiro mais rápido do Oeste. Seu irmão, Moses, maior do que um urso, é o caçador de recompensas mais destemido da fronteira.</desc>
-    <length units="minutes">5940</length>
+  <programme start="20251101000000 -0300" stop="20251101013500 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Mojave: Sob o Luar do Deserto</title>
+    <desc lang="pt">Al McCord está com amigos num restaurante quando encontra atraente jovem à procura de uma carona para o deserto Mojave, onde sua mãe mora.</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251101013500 -0300" stop="20251101031000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Nós Jogamos Com Os Hipopótamos</title>
+    <desc lang="pt">Terence e Bud se metem num safári, tendo como aliados elefantes, hipopótamos e as inconfundíveis trapalhadas que fazem até as hienas morrerem de rir!</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101031000 -0300" stop="20251101050000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Quero-te Como És</title>
+    <desc lang="pt">Quando o jogador Candy Johnson vem para a pequena Yellow Creek ele já tem em mente viver uma vida honesta. Ele se apaixona pela jovem  Elizabeth Cotton e com o dinheiro ganho no jogo ele abre um  bar.</desc>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251101013900 -0300" stop="20251101032200 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Os Jovens Anos de Uma Rainha</title>
-    <desc lang="pt">nglaterra, século XIX. A jovem Vitória é coroada rainha. Pouco tempo depois, sua família e seu tutor, Lorde Melbourne, planejam o seu casamento com Albert, um jovem príncipe alemão.</desc>
-    <length units="minutes">6180</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251101032200 -0300" stop="20251101050000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Operação Tigres de Bengala</title>
-    <desc lang="pt">Ron e Julie, dois filhotes de tigres de bengala, nascidos no zoológico de Cincinnati, em Ohio, passaram os últimos três anos aprendendo a caçar e a viver em liberdade nas selvas da África do Sul.</desc>
-    <length units="minutes">5880</length>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251101050000 -0300" stop="20251101061000 -0300" channel="CANAL DO BOI">
@@ -20196,23 +20196,32 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101100000 -0300" stop="20251101130000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Leilão Virtual Central Pantanal Coxim</title>
-    <desc lang="pt">Leilão Central Pantanal Coxim. Oferta de 2000 animais para Cria, Recria e Engorda. Animais Fimaldos nas regiões do Paiaguás e Nhecolândia</desc>
-    <length units="minutes">10800</length>
+  <programme start="20251101100000 -0300" stop="20251101140000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Live Especial Blackout CRV Lagoa</title>
+    <desc lang="pt">Live especial blackout crv lagoa até 70% off!</desc>
+    <length units="minutes">14400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101130000 -0300" stop="20251101200000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Leilão Touros Sete Estrelas</title>
-    <desc lang="pt">40 reprodutores Nelore PO da cabeceira do Patrimônio Genético. Fertilidade, carcaça e avaliação. Abertura da safra 2023.</desc>
-    <length units="minutes">25200</length>
+  <programme start="20251101140000 -0300" stop="20251101200000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Leilão Virtual Qualidade Total</title>
+    <desc lang="pt">Oferta de 1000 Animais Filmados no Bolsão Sul-Mato-Grossense e São Paulo.</desc>
+    <length units="minutes">21600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101200000 -0300" stop="20251101203000 -0300" channel="CANAL DO BOI">
+  <programme start="20251101200000 -0300" stop="20251101210000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Genética BR</title>
+    <desc lang="pt">Venda de material genético de touros Nelore avaliados, integrantes do programa de gado de corte da Pecuária Br.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">20.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101210000 -0300" stop="20251101213000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Terralmo Negócios Rurais</title>
     <desc lang="pt">Novilhotas, novilhas prenhes e touros de repasse: animais prontos para levar evolução ao seu plantel!</desc>
     <length units="minutes">1800</length>
@@ -20220,38 +20229,61 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101203000 -0300" stop="20251102000000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">De Olho Na Fazenda Nelore CV Poupa Tempo</title>
-    <desc lang="pt">De 22 a 28 de outubro, na programação do Canal do Boi, De Olho na Fazenda Nelore CV. Oferta a preço fixo de 200 touros, todos com avaliação genética!</desc>
-    <length units="minutes">12600</length>
-    <episode-num system="xmltv_ns">20.305.</episode-num>
+  <programme start="20251101213000 -0300" stop="20251101220000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Leilões Em Destaque</title>
+    <desc lang="pt">Fique ligado nas transmissões do SBA e prepare-se para bons negócios!</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102000000 -0300" stop="20251102030200 -0300" channel="CANAL DO BOI">
-    <title lang="pt">A.D. - Anno Domini</title>
-    <desc lang="pt">Após a ressurreição de Cristo, depois de alguns anos a igreja finalmente vive seu triunfo. Filmado no Oriente e na Europa, Anno Domini revela vivamente o início do confronto entre Império Romana os judeus e os cristão...</desc>
-    <length units="minutes">10920</length>
-    <episode-num system="xmltv_ns">2.306.</episode-num>
+  <programme start="20251101220000 -0300" stop="20251101230000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Genética BR</title>
+    <desc lang="pt">Venda de material genético de touros Nelore avaliados, integrantes do programa de gado de corte da Pecuária Br.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">22.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102030200 -0300" stop="20251102043200 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Punhos de Tigre</title>
-    <desc lang="pt">Após matar por acidente seu melhor discípulo, Fong Sai Yuk (Fei Mang), um jovem travesso, torna-se vítima do ódio de dois mestres do kung-fu. Sedentos por vingança e durante a ausência de Fong.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251101230000 -0300" stop="20251101233000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <desc lang="pt">Novilhotas, novilhas prenhes e touros de repasse: animais prontos para levar evolução ao seu plantel!</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101233000 -0300" stop="20251102000000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Leilões Em Destaque</title>
+    <desc lang="pt">Fique ligado nas transmissões do SBA e prepare-se para bons negócios!</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102000000 -0300" stop="20251102013100 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Joe, O Pistoleiro Implacável</title>
+    <desc lang="pt">Faroeste que narra a história de um índio que trava vingança contra uns fora-da-leis que ameaçaram sua tribo.</desc>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251102043200 -0300" stop="20251102050000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Terremotos e Colisões Cósmicas</title>
-    <desc lang="pt">Todo ano, inúmeros pontos do planeta são atingidos por furiosos eventos naturais. Eles arrasam cidades inteiras e abrigam milhões de vidas.</desc>
-    <length units="minutes">1680</length>
+  <programme start="20251102013100 -0300" stop="20251102030900 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Jogo da Vida</title>
+    <desc lang="pt">Jeffrey é um rapaz pobre e ambicioso que vai trabalhar num clube de praia. Lá, sob a influência de um ricaço viciado em jogo, sua vontade de enriquecer aumenta. Até que a vida lhe apresenta um dilema: o dinheiro ou a felic...</desc>
+    <length units="minutes">5880</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251102030900 -0300" stop="20251102050000 -0300" channel="CANAL DO BOI">
+    <title lang="pt">Keoma</title>
+    <desc lang="pt">Ao final da Guerra Civil Americana, um pistoleiro mestiço, cansado de fazer da morte um meio de vida, retorna para aquilo que um dia costumava ser seu lar. Seu nome é Keoma.</desc>
+    <length units="minutes">6660</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20251102050000 -0300" stop="20251102060000 -0300" channel="CANAL DO BOI">
@@ -20317,8 +20349,8 @@
     </rating>
   </programme>
   <programme start="20251102140000 -0300" stop="20251102200000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">15º Leilão Virtual Touros Fazenda Araras</title>
-    <desc lang="pt">100 Reprodutores Nelore PO de altíssima qualidade genética.</desc>
+    <title lang="pt">5º Leilão Virtual Nelore MK</title>
+    <desc lang="pt">35 touros e 120 fêmeas: bezerras, novilhas e matrizes, que traduzem a base funcional e genética da seleção MK. Tripla avaliação genômica e avaliação de carcaça.</desc>
     <length units="minutes">21600</length>
     <rating system="Brazil">
       <value>[L]</value>
@@ -21347,36 +21379,72 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101091500 -0300" stop="20251101100000 -0300" channel="CANAL RURAL">
+  <programme start="20251101091500 -0300" stop="20251101094500 -0300" channel="CANAL RURAL">
     <title lang="pt">Interligados Vida No Campo</title>
     <desc lang="pt">Semanalmente, o Interligados visita produtores e produtoras de todo o Brasil.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">9.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101100000 -0300" stop="20251102000000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Leilão</title>
-    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
-    <length units="minutes">50400</length>
+  <programme start="20251101094500 -0300" stop="20251101100000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Série Planeta Campo</title>
+    <desc lang="pt">A Série Planeta Campo irá apresentar os impactos do aquecimento global na agropecuária e como o campo pode ser parte da solução deste problema. Informações para apoiar o produtor rural a plantar e criar com olhar...</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">9.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102000000 -0300" stop="20251102010000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Leilão</title>
-    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
+  <programme start="20251101100000 -0300" stop="20251101110000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Vale Agrícola</title>
+    <desc lang="pt">Aqui você confere as principais culturas que predominam nas lavouras, as novidades que são destaque no campo, produtores que se dedicam ao cultivo da terra e assuntos que estão em alta no setor.</desc>
     <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">10.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102010000 -0300" stop="20251102030000 -0300" channel="CANAL RURAL">
+  <programme start="20251101110000 -0300" stop="20251101120000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Brasil Caipira</title>
+    <desc lang="pt">Música caipira, vida na roça, produtor rural, homem do campo,costumes, tradições e cultura brasileira, Sertanejo, sertão, viola caipira, coisas do interior.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">11.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101120000 -0300" stop="20251101200000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
+    <length units="minutes">28800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101200000 -0300" stop="20251101220000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Lance Cast</title>
+    <desc lang="pt">Acompanhe entrevistas com convidados e fique por dentro dos assuntos do momento na agricultura.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">20.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101220000 -0300" stop="20251102000000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Podcast Giro do Boi</title>
+    <desc lang="pt">Programa de entrevista com os melhores ícones da pecuária nacional.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">22.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102000000 -0300" stop="20251102030000 -0300" channel="CANAL RURAL">
     <title lang="pt">Televendas Marilda</title>
     <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">1.306.</episode-num>
+    <length units="minutes">10800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -21423,19 +21491,35 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">78.306.</episode-num>
   </programme>
-  <programme start="20251102090000 -0300" stop="20251102100000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Brasil Caipira</title>
-    <desc lang="pt">Música caipira, vida na roça, produtor rural, homem do campo,costumes, tradições e cultura brasileira, Sertanejo, sertão, viola caipira, coisas do interior.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">9.306.</episode-num>
+  <programme start="20251102090000 -0300" stop="20251102130000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
+    <length units="minutes">14400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102100000 -0300" stop="20251103000000 -0300" channel="CANAL RURAL">
+  <programme start="20251102130000 -0300" stop="20251102170000 -0300" channel="CANAL RURAL">
     <title lang="pt">Leilão</title>
     <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
-    <length units="minutes">50400</length>
+    <length units="minutes">14400</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102170000 -0300" stop="20251102210000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
+    <length units="minutes">14400</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102210000 -0300" stop="20251103000000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Lance Cast</title>
+    <desc lang="pt">Acompanhe entrevistas com convidados e fique por dentro dos assuntos do momento na agricultura.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">21.306.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162687,68 +162771,68 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">71.307.</episode-num>
   </programme>
-  <programme start="20251103020000 -0300" stop="20251103040000 -0300" channel="Nsports HD">
-    <title lang="pt">Palmeiras x América-MG</title>
-    <desc lang="pt">Acompanhe as emoções da Copa do Brasil de Futsal Feminina na NSports, com jogos exclusivos e muita ação nas quadras!</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251103020000 -0300" stop="20251103030000 -0300" channel="Nsports HD">
+    <title lang="pt">Brasil x Guatemala</title>
+    <desc lang="pt">O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
+    <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20251103040000 -0300" stop="20251103050000 -0300" channel="Nsports HD">
+  <programme start="20251103030000 -0300" stop="20251103040000 -0300" channel="Nsports HD">
     <title lang="pt">GG Poker</title>
     <desc lang="pt">Toda semana alguns dos maiores jogadores profissionais de pôquer se encontram em Las Vegas para participar de uma mesa exclusiva de Texas Hold 'Em.</desc>
     <length units="minutes">3600</length>
   </programme>
-  <programme start="20251103050000 -0300" stop="20251103070000 -0300" channel="Nsports HD">
-    <title lang="pt">Itf W50 Vacaria</title>
-    <desc lang="pt">Acompanhe na NSports a competição ITF W50 que destaca talentos do tênis feminino em emocionantes partidas ao vivo.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251103040000 -0300" stop="20251103054500 -0300" channel="Nsports HD">
+    <title lang="pt">Grêmio x Peñarol (URU)</title>
+    <desc lang="pt">A Ladies Cup apresenta grandes clubes e estrelas do futebol feminino em um torneio amistoso de alto nível, com jogos intensos e muita emoção em campo.</desc>
+    <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20251103070000 -0300" stop="20251103080000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251103054500 -0300" stop="20251103060000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">900</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103060000 -0300" stop="20251103071500 -0300" channel="Nsports HD">
+    <title lang="pt">EHF Champions League - Masculino - Gyori Audi x Esbjerg</title>
+    <desc lang="pt">Acompanhe na NSports a EHF FINAL é o destaque indiscutível do handebol masculino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
+    <length units="minutes">4500</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251103071500 -0300" stop="20251103090000 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">77.307.</episode-num>
   </programme>
-  <programme start="20251103080000 -0300" stop="20251103084500 -0300" channel="Nsports HD">
-    <title lang="pt">Ewc</title>
-    <desc lang="pt">Copa do Mundo de E-Sports com melhores momentos, entrevistas, resumo dos campeonatos e melhores jogadas do lol, valorant e outros.</desc>
-    <length units="minutes">2700</length>
-  </programme>
-  <programme start="20251103084500 -0300" stop="20251103103000 -0300" channel="Nsports HD">
-    <title lang="pt">Santa Fé (COL) x Corinthians</title>
+  <programme start="20251103090000 -0300" stop="20251103104500 -0300" channel="Nsports HD">
+    <title lang="pt">Corinthians x Boca Juniors (ARG)</title>
     <desc lang="pt">A Libertadores Feminina é o principal torneio de clubes da América do Sul, reunindo as melhores equipes do continente em busca do título sul-americano e impulsionando o futebol feminino na região.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20251103103000 -0300" stop="20251103104500 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">10.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103104500 -0300" stop="20251103110000 -0300" channel="Nsports HD">
-    <title lang="pt">Fala Comigo</title>
-    <desc lang="pt">Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">1.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103110000 -0300" stop="20251103120000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">71.307.</episode-num>
-  </programme>
-  <programme start="20251103120000 -0300" stop="20251103123000 -0300" channel="Nsports HD">
+  <programme start="20251103104500 -0300" stop="20251103111500 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103111500 -0300" stop="20251103121500 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">71.307.</episode-num>
+  </programme>
+  <programme start="20251103121500 -0300" stop="20251103123000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">12.307.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162760,75 +162844,76 @@
     <episode-num system="xmltv_ns">72.307.</episode-num>
   </programme>
   <programme start="20251103140000 -0300" stop="20251103153000 -0300" channel="Nsports HD">
+    <title lang="pt">NBB</title>
+    <desc lang="pt">NBB é na Nsports.</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20251103153000 -0300" stop="20251103161500 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">75.307.</episode-num>
+  </programme>
+  <programme start="20251103161500 -0300" stop="20251103180000 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">76.307.</episode-num>
+  </programme>
+  <programme start="20251103180000 -0300" stop="20251103191500 -0300" channel="Nsports HD">
+    <title lang="pt">Amistoso Internacional - Brasil x Nova Zelândia</title>
+    <desc lang="pt">Amistoso Internacional - Brasil e Nova Zelândia.</desc>
+    <length units="minutes">4500</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251103191500 -0300" stop="20251103204500 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
     <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">74.307.</episode-num>
+    <episode-num system="xmltv_ns">79.307.</episode-num>
   </programme>
-  <programme start="20251103153000 -0300" stop="20251103154500 -0300" channel="Nsports HD">
+  <programme start="20251103204500 -0300" stop="20251103210000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">20.307.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103210000 -0300" stop="20251103211500 -0300" channel="Nsports HD">
+    <title lang="pt">Giro Nsports</title>
+    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">71.307.</episode-num>
+  </programme>
+  <programme start="20251103211500 -0300" stop="20251103212000 -0300" channel="Nsports HD">
+    <title lang="pt">Top Gols</title>
+    <desc lang="pt">Toda semana você vai acompanhar os melhores gols da rodada do Brasileirão Série B.</desc>
+    <length units="minutes">300</length>
+  </programme>
+  <programme start="20251103212000 -0300" stop="20251103220000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">2400</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103220000 -0300" stop="20251103231500 -0300" channel="Nsports HD">
+    <title lang="pt">Live Show</title>
+    <desc lang="pt">Central do Basquete mantém você ligado em tudo de melhor que rola na NBA toda semana!</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">72.307.</episode-num>
+  </programme>
+  <programme start="20251103231500 -0300" stop="20251104000000 -0300" channel="Nsports HD">
     <title lang="pt">Fala Comigo</title>
     <desc lang="pt">Vinícius Machuca revela os segredos dos esportes e dos grandes eventos, mostrando a rotina intensa dos atletas e as histórias que os levaram ao sucesso.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.307.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
-  </programme>
-  <programme start="20251103154500 -0300" stop="20251103164500 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">75.307.</episode-num>
-  </programme>
-  <programme start="20251103164500 -0300" stop="20251103183000 -0300" channel="Nsports HD">
-    <title lang="pt">Peñarol (URU) x Gimnasia (ARG)</title>
-    <desc lang="pt">A Ladies Cup apresenta grandes clubes e estrelas do futebol feminino em um torneio amistoso de alto nível, com jogos intensos e muita emoção em campo.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103183000 -0300" stop="20251103190000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103190000 -0300" stop="20251103200000 -0300" channel="Nsports HD">
-    <title lang="pt">Especial: El Clásico Golf Cup</title>
-    <desc lang="pt">Lendas de Real Madrid e Barcelona voltam a campo para mais um El Clásico, só que dessa vez a disputa é no golfe.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20251103200000 -0300" stop="20251103202000 -0300" channel="Nsports HD">
-    <title lang="pt">Giro Nsports</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">70.307.</episode-num>
-  </programme>
-  <programme start="20251103202000 -0300" stop="20251103223000 -0300" channel="Nsports HD">
-    <title lang="pt">Brasil x Nova Zelândia</title>
-    <desc lang="pt">A nova temporada dos campeonatos europeus está chegando. E para abrirmos os trabalhos, os principais times internacionais se juntam para disputar amistosos e se preparar nessa pré-temporada.</desc>
-    <length units="minutes">7800</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103223000 -0300" stop="20251103224500 -0300" channel="Nsports HD">
-    <title lang="pt">Top Gols</title>
-    <desc lang="pt">Toda semana você vai acompanhar os melhores gols da rodada do Brasileirão Série B.</desc>
-    <length units="minutes">900</length>
-  </programme>
-  <programme start="20251103224500 -0300" stop="20251103231500 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103231500 -0300" stop="20251104000000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">73.307.</episode-num>
   </programme>
   <programme start="20251104000000 -0300" stop="20251104004500 -0300" channel="Nsports HD">
     <title lang="pt">World Poker Tour</title>
@@ -177866,98 +177951,183 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101000000 -0300" stop="20251101013000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Atualidades Pampa</title>
-    <desc lang="pt">O programa traz os principais assuntos dos dia comentados por um elenco de comunicadores comandado por Magda Beatriz.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251101000000 -0300" stop="20251101003000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20251101003000 -0300" stop="20251101010000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">70.305.</episode-num>
   </programme>
-  <programme start="20251101013000 -0300" stop="20251101030000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Programa Religioso</title>
-    <desc lang="pt">Programação religiosa diária.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251101010000 -0300" stop="20251101020000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Jogo Na Tela</title>
+    <desc lang="pt">JOGO NA TELA vai deixar a madrugada muito mais divertida, que mistura jogos, quizzes, interação com a audiência de casa, prêmios e muito bom humor.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">1.305.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20251101030000 -0300" stop="20251101070000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">RS na Graça</title>
-    <desc lang="pt">Acompanhe o culto da Igreja Internacional da Graça de Deus.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251101020000 -0300" stop="20251101030000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">2.305.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251101030000 -0300" stop="20251101050000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja da Graça No Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">3.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101070000 -0300" stop="20251101073000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Fatos Impossíveis</title>
-    <desc lang="pt">Conheça fatos e casos que a ciência e a medicina dizem não ter solução. Com mensagens de fé e por meio do Jejum das Causas impossíveis, veja que, para Deus, nada é impossível.</desc>
+  <programme start="20251101050000 -0300" stop="20251101051500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101051500 -0300" stop="20251101054500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.305.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251101054500 -0300" stop="20251101060000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101060000 -0300" stop="20251101070000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">6.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101070000 -0300" stop="20251101071500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">7.305.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251101071500 -0300" stop="20251101073000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">7.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101073000 -0300" stop="20251101080000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20251101073000 -0300" stop="20251101083000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">7.305.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101080000 -0300" stop="20251101090000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Movimento Jovem</title>
-    <desc lang="pt">Programa religioso.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251101083000 -0300" stop="20251101090000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">8.305.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20251101090000 -0300" stop="20251101093000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
+    <title lang="pt">Vitória em Cristo</title>
+    <desc lang="pt">O programa tem a missão de propagar a mensagem do evangelho e de defender a fé cristã e os valores éticos, morais e espirituais da Igreja de Cristo</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">9.305.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251101093000 -0300" stop="20251101113000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Programa Religioso</title>
-    <desc lang="pt">Programação religiosa diária.</desc>
-    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">9.305.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101113000 -0300" stop="20251101123000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
+  <programme start="20251101093000 -0300" stop="20251101100000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">9.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101100000 -0300" stop="20251101103000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Voz de Deus</title>
+    <desc lang="pt">Com uma audiência crescente, &quot;A Voz de Deus&quot; é conhecido por seu formato direto e inspirador, que busca proporcionar aos telespectadores um espaço de reflexão espiritual e orientação.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">10.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101103000 -0300" stop="20251101110000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">10.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101110000 -0300" stop="20251101120000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">11.305.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251101123000 -0300" stop="20251101140000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Atualidades Pampa</title>
-    <desc lang="pt">O programa traz os principais assuntos dos dia comentados por um elenco de comunicadores comandado por Magda Beatriz.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">72.305.</episode-num>
-  </programme>
-  <programme start="20251101140000 -0300" stop="20251101180000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">14400</length>
-    <episode-num system="xmltv_ns">14.305.</episode-num>
+  <programme start="20251101120000 -0300" stop="20251101130000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Assembléia De Deus Do Brás</title>
+    <desc lang="pt">Acompanhe a transmissão de um culto acolhedor, sob a direção de um pastor igualmente acolhedor. A Assembleia de Deus busca os dons espirituais ressaltando sempre a ordem nos cultos.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">12.305.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20251101130000 -0300" stop="20251101153000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+    <length units="minutes">9000</length>
+    <episode-num system="xmltv_ns">13.305.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251101153000 -0300" stop="20251101180000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Goiás x Athletico-PR - ao vivo</title>
+    <desc lang="pt">A Série B voltou para casa. A RedeTV! adquiriu os direitos de transmissão da segunda divisão do campeonato nacional e exibirá, ao vivo e para todo o Brasil, dois jogos por semana, com exclusividade na TV aberta.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251101180000 -0300" stop="20251101195500 -0300" channel="REDE TV! São Paulo">
     <title lang="pt">Brasil Do Povo</title>
@@ -177972,8 +178142,8 @@
     <episode-num system="xmltv_ns">79.305.</episode-num>
   </programme>
   <programme start="20251101203000 -0300" stop="20251101213000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Show da Fé</title>
-    <desc lang="pt">O objetivo do Show da Fé é levar o Evangelho de Jesus Cristo aos quatro cantos do mundo.</desc>
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">20.305.</episode-num>
     <rating system="Brazil">
@@ -178015,67 +178185,190 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251102003000 -0300" stop="20251102020000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251102003000 -0300" stop="20251102010000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Companhia Certa</title>
+    <desc lang="pt">O programa COMPANHIA CERTA destaca o talento inigualável de Ronnie Von em conduzir conversas inteligentes e descontraídas, sempre acompanhadas por bebidas sofisticadas e conteúdo de alta qualidade.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251102010000 -0300" stop="20251102020000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Jogo Na Tela</title>
+    <desc lang="pt">JOGO NA TELA vai deixar a madrugada muito mais divertida, que mistura jogos, quizzes, interação com a audiência de casa, prêmios e muito bom humor.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.306.</episode-num>
+    <rating system="Brazil">
+      <value>[18]</value>
     </rating>
   </programme>
   <programme start="20251102020000 -0300" stop="20251102030000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Programa Religioso</title>
-    <desc lang="pt">Programação religiosa diária.</desc>
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.306.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251102030000 -0300" stop="20251102070000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">RS na Graça</title>
-    <desc lang="pt">Acompanhe o culto da Igreja Internacional da Graça de Deus.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251102030000 -0300" stop="20251102050000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja da Graça No Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">3.306.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102070000 -0300" stop="20251102090000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251102050000 -0300" stop="20251102051500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102051500 -0300" stop="20251102054500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.306.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251102054500 -0300" stop="20251102060000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102060000 -0300" stop="20251102070000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">6.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102070000 -0300" stop="20251102080000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma - Missa Iguape</title>
+    <desc lang="pt">Transmissão da Santa Missa da Basílica Santuário do Senhor Bom Jesus de Iguape.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">7.306.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102080000 -0300" stop="20251102083000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">8.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102083000 -0300" stop="20251102090000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Mundo Empresarial</title>
+    <desc lang="pt">Conheça histórias de empresas e empreendedores que, independente dos seus segmentos, são referências no mercado de negócios, com prioridade à imagem e ao diferencial que esses empresários mostram em seus empreend...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">8.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251102090000 -0300" stop="20251102100000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Programa Religioso</title>
-    <desc lang="pt">Programação religiosa diária.</desc>
+    <title lang="pt">São Paulo da Sorte</title>
+    <desc lang="pt">SÃO PAULO DA SORTE é um programa de sorteio que leva semanalmente mudança de vida para a capital paulista.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">9.306.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102100000 -0300" stop="20251102110000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Tri Legal</title>
-    <desc lang="pt">Programa que apresenta os sorteios do TriLegal Certificado de Contribuição, que contribui com a APAE RS e ainda traz diversão e prêmios para toda a família!</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251102100000 -0300" stop="20251102114500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">10.306.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102110000 -0300" stop="20251102190000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">28800</length>
+  <programme start="20251102114500 -0300" stop="20251102115500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Educação Na TV - Apeoesp</title>
+    <desc lang="pt">Um programa que aborda questões ligadas à educação. Apresentando matérias sobre cultura, saúde, segurança, direitos humanos, história e atualidades, com foco na relação entre professores e alunos.</desc>
+    <length units="minutes">600</length>
     <episode-num system="xmltv_ns">11.306.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20251102115500 -0300" stop="20251102121500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">11.306.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251102121500 -0300" stop="20251102124500 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Igreja Cristã Maranata</title>
+    <desc lang="pt">Programa Religioso.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">12.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102124500 -0300" stop="20251102130000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Polishop</title>
+    <desc lang="pt">A empresa lança novas marcas e comercializa produtos que facilitam a vida do consumidor.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">12.306.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251102130000 -0300" stop="20251102153000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Wolfsburg x Hoffenheim - ao vivo</title>
+    <desc lang="pt">O futebol está de volta à tela da RedeTV!. Com as emoções da temporada 2025/2026 da BUNDESLIGA, a primeira divisão do CAMPEONATO ALEMÃO, um dos principais torneios da Europa.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251102153000 -0300" stop="20251102163000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Copa HB20: 7ª Etapa - Velocitta-SP</title>
+    <desc lang="pt">A NASCAR Brasil Series, também conhecida como NASCAR Brasil, é uma série de corrida nacional da NASCAR no Brasil, que é resultado de um acordo entre a NASCAR e a GT Sprint Race.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102163000 -0300" stop="20251102173000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Nascar Brasil</title>
+    <desc lang="pt">Conhecida como NASCAR Brasil, é uma série de corrida nacional.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102173000 -0300" stop="20251102180000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">17.306.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251102180000 -0300" stop="20251102190000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">American Zone</title>
+    <desc lang="pt">O programa AMERICAN ZONE é o seu passaporte para o coração dos esportes americanos. A cada semana mergulhe nas histórias inspiradoras de lendas do futebol americano, basquete, beisesol e hóquei.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">18.306.</episode-num>
   </programme>
   <programme start="20251102190000 -0300" stop="20251102223000 -0300" channel="REDE TV! São Paulo">
     <title lang="pt">Para Aqui!</title>
@@ -178086,23 +178379,27 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251102223000 -0300" stop="20251103020000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">12600</length>
+  <programme start="20251102223000 -0300" stop="20251102230000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Rodada de Negócios</title>
+    <desc lang="pt">Programa de entrevistas sobre o mundo dos negócios. Traz grandes nome do mercado, empresários e personalidades que são referência e impulsionam a economia do Brasil.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">22.306.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251102223000 -0300" stop="20251103020000 -0300" channel="REDE TV! São Paulo">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">Uma revista eletrônica especializada no mundo dos famosos. Informações sobre as celebridades, suas carreiras, projetos pessoais, intimidade e tudo o que o público quer saber sobre os artistas está no Pampa Show.</desc>
-    <length units="minutes">12600</length>
-    <episode-num system="xmltv_ns">22.306.</episode-num>
+  <programme start="20251102230000 -0300" stop="20251103000000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.306.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20251103000000 -0300" stop="20251103020000 -0300" channel="REDE TV! São Paulo">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">7200</length>
   </programme>
   <programme start="20251103020000 -0300" stop="20251103030000 -0300" channel="REDE TV! São Paulo">
     <title lang="pt">Programa Religioso</title>
