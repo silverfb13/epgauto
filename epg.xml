@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-11-03 17:30:58" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-11-03 20:31:02" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -12349,10 +12349,13 @@
     </rating>
   </programme>
   <programme start="20251103224500 -0300" stop="20251103233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Turismo 1.4: 5ª Etapa Velocitta-SP</title>
-    <desc lang="pt">A temporada 2025 segue acelerando e Velocitta-SP será o palco dessa parada eletrizante.</desc>
+    <title lang="pt">Lendas do Motocross Brasileiro</title>
+    <desc lang="pt">Reviva a emocionante jornada do motocross, o icônico esporte radical que cativa o Brasil por mais de 50 anos. Desde seu humilde começo em 1971 até a vibrante cena atual.</desc>
     <length units="minutes">2700</length>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251103233000 -0300" stop="20251104003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo</title>
@@ -12372,29 +12375,29 @@
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">70.308.</episode-num>
   </programme>
-  <programme start="20251104004500 -0300" stop="20251104023000 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104004500 -0300" stop="20251104024500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Al-Nassr x Al-Fayha</title>
     <desc lang="pt">O BandSports vai transmitir a temporada 2025/2026 da Liga Saudita de Futebol. O principal torneio da Arábia Saudita contará com estrelas como Cristiano Ronaldo, Karim Benzema, Sadio Mané, Roberto Firmino, entre outros.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20251104023000 -0300" stop="20251104040000 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104024500 -0300" stop="20251104041500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Tempo Técnico</title>
     <desc lang="pt">Comandado por Elia Junior, o Tempo Técnico terá na bancada os comentaristas Jorge Nicola e Sálvio Spínola. O programa foca em análises táticas, debates e entrevistas com os principais técnicos do futebol brasileiro.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">72.308.</episode-num>
   </programme>
-  <programme start="20251104040000 -0300" stop="20251104050000 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104041500 -0300" stop="20251104051500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo</title>
     <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">74.308.</episode-num>
   </programme>
-  <programme start="20251104050000 -0300" stop="20251104054500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Turismo 1.4: 5ª Etapa Velocitta-SP</title>
-    <desc lang="pt">A temporada 2025 segue acelerando e Velocitta-SP será o palco dessa parada eletrizante.</desc>
-    <length units="minutes">2700</length>
-    <previously-shown/>
+  <programme start="20251104051500 -0300" stop="20251104054500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.308.</episode-num>
   </programme>
   <programme start="20251104054500 -0300" stop="20251104060000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Oléé</title>
@@ -12408,16 +12411,10 @@
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">76.308.</episode-num>
   </programme>
-  <programme start="20251104061500 -0300" stop="20251104063000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">76.308.</episode-num>
-  </programme>
-  <programme start="20251104063000 -0300" stop="20251104081500 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104061500 -0300" stop="20251104081500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Al-Nassr x Al-Fayha</title>
     <desc lang="pt">O BandSports vai transmitir a temporada 2025/2026 da Liga Saudita de Futebol. O principal torneio da Arábia Saudita contará com estrelas como Cristiano Ronaldo, Karim Benzema, Sadio Mané, Roberto Firmino, entre outros.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20251104081500 -0300" stop="20251104094500 -0300" channel="BAND SPORTS HD">
@@ -12480,17 +12477,17 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">78.308.</episode-num>
   </programme>
-  <programme start="20251104200000 -0300" stop="20251104210000 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104200000 -0300" stop="20251104205000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Agora - ao vivo</title>
     <desc lang="pt">Isabella Ayami e Thais Baffini atualizam as principais notícias do universo esportivo. O programa sempre trará os fatos mais quentes do dia, além de muita resenha e análises, mas sem enrolação.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">70.308.</episode-num>
   </programme>
-  <programme start="20251104210000 -0300" stop="20251104223000 -0300" channel="BAND SPORTS HD">
+  <programme start="20251104205000 -0300" stop="20251104223000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Corinthians x Magnus - ao vivo</title>
     <desc lang="pt">O BandSports passa a transmitir os jogos da Liga Nacional de Futsal.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">6000</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251104223000 -0300" stop="20251104233000 -0300" channel="BAND SPORTS HD">
@@ -40780,215 +40777,217 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251103014500 -0300" stop="20251103034200 -0300" channel="CINEMAX HD">
+  <programme start="20251103014300 -0300" stop="20251103033600 -0300" channel="CINEMAX HD">
     <title lang="pt">Magnatas do Crime</title>
     <desc lang="pt">Mickey Pearson construiu um império da maconha extremamente lucrativo em Londres. Quando a notícia de que ele pretende vendê-lo se espalha, uma série de intrigas e esquemas agitam o submundo do crime.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">6780</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251103034200 -0300" stop="20251103053000 -0300" channel="CINEMAX HD">
+  <programme start="20251103033600 -0300" stop="20251103052200 -0300" channel="CINEMAX HD">
     <title lang="pt">O Legado do Grande Mestre</title>
     <desc lang="pt">Zhang retoma seu papel titular como Cheung Tin Chi, um mestre da Wing Chun que procura seu lugar no mundo. Pobre e com um filho pra criar, ele enfrenta diversos problemas em sua trajetória.</desc>
+    <length units="minutes">6360</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251103052200 -0300" stop="20251103060000 -0300" channel="CINEMAX HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">2280</length>
+    <episode-num system="xmltv_ns">5.307.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103060000 -0300" stop="20251103071600 -0300" channel="CINEMAX HD">
+    <title lang="pt">Um Ano do Cão</title>
+    <desc lang="pt">Jon Katz é um escritor que atravessa a crise existencial dos cinquenta anos e impulsivamente decide adotar um cachorro, um simpático Collie que mudará sua vida e acalmará sua ansiedade.</desc>
+    <length units="minutes">4560</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251103071600 -0300" stop="20251103084300 -0300" channel="CINEMAX HD">
+    <title lang="pt">O Último Selvagem</title>
+    <desc lang="pt">1911. Califórnia. Estudiosos descobrem um último sobrevivente da tribo Yahi. Ishi é levado para  São Francisco e bate de frente com os avanços do século XX.</desc>
+    <length units="minutes">5220</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251103084300 -0300" stop="20251103102200 -0300" channel="CINEMAX HD">
+    <title lang="pt">O Padrasto</title>
+    <desc lang="pt">Michael volta para casa da escola militar e encontra sua mãe feliz e apaixonada por seu novo namorado. Conforme eles vão se conhecendo, ele começa a desconfiar do homem que está sempre por perto.</desc>
+    <length units="minutes">5940</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103102200 -0300" stop="20251103120000 -0300" channel="CINEMAX HD">
+    <title lang="pt">Proteção à Testemunha</title>
+    <desc lang="pt">Mafioso sofre emboscada de seus próprios companheiros. Perseguido, faz acordo com o FBI contra seus antigos parceiros.</desc>
+    <length units="minutes">5880</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103120000 -0300" stop="20251103141900 -0300" channel="CINEMAX HD">
+    <title lang="pt">Questão de Honra</title>
+    <desc lang="pt">Advogado da Marinha é incumbido de descobrir a verdade sobre a morte de jovem soldado numa base americana no Caribe.</desc>
+    <length units="minutes">8340</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251103141900 -0300" stop="20251103161000 -0300" channel="CINEMAX HD">
+    <title lang="pt">A Grande Mentira</title>
+    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
+    <length units="minutes">6660</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103161000 -0300" stop="20251103183100 -0300" channel="CINEMAX HD">
+    <title lang="pt">You Don't Know Jack</title>
+    <desc lang="pt">O Dr. Jack Kevorkian considera a eutanásia como a melhor opção para pacientes terminais. Enfrentando aqueles que o criticam, Jack começa a oferecer seus serviços.</desc>
+    <length units="minutes">8460</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103183100 -0300" stop="20251103201000 -0300" channel="CINEMAX HD">
+    <title lang="pt">Proteção à Testemunha</title>
+    <desc lang="pt">Mafioso sofre emboscada de seus próprios companheiros. Perseguido, faz acordo com o FBI contra seus antigos parceiros.</desc>
+    <length units="minutes">5940</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103201000 -0300" stop="20251103223000 -0300" channel="CINEMAX HD">
+    <title lang="pt">Questão de Honra</title>
+    <desc lang="pt">Advogado da Marinha é incumbido de descobrir a verdade sobre a morte de jovem soldado numa base americana no Caribe.</desc>
+    <length units="minutes">8400</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251103223000 -0300" stop="20251104002200 -0300" channel="CINEMAX HD">
+    <title lang="pt">A Grande Mentira</title>
+    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
+    <length units="minutes">6720</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251103223000 -0300" stop="20251104002200 -0300" channel="CINEMAX HD">
+    <title lang="pt">A Grande Mentira</title>
+    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
+    <length units="minutes">6720</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251104002200 -0300" stop="20251104023500 -0300" channel="CINEMAX HD">
+    <title lang="pt">You Don't Know Jack</title>
+    <desc lang="pt">O Dr. Jack Kevorkian considera a eutanásia como a melhor opção para pacientes terminais. Enfrentando aqueles que o criticam, Jack começa a oferecer seus serviços.</desc>
+    <length units="minutes">7980</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251104023500 -0300" stop="20251104041200 -0300" channel="CINEMAX HD">
+    <title lang="pt">O Padrasto</title>
+    <desc lang="pt">Michael volta para casa da escola militar e encontra sua mãe feliz e apaixonada por seu novo namorado. Conforme eles vão se conhecendo, ele começa a desconfiar do homem que está sempre por perto.</desc>
+    <length units="minutes">5820</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251104041200 -0300" stop="20251104060000 -0300" channel="CINEMAX HD">
+    <title lang="pt">No Ritmo do Coração</title>
+    <desc lang="pt">Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos. Quando o negócio de seus pais é ameaçado, ela fica dividida entre seu amor pela música e suas obrigações.</desc>
     <length units="minutes">6480</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103053000 -0300" stop="20251103060000 -0300" channel="CINEMAX HD">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20251104060000 -0300" stop="20251104070900 -0300" channel="CINEMAX HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">4140</length>
+    <episode-num system="xmltv_ns">6.308.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251103060000 -0300" stop="20251103064500 -0300" channel="CINEMAX HD">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2700</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103064500 -0300" stop="20251103081800 -0300" channel="CINEMAX HD">
-    <title lang="pt">O Último Selvagem</title>
-    <desc lang="pt">1911. Califórnia. Estudiosos descobrem um último sobrevivente da tribo Yahi. Ishi é levado para  São Francisco e bate de frente com os avanços do século XX.</desc>
-    <length units="minutes">5580</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251103081800 -0300" stop="20251103100700 -0300" channel="CINEMAX HD">
-    <title lang="pt">Questão de Pele</title>
-    <desc lang="pt">2ª Guerra Mundial, soldado negro começa um romance com mulher branca e casada, vítima de uma mentira e da discriminação, ele é condenado á morte.</desc>
-    <length units="minutes">6540</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103100700 -0300" stop="20251103115100 -0300" channel="CINEMAX HD">
-    <title lang="pt">Proteção à Testemunha</title>
-    <desc lang="pt">Mafioso sofre emboscada de seus próprios companheiros. Perseguido, faz acordo com o FBI contra seus antigos parceiros.</desc>
-    <length units="minutes">6240</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103115100 -0300" stop="20251103141200 -0300" channel="CINEMAX HD">
-    <title lang="pt">Questão de Honra</title>
-    <desc lang="pt">Advogado da Marinha é incumbido de descobrir a verdade sobre a morte de jovem soldado numa base americana no Caribe.</desc>
-    <length units="minutes">8460</length>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251103141200 -0300" stop="20251103160300 -0300" channel="CINEMAX HD">
-    <title lang="pt">A Grande Mentira</title>
-    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
-    <length units="minutes">6660</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103160300 -0300" stop="20251103182500 -0300" channel="CINEMAX HD">
-    <title lang="pt">You Don't Know Jack</title>
-    <desc lang="pt">O Dr. Jack Kevorkian considera a eutanásia como a melhor opção para pacientes terminais. Enfrentando aqueles que o criticam, Jack começa a oferecer seus serviços.</desc>
-    <length units="minutes">8520</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103182500 -0300" stop="20251103200700 -0300" channel="CINEMAX HD">
-    <title lang="pt">Proteção à Testemunha</title>
-    <desc lang="pt">Mafioso sofre emboscada de seus próprios companheiros. Perseguido, faz acordo com o FBI contra seus antigos parceiros.</desc>
-    <length units="minutes">6120</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103200700 -0300" stop="20251103223000 -0300" channel="CINEMAX HD">
-    <title lang="pt">Questão de Honra</title>
-    <desc lang="pt">Advogado da Marinha é incumbido de descobrir a verdade sobre a morte de jovem soldado numa base americana no Caribe.</desc>
-    <length units="minutes">8580</length>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251103223000 -0300" stop="20251104002100 -0300" channel="CINEMAX HD">
-    <title lang="pt">A Grande Mentira</title>
-    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
-    <length units="minutes">6660</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251103223000 -0300" stop="20251104002100 -0300" channel="CINEMAX HD">
-    <title lang="pt">A Grande Mentira</title>
-    <desc lang="pt">Helen Mirren e Ian McKellen se envolvem em um delicioso duelo de gato e rato nesta história sobre um vigarista e uma viúva rica.</desc>
-    <length units="minutes">6660</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251104002100 -0300" stop="20251104023900 -0300" channel="CINEMAX HD">
-    <title lang="pt">You Don't Know Jack</title>
-    <desc lang="pt">O Dr. Jack Kevorkian considera a eutanásia como a melhor opção para pacientes terminais. Enfrentando aqueles que o criticam, Jack começa a oferecer seus serviços.</desc>
-    <length units="minutes">8280</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251104023900 -0300" stop="20251104042800 -0300" channel="CINEMAX HD">
-    <title lang="pt">Questão de Pele</title>
-    <desc lang="pt">2ª Guerra Mundial, soldado negro começa um romance com mulher branca e casada, vítima de uma mentira e da discriminação, ele é condenado á morte.</desc>
-    <length units="minutes">6540</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20251104042800 -0300" stop="20251104060000 -0300" channel="CINEMAX HD">
-    <title lang="pt">O Último Selvagem</title>
-    <desc lang="pt">1911. Califórnia. Estudiosos descobrem um último sobrevivente da tribo Yahi. Ishi é levado para  São Francisco e bate de frente com os avanços do século XX.</desc>
-    <length units="minutes">5520</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20251104060000 -0300" stop="20251104063300 -0300" channel="CINEMAX HD">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1980</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251104063300 -0300" stop="20251104083300 -0300" channel="CINEMAX HD">
+  <programme start="20251104070900 -0300" stop="20251104085600 -0300" channel="CINEMAX HD">
     <title lang="pt">No Ritmo do Coração</title>
     <desc lang="pt">Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos. Quando o negócio de seus pais é ameaçado, ela fica dividida entre seu amor pela música e suas obrigações.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6420</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104083300 -0300" stop="20251104100300 -0300" channel="CINEMAX HD">
+  <programme start="20251104085600 -0300" stop="20251104101900 -0300" channel="CINEMAX HD">
     <title lang="pt">Cegonhas: A História que não Te Contaram</title>
     <desc lang="pt">Há muito tempo, as cegonhas entregavam os bebês. As coisas iam muito bem, até que um dia algo deu errado e elas começaram a trabalhar para uma loja online.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251104100300 -0300" stop="20251104112600 -0300" channel="CINEMAX HD">
-    <title lang="pt">Tá Dando Onda</title>
-    <desc lang="pt">Cody é um pinguim que sai de sua casa em Shiverpool, Antártica, para participar do evento Big Z Memorial de Surf na Ilha de Pen Gu. Durante sua aventura ele conhece novos amigos incluindo o maluquinho do surf, Chicken Joe.</desc>
     <length units="minutes">4980</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104112600 -0300" stop="20251104125900 -0300" channel="CINEMAX HD">
+  <programme start="20251104101900 -0300" stop="20251104113900 -0300" channel="CINEMAX HD">
+    <title lang="pt">Tá Dando Onda</title>
+    <desc lang="pt">Cody é um pinguim que sai de sua casa em Shiverpool, Antártica, para participar do evento Big Z Memorial de Surf na Ilha de Pen Gu. Durante sua aventura ele conhece novos amigos incluindo o maluquinho do surf, Chicken Joe.</desc>
+    <length units="minutes">4800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251104113900 -0300" stop="20251104131100 -0300" channel="CINEMAX HD">
     <title lang="pt">Beetlejuice - Os Fantasmas se Divertem</title>
     <desc lang="pt">A estória de um casal que morre num acidente e continua a viver como fantasmas na casa de campo onde moravam. Quando os novos proprietários chegam,  o casal decide expulsá-los do lugar.</desc>
-    <length units="minutes">5580</length>
+    <length units="minutes">5520</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251104125900 -0300" stop="20251104141700 -0300" channel="CINEMAX HD">
+  <programme start="20251104131100 -0300" stop="20251104142800 -0300" channel="CINEMAX HD">
     <title lang="pt">A Noiva Cadáver</title>
     <desc lang="pt">Em um vilarejo europeu do século XIX vive Victor Van Dorst, um jovem que está prestes a se casar com Victoria Everglot, porém acidentalmente se casa com a Noiva-Cadáver, que o leva para conhecer a Terra dos Mortos.</desc>
-    <length units="minutes">4680</length>
+    <length units="minutes">4620</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104141700 -0300" stop="20251104153900 -0300" channel="CINEMAX HD">
+  <programme start="20251104142800 -0300" stop="20251104154900 -0300" channel="CINEMAX HD">
     <title lang="pt">Tá Dando Onda</title>
     <desc lang="pt">Cody é um pinguim que sai de sua casa em Shiverpool, Antártica, para participar do evento Big Z Memorial de Surf na Ilha de Pen Gu. Durante sua aventura ele conhece novos amigos incluindo o maluquinho do surf, Chicken Joe.</desc>
-    <length units="minutes">4920</length>
+    <length units="minutes">4860</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104153900 -0300" stop="20251104171800 -0300" channel="CINEMAX HD">
+  <programme start="20251104154900 -0300" stop="20251104172600 -0300" channel="CINEMAX HD">
     <title lang="pt">Lego Ninjago: O Filme</title>
     <desc lang="pt">Uma equipe feroz mas indisciplinada de ninjas modernos devem aprender a controlar seus egos e a trabalharem juntospara liberarem seus verdadeiros poderes.</desc>
-    <length units="minutes">5940</length>
+    <length units="minutes">5820</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104171800 -0300" stop="20251104185900 -0300" channel="CINEMAX HD">
+  <programme start="20251104172600 -0300" stop="20251104190300 -0300" channel="CINEMAX HD">
     <title lang="pt">Pokémon: Detetive Pikachu</title>
     <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.</desc>
-    <length units="minutes">6060</length>
+    <length units="minutes">5820</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104185900 -0300" stop="20251104205200 -0300" channel="CINEMAX HD">
+  <programme start="20251104190300 -0300" stop="20251104205600 -0300" channel="CINEMAX HD">
     <title lang="pt">O Candidato Honesto 2</title>
     <desc lang="pt">Depois de ter confessado todos os crimes, João foi condenado a dez anos de cadeia, mas cumpriu apenas quatro. Apesar de não querer mais saber de política, ele é convencido a se candidatar mais uma vez à presidência da...</desc>
     <length units="minutes">6780</length>
@@ -40996,29 +40995,33 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104205200 -0300" stop="20251104223000 -0300" channel="CINEMAX HD">
+  <programme start="20251104205600 -0300" stop="20251104223000 -0300" channel="CINEMAX HD">
     <title lang="pt">Lego Ninjago: O Filme</title>
     <desc lang="pt">Uma equipe feroz mas indisciplinada de ninjas modernos devem aprender a controlar seus egos e a trabalharem juntospara liberarem seus verdadeiros poderes.</desc>
+    <length units="minutes">5640</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251104223000 -0300" stop="20251105000800 -0300" channel="CINEMAX HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.</desc>
     <length units="minutes">5880</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104223000 -0300" stop="20251105001000 -0300" channel="CINEMAX HD">
+  <programme start="20251104223000 -0300" stop="20251105000800 -0300" channel="CINEMAX HD">
     <title lang="pt">Pokémon: Detetive Pikachu</title>
     <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.</desc>
-    <length units="minutes">6000</length>
+    <length units="minutes">5880</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104223000 -0300" stop="20251105001000 -0300" channel="CINEMAX HD">
-    <title lang="pt">Pokémon: Detetive Pikachu</title>
-    <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.</desc>
-    <length units="minutes">6000</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20251105000800 -0300" stop="20251105001000 -0300" channel="CINEMAX HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20251105001000 -0300" stop="20251105014400 -0300" channel="CINEMAX HD">
     <title lang="pt">Beetlejuice - Os Fantasmas se Divertem</title>
@@ -161308,7 +161311,7 @@
     <sub-title lang="pt">Vulcão Kilauea</sub-title>
     <desc lang="pt">Fernando Fernandes explora e conhece seu sonho de criança, o Havaí. Viaja para Big Island e desbrava a região, próximo de um vulcão em erupção.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">30.2.</episode-num>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161347,7 +161350,7 @@
     <sub-title lang="pt">Macumba e Canto do Recreio</sub-title>
     <desc lang="pt">A Praia da Macumba é um dos lugares mais cheios e democráticos do Rio de Janeiro. A onda, uma das mais constantes da cidade, atrai desde surfistas amadores até longboarders experientes.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">30.5.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161366,7 +161369,7 @@
     <sub-title lang="pt">Indonésia Com o Avô</sub-title>
     <desc lang="pt">Neste episódio, a família Nalu volta à Indonésia. O destino escolhido é a Ilha de Nias, um lugar simples, com beleza ímpar e ondas perfeitas.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.5.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161405,7 +161408,7 @@
     <sub-title lang="pt">Travessia no Deserto</sub-title>
     <desc lang="pt">Sylvestre e Kester fazem uma travessia de paramotor pelo deserto mais antigo de mundo, o Namibe, eles ficam uma hora no ar até chegarem na Cratera de Messum, onde pousam e encontram com o resto da</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.9.</episode-num>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161415,7 +161418,7 @@
     <sub-title lang="pt">Um Oásis no Deserto</sub-title>
     <desc lang="pt">Paul Brehem, o guia da equipe, orienta Sylvester e Kester até as coordenadas de uma possível nascente d'água escondida no deserto da Namíbia, um local onde a fauna e flora se manifestam.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">30.10.</episode-num>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161425,7 +161428,7 @@
     <sub-title lang="pt">Desafio Molokai</sub-title>
     <desc lang="pt">Fernando Fernandes realiza um dos seus desejos, experimentar canoagem oceânica. Junto com um engenheiro eletrônico, Fernando cria um sistema para controle do leme, atrás do barco.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">30.1.</episode-num>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161452,7 +161455,7 @@
     <sub-title lang="pt">Uss Aeolus, Cargueiro De 120 Metros</sub-title>
     <desc lang="pt">Sílvia, Doug e Ninha estão nos EUA para explorar os destroços doAeolus, um navio que foi afundado como parte do programa de recifes artificiais da Carolina do Norte.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">31.3.</episode-num>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161462,7 +161465,7 @@
     <sub-title lang="pt">Como Tudo Começou</sub-title>
     <desc lang="pt">Depois de dias de dedicação à montagem do carro, ele finalmente ficou pronto e o casal sai da cidade de Perth em busca de lugares inóspitos e incríveis.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">31.1.</episode-num>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161472,7 +161475,7 @@
     <sub-title lang="pt">A Busca No Deserto</sub-title>
     <desc lang="pt">Marcela e Nelsinho finalmente saem da cidade de Perth em direção ao deserto australiano. O swell está se aproximando e eles só têm 2 dias para chegar lá.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">31.2.</episode-num>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161629,7 +161632,7 @@
     <sub-title lang="pt">Macumba e Canto do Recreio</sub-title>
     <desc lang="pt">A Praia da Macumba é um dos lugares mais cheios e democráticos do Rio de Janeiro. A onda, uma das mais constantes da cidade, atrai desde surfistas amadores até longboarders experientes.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.5.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161639,7 +161642,7 @@
     <sub-title lang="pt">Padang Padang</sub-title>
     <desc lang="pt">Padang é considerada a melhor esquerda de Bali na Indonésia. A onda, famosa por sua lotação, não quebra muitas vezes, e por isso, acaba sendo também uma das mais cobiçadas da região.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.6.</episode-num>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161693,6 +161696,7 @@
   </programme>
   <programme start="20251103210000 -0300" stop="20251103213000 -0300" channel="OFF HD">
     <title lang="pt">Em Busca Das Origens</title>
+    <sub-title lang="pt">Olhando para o passado</sub-title>
     <desc lang="pt">A série tem como objetivo descortinar uma perspectiva inviabilizada da origem do surfe.</desc>
     <length units="minutes">1800</length>
     <rating system="Brazil">
@@ -161775,6 +161779,7 @@
   </programme>
   <programme start="20251104015300 -0300" stop="20251104022200 -0300" channel="OFF HD">
     <title lang="pt">Em Busca Das Origens</title>
+    <sub-title lang="pt">Olhando para o passado</sub-title>
     <desc lang="pt">A série tem como objetivo descortinar uma perspectiva inviabilizada da origem do surfe.</desc>
     <length units="minutes">1740</length>
     <rating system="Brazil">
@@ -161800,12 +161805,20 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104032000 -0300" stop="20251104035200 -0300" channel="OFF HD">
+  <programme start="20251104032000 -0300" stop="20251104034500 -0300" channel="OFF HD">
     <title lang="pt">Forças Da Natureza</title>
     <sub-title lang="pt">Mergulho Em Cavernas Subterrâneas</sub-title>
     <desc lang="pt">Karina Oliani vai a Budapeste, na Hungria, mergulhar nas cavernas inundadas no subterrâneo da cidade.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251104034500 -0300" stop="20251104035200 -0300" channel="OFF HD">
+    <title lang="pt">Curtas Do Off: Bike Under The Lights</title>
+    <desc lang="pt">No meio de uma floresta, os bikers armam uma estrutura de luzes neon para uma sessão noturna dominada por performance e cores.</desc>
+    <length units="minutes">420</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161856,7 +161869,7 @@
     <sub-title lang="pt">Macumba e Canto do Recreio</sub-title>
     <desc lang="pt">A Praia da Macumba é um dos lugares mais cheios e democráticos do Rio de Janeiro. A onda, uma das mais constantes da cidade, atrai desde surfistas amadores até longboarders experientes.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.5.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161866,7 +161879,7 @@
     <sub-title lang="pt">Padang Padang</sub-title>
     <desc lang="pt">Padang é considerada a melhor esquerda de Bali na Indonésia. A onda, famosa por sua lotação, não quebra muitas vezes, e por isso, acaba sendo também uma das mais cobiçadas da região.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.6.</episode-num>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161893,6 +161906,7 @@
   </programme>
   <programme start="20251104085100 -0300" stop="20251104092000 -0300" channel="OFF HD">
     <title lang="pt">Em Busca Das Origens</title>
+    <sub-title lang="pt">Olhando para o passado</sub-title>
     <desc lang="pt">A série tem como objetivo descortinar uma perspectiva inviabilizada da origem do surfe.</desc>
     <length units="minutes">1740</length>
     <rating system="Brazil">
@@ -161957,7 +161971,7 @@
     <sub-title lang="pt">Como Tudo Começou</sub-title>
     <desc lang="pt">Depois de dias de dedicação à montagem do carro, ele finalmente ficou pronto e o casal sai da cidade de Perth em busca de lugares inóspitos e incríveis.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">31.1.</episode-num>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -161967,7 +161981,7 @@
     <sub-title lang="pt">A Busca No Deserto</sub-title>
     <desc lang="pt">Marcela e Nelsinho finalmente saem da cidade de Perth em direção ao deserto australiano. O swell está se aproximando e eles só têm 2 dias para chegar lá.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">31.2.</episode-num>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162016,7 +162030,7 @@
     <sub-title lang="pt">Macumba e Canto do Recreio</sub-title>
     <desc lang="pt">A Praia da Macumba é um dos lugares mais cheios e democráticos do Rio de Janeiro. A onda, uma das mais constantes da cidade, atrai desde surfistas amadores até longboarders experientes.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">30.5.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162026,7 +162040,7 @@
     <sub-title lang="pt">Padang Padang</sub-title>
     <desc lang="pt">Padang é considerada a melhor esquerda de Bali na Indonésia. A onda, famosa por sua lotação, não quebra muitas vezes, e por isso, acaba sendo também uma das mais cobiçadas da região.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">30.6.</episode-num>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -164446,8 +164460,8 @@
     </rating>
   </programme>
   <programme start="20251103000000 -0300" stop="20251103020000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
@@ -164463,18 +164477,19 @@
     </rating>
   </programme>
   <programme start="20251103030000 -0300" stop="20251103033000 -0300" channel="PLAY TV">
-    <title lang="pt">Yosuga no Sora</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Anime PlayTV: Yosuga No Sora</title>
+    <desc lang="pt">Após perderem os pais em um acidente, Haruka e sua irmã gêmea, Sora, se mudam da cidade para a cidadezinha rural onde passavam os verões da infância.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">3.30.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[18]</value>
     </rating>
   </programme>
   <programme start="20251103033000 -0300" stop="20251103040000 -0300" channel="PLAY TV">
-    <title lang="pt">Fascinada Por Garotas Mágicas</title>
+    <title lang="pt">Anime PlayTV: Fascinada Por Garotas Mágicas</title>
     <desc lang="pt">Hiiragi Utena, uma garota normal, é muito apaixonada por garotas mágicas; depois de ser enganada e se juntar a uma organização maligna, ela descobre que essa paixão também tem um lado perverso.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.307.</episode-num>
+    <episode-num system="xmltv_ns">3.33.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -164754,9 +164769,9 @@
   </programme>
   <programme start="20251103093000 -0300" stop="20251103101500 -0300" channel="PLAY TV">
     <title lang="pt">Amor é Destino</title>
-    <desc lang="pt">Xi Yi prepara um encontro de aniversário para Jia Xin, e eles confirmam seus sentimentos um pelo outro.</desc>
+    <desc lang="pt">Uma revelação balança a estrutura da família de Ke Ai: seu pai pode ter segredos que vão além da doença. Enquanto isso, a habilidade especial de Ke Ai de prever o futuro se torna peça-chave para evitar um no...</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -164793,55 +164808,10 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20251103133000 -0300" stop="20251103133500 -0300" channel="PLAY TV">
+  <programme start="20251103133000 -0300" stop="20251103140000 -0300" channel="PLAY TV">
     <title lang="pt">Clip K Drama</title>
     <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">13.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103133500 -0300" stop="20251103134000 -0300" channel="PLAY TV">
-    <title lang="pt">Clip K Drama</title>
-    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">13.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103134000 -0300" stop="20251103134500 -0300" channel="PLAY TV">
-    <title lang="pt">Clip K Drama</title>
-    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">13.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103134500 -0300" stop="20251103135000 -0300" channel="PLAY TV">
-    <title lang="pt">Clip K Drama</title>
-    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">13.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103135000 -0300" stop="20251103135500 -0300" channel="PLAY TV">
-    <title lang="pt">Clip K Drama</title>
-    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">13.307.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251103135500 -0300" stop="20251103140000 -0300" channel="PLAY TV">
-    <title lang="pt">Clip K Drama</title>
-    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado &quot;k-pop&quot;.  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
-    <length units="minutes">300</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">13.307.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -164857,10 +164827,9 @@
     </rating>
   </programme>
   <programme start="20251103150000 -0300" stop="20251103180000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">15.307.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -164925,25 +164894,24 @@
     </rating>
   </programme>
   <programme start="20251103230000 -0300" stop="20251104000000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.307.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251104000000 -0300" stop="20251104020000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251104020000 -0300" stop="20251104040000 -0300" channel="PLAY TV">
-    <title lang="pt">Cine Play Clássico: Susie e os Baker Boys</title>
-    <desc lang="pt">Dois irmãos pianistas de carreira e repertório medíocres mudam suas vidas quando resolvem contratar uma atraente e ambiciosa vocalista.</desc>
+    <title lang="pt">Cine Play Clássico: Os Garotos Perdidos</title>
+    <desc lang="pt">Garoto louco por histórias de terror vai para a Califórnia e descobre aterrorizado que seu irmão é vítima de grupo de jovens vampiros motociclistas.</desc>
     <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[14]</value>
@@ -165062,7 +165030,7 @@
     </rating>
   </programme>
   <programme start="20251104070000 -0300" stop="20251104073000 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 00s Drops</title>
+    <title lang="pt">Interferência 00s</title>
     <desc lang="pt">Clipes clássicos da década de 2000.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">7.308.</episode-num>
@@ -165176,10 +165144,9 @@
     </rating>
   </programme>
   <programme start="20251104150000 -0300" stop="20251104180000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">15.308.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -165197,7 +165164,7 @@
   </programme>
   <programme start="20251104200000 -0300" stop="20251104203000 -0300" channel="PLAY TV">
     <title lang="pt">PlayHit</title>
-    <desc lang="pt">O casamento perfeito entre música e game. Videoclipes especiais misturam imagens dos games favoritos com sucessos, clássicos e novidades da música pop e do rock.</desc>
+    <desc lang="pt">Game + Música! PlayHit cria um videoclipe com imagens dos seus jogos preferidos!</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">20.308.</episode-num>
     <rating system="Brazil">
@@ -165259,10 +165226,9 @@
     </rating>
   </programme>
   <programme start="20251104230000 -0300" stop="20251105000000 -0300" channel="PLAY TV">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">(INFOMERCIAL) O JoiasVip surgiu da ideia de levar segurança e comodidade aos clientes que gostam de desfrutar de lindas joias, relógios e peças em prata.</desc>
+    <title lang="pt">Jóias VIP</title>
+    <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.308.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -182374,52 +182340,52 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103235000 -0300" stop="20251104003300 -0300" channel="SPACE HD">
+  <programme start="20251103235000 -0300" stop="20251104003500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Nick assume um caso e investiga uma casa onde moram quatro pessoas, mas somente três poças de sangue são encontradas. Nick acha que a garotinha ainda pode estar viva, mas Sara está em dúvida.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103235000 -0300" stop="20251104003300 -0300" channel="SPACE HD">
+  <programme start="20251103235000 -0300" stop="20251104003500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Nick assume um caso e investiga uma casa onde moram quatro pessoas, mas somente três poças de sangue são encontradas. Nick acha que a garotinha ainda pode estar viva, mas Sara está em dúvida.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104003300 -0300" stop="20251104012000 -0300" channel="SPACE HD">
+  <programme start="20251104003500 -0300" stop="20251104011900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Uma mãe solteira de 28 anos é encontrada morta. Inicialmente, acredita-se que foi suicídio, mas Catherine conclui que foi assassinato. Ecklie convoca Grissom para rebater o depoimento de um entomologista.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104012000 -0300" stop="20251104020500 -0300" channel="SPACE HD">
+  <programme start="20251104011900 -0300" stop="20251104020200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">CSI investigam o assassinato de Matthew Stone, o inventor do revolucionário Solamyrge, quando ele foi assassinado por um sniper. Na casa do Stone, eles descobrem um espião plantado por Jerry Blackburn, CEO de Stone.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104020500 -0300" stop="20251104025100 -0300" channel="SPACE HD">
+  <programme start="20251104020200 -0300" stop="20251104024500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">A equipe investiga o assassinato de um paraquedista com mais de 100 crianças, todos eles suspeitos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104025100 -0300" stop="20251104033200 -0300" channel="SPACE HD">
+  <programme start="20251104024500 -0300" stop="20251104032600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">A equipe precisa investigar a morte de um policial que morreu durante um tiroteio que deixou centenas de balas na cena do crime. O caso se complica quando se descobre que Sofia Curtis e Jim Brass estavam junto com a vítima.</desc>
     <length units="minutes">2460</length>
@@ -182428,29 +182394,39 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104033200 -0300" stop="20251104041600 -0300" channel="SPACE HD">
+  <programme start="20251104032600 -0300" stop="20251104040900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Os CSIs examinam a decisiva evidência de um tiroteio com traficantes de droga para determinar quem foi o responsável pela morte do policial durante o conflito.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">6.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104041600 -0300" stop="20251104050100 -0300" channel="SPACE HD">
+  <programme start="20251104040900 -0300" stop="20251104045200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Horatio pode ter dificuldades para encontrar testemunhas em seu último caso depois que irmãs de uma fraternidade em Miami começam a morrer lentamente.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104050100 -0300" stop="20251104060000 -0300" channel="SPACE HD">
+  <programme start="20251104045200 -0300" stop="20251104053500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Um benfeitor do bairro é assassinado e a investigação revela que ele estava prestes a denunciar algo grande.</desc>
-    <length units="minutes">3540</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.15.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251104053500 -0300" stop="20251104060000 -0300" channel="SPACE HD">
+    <title lang="pt">Olhos Da Lei</title>
+    <sub-title lang="pt">Golpe, Roubo e Transtorno</sub-title>
+    <desc lang="pt">O COPOM monitora dois crimes graves em andamento em São Paulo.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -182516,20 +182492,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104143000 -0300" stop="20251104144800 -0300" channel="SPACE HD">
-    <title lang="pt">UEFA Champions League</title>
-    <desc lang="pt">UEFA CHAMPIONS LEAGUE o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
-    <length units="minutes">1080</length>
-  </programme>
-  <programme start="20251104144800 -0300" stop="20251104164800 -0300" channel="SPACE HD">
-    <title lang="pt">UEFA Champions League</title>
-    <desc lang="pt">UEFA CHAMPIONS LEAGUE o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251104143000 -0300" stop="20251104164800 -0300" channel="SPACE HD">
+    <title lang="pt">Napoli (ITA) x Frankfurt (ALE) - ao vivo</title>
+    <desc lang="pt">Napoli (ITA) e Frankfurt (ALE) jogam pela 4ª rodada da 1ª fase da UEFA Champions League, no Diego Armando Maradona, em Napoli, Itália.</desc>
+    <length units="minutes">8280</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251104164800 -0300" stop="20251104190000 -0300" channel="SPACE HD">
-    <title lang="pt">UEFA Champions League</title>
-    <desc lang="pt">UEFA CHAMPIONS LEAGUE o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
+    <title lang="pt">PSG (FRA) x Bayern de Munique (ALE) - ao vivo</title>
+    <desc lang="pt">PSG (FRA) e Bayern de Munique (ALE) jogam pela 4ª rodada da 1ª fase da UEFA Champions League, no Parc des Princes, em Paris, França.</desc>
     <length units="minutes">7920</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251104190000 -0300" stop="20251104194400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
@@ -197581,61 +197554,61 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103211300 -0300" stop="20251103215800 -0300" channel="TNT SERIES HD">
+  <programme start="20251103211300 -0300" stop="20251103215900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane está na prisão e precisa provar que o homem que matou era Red John. Lisbon quer que Van Pelt faça aconselhamento por ter atirado em seu noivo após descobrir que ele era o informante de Red John.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103215800 -0300" stop="20251103224500 -0300" channel="TNT SERIES HD">
+  <programme start="20251103215900 -0300" stop="20251103224500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A CBI tem um novo agente de supervisão, Ray Haffner, enquanto Patrick Jane está tentando juntar sua equipe de volta.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103224500 -0300" stop="20251103232900 -0300" channel="TNT SERIES HD">
+  <programme start="20251103224500 -0300" stop="20251103233000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Na estreia da quinta temporada, Jane tenta decifrar a conexão entre Red John e Lorelei (Emmanuelle Chriqui) enquanto a equipe do CBI é obrigada a se unir ao FBI para solucionar um assassinato.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103232900 -0300" stop="20251104001500 -0300" channel="TNT SERIES HD">
+  <programme start="20251103233000 -0300" stop="20251104001500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Enquanto a equipe do CBI investiga o assassinato de um lapidador de diamantes, Jane conhece uma garota que diz ser sua filha falecida, Charlotte (Dove Cameron).</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251103232900 -0300" stop="20251104001500 -0300" channel="TNT SERIES HD">
+  <programme start="20251103233000 -0300" stop="20251104001500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Enquanto a equipe do CBI investiga o assassinato de um lapidador de diamantes, Jane conhece uma garota que diz ser sua filha falecida, Charlotte (Dove Cameron).</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104001500 -0300" stop="20251104010200 -0300" channel="TNT SERIES HD">
+  <programme start="20251104001500 -0300" stop="20251104010300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane está na prisão e precisa provar que o homem que matou era Red John. Lisbon quer que Van Pelt faça aconselhamento por ter atirado em seu noivo após descobrir que ele era o informante de Red John.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104010200 -0300" stop="20251104014800 -0300" channel="TNT SERIES HD">
+  <programme start="20251104010300 -0300" stop="20251104014900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A CBI tem um novo agente de supervisão, Ray Haffner, enquanto Patrick Jane está tentando juntar sua equipe de volta.</desc>
     <length units="minutes">2760</length>
@@ -197644,10 +197617,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104014800 -0300" stop="20251104023500 -0300" channel="TNT SERIES HD">
+  <programme start="20251104014900 -0300" stop="20251104023500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">A investigação do assassinato de um juiz desonesto, que cometeu abusos dentro do sistema judiciário, envolve chantagem, prostituição e a mulher de um condenado, que sofria espancamentos.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -197662,16 +197635,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104031800 -0300" stop="20251104040400 -0300" channel="TNT SERIES HD">
+  <programme start="20251104031800 -0300" stop="20251104040300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104040400 -0300" stop="20251104044600 -0300" channel="TNT SERIES HD">
+  <programme start="20251104040300 -0300" stop="20251104044500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
     <length units="minutes">2520</length>
@@ -197680,10 +197653,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104044600 -0300" stop="20251104054500 -0300" channel="TNT SERIES HD">
+  <programme start="20251104044500 -0300" stop="20251104054500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
-    <length units="minutes">3540</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -197698,25 +197671,34 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104060000 -0300" stop="20251104065300 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Cold Case</title>
-    <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">3180</length>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+  <programme start="20251104060000 -0300" stop="20251104061500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.46.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251104065300 -0300" stop="20251104075500 -0300" channel="TNT SERIES HD">
+  <programme start="20251104061500 -0300" stop="20251104062800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">6.47.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251104062800 -0300" stop="20251104073200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
-    <length units="minutes">3720</length>
+    <length units="minutes">3840</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104075500 -0300" stop="20251104085700 -0300" channel="TNT SERIES HD">
+  <programme start="20251104073200 -0300" stop="20251104083400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.</desc>
     <length units="minutes">3720</length>
@@ -197725,61 +197707,61 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104085700 -0300" stop="20251104094400 -0300" channel="TNT SERIES HD">
+  <programme start="20251104083400 -0300" stop="20251104092300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Brenda segue a pista de uma atirador suspeito que está assassinando membros de uma das piores gangues da cidade. Ela trabalha secretamente com um coronel aposentado da Marinha Americana.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251104094400 -0300" stop="20251104103100 -0300" channel="TNT SERIES HD">
+  <programme start="20251104092300 -0300" stop="20251104101100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Quando um psiquiatra envolvido no julgamento de uma nova droga é encontrado morto, cabe a Brenda e sua equipe montar as peças do quebra-cabeça.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251104103100 -0300" stop="20251104111700 -0300" channel="TNT SERIES HD">
+  <programme start="20251104101100 -0300" stop="20251104105900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Um jovem médico se torna uma pessoa de interesse.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104111700 -0300" stop="20251104120100 -0300" channel="TNT SERIES HD">
+  <programme start="20251104105900 -0300" stop="20251104114500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese e Finch devem investigar um juiz conhecido por suas sentenças duras, que não quer ter nada a ver com sua justiça vigilante.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104120100 -0300" stop="20251104124700 -0300" channel="TNT SERIES HD">
+  <programme start="20251104114500 -0300" stop="20251104123300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Os detetives encontram um pedófilo soropositivo com uma jovem no topo de um prédio. Eles precisam, no entanto, conseguir mais informações que o liguem a uma série de estupros e assassinatos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104124700 -0300" stop="20251104133300 -0300" channel="TNT SERIES HD">
+  <programme start="20251104123300 -0300" stop="20251104132200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Elliot se une a John Hawkins para capturar um estuprador, o qual &quot;Hawk&quot; havia prendido anos atrás. Com o decorrer da investigação, Hawk vê seu prestígio em risco por talvez ter prendido um inocente.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104133300 -0300" stop="20251104141800 -0300" channel="TNT SERIES HD">
+  <programme start="20251104132200 -0300" stop="20251104140700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Ao investigarem o assassinato de uma criança, os detetives descobrem informações sobre uma rede de tráfico de escravos.</desc>
     <length units="minutes">2700</length>
@@ -197788,53 +197770,53 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104141800 -0300" stop="20251104150100 -0300" channel="TNT SERIES HD">
+  <programme start="20251104140700 -0300" stop="20251104145300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Acaso</sub-title>
     <desc lang="pt">Benson e Stabler encontram uma grávida assassinada em um apartamento. Durante a investigação, os detetives descobrem que a futura mãe, Brianna Morris, tinha planos de entregar o seu filho à adoção.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104150100 -0300" stop="20251104154700 -0300" channel="TNT SERIES HD">
+  <programme start="20251104145300 -0300" stop="20251104154000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Um jovem médico se torna uma pessoa de interesse.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104154700 -0300" stop="20251104163200 -0300" channel="TNT SERIES HD">
+  <programme start="20251104154000 -0300" stop="20251104162600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese e Finch devem investigar um juiz conhecido por suas sentenças duras, que não quer ter nada a ver com sua justiça vigilante.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104163200 -0300" stop="20251104171700 -0300" channel="TNT SERIES HD">
+  <programme start="20251104162600 -0300" stop="20251104171200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando um funcionário de um banco é assassinado durante um assalto, Jane e a equipe começam a rastrear o criminoso. Enquanto isso, Lisbon se envolve ainda mais na rixa entre o CBI e o FBI.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104171700 -0300" stop="20251104180000 -0300" channel="TNT SERIES HD">
+  <programme start="20251104171200 -0300" stop="20251104175600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando o pai de Rigsby (William Forsythe) é encontrado ferido na cena de um crime, a equipe deverá descobrir se esse é um caso de vingança entre gangues.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">5.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104180000 -0300" stop="20251104184400 -0300" channel="TNT SERIES HD">
+  <programme start="20251104175600 -0300" stop="20251104184000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma ex-cliente, que ainda acredita que Jane era um vidente, pede ajuda quando seu filho é sequestrado.</desc>
     <length units="minutes">2640</length>
@@ -197843,16 +197825,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104184400 -0300" stop="20251104192900 -0300" channel="TNT SERIES HD">
+  <programme start="20251104184000 -0300" stop="20251104192700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Enquanto Lisbon investiga a morte de um fotógrafo em uma reunião política, Jane quer provar que um homem carregando uma arma na mesma reunião é um psicopata com assassinato em sua mente.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104192900 -0300" stop="20251104201500 -0300" channel="TNT SERIES HD">
+  <programme start="20251104192700 -0300" stop="20251104201300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando um funcionário de um banco é assassinado durante um assalto, Jane e a equipe começam a rastrear o criminoso. Enquanto isso, Lisbon se envolve ainda mais na rixa entre o CBI e o FBI.</desc>
     <length units="minutes">2760</length>
@@ -197861,7 +197843,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104201500 -0300" stop="20251104210000 -0300" channel="TNT SERIES HD">
+  <programme start="20251104201300 -0300" stop="20251104205800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando o pai de Rigsby (William Forsythe) é encontrado ferido na cena de um crime, a equipe deverá descobrir se esse é um caso de vingança entre gangues.</desc>
     <length units="minutes">2700</length>
@@ -197870,19 +197852,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104210000 -0300" stop="20251104214400 -0300" channel="TNT SERIES HD">
+  <programme start="20251104205800 -0300" stop="20251104214300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma ex-cliente, que ainda acredita que Jane era um vidente, pede ajuda quando seu filho é sequestrado.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251104214400 -0300" stop="20251104223000 -0300" channel="TNT SERIES HD">
+  <programme start="20251104214300 -0300" stop="20251104223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Enquanto Lisbon investiga a morte de um fotógrafo em uma reunião política, Jane quer provar que um homem carregando uma arma na mesma reunião é um psicopata com assassinato em sua mente.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
