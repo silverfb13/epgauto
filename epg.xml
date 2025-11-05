@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-11-05 17:30:55" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-11-05 20:31:15" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -197389,16 +197389,24 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251106060000 -0300" stop="20251106064400 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Cold Case</title>
-    <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+  <programme start="20251106060000 -0300" stop="20251106061500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.53.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251106064400 -0300" stop="20251106074700 -0300" channel="TNT SERIES HD">
+  <programme start="20251106061500 -0300" stop="20251106061700 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251106061700 -0300" stop="20251106072000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <sub-title lang="pt">A Infiltrada</sub-title>
     <desc lang="pt">Após um tiroteio, Kate Fleming se infiltra e pressiona a unidade de polícia armada de Danny Waldron. Uma investigação arquivada retorna à unidade policial.</desc>
@@ -197408,44 +197416,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106074700 -0300" stop="20251106084800 -0300" channel="TNT SERIES HD">
+  <programme start="20251106072000 -0300" stop="20251106082200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Line of Duty</title>
     <sub-title lang="pt">Conduta de Risco</sub-title>
     <desc lang="pt">Steve Arnott acredita que há um segredo obscuro no passado de Danny Waldron. Cottan é elogiado por resolver o caso Waldron e a conduta de Arnott é questionada.</desc>
-    <length units="minutes">3660</length>
+    <length units="minutes">3720</length>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106084800 -0300" stop="20251106093500 -0300" channel="TNT SERIES HD">
+  <programme start="20251106082200 -0300" stop="20251106091100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Um ataque a um homem gay mexe com as emoções dos membros do esquadrão, com o Taylor frequentemente depreciando a autoridade de Brenda. Brenda também recebe ajuda de Fritz com seu gato.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251106093500 -0300" stop="20251106102300 -0300" channel="TNT SERIES HD">
+  <programme start="20251106091100 -0300" stop="20251106100000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Closer</title>
     <desc lang="pt">Uma garota mexicana, com sua mãe e primo trabalhando como imigrantes ilegais para uma família americana são assassinados. Logo após uma investigação extensa, Brenda aponta para o sul em direção à fronte...</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251106102300 -0300" stop="20251106110800 -0300" channel="TNT SERIES HD">
+  <programme start="20251106100000 -0300" stop="20251106104800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Depois de descobrir que a última pessoa de interesse (Alan Dale) tem conexões com círculos de espionagem soviética da Guerra Fria, Reese e Finch aprendem como operações secretas costumavam ser manipuladas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106110800 -0300" stop="20251106115500 -0300" channel="TNT SERIES HD">
+  <programme start="20251106104800 -0300" stop="20251106113500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">O jogo de gato e rato de Reese e Finch com a detetive Carter se torna infinitamente mais complicado quando a Máquina declara que ela é a mais nova POI deles.</desc>
     <length units="minutes">2820</length>
@@ -197454,147 +197462,156 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106115500 -0300" stop="20251106123900 -0300" channel="TNT SERIES HD">
+  <programme start="20251106113500 -0300" stop="20251106122000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Um ativista pelos direitos dos animais é encontrado decapitado em um parque. Os detetives investigam o possível envolvimento de dois suspeitos: um adolescente sociopata e um estuprador libertado em condicional.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106123900 -0300" stop="20251106132600 -0300" channel="TNT SERIES HD">
+  <programme start="20251106122000 -0300" stop="20251106130800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Uma mulher leva seu filho baleado ao hospital, mas a presença da polícia a assusta e ela o abandona na emergência. Os detetives descobrem que ela corre perigo, pois foge do marido, que é traficante de drogas.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106132600 -0300" stop="20251106141000 -0300" channel="TNT SERIES HD">
+  <programme start="20251106130800 -0300" stop="20251106135400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Escolha</sub-title>
     <desc lang="pt">Jennifer Fulton é atacada por um homem e está com pressa de ir embora do hospital depois de ser examinada. Já o seu marido, Craig, está preocupado com o caso, o que faz Benson e Stabler acreditarem que ele não é o agr...</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106141000 -0300" stop="20251106145700 -0300" channel="TNT SERIES HD">
+  <programme start="20251106135400 -0300" stop="20251106144200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Fraternidade</sub-title>
     <desc lang="pt">Um jovem morto é encontrado em uma estação de tratamento de água. Examinadores descobrem que o arco de um violino muito caro foi inserido no corpo do rapaz.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106145700 -0300" stop="20251106154300 -0300" channel="TNT SERIES HD">
+  <programme start="20251106144200 -0300" stop="20251106152900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Depois de descobrir que a última pessoa de interesse (Alan Dale) tem conexões com círculos de espionagem soviética da Guerra Fria, Reese e Finch aprendem como operações secretas costumavam ser manipuladas.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106154300 -0300" stop="20251106162900 -0300" channel="TNT SERIES HD">
+  <programme start="20251106152900 -0300" stop="20251106161600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">O jogo de gato e rato de Reese e Finch com a detetive Carter se torna infinitamente mais complicado quando a Máquina declara que ela é a mais nova POI deles.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106162900 -0300" stop="20251106171200 -0300" channel="TNT SERIES HD">
+  <programme start="20251106161600 -0300" stop="20251106170100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106171200 -0300" stop="20251106175800 -0300" channel="TNT SERIES HD">
+  <programme start="20251106170100 -0300" stop="20251106174800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a ajuda de Brett Stiles,  Jane arma um plano elaborado para libertar Lorelei Martins da prisão, na esperança de que ela o guie até Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106175800 -0300" stop="20251106184300 -0300" channel="TNT SERIES HD">
+  <programme start="20251106174800 -0300" stop="20251106183500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane conhece um blogueiro, que dedicou sua vida para encontrar um serial killer.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106184300 -0300" stop="20251106192800 -0300" channel="TNT SERIES HD">
+  <programme start="20251106183500 -0300" stop="20251106192200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe reconstitui a investigação de Jane, procurando por pistas sobre o assassino de uma policial disfarçada.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106192800 -0300" stop="20251106201300 -0300" channel="TNT SERIES HD">
+  <programme start="20251106192200 -0300" stop="20251106200800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106201300 -0300" stop="20251106205900 -0300" channel="TNT SERIES HD">
+  <programme start="20251106200800 -0300" stop="20251106205600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a ajuda de Brett Stiles,  Jane arma um plano elaborado para libertar Lorelei Martins da prisão, na esperança de que ela o guie até Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106205900 -0300" stop="20251106214400 -0300" channel="TNT SERIES HD">
+  <programme start="20251106205600 -0300" stop="20251106214300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane conhece um blogueiro, que dedicou sua vida para encontrar um serial killer.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106214400 -0300" stop="20251106223000 -0300" channel="TNT SERIES HD">
+  <programme start="20251106214300 -0300" stop="20251106223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe reconstitui a investigação de Jane, procurando por pistas sobre o assassino de uma policial disfarçada.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106223000 -0300" stop="20251106231400 -0300" channel="TNT SERIES HD">
+  <programme start="20251106223000 -0300" stop="20251106231500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106231400 -0300" stop="20251107000000 -0300" channel="TNT SERIES HD">
+  <programme start="20251106231500 -0300" stop="20251107000200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a ajuda de Brett Stiles,  Jane arma um plano elaborado para libertar Lorelei Martins da prisão, na esperança de que ela o guie até Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251106231500 -0300" stop="20251107000200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Com a ajuda de Brett Stiles,  Jane arma um plano elaborado para libertar Lorelei Martins da prisão, na esperança de que ela o guie até Red John.</desc>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -224454,25 +224471,51 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106050200 -0300" stop="20251106060000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106050200 -0300" stop="20251106054700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Superman &amp; Lois</title>
     <desc lang="pt">Após descobrir que Bruno e Peia são casados, Clark se empenha para despertar o interesse de Lois em derrubar Bruno. Ao mesmo tempo, Natalie conhece os pais de Matteo e as consequências são desastrosas.</desc>
-    <length units="minutes">3480</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106060000 -0300" stop="20251106065000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Superman &amp; Lois</title>
-    <desc lang="pt">Superman e John Henry se desentendem sobre como lidar com Bruno Mannheim. Enquanto isso, Lois se preocupa com os tratamentos que fará e conversa com Lana sobre o início de seu relacionamento com Clark.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
+  <programme start="20251106054700 -0300" stop="20251106060000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251106065000 -0300" stop="20251106071300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106060000 -0300" stop="20251106062100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Miracle Workers</title>
+    <desc lang="pt">Ambientada no ano de 1844, &quot;Miracle Workers: Oregon Trail&quot; acompanha um pastor idealista (Radcliffe) de uma pequena cidade que se une a um criminoso procurado (Buscemi) e a uma mulher aventureira (Viswanathan).</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251106062100 -0300" stop="20251106063400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106063400 -0300" stop="20251106063600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251106063600 -0300" stop="20251106065900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie enfrenta as consequências do cancelamento do seu casamento e da impulsiva decisão de Alan em se casar com Kandi. Em Las Vegas, Alan e sua materialista esposa descobrem que a onda de sorte de Ala ainda não acabou.</desc>
     <length units="minutes">1380</length>
@@ -224481,16 +224524,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106071300 -0300" stop="20251106073500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106065900 -0300" stop="20251106072300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106073500 -0300" stop="20251106075900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106072300 -0300" stop="20251106074700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer, mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
     <length units="minutes">1440</length>
@@ -224499,79 +224542,79 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106075900 -0300" stop="20251106082200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106074700 -0300" stop="20251106080900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan e Kandi se envolvem em uma batalha de custódia nada convencional. Alan está decidido a manter a custódia do cachorro, dele e de Kandi, depois dela ficar com o apartamento e o carro na separação.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106082200 -0300" stop="20251106084200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106080900 -0300" stop="20251106083100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan está encantado porque não terá que pagar pensão alimentícia para Judith quando ela se casar com seu namorado, Herb. Entretanto, os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake...</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106084200 -0300" stop="20251106090400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106083100 -0300" stop="20251106085400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106090400 -0300" stop="20251106095100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106085400 -0300" stop="20251106094000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Stefan ajuda Elena e Bonnie a saírem de uma situação perigosa. Jeremy convida Anna para uma festa na floresta, sem saber que ela tem suas próprias razões para encontrá-lo lá.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106095100 -0300" stop="20251106103500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106094000 -0300" stop="20251106102600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Matt e Caroline são surpreendidos com a inesperada chegada da mãe de Matt, Kelly. Stefan e Elena ficam preocupados com a nova atitude de Damon. A xerife Forbes pede a Damon para ajudá-la num evento para arrecadar fundos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106103500 -0300" stop="20251106105600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106102600 -0300" stop="20251106104600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Mary impede Sheldon de ler uma história em quadrinhos para adultos, ele decide que é hora de ganhar sua independência.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106105600 -0300" stop="20251106111900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106104600 -0300" stop="20251106110800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Sheldon não se sente mais desafiado no Medford High, ele participa de uma aula universitária ministrada por um professor (WALLACE SHAWN).</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106111900 -0300" stop="20251106113900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106110800 -0300" stop="20251106113000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Uma batalha entre os Coopers e os Sparks começa quando o novo cão dos Sparks aterroriza Sheldon.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106113900 -0300" stop="20251106120100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106113000 -0300" stop="20251106115200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Enquanto Sheldon está ocupado fiscalizando o relacionamento de Meemaw com o Dr. Sturgis, George Sr. e Mary tentam se relacionar com seus outros filhos.</desc>
     <length units="minutes">1320</length>
@@ -224580,34 +224623,34 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106120100 -0300" stop="20251106122300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106115200 -0300" stop="20251106121300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Wolowitz questiona suas habilidades como engenheiro, já que ele e Sheldon não conseguem fazer um drone voar.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">8.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106122300 -0300" stop="20251106124300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106121300 -0300" stop="20251106123500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Personalidades se chocam quando as mães de Sheldon e Leonard finalmente se conhecem. Enquanto isso, Howard decide fazer a sua parte do trabalho doméstico mas, para isso, precisará da ajuda dos amigos.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">8.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106124300 -0300" stop="20251106130400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106123500 -0300" stop="20251106125900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">No episódio final da oitava temporada, Sheldon pressiona Leonard e Penny a escolherem uma data para o casamento enquanto lida com mudanças dramáticas em sua relação com Amy.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">8.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106130400 -0300" stop="20251106132700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106125900 -0300" stop="20251106132200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">O brilhante Sheldon é confrontado com um mistério do universo que ele não pode resolver: quando uma mulher pede para ficar um tempo afastada para pensar, exatamente quanto tempo ela quer  e existe como acelerar o processo?</desc>
     <length units="minutes">1380</length>
@@ -224616,19 +224659,19 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106132700 -0300" stop="20251106134900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106132200 -0300" stop="20251106134500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard confronta a mulher que beijou no mar do norte a fim de deixar Penny mais tranquila. Enquanto isso, Sheldon filma um episódio especial de &quot;Fun with Flags&quot; após o rompimento com Amy.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">9.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106134900 -0300" stop="20251106140800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106134500 -0300" stop="20251106140800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">As habilidades científicas dos rapazes são colocadas em teste quando o pneu do carro fura durante a viagem rumo à despedida de solteiro de Leonard, no México.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">9.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -224643,16 +224686,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106143200 -0300" stop="20251106145700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106143200 -0300" stop="20251106145600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106145700 -0300" stop="20251106152100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106145600 -0300" stop="20251106152000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer, mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
     <length units="minutes">1440</length>
@@ -224661,16 +224704,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106152100 -0300" stop="20251106154300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106152000 -0300" stop="20251106154400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan e Kandi se envolvem em uma batalha de custódia nada convencional. Alan está decidido a manter a custódia do cachorro, dele e de Kandi, depois dela ficar com o apartamento e o carro na separação.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106154300 -0300" stop="20251106160500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106154400 -0300" stop="20251106160600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan está encantado porque não terá que pagar pensão alimentícia para Judith quando ela se casar com seu namorado, Herb. Entretanto, os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake...</desc>
     <length units="minutes">1320</length>
@@ -224679,43 +224722,43 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106160500 -0300" stop="20251106162900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106160600 -0300" stop="20251106162900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106162900 -0300" stop="20251106185600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106162900 -0300" stop="20251106185400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">O Exterminador do Futuro 2: O Julgamento</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">A inteligência artificial Skynet envia o T-1000, um novo modelo de androide, para assassinar o jovem John Connor, líder dos humanos no futuro.</desc>
-    <length units="minutes">8820</length>
+    <length units="minutes">8700</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106185600 -0300" stop="20251106191800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106185400 -0300" stop="20251106191400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Mary impede Sheldon de ler uma história em quadrinhos para adultos, ele decide que é hora de ganhar sua independência.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106191800 -0300" stop="20251106193700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106191400 -0300" stop="20251106193600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Sheldon não se sente mais desafiado no Medford High, ele participa de uma aula universitária ministrada por um professor (WALLACE SHAWN).</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106193700 -0300" stop="20251106200000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106193600 -0300" stop="20251106195900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Uma batalha entre os Coopers e os Sparks começa quando o novo cão dos Sparks aterroriza Sheldon.</desc>
     <length units="minutes">1380</length>
@@ -224724,16 +224767,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106200000 -0300" stop="20251106202300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106195900 -0300" stop="20251106202100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Enquanto Sheldon está ocupado fiscalizando o relacionamento de Meemaw com o Dr. Sturgis, George Sr. e Mary tentam se relacionar com seus outros filhos.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106202300 -0300" stop="20251106204400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106202100 -0300" stop="20251106204200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Wolowitz questiona suas habilidades como engenheiro, já que ele e Sheldon não conseguem fazer um drone voar.</desc>
     <length units="minutes">1260</length>
@@ -224742,16 +224785,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106204400 -0300" stop="20251106210400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106204200 -0300" stop="20251106210300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Personalidades se chocam quando as mães de Sheldon e Leonard finalmente se conhecem. Enquanto isso, Howard decide fazer a sua parte do trabalho doméstico mas, para isso, precisará da ajuda dos amigos.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">8.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106210400 -0300" stop="20251106212600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106210300 -0300" stop="20251106212500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">No episódio final da oitava temporada, Sheldon pressiona Leonard e Penny a escolherem uma data para o casamento enquanto lida com mudanças dramáticas em sua relação com Amy.</desc>
     <length units="minutes">1320</length>
@@ -224760,7 +224803,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106212600 -0300" stop="20251106214900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106212500 -0300" stop="20251106214800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">O brilhante Sheldon é confrontado com um mistério do universo que ele não pode resolver: quando uma mulher pede para ficar um tempo afastada para pensar, exatamente quanto tempo ela quer  e existe como acelerar o processo?</desc>
     <length units="minutes">1380</length>
@@ -224769,10 +224812,10 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106214900 -0300" stop="20251106220800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106214800 -0300" stop="20251106220800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard confronta a mulher que beijou no mar do norte a fim de deixar Penny mais tranquila. Enquanto isso, Sheldon filma um episódio especial de &quot;Fun with Flags&quot; após o rompimento com Amy.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">9.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -224797,28 +224840,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251106231500 -0300" stop="20251106233800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106231500 -0300" stop="20251106234000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie enfrenta as consequências do cancelamento do seu casamento e da impulsiva decisão de Alan em se casar com Kandi. Em Las Vegas, Alan e sua materialista esposa descobrem que a onda de sorte de Ala ainda não acabou.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106233800 -0300" stop="20251107000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106234000 -0300" stop="20251107000300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106233800 -0300" stop="20251107000200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251106234000 -0300" stop="20251107000300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
