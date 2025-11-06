@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-11-06 17:30:56" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-11-06 20:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11489,27 +11489,138 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106224500 -0300" stop="20251107001500 -0300" channel="BAND HD">
+  <programme start="20251106224500 -0300" stop="20251107000000 -0300" channel="BAND HD">
     <title lang="pt">Melhor da Noite</title>
     <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">22.310.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251106224500 -0300" stop="20251107001500 -0300" channel="BAND HD">
-    <title lang="pt">Melhor da Noite</title>
-    <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
+  <programme start="20251107000000 -0300" stop="20251107010000 -0300" channel="BAND HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">70.311.</episode-num>
+  </programme>
+  <programme start="20251107010000 -0300" stop="20251107020000 -0300" channel="BAND HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">71.311.</episode-num>
+  </programme>
+  <programme start="20251107020000 -0300" stop="20251107040000 -0300" channel="BAND HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">2.311.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107040000 -0300" stop="20251107070000 -0300" channel="BAND HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">4.311.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107070000 -0300" stop="20251107080000 -0300" channel="BAND HD">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur diz que não têm alianças e Camilla mostra as que ele comprou há vinte anos. Artur coloca a aliança em Camilla, mas esta não entra e Camilla consegue colocar a aliança em Artur e beijam-se.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">77.311.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20251107080000 -0300" stop="20251107081500 -0300" channel="BAND HD">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">78.311.</episode-num>
+  </programme>
+  <programme start="20251107081500 -0300" stop="20251107110000 -0300" channel="BAND HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+    <length units="minutes">9900</length>
+    <episode-num system="xmltv_ns">78.311.</episode-num>
+  </programme>
+  <programme start="20251107110000 -0300" stop="20251107120000 -0300" channel="BAND HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">71.311.</episode-num>
+  </programme>
+  <programme start="20251107120000 -0300" stop="20251107130000 -0300" channel="BAND HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">72.311.</episode-num>
+  </programme>
+  <programme start="20251107130000 -0300" stop="20251107143000 -0300" channel="BAND HD">
+    <title lang="pt">Os Donos da Bola 7K</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">22.310.</episode-num>
+    <episode-num system="xmltv_ns">73.311.</episode-num>
+  </programme>
+  <programme start="20251107143000 -0300" stop="20251107164500 -0300" channel="BAND HD">
+    <title lang="pt">Fórmula 1: GP de São Paulo - Treino Sprint - ao vivo</title>
+    <desc lang="pt">A modalidade mais popular do mundo de automobilismo volta à tela da Band.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">14.311.</episode-num>
+  </programme>
+  <programme start="20251107164500 -0300" stop="20251107192000 -0300" channel="BAND HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+    <length units="minutes">9300</length>
+    <episode-num system="xmltv_ns">76.311.</episode-num>
+  </programme>
+  <programme start="20251107192000 -0300" stop="20251107203000 -0300" channel="BAND HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+    <length units="minutes">4200</length>
+    <episode-num system="xmltv_ns">79.311.</episode-num>
+  </programme>
+  <programme start="20251107203000 -0300" stop="20251107212500 -0300" channel="BAND HD">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Seher vive em Istambul com três filhos. A reunião de Seher e Agah afetará a vida de todos.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">70.311.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251107212500 -0300" stop="20251107222000 -0300" channel="BAND HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">21.311.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107222000 -0300" stop="20251107224500 -0300" channel="BAND HD">
+    <title lang="pt">Perrengue do Dia</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">22.311.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107001500 -0300" stop="20251108000000 -0300" channel="BAND HD">
-    <title lang="pt">Conteúdo não disponível</title>
-    <length units="minutes">85500</length>
+  <programme start="20251107224500 -0300" stop="20251108000000 -0300" channel="BAND HD">
+    <title lang="pt">Melhor da Noite</title>
+    <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">22.311.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20251108000000 -0300" stop="20251108001500 -0300" channel="BAND HD">
     <title lang="pt">Conteúdo não disponível</title>
@@ -157812,255 +157923,685 @@
   </programme>
   <programme start="20251106060000 -0300" stop="20251106062500 -0300" channel="NICKELODEON HD">
     <title lang="pt">O Show Do Patrick Estrela</title>
-    <sub-title lang="pt">Hora de comer / Limpando a casa</sub-title>
-    <desc lang="pt">Patrick apresenta um programa de comida viajando no tempo. // Enquanto Bunny está em Klopnod, a casa dos Estrela vira uma bagunça.</desc>
+    <sub-title lang="pt">Aizinho mau / O dia das piadas de pai</sub-title>
+    <desc lang="pt">Depois de se livrar de Aizinho, Olho Rosa toma a casa dos Estrela. // Patrick e Molusquina precisam encontrar abrigo em meio ao apocalipse de piadas de pai.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251106062500 -0300" stop="20251106065000 -0300" channel="NICKELODEON HD">
     <title lang="pt">O Show Do Patrick Estrela</title>
-    <sub-title lang="pt">Alguma maluquice vem por aí</sub-title>
-    <desc lang="pt">Uma vidente compartilha histórias dos Patricks pelo multiverso.</desc>
+    <sub-title lang="pt">Estrelas da Comédia / O Show Não Pode Patrick-ar</sub-title>
+    <desc lang="pt">Quando os chefes do Cecil chegam para uma visita, os Estrelas ficam presos em um seriado de comédia. // Quando Molusquina fica de cama, Patrick tem que seguir com seu show sem ela.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251106065000 -0300" stop="20251106072000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Viagem de carro: Botando a casa abaixo / Viagem de carro: Diga não à trilha nas montanhas</sub-title>
-    <desc lang="pt">Durante uma visita à Casa Branca, os Loud fogem e exploram as salas que não estão incluídas no tour. // Intimidados por um dia intenso de trilha nas Montanhas Rochosas, os Loud tentam encontrar motivos para cancelar a aventura.</desc>
+    <sub-title lang="pt">Pavor da turma / Bem-vindos à Operação Boneca</sub-title>
+    <desc lang="pt">Ronnie Anne tenta se formar no curso de pegadinhas de Luan. // Lily acidentalmente troca Eunice.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">7.6.</episode-num>
+    <episode-num system="xmltv_ns">7.16.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251106072000 -0300" stop="20251106074000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Viagem de carro: de Brad a pior / Viagem de carro: Um dia de boneco</sub-title>
-    <desc lang="pt">Os Louds encontram a antiga paixão de acampamento da mãe que virou uma celebridade das feiras estaduais. // Ao perceber que o Senhor Coconuts desapareceu, Luan convoca os Louds para rastreá-lo pela Rota 66.</desc>
+    <sub-title lang="pt">Vamos quebrar um acordo / Um prato realizado</sub-title>
+    <desc lang="pt">Morpheus lança feitiços para Rusty. // Lincoln começa a trabalhar no restaurante do Pai.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">7.7.</episode-num>
+    <episode-num system="xmltv_ns">7.18.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251106074000 -0300" stop="20251106075500 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Boatos</sub-title>
-    <desc lang="pt">O Lincoln e os seus amigos ficam presos na floresta com o senhor Bolhofner, que pode não ser quem ele diz que é.</desc>
+    <sub-title lang="pt">Intrusos / Ela é demais</sub-title>
+    <desc lang="pt">Leni e os amigos começam a passar mais tempo na lanchonete do Gus e os amigos dele começam a brigar pelo controle do lugar. / Lucy fica com ciúmes da Lola quando ela se junta ao Clube Funerário.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251106075500 -0300" stop="20251106082000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Mundo Woori / Procurando FlamingoFan85</sub-title>
-    <desc lang="pt">A família se prepara para a guerra, conhecida como passeio ao mercado asiático local. Após uma batalha para ter um biscoito raro Jack se sente parte da família. /O Banho &amp; Tosa recebe uma crítica ruim e Lily tenta acha...</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106082000 -0300" stop="20251106085000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Patrick-Man / O Brinquedo Novo Do Gary</sub-title>
-    <desc lang="pt">Patrick se torna o super-herói, o Patrick-man, e pretende limpar a Fenda do Bikini, quer a cidade queira ou não! Gary fica obcecado por sua nova bola vermelha, forçando Bob Esponja a tomar medidas drásticas.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.80.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106085000 -0300" stop="20251106091500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Bolsos Porosos</sub-title>
-    <desc lang="pt">Bob Esponja se transforma no cidadão mais rico da Fenda do Bikini.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106091500 -0300" stop="20251106094000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">A Fuga / Achados e Perdidos</sub-title>
-    <desc lang="pt">Quando Bob Esponja confunde um condenado fugitivo com seu instrutor de direção, é esse novo professor que aprende a lição.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106094000 -0300" stop="20251106100500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">Eu Sei O Que Você Fez Nesse Verão</sub-title>
-    <desc lang="pt">Max descobre que Phoebe está trabalhando com o Capitão Perfeito e decide investiga-lo. O crush da Chloe a convida para uma festa de lançamento no Splat À Beira do Mar no mesmo horário em que Jinx e Booch querem que ela de ...</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106100500 -0300" stop="20251106103000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">A Escola Assombrada</sub-title>
-    <desc lang="pt">Enquanto Chapa, Miles, Mika e Bose tentam ser campeões em vários esportes diferentes, eles percebem que Schwoz está muito ocupado com algumas atividades inusitadas de &quot;antigamente&quot;.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106103000 -0300" stop="20251106105500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Cara, Cadê meu Buggy Man?</sub-title>
-    <desc lang="pt">Quando a Força Danger pega emprestado o amado Buggy Man do Ray sem permissão, ele cai nas mãos dos criminosos Jeff e Crianção. Agora a turma precisa rastrear e recuperar o buggy.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106105500 -0300" stop="20251106111500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">Eu sei o seu segredo</sub-title>
-    <desc lang="pt">Henry se preocupa que sua identidade secreta tenha sido descoberta quando alguém começa a enviar uma série de cartas anônimas para ele dizendo que sabe do seu segredo.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.19.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106111500 -0300" stop="20251106112500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
-    <sub-title lang="pt">O Amigo Imaginário</sub-title>
-    <desc lang="pt">Tainá e os Guardiões da Amazônia precisam ajudar a pequena gambá Gabi e seu amigo imaginário.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106112500 -0300" stop="20251106113000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Menino Mais Rico do Mundo</title>
-    <sub-title lang="pt">O Primeiro Dia</sub-title>
-    <desc lang="pt">João descobre que Dona Teresa não fez faculdade porque ficou grávida dele e da irmã. Sentindo-se culpado por ter interrompido seus estudos, o menino decide colocar em prática um plano para realizar o grande sonho da mãe.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106113000 -0300" stop="20251106115500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Menino Mais Rico do Mundo</title>
-    <sub-title lang="pt">A Horta</sub-title>
-    <desc lang="pt">Seu Nakamura anuncia que vai fechar a quitanda e se mudar. Os moradores entram em desespero: onde encontrarão legumes, frutas e verduras tão frescas, bonitas e orgânicas? João acha a solução bem abaixo dos seus pés.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106115500 -0300" stop="20251106120500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Música De Brinquedo</title>
-    <sub-title lang="pt">Frevo Mulher</sub-title>
-    <desc lang="pt">Norma assume o papel de musa inspiradora para John, que a retrata com seu lápis sonoro. Em seu talk show, Groco põe em risco seu emprego ao entrevistar Profiteroli.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106120500 -0300" stop="20251106121500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Música De Brinquedo</title>
-    <sub-title lang="pt">Rock and Roll Lullaby</sub-title>
-    <desc lang="pt">Lagartixa está muito acelerado, mais do que o costume. John recomenda que ele vá fazer uma massagem relaxante com a Shirles, no camarim. Ela é, aparentem ente, a melhor massagista do mundo.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106121500 -0300" stop="20251106124000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">De na pista / O feitiço</sub-title>
-    <desc lang="pt">Jogo de Volta - As crianças ouvem Lily xingando e se preocupam em ser ser uma má influência sobre ela; chega uma carta de amor endereçada a &quot;L&quot;.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106124000 -0300" stop="20251106131000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Paraíso dos tolos / Insegurança no emprego</sub-title>
-    <desc lang="pt">O Dia da Mentira chegou e, com uma irmã comediante, essa data nunca é fácil para os Loud. As crianças descobrem que o pai não está mais trabalhando com TI e que está trabalhando lavando louças.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106131000 -0300" stop="20251106133000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Contatos Imediatos do Grau Nerd - Parte 1</sub-title>
-    <desc lang="pt">Lincoln e seus amigos pedem doces ou travessuras. Mas tudo toma um rumo assustador quando pessoas começam a desaparecer.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">8.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106133000 -0300" stop="20251106134500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Nasce uma detetive / Um em um milhão</sub-title>
-    <desc lang="pt">Luan consegue o papel de protagonista da peça da escola. // Lincoln e Clyde fazem de tudo para serem os milionésimos clientes de Flip.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">7.15.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106134500 -0300" stop="20251106141500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">O Segredo da Ilha Lake / Pai, Filho e Loja de Móveis</sub-title>
-    <desc lang="pt">Lily mostra a Jack um parque temático abandonado: Ilha Lake. Quando eles ficam presos, a amizade deles rapidamente desmorona. // Will tenta se conectar com Jack na loja excêntrica Mike A.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106141500 -0300" stop="20251106144000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Amor Ficcional/Amizade Perfumada</sub-title>
-    <desc lang="pt">Hazel deseja que o personagem principal de seu mangá favorito entre no mundo real. // Hazel faz amizade com uma lixeira depois de aprender sobre os sobre os efeitos nocivos dos seres humanos no meio ambiente.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106144000 -0300" stop="20251106150500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Tudo Acaba em Pizza/Dimmadomados</sub-title>
-    <desc lang="pt">Quando Dev se recusa a participar do Dia da Gentileza, Hazel convoca aliens para argumentar com ele. // Hazel aprende mais sobre seu inimigo, Dev, quando é forçada a trabalhar com ele em um projeto de classe.</desc>
+    <sub-title lang="pt">LAD / Antes das 10H</sub-title>
+    <desc lang="pt">Lily quer descobrir a verdade sobre a vida secreta de Jack de manhã, ela faz loucuras e acorda cedo. Mas sua investigação traz grandes problemas.</desc>
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20251106082000 -0300" stop="20251106085000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">A bolha de grude</sub-title>
+    <desc lang="pt">Uma bolha gigante emerge da Lagoa do Grude e ameaça a Fenda do Biquíni. Menos Plankton, que planeja usar a bolha para seus planos malignos.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.85.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106085000 -0300" stop="20251106091500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Tempo de Abacaxi</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.25.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106091500 -0300" stop="20251106094000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">A Festa de Netuno</sub-title>
+    <desc lang="pt">Rei Netuno comemora o aniversário no Siri Cascudo e Bob Esponja quer garantir que todos seus amigos e familiares compareçam, incluindo o filho dele, Tritão.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106094000 -0300" stop="20251106100500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Verão de Segredos</sub-title>
+    <desc lang="pt">Chloe fará escola de férias e Max será professor dela. Enquanto isso, a Phoebe decide ir sozinha nas missões. Ela conhece um novo super herói chamado Capitão Perfeito descobre que eles formam uma ótima dupla pra ...</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106100500 -0300" stop="20251106103000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Let's Go to the Movies!</sub-title>
+    <desc lang="pt">ShouOut tem uma oportunidade única de vender um filme para o figurão de Hollywood Deuce Van Nuys, mas quando sua mente dá um branco devido a pressão.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106103000 -0300" stop="20251106105500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">A Premiação</sub-title>
+    <desc lang="pt">ShouOut tem uma oportunidade única de vender um filme para o figurão de Hollywood Deuce Van Nuys, mas quando sua mente dá um branco devido a pressão.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106105500 -0300" stop="20251106111500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <sub-title lang="pt">O Encontro Duplo</sub-title>
+    <desc lang="pt">Quando a sobrinha da Srta Shapen, Noelle, vem à cidade e escolhe Jasper e não Henry, Henry descobre que Noelle tem planos muito maiores do que só sair para jantar com o Jasper.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106111500 -0300" stop="20251106112500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+    <sub-title lang="pt">Ensaio Geral</sub-title>
+    <desc lang="pt">Tainá e os Guardiões da Amazônia ensaiam seus grande sucessos musicais!</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106112500 -0300" stop="20251106113000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Menino Mais Rico do Mundo</title>
+    <sub-title lang="pt">O Campinho Novo</sub-title>
+    <desc lang="pt">A bola de Gael é &quot;roubada&quot; por seu irmão mais velho. A única forma de recuperá-la é vencer o encrenqueiro numa partida de futebol. Mas, para isso, joão e seus amigos devem encontrar um campinho de verdade.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106113000 -0300" stop="20251106114500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Menino Mais Rico do Mundo</title>
+    <sub-title lang="pt">A Vila</sub-title>
+    <desc lang="pt">João fica eufórico quando descobre uma promoção para concorrer a um show de seus artistas favoritos!</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">1.26.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106114500 -0300" stop="20251106115000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Música de Brinquedo</title>
+    <sub-title lang="pt">Mamãe Natureza</sub-title>
+    <desc lang="pt">O estúdio está cheio de plantas e Profiteroli não quer pagar por elas. Cridêncio acha ridículos os instrumentos de brinquedo. Groco está ocupado, no banheiro. Glauco mostra o poder de sua bateriazinha.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106115000 -0300" stop="20251106121500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Verão Cruel</sub-title>
+    <desc lang="pt">Max e Phoebe estão trabalhando bem como equipe, até que ele é acusado de cometer crimes e Phoebe precisa capturá-lo.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106121500 -0300" stop="20251106124000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Malandros da Cidade / Dia da Mentira ao Quadrado</sub-title>
+    <desc lang="pt">Lori e Lincoln visitam a cidade. Lori luta para ser uma garota da cidade e Lincoln descobre que Ronnie Anne mudou. // A família tem um novo plano para evitar a pegadinha do Dia da Mentira de Luan: dublês.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106124000 -0300" stop="20251106131000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Cesta Sem Rede / Banheiro dos Sonhos</sub-title>
+    <desc lang="pt">Lynn quer desesperadamente vencer um campeonato de basquete, mas acaba sendo convocada para um time horrível. A mãe e o pai estão cansados de esperar na longa fila do banheiro, então decidem construir um banheiro secreto.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106131000 -0300" stop="20251106133000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Desvantagens de fã / Direitos da Rita</sub-title>
+    <desc lang="pt">Lucy fica irritada quando Lori e Leni começam a assistir ao seu programa de vampiros por causa de um novo personagem bonito.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106133000 -0300" stop="20251106134500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Implorar, emprestar e pegar / Vai haver lama</sub-title>
+    <desc lang="pt">Lincoln arruma dívidas com suas irmãs. // Os Hunnicutts enriquecem.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106134500 -0300" stop="20251106141500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Que nem papagaio no lixo / Sem sono em Royal Woods</sub-title>
+    <desc lang="pt">O papagaio dos Casagrande, Sergio, fica hospedado na casa dos Loud. // Lily e a Mãe testemunham algo perigoso.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106141500 -0300" stop="20251106144000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Wylde Pak</title>
+    <sub-title lang="pt">Triste, Sozinho e Abandonado / Um Desperdício de Um Dia Perfeito de Verão</sub-title>
+    <desc lang="pt">Will e Min mostram a casa a Jack para ajudá-lo a encontrar uma boa história. Lily derrama milkshake na mala de Jack e tenta esconder a evidência.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106144000 -0300" stop="20251106150500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+    <sub-title lang="pt">Férias no Posto de Gasolina / Bunny, a Bárbara</sub-title>
+    <desc lang="pt">O Show do Patrick Estrela segue a estrela do mar favorita de todos, em casa com sua família, enquanto ele apresenta um show de variedades imaginário.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20251106150500 -0300" stop="20251106153000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+    <sub-title lang="pt">Para o Pai e Para Trás/ Survivoring</sub-title>
+    <desc lang="pt">O Show do Patrick Estrela segue a estrela do mar favorita de todos, em casa com sua família, enquanto ele apresenta um show de variedades imaginário.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106153000 -0300" stop="20251106155500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Gire a Garrafa / Tem Uma Esponja na Minha Sopa</sub-title>
+    <desc lang="pt">O Plankton se disfarça como um gênio que concede desejos, em mais um plano para conseguir a fórmula secreta. Seu Sirigueijo estreia um novo item no cardápio, a sopa de siri.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106155500 -0300" stop="20251106162500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Tem alguém na cozinha com a Sandy</sub-title>
+    <desc lang="pt">O vilão Plankton rouba os pêlos da Sandy para conseguir entrar na cozinha do Siri Cascudo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106162500 -0300" stop="20251106164000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Bob Esponja Entrando Numa Fria - Part 2</sub-title>
+    <desc lang="pt">Esse é um desenho muito engraçado sobre uma esponja do mar chamada Spongebob Squarepaints. Spongebob vive no fundo do Oceano Pacífico perto da Ilha do Atol de Bikini.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106164000 -0300" stop="20251106170000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Acidentes Acontecem</sub-title>
+    <desc lang="pt">Quando Lula Molusco se machuca no trabalho, ele ameaça processar o Siri Cascudo, a menos que Seu Siriguejo atenda suas vontades.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">2.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106170000 -0300" stop="20251106172000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Banda unida / Cega pela ciência</sub-title>
+    <desc lang="pt">Luna deve decidir se quer tocar com seus amigos ou em uma banda profissional. Lisa descobre que o Flip é uma maravilha da ciência moderna.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106172000 -0300" stop="20251106173000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Banda unida / Cega pela ciência</sub-title>
+    <desc lang="pt">Luna deve decidir se quer tocar com seus amigos ou em uma banda profissional. Lisa descobre que o Flip é uma maravilha da ciência moderna.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106173000 -0300" stop="20251106175500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Wylde Pak</title>
+    <sub-title lang="pt">Guerreiros Opostos Ao Reino / Sunganduel</sub-title>
+    <desc lang="pt">Lily apresenta Jack ao seu videogame favorito, mas quando ele continua perdendo, Jack fica obcecado pelo jogo e se transforma em um gamer tóxico. // Vinhetas de clássicas ilustram a dinâmica de uma família moderna no dia a dia.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106175500 -0300" stop="20251106181000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Conflito da Competição / Briga dos Animais</sub-title>
+    <desc lang="pt">Lincoln e Clyde enviam um HQ de Ace Savvy para um concurso de encontro com o criador, mas são frustrados por um inimigo. // Lana traz para casa um novo animal de estimação, que as crianças adoram.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106181000 -0300" stop="20251106183000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">A Lynn Leva Tudo</sub-title>
+    <desc lang="pt">Cansados do mau espírito esportivo de Lynn se tratando de jogos em família, os irmãos decidem se juntar para acabar com ela.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106183000 -0300" stop="20251106185000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Não Tão Velozes e nem Tão Furiosos</sub-title>
+    <desc lang="pt">Uma nova vilã super-rápida está causando estragos em Secret Shores, e Billy é a única esperança de localizá-la.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106185000 -0300" stop="20251106191500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Só Para Seus Espiões</sub-title>
+    <desc lang="pt">Max e Phoebe vão à Noite de Pais e Mestres, deixando Chloe e seus amigos em casa sem supervisão adulta.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106191500 -0300" stop="20251106194000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <sub-title lang="pt">Invasão do Crianção</sub-title>
+    <desc lang="pt">Neste novo episódio de Henry Danger, quando o Crianção assume o controle da Caverna Man, Charlotte e Jasper precisam ser rápidos e encontrar uma maneira de invadir a Caverna Man.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">4.16.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106194000 -0300" stop="20251106201000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <sub-title lang="pt">Diamantes para Heather</sub-title>
+    <desc lang="pt">Kid Danger e Capitão Man são chamados ao Museu de Banquetas e Jóias de Swellview para proteger o Raro diamante Neal Diamond contra roubo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106201000 -0300" stop="20251106203500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">A Guerra das Mil Pegadinhas, Parte II</sub-title>
+    <desc lang="pt">A Guerra das Pegadinhas avança com a melhor da equipe da Força Danger, ShoutOut, agora na equipe de Rivalton.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106203500 -0300" stop="20251106212500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Eu Sei O Que Você Fez Nesse Verão</sub-title>
+    <desc lang="pt">Max descobre que Phoebe está trabalhando com o Capitão Perfeito e decide investiga-lo. O crush da Chloe a convida para uma festa de lançamento no Splat À Beira do Mar no mesmo horário em que Jinx e Booch querem que ela de ...</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251106212500 -0300" stop="20251106215000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Negócio da Nonna / Alpacionada</sub-title>
+    <desc lang="pt">Os Louds coletam ingredientes para uma chef italiana. // Lynn cai de amores por um garoto.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">8.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106215000 -0300" stop="20251106221500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Uma mordida na Transilvânia / Grécia é a palavra</sub-title>
+    <desc lang="pt">Os Louds ficam num castelo na Transilvânia. // Lincoln é transportado para a Grécia Antiga.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">8.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106221500 -0300" stop="20251106224000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Wylde Pak</title>
+    <sub-title lang="pt">Guerreiros Opostos Ao Reino / Sunganduel</sub-title>
+    <desc lang="pt">Lily apresenta Jack ao seu videogame favorito, mas quando ele continua perdendo, Jack fica obcecado pelo jogo e se transforma em um gamer tóxico. // Vinhetas de clássicas ilustram a dinâmica de uma família moderna no dia a dia.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106224000 -0300" stop="20251106231000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Amigos Pilotos</sub-title>
+    <desc lang="pt">Lula Molusco tenta fugir de Bob Esponja e acaba levando uma multa de trânsito por excesso de velocidade. Para poder voltar a dirigir, ele têm que fazer aulas na Escola de Barcos e se surpreende com seu colega de classe.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106231000 -0300" stop="20251106233500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Tubarões conta Lulas / Bob Xerox Cópia Quadrada</sub-title>
+    <desc lang="pt">Os Tubarões são a turma mais invocada da cidade. Bob Esponja se junta à gangue, mas pode ser demais para ele. Plankton clona Bob Esponja para conseguir a fórmula secreta do hambúrguer de siri.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.98.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106233500 -0300" stop="20251106235500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Pl-1413 / Rixa Caipira</sub-title>
+    <desc lang="pt">Neelix procura um traidor a bordo da Voyager usando seu programa de notícias matinal.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">3.310.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106235500 -0300" stop="20251107002000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Uma pulga no domo dela</sub-title>
+    <desc lang="pt">Bob e Patrick decidem fazer uma festa supresa para Sandy. Tudo dá certo, até que Sandy descobre que está com pulga.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.90.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251106235500 -0300" stop="20251107002000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Uma pulga no domo dela</sub-title>
+    <desc lang="pt">Bob e Patrick decidem fazer uma festa supresa para Sandy. Tudo dá certo, até que Sandy descobre que está com pulga.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.90.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107002000 -0300" stop="20251107004500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Gás Gugudadá</sub-title>
+    <desc lang="pt">Plankton inventa um gás que transforma todos os adultos em bebês.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.91.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107004500 -0300" stop="20251107011000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Piquenique da empresa</sub-title>
+    <desc lang="pt">Senhor Sirigueijo faz um piquenique para aumentar a produtividade dos funcionários, mas Plankton atrapalha seus planos.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.92.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107011000 -0300" stop="20251107013500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">O Dia da Foto</sub-title>
+    <desc lang="pt">É dia de tirar foto na Escola de Pilotagem e Bob quer ficar bonito. Mas por algum motivo ele fica sujando suas roupas o dia todo.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.93.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107013500 -0300" stop="20251107020000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Amigo ou Inimigo</sub-title>
+    <desc lang="pt">Sr. Sirigueijo e Plankton são inimigos há muito tempo. No entanto, eles já foram amigos um dia e nesse episódio eles contam como tudo mudou.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107020000 -0300" stop="20251107022000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+    <sub-title lang="pt">Bazar de Quintal</sub-title>
+    <desc lang="pt">O Show do Patrick Estrela segue a estrela do mar favorita de todos, em casa com sua família, enquanto ele apresenta um show de variedades imaginário.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107022000 -0300" stop="20251107024500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Tartarugas Ninja: Histórias Mutantes</title>
+    <sub-title lang="pt">Leo Nardo Se Vira Sozinho</sub-title>
+    <desc lang="pt">As Tartarugas Ninja estão fugindo e... sozinhas. Leonardo é o líder, mas quem é ele sem ninguém para liderar? Leo precisa impedir Bishop e seus Mecazoides enquanto tenta salvar seus irmãos.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107024500 -0300" stop="20251107031000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Tartarugas Ninja: Histórias Mutantes</title>
+    <sub-title lang="pt">Mikey Faz a Coisa Certa</sub-title>
+    <desc lang="pt">Para salvar os irmãos, Mikey precisa da ajuda do estagiário de Bishop, Rod. Mas Rod quer algo em troca... ser transformado em um MUTANTE! Para salvar o dia, Mikey precisa se tornar... RESPONSÁVEL.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107031000 -0300" stop="20251107033000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+    <sub-title lang="pt">Confusão Aérea / Funcionário do Mês</sub-title>
+    <desc lang="pt">Best e Bester têm que fazer o possível para embarcar em seu voo mesmo que não se pareçam com as fotos em seus passaportes. / Best decide fazer com que sua irmã ganhe o título de Funcionário do Mês.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107033000 -0300" stop="20251107035500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+    <sub-title lang="pt">A Caverna da Rocha / Fora do Prazo</sub-title>
+    <desc lang="pt">Rocha engole, sem querer, a última peça do quebra-cabeça. / Best e Bester estão em uma missão para devolver um livro atrasado da biblioteca sem que a assustadora bibliotecária perceba.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107035500 -0300" stop="20251107042000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+    <sub-title lang="pt">Corações de Animais / O Monstro de Bettervale</sub-title>
+    <desc lang="pt">Best e Bester entram na gravação de sua novela favorita. / Bester resolve provar a um cínico Best que o filme, &quot;O Monstro de Bettervale&quot;, é baseado em uma história real.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107042000 -0300" stop="20251107044000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+    <sub-title lang="pt">Vote na Rocha! / O Hotel de Uma Estrela</sub-title>
+    <desc lang="pt">É dia de eleição e Bester se encontra concorrendo a presidente do clube do livro. / Best e Bester acidentalmente indicam o submarino como hotel.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107044000 -0300" stop="20251107045000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Gary desconfiado / Preso</sub-title>
+    <desc lang="pt">Gary se recusa a ir para o veterinário. // Bob Esponja fica preso enquanto se exercita.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107045000 -0300" stop="20251107050500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Gary desconfiado / Preso</sub-title>
+    <desc lang="pt">Gary se recusa a ir para o veterinário. // Bob Esponja fica preso enquanto se exercita.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107050500 -0300" stop="20251107051500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Cupom do Patrick / Fora de Circulação</sub-title>
+    <desc lang="pt">Patrick acha um cupom para um sorvete grátis, mas precisa ir até a loja para usa-lo. Seu Siriguejo compra a arte de Lula Molusco mas, para valorizar as obras, ele precisa tirar o arista de circulação.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107051500 -0300" stop="20251107052500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Cupom do Patrick / Fora de Circulação</sub-title>
+    <desc lang="pt">Patrick acha um cupom para um sorvete grátis, mas precisa ir até a loja para usa-lo. Seu Siriguejo compra a arte de Lula Molusco mas, para valorizar as obras, ele precisa tirar o arista de circulação.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107052500 -0300" stop="20251107054000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Amigos Selvagens / Não Acorde o Patrick!</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">3.15.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107054000 -0300" stop="20251107054500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Amigos Selvagens / Não Acorde o Patrick!</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">3.15.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107054500 -0300" stop="20251107060000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Esponja das Cavernas / Encantador de Mariscos</sub-title>
+    <desc lang="pt">Uma esponja do mar pré-histórica é descongelada e causa um grande caos na cidade. Apenas Bob Esponja consegue se comunicar com ele. Quando um bando de mariscos invadem a Fenda do Biquíni.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107060000 -0300" stop="20251107062500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+    <sub-title lang="pt">Amor em Jogo / Cabeça Gelada</sub-title>
+    <desc lang="pt">Molusquina e Patrick transformam O Show do Patrick em um jogo de namoro para que o Vovô Pat reconquiste a Vovó Tentáculos e voltem a ficarem juntos.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107062500 -0300" stop="20251107065000 -0300" channel="NICKELODEON HD">
     <title lang="pt">O Show Do Patrick Estrela</title>
     <sub-title lang="pt">A Jornada de Tinkle / Um Dia Sem TV</sub-title>
     <desc lang="pt">Tinkle embarca em uma aventura através do Armário do Tempo do Patrick. // Patrick e Molusquina não têm permissão para assistirem à TV quando passam um dia com seus pais.</desc>
@@ -158070,922 +158611,481 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251106153000 -0300" stop="20251106155500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">A Chapa Sumiu / O Hamburger da Noite</sub-title>
-    <desc lang="pt">Plankton se disfarça como a bisavó de Bob Esponja apenas para conseguir a receita da fórmula secreta do hambúrguer de siri. Seu Sirigueijo usa Gary para atrair todas as moedas da Fenda do Bikini ao Siri Cascudo.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.39.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106155500 -0300" stop="20251106162500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Férias da família Calça Quadrada</sub-title>
-    <desc lang="pt">Bob Esponja e Patrick se perdem na viagem familiar pela estrada até a Grande Barreira dos Corais. Os dois acabam tendo a maior aventura de suas vidas no caminho.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.59.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106162500 -0300" stop="20251106164000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Olá Fenda do Bikini!</sub-title>
-    <desc lang="pt">Um promotor de shows quer fazer um tour com Bob Esponja e Lula Molusco, até que o ganancioso Seu Sirigueijo decide ser o empresário e administrar a tour mundial.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">2.78.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106164000 -0300" stop="20251106170000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Olha a Cobra!/Cave mais Fundo</sub-title>
-    <desc lang="pt">Quando o desejo de Hazel faz com que ela e Antony entrem em um jogo de tabuleiro que inventaram, eles precisam escapar! // Hazel deseja escavar rochas frias, mas se encontra no magma quente com um grupo de monstros subterrâneos!</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106170000 -0300" stop="20251106172000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Afundadoras de navio</sub-title>
-    <desc lang="pt">Leni e Luna acidentalmente destroem o barco do vovô.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">9.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106172000 -0300" stop="20251106173000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Contos de Aflição / O Último Loud do Mundo</sub-title>
-    <desc lang="pt">A Ronnie Anne faz amizade com a Sid, e a família da sua nova amiga quer alugar o apartamento acima do dela. Quando parece que outro casal vai conseguir o apartamento, as meninas usam sabotagem para dissuadi-lo.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">4.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106173000 -0300" stop="20251106175500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Pega-Shake / Seja Você Mesma</sub-title>
-    <desc lang="pt">A loja de milkshake favorita de Lily está fechando! As crianças tentam salvar a loja usando limões enrugados e são forçadas a salvar Canyon Valley das caras enrugadas.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106175500 -0300" stop="20251106181000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">&quot;L&quot; de Loud</sub-title>
-    <desc lang="pt">Uma carta de amor endereçada a L Loud aparece na casa e a família tem que descobrir para quem é a carta em questão.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106181000 -0300" stop="20251106183000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">O Quarto da Disputa</sub-title>
-    <desc lang="pt">Vendo suas irmãs brigarem com suas colegas de quarto, Lincoln sugere uma mudança no quarto com base em um teste de compatibilidade.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106183000 -0300" stop="20251106185000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">O Verão Em Que Fiquei Tonto</sub-title>
-    <desc lang="pt">Chateado pela Phoebe ter um novo parceiro, Max faz dupla com seu amigo Gideon. Mas tudo dá errado quando ele tenta transformar Gideon em um super-herói gigante.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106185000 -0300" stop="20251106191500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">Jasper Danger</sub-title>
-    <desc lang="pt">Quando Jasper se veste de Kid Danger no Halloween, ele leva isso muito longe e é confundido com o herói de verdade. Caberá ao verdadeiro Kid Danger e ao Capitão Man resgatá-lo.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106191500 -0300" stop="20251106194000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">Invasores de sonhos</sub-title>
-    <desc lang="pt">O raio do sonho de um vilão prende Henry em um estranho estado de sonho do qual somente Charlotte pode resgatá-lo.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106194000 -0300" stop="20251106201000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Testando os Amigos</sub-title>
-    <desc lang="pt">O Capitão Man submete a Danger Force a uma série de testes para saber se pode confiar neles. No entanto, os testes acabam saindo do controle, e a mesa vira.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106201000 -0300" stop="20251106203500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Lil' Dynomite</sub-title>
-    <desc lang="pt">A Força Danger acidentalmente esquece os planos que a equipe tinha com Ray e são surpreendidos quando ele apresenta um novo membro ao time, deixando todos enciumados.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106203500 -0300" stop="20251106205500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">O Verão Em Que Fiquei Tonto</sub-title>
-    <desc lang="pt">Chateado pela Phoebe ter um novo parceiro, Max faz dupla com seu amigo Gideon. Mas tudo dá errado quando ele tenta transformar Gideon em um super-herói gigante.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251106205500 -0300" stop="20251106212500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Fora de compasso / Legal demais para a escola</sub-title>
-    <desc lang="pt">Clyde e a vovó Gayle participam de um concurso de dança de Vovós e Netinhos, mas têm competidores durões. // Lincoln e os amigos precisam fazer a escola voltar ao normal quando a diretora Ramirez implementa regras ríg...</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">7.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106212500 -0300" stop="20251106215000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Música para meus medos / Lavado e frustrado</sub-title>
-    <desc lang="pt">Luna e a Cabras da Lua precisam achar uma guitarrista substituta quando Luna machuca as mãos tocando. // Para ir no &quot;Dia da Loucura Total&quot; na Terra do Leite, Lincoln precisa terminar de lavar a roupa o mais rápido possível.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">7.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106215000 -0300" stop="20251106221500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Nenhuma van fica para trás / Patrocínio por água abaixo</sub-title>
-    <desc lang="pt">Liam assume o cargo de repórter e a escola toda se apaixona por sua vida nas Fazendas Hunnicutt. // Lynn se torna uma lutadora profissional.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">7.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106221500 -0300" stop="20251106224000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Pega-Shake / Seja Você Mesma</sub-title>
-    <desc lang="pt">A loja de milkshake favorita de Lily está fechando! As crianças tentam salvar a loja usando limões enrugados e são forçadas a salvar Canyon Valley das caras enrugadas.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106224000 -0300" stop="20251106231000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Olha a Cobra!/Cave mais Fundo</sub-title>
-    <desc lang="pt">Quando o desejo de Hazel faz com que ela e Antony entrem em um jogo de tabuleiro que inventaram, eles precisam escapar! // Hazel deseja escavar rochas frias, mas se encontra no magma quente com um grupo de monstros subterrâneos!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106231000 -0300" stop="20251106233500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">O Gato Kenny / Siri Das Neves</sub-title>
-    <desc lang="pt">Bob Esponja convida o Gato Kenny, seu ídolo, para atrair clientes ao Siri Cascudo e descobre seu segredo. Seu Siriguejo ameaça Lula Molusco com o Siri das Neves, caso o polvo não saia da preguiça.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.88.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106233500 -0300" stop="20251106235500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Bob Esponja, você está despedido!</sub-title>
-    <desc lang="pt">Para economizar dinheiro, Senhor Sirigueijo despede Bob Esponja. No entanto, incapaz de ficar sem fazer nada, Bob Esponja decide voltar a trabalhar, não importando em quê ou onde.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.89.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106235500 -0300" stop="20251107002000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Pesadelo de Avelãs / Quadro de Avisos</sub-title>
-    <desc lang="pt">Sandy cria uma deliciosa manteiga de avelãs e, para produzir mais, acaba desgastante sua árvore.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251106235500 -0300" stop="20251107002000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Pesadelo de Avelãs / Quadro de Avisos</sub-title>
-    <desc lang="pt">Sandy cria uma deliciosa manteiga de avelãs e, para produzir mais, acaba desgastante sua árvore.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107002000 -0300" stop="20251107004500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Cérebros Voadores / Calça de Sereia</sub-title>
-    <desc lang="pt">Bob Esponja e Patrick gostam da nova mania de fazer o cérebro voar como se fosse um drone. Bob Esponja e Patrick brincam de Homem-Sereia e Mexilhãozinho, mas a diversão muda quando os inimigos dos heróis chegam.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107004500 -0300" stop="20251107011000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Pesadelo de Imitação / Minhocas</sub-title>
-    <desc lang="pt">Bob Esponja aprende que a imitação é a forma mais sincera de elogiar e passa a imitar todos. Minhocas passam a morar nos buracos de Bob Esponja, e ele precisa esconder os amigos indesejados.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107011000 -0300" stop="20251107013500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Para de Dormir / Festa Cascuda</sub-title>
-    <desc lang="pt">Lula Molusco fica tão cansado que nem Bob Esponja e Patrick conseguem acorda-lo para fazer um teste importante. Seu Sirigueijo e a equipe do restaurante vão atender uma festa da alta classe.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107013500 -0300" stop="20251107020000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">A coisa</sub-title>
-    <desc lang="pt">Lula Molusco fica coberto de cimento, e todos na Fenda do Bikini acham que ele é um monstro.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.76.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107020000 -0300" stop="20251107022000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Tribunal/Toda Trabalhada na Magia</sub-title>
-    <desc lang="pt">Depois de perder Hazel para Cosmo e Wanda durante os Testes de Desejos, Cookie retorna para se vingar. // Frustrada com a atenção dividida de sua mãe entre o trabalho e a casa.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107022000 -0300" stop="20251107024500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Tartarugas Ninja: Histórias Mutantes</title>
-    <sub-title lang="pt">Raphael Pensa Bem</sub-title>
-    <desc lang="pt">A força de Rafa não vai salvá-lo quando ele fica entre os Mecazoides e a famosa gangue de rua conhecida como Dragões Púrpura! Rafa vai ter que usar a cabeça para sair dessa!</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107024500 -0300" stop="20251107031000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Tartarugas Ninja: Histórias Mutantes</title>
-    <sub-title lang="pt">Donnie Aguenta Firme</sub-title>
-    <desc lang="pt">É uma batalha de inteligência entre Donnie e Bishop enquanto ele passa pelo sistema de metrô de Nova York para impedir os Mecazoides dela. Mas como se vence uma IA que já sabe todos os seus movimentos?</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107031000 -0300" stop="20251107033000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
-    <sub-title lang="pt">Confusão Magnética / Alerta de Intruso</sub-title>
-    <desc lang="pt">Best ganha uma competição para apresentar suas histórias ao famoso autor Can DeLabro. / Best e Bester tomam conta da mansão do Diamante.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">1.25.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107033000 -0300" stop="20251107035500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
-    <sub-title lang="pt">Um Dia Melhor / Um Dia Melhor Parte 2</sub-title>
-    <desc lang="pt">Bettervale está comemorando o Dia do Melhor, mas Best e Bester conseguem irritar todos na cidade. / Depois de um período exilados, Best e Bester voltam esperando fazer as pazes.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.26.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107035500 -0300" stop="20251107042000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
-    <sub-title lang="pt">Dona Cacta / Desastre no Campo de Golfe</sub-title>
-    <desc lang="pt">Os gêmeos levam um cacto chamado Dona Cacta à praia. / Best e Bester não vão deixar que o jogo de golfe do Calça Ranzinza os impeça de assistir ao último episódio de sua série favorita.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107042000 -0300" stop="20251107044000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
-    <sub-title lang="pt">Corcovas e Balões / Senhor Mestre dos Banjos</sub-title>
-    <desc lang="pt">Best vai ao resgate quando o medo de camelo de Bester ameaça estragar as chances dela ser a rainha da dança. / Best e Bester fazem um show na rua, mas como será que o Best vai reagir a competição?</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107044000 -0300" stop="20251107045000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Asfalto Amarelo</sub-title>
-    <desc lang="pt">Senhora Puff apresenta um vídeo educativo sobre direção.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.83.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107045000 -0300" stop="20251107050500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Fuga da prisão / Espátula do mal</sub-title>
-    <desc lang="pt">Na prisão, Plankton se junta a outros presidiários para fugir da cadeia e roubar a receita secreta do hambúrguer de siri. Bob Esponja troca a espátula quebrada por uma entregue pelo Plankton.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">2.84.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107050500 -0300" stop="20251107051500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Fuga da prisão / Espátula do mal</sub-title>
-    <desc lang="pt">Na prisão, Plankton se junta a outros presidiários para fugir da cadeia e roubar a receita secreta do hambúrguer de siri. Bob Esponja troca a espátula quebrada por uma entregue pelo Plankton.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.84.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107051500 -0300" stop="20251107052500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">A bolha de grude</sub-title>
-    <desc lang="pt">Uma bolha gigante emerge da Lagoa do Grude e ameaça a Fenda do Biquíni. Menos Plankton, que planeja usar a bolha para seus planos malignos.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.85.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107052500 -0300" stop="20251107054000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Cofre do Sirigueijo / Bicho de estimação do Plankton</sub-title>
-    <desc lang="pt">Senhor Sirigueijo fica preso no cofre do novo banco da Fenda do Biquíni e Bob Esponja e Patrick vão salvá-lo. Plankton arranja um bicho de estimação depois fracassar novamente para pegar a fórmula do hambúrguer d...</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">2.86.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107054000 -0300" stop="20251107054500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Cofre do Sirigueijo / Bicho de estimação do Plankton</sub-title>
-    <desc lang="pt">Senhor Sirigueijo fica preso no cofre do novo banco da Fenda do Biquíni e Bob Esponja e Patrick vão salvá-lo. Plankton arranja um bicho de estimação depois fracassar novamente para pegar a fórmula do hambúrguer d...</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.86.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107054500 -0300" stop="20251107060000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Não olhe agora / Sessão espírita</sub-title>
-    <desc lang="pt">Bob Esponja e Patrick vão ver um filme de terror na última sessão de cinema e são perseguidos pelo suposto vilão. Bob Esponja realiza uma sessão espírita no Siri Cascudo para aprender antiga receita perdida.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">2.87.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107060000 -0300" stop="20251107062500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Show Do Patrick Estrela</title>
-    <sub-title lang="pt">Ataque de Compras / Capitão Quasar em Comprar Gato por Robô</sub-title>
-    <desc lang="pt">Pat, o Bárbaro, parte em uma missão brutal até o shopping. // Depois de o Capitão Quasar substituir Pat-Tron por um robô mais eficiente, Pat-Tron trabalha para a família Estrela.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107062500 -0300" stop="20251107065000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Show Do Patrick Estrela</title>
-    <sub-title lang="pt">Estrelaeróbica / Quem é o fantoche agora?</sub-title>
-    <desc lang="pt">Neste programa de variedades fitness, Patrick aprende a se exercitar. // Uma família de bonecos de muda para a casa dos Estrela.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20251107065000 -0300" stop="20251107072000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Viagem de carro: Rainha das telas / Viagem de carro: Esconder e esquivar</sub-title>
-    <desc lang="pt">Quando a viagem de carro dos Loud os leva até Hollywood, Lola fica determinada a virar uma estrela./Para ajudar a Mãe a cumprir o prazo da coluna no jornal, os Louds têm que evitar os Casagrandes quando visitam Great Lakes City.</desc>
+    <sub-title lang="pt">Implorar, emprestar e pegar / Vai haver lama</sub-title>
+    <desc lang="pt">Lincoln arruma dívidas com suas irmãs. // Os Hunnicutts enriquecem.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">7.8.</episode-num>
+    <episode-num system="xmltv_ns">7.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107072000 -0300" stop="20251107074000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Fora de compasso / Legal demais para a escola</sub-title>
-    <desc lang="pt">Clyde e a vovó Gayle participam de um concurso de dança de Vovós e Netinhos, mas têm competidores durões. // Lincoln e os amigos precisam fazer a escola voltar ao normal quando a diretora Ramirez implementa regras ríg...</desc>
+    <sub-title lang="pt">Escola de enigmas / Me amem como um tenor</sub-title>
+    <desc lang="pt">A equipe do Noticiário Ação resolve uma série de pegadinhas misteriosas. // Gus tem um talento secreto.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">7.9.</episode-num>
+    <episode-num system="xmltv_ns">7.20.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107074000 -0300" stop="20251107075500 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Boatos</sub-title>
-    <desc lang="pt">O Lincoln e os seus amigos ficam presos na floresta com o senhor Bolhofner, que pode não ser quem ele diz que é.</desc>
+    <sub-title lang="pt">Muito barulho por nada / Más notícias</sub-title>
+    <desc lang="pt">As crianças ajudam o pai a descobrir quem é a pessoa misteriosa que está fazendo avaliações negativas do Mesa do Lynn. / A equipe do Noticiário Ação tem que ceder aos pedidos do Chandler.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107075500 -0300" stop="20251107082000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Pega-Shake / Seja Você Mesma</sub-title>
-    <desc lang="pt">A loja de milkshake favorita de Lily está fechando! As crianças tentam salvar a loja usando limões enrugados e são forçadas a salvar Canyon Valley das caras enrugadas.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107082000 -0300" stop="20251107085000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Licença para fazer milk shake / O bebé Lula</sub-title>
-    <desc lang="pt">O Bob Esponja fica sabendo que sua licença para fazer milk shake expirou, e é forçado a voltar para a academia de milk shake. O Lula Molusco bate a cabeça e volta a ser um bebê.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.81.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107085000 -0300" stop="20251107091500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Queridos Vikings</sub-title>
-    <desc lang="pt">Bob convida seus amigos Vikings para visitar o restaurante Siri Cascudo.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107091500 -0300" stop="20251107094000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Visita do Lula</sub-title>
-    <desc lang="pt">Bob Esponja se transforma no cidadão mais rico da Fenda do Bikini. / O calça quadrada decide seguir Lula Molusco pela rua enquanto ele vai para o teste do coral masculino da cidade.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107094000 -0300" stop="20251107100500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">O Verão Em Que Fiquei Tonto</sub-title>
-    <desc lang="pt">Chateado pela Phoebe ter um novo parceiro, Max faz dupla com seu amigo Gideon. Mas tudo dá errado quando ele tenta transformar Gideon em um super-herói gigante.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251107100500 -0300" stop="20251107103000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Musical da Mika</sub-title>
-    <desc lang="pt">Para evitar serem tirados da S.W.A.G a Força Danger precisa apresentar uma peça extracurricular ao mesmo tempo em que tenta impedir que Frankini sequestre o Vice-Prefeito.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251107103000 -0300" stop="20251107105500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Krampapalooza</sub-title>
-    <desc lang="pt">A Força Danger vê uma oportunidade de ganhar dinheiro rápido sediando o festival musical de Swellview, mas a coisa sai do rumo quando Krampus ameaça estragar os planos.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251107105500 -0300" stop="20251107111500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">O Bolinho do Amor</sub-title>
-    <desc lang="pt">Quando o Capitão Man de repente anuncia que vai se casar, Henry e Charlotte buscam respostas e descobrem que as coisas não são o que parecem.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20251107111500 -0300" stop="20251107112500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
-    <sub-title lang="pt">Concurso de Torta</sub-title>
-    <desc lang="pt">Tainá e os Guardiões da Amazônia são chamados pela Dona Anta para resolver um mistério urgente: a torta que ela fez para o Concurso Anual de Torta da Cupuaçu da Amazônia sumiu!</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107112500 -0300" stop="20251107113000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Menino Mais Rico do Mundo</title>
-    <sub-title lang="pt">O Pão</sub-title>
-    <desc lang="pt">As noites de segundas-feiras estão ameaçadas por um estranho que foi visto roubando pães da padaria do Seu Davi. Mas João e sua turma iniciam uma investigação e armam um plano para descobrir a identidade do criminoso ...</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107113000 -0300" stop="20251107114500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">O Menino Mais Rico do Mundo</title>
-    <sub-title lang="pt">O Teatro</sub-title>
-    <desc lang="pt">Na Vila dos Bem-te-vis há um beco que vira e mexe vira depósito de lixo. Dessa vez, descartaram nele um monte de compensado. Quando vê todo esse material João tem uma ideia incrível.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107114500 -0300" stop="20251107115500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Música De Brinquedo</title>
-    <sub-title lang="pt">Todos estão surdos</sub-title>
-    <desc lang="pt">Fernanda testa um novo instrumento que trouxe do Japão. No camarim, Groco se sente profético, e acredita que os discursos que ele e Ziglo vão proferir durante a música vão mudar o mundo.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107115500 -0300" stop="20251107121500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Música De Brinquedo</title>
-    <sub-title lang="pt">Ovelha Negra</sub-title>
-    <desc lang="pt">Mais um talk show do Groco. A convidada desse episódio é a Dona Vitória, faxineira do estúdio, que revela seu talento oculto como cantora de metal e punk rock. Em seu buraco, os ratos roem filosofia sobre talentos ocultos.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107121500 -0300" stop="20251107124000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Mudando de Opinião / Melhorando a Saúde</sub-title>
-    <desc lang="pt">Clyde, desesperado para aprender a agir normalmente perto de Lori, pede a ajuda de Leni. Preocupados com a saúde dos pais, por não serem muito ativos, as crianças os encorajam a fazer exercícios.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107124000 -0300" stop="20251107131000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Futuro Tenso / Lynn Aposta Tudo</sub-title>
-    <desc lang="pt">Mamãe e papai encontram uma família incrível, então, eles se preocupam que seus filhos não estejam fazendo o suficiente para garantir um bom futuro.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.19.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107131000 -0300" stop="20251107133000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Contatos Imediatos do Grau Nerd - Parte 2</sub-title>
-    <desc lang="pt">Lincoln e seus amigos pedem doces ou travessuras. Mas tudo toma um rumo assustador quando pessoas começam a desaparecer.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">8.12.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107133000 -0300" stop="20251107134500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Pavor da turma / Bem-vindos à Operação Boneca</sub-title>
-    <desc lang="pt">Ronnie Anne tenta se formar no curso de pegadinhas de Luan. // Lily acidentalmente troca Eunice.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">7.16.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107134500 -0300" stop="20251107141500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">LAD / Antes das 10H</sub-title>
-    <desc lang="pt">Lily quer descobrir a verdade sobre a vida secreta de Jack de manhã, ela faz loucuras e acorda cedo. Mas sua investigação traz grandes problemas.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251107141500 -0300" stop="20251107144000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Tribunal/Toda Trabalhada na Magia</sub-title>
-    <desc lang="pt">Depois de perder Hazel para Cosmo e Wanda durante os Testes de Desejos, Cookie retorna para se vingar. // Frustrada com a atenção dividida de sua mãe entre o trabalho e a casa.</desc>
+    <sub-title lang="pt">Guerreiros Opostos Ao Reino / Sunganduel</sub-title>
+    <desc lang="pt">Lily apresenta Jack ao seu videogame favorito, mas quando ele continua perdendo, Jack fica obcecado pelo jogo e se transforma em um gamer tóxico. // Vinhetas de clássicas ilustram a dinâmica de uma família moderna no dia a dia.</desc>
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251107144000 -0300" stop="20251107150500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Achados e Perdidos Pt. 1/Achados e Perdidos Pt. 2</sub-title>
-    <desc lang="pt">O pai de Dev, Dale Dimmadome, magnata da tecnologia  cria um aplicativo projetado para rastrear os desejos das crianças, mas Hazel aparece como uma anomalia graças à concessão de desejos de Cosmo e Wanda.</desc>
+  <programme start="20251107082000 -0300" stop="20251107085000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Cofre do Sirigueijo / Bicho de estimação do Plankton</sub-title>
+    <desc lang="pt">Senhor Sirigueijo fica preso no cofre do novo banco da Fenda do Biquíni e Bob Esponja e Patrick vão salvá-lo. Plankton arranja um bicho de estimação depois fracassar novamente para pegar a fórmula do hambúrguer d...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.86.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107085000 -0300" stop="20251107091500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Visão de Tentáculos</sub-title>
+    <desc lang="pt">Lula Molusco vira a estrela de um programa de televisão.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">2.27.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107091500 -0300" stop="20251107094000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Período de crescimento / Presos nos rolos espremedores</sub-title>
+    <desc lang="pt">Seu Sirigueijo trata de encontrar comida suficiente para alimentar sua filha Pérola que está em plena etapa de crescimento. Depois de um banho, Bob Esponja fica preso no escorredor e precisa enfrentar sua própria vida.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.28.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107094000 -0300" stop="20251107100500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Eu Sei O Que Você Fez Nesse Verão</sub-title>
+    <desc lang="pt">Max descobre que Phoebe está trabalhando com o Capitão Perfeito e decide investiga-lo. O crush da Chloe a convida para uma festa de lançamento no Splat À Beira do Mar no mesmo horário em que Jinx e Booch querem que ela de ...</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251107100500 -0300" stop="20251107103000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Minyak Attack</sub-title>
+    <desc lang="pt">Capitão Man tem uma nova equipe de ajudantes de super-heróis - Força Danger.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251107103000 -0300" stop="20251107105500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Força Danger</title>
+    <sub-title lang="pt">Briga de Rua</sub-title>
+    <desc lang="pt">Capitão Man tem uma nova equipe de ajudantes de super-heróis - Força Danger.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251107105500 -0300" stop="20251107111500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <sub-title lang="pt">Swellview Tem Talento</sub-title>
+    <desc lang="pt">Após descobrir que os participantes do programa &quot;Swellview Tem Talento&quot; estão desmaiando, Capitão Man e Kid Danger recorrem à ajuda de Cahrlotte e Schwoz para descobrir o que está causando o problema.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251107111500 -0300" stop="20251107112500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+    <sub-title lang="pt">Amigos nem tão secretos</sub-title>
+    <desc lang="pt">Tainá e os Guardiões da Amazônia brincam de amigo secreto enquanto relembram grandes aventuras que viveram juntos.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107112500 -0300" stop="20251107113000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Menino Mais Rico do Mundo</title>
+    <sub-title lang="pt">A Chuva</sub-title>
+    <desc lang="pt">Um temporal se aproxima da Vila dos Bem-te-vis, estragando os planos e o dia de vários moradores, que reclamam do tempo ruim. Mas o olhar de João para aquele incrível fenômeno da natureza vai lhes mostrar um novo horizonte.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107113000 -0300" stop="20251107114500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Menino Mais Rico do Mundo</title>
+    <sub-title lang="pt">A Grafiteira</sub-title>
+    <desc lang="pt">João e Tina recolhem da rua uma caixa que caiu de um caminhão de mudança. Os dois iniciam uma expedição pelas ruas da vila para encontrar o novo morador e descobrem que aquela caixa guarda muto mais surpresas.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107114500 -0300" stop="20251107115000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Música de Brinquedo</title>
+    <sub-title lang="pt">Palco</sub-title>
+    <desc lang="pt">Humor e ficção com a banda Pato Fu e bonecos do grupo Giramundo. A cada episódio, a banda grava com instrumentos de brinquedo um clássico da música pop. Monstros formam a equipe que trabalha no estúdio.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107115000 -0300" stop="20251107121500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <sub-title lang="pt">Verão Sem Fim</sub-title>
+    <desc lang="pt">Max finge se tornar maligno para se infiltrar entre os capangas do Mastermind e pegar o Lançador de Chips, um dispositivo que anteriormente o havia transformado em vilão.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20251107121500 -0300" stop="20251107124000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Juntando os Professores / Artista Ansiosa</sub-title>
+    <desc lang="pt">Para tentar tornar a aula de ginástica melhor, Lincoln e Clyde querem juntar o treinador Pacowski e a Sra. Johnson. // Luan é mentora de Lucy, ensinando-a a administrar os altos e baixos na busca de uma vida artística.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107124000 -0300" stop="20251107131000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">A cientista louca / Ligação perdida</sub-title>
+    <desc lang="pt">A Lisa é convidada para trabalhar em um instituto e ficar longe da sua família louca. A Lori e o Bobby têm medo de o namoro à distância estar fazendo com que eles percam sua ligação.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107131000 -0300" stop="20251107133000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Passando a Vez / Sempre Bem-Vindo</sub-title>
+    <desc lang="pt">O Lincoln e o Clyde começam a achar que são muito velhos para continuar brincando de Ás Astuto. O Lincoln descobre que ganha privilégios especiais quando leva um amigo em casa e se aproveita disso.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107133000 -0300" stop="20251107134500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Implorar, emprestar e pegar / Vai haver lama</sub-title>
+    <desc lang="pt">Lincoln arruma dívidas com suas irmãs. // Os Hunnicutts enriquecem.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107134500 -0300" stop="20251107141500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <sub-title lang="pt">Joias Hunnicutt / Lynn não pode ganhar todas</sub-title>
+    <desc lang="pt">Liam assume o cargo de repórter e a escola toda se apaixona por sua vida nas Fazendas Hunnicutt. // Lynn se torna uma lutadora profissional.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107141500 -0300" stop="20251107144000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Wylde Pak</title>
+    <sub-title lang="pt">Mundo Woori / Procurando FlamingoFan85</sub-title>
+    <desc lang="pt">A família se prepara para a guerra, conhecida como passeio ao mercado asiático local. Após uma batalha para ter um biscoito raro Jack se sente parte da família. /O Banho &amp; Tosa recebe uma crítica ruim e Lily tenta acha...</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251107144000 -0300" stop="20251107150500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+    <sub-title lang="pt">X Marca a Bagunça / Creche do Patrick</sub-title>
+    <desc lang="pt">Um vilão clássico volta ao seu antigo esconderijo e descobre que a família Estrela está morando no local. / O Show do Patrick é modificado para um público mais jovem.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107150500 -0300" stop="20251107153000 -0300" channel="NICKELODEON HD">
     <title lang="pt">O Show Do Patrick Estrela</title>
-    <sub-title lang="pt">Alguma maluquice vem por aí</sub-title>
-    <desc lang="pt">Uma vidente compartilha histórias dos Patricks pelo multiverso.</desc>
+    <sub-title lang="pt">Pérola Quer Ser uma Estrela / Super Babás</sub-title>
+    <desc lang="pt">Pérola faz uma participação especial no Show do Patrick. / Patrick e Bob Esponja voltam no tempo para ver Homem Sereia e Mexilhãozinho quando eram mais novos.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107153000 -0300" stop="20251107155500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Perdidos na Food-Con / Correio Caramujo</sub-title>
-    <desc lang="pt">Bob Esponja, Patrick, Lula Molusco e Seu Siriguejo decidem ir a uma convenção de comida. Mas os planos mudam quando eles ficam perdidos na floresta.</desc>
+    <sub-title lang="pt">O Retorno do Homem-Raio</sub-title>
+    <desc lang="pt">Quando o Homem-Raio aluga a casa do Lula Molusco para o fim de semana, cabe a Bob Esponja e Patrick impedirem suas férias diabólicas.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107155500 -0300" stop="20251107162500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Invasão ao abacaxi / Molho bobístico</sub-title>
-    <desc lang="pt">Quando Bob Esponja esconde a fórmula secreta em casa, Gary precisa protege-la do Plankton. Quando um acidente faz todos da cidade ficarem ridículos, Sandy tem que salvar o dia.</desc>
+    <sub-title lang="pt">Mergulho em Alto-Mar / Ladrão de Garrafas</sub-title>
+    <desc lang="pt">Bob Esponja quer ser a primeira esponja a alcançar a superfície do oceano! // Quando Bob Esponja e Lula Molusco acidentalmente deixaram Plankton roubar a fórmula secreta. Cabe a eles roubá-la de volta!</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <episode-num system="xmltv_ns">2.30.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107162500 -0300" stop="20251107164000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Padrastro Inimigo</sub-title>
-    <desc lang="pt">O Sr. Siriguiejo está desesperado, pois sua mãe está namorando seu maior inimigo Plankton.</desc>
+    <sub-title lang="pt">Tempo de Abacaxi</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">1.67.</episode-num>
+    <episode-num system="xmltv_ns">2.25.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107164000 -0300" stop="20251107170000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Operação Aniversário de Pt 1/ Operação Aniversário de Pt 2</sub-title>
-    <desc lang="pt">Jogo de Volta - Quando uma antiga inimiga de Cosmo e Wanda assume o controle da festa de aniversário de Dev , Hazel prepara uma série de armadilhas para salvar o dia.</desc>
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Confronto Gelado</sub-title>
+    <desc lang="pt">Todos da Fenda do Bikini estão participando de uma confusa corrida até o Polo Sul. Será que Bob e seus amigos conseguirão conquistar o 1° lugar?</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <episode-num system="xmltv_ns">2.56.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107170000 -0300" stop="20251107172000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">O reino dos frios</sub-title>
-    <desc lang="pt">A família vai a um evento de RPG.</desc>
+    <sub-title lang="pt">Garoto do esterco / Salvo pelo feitiço</sub-title>
+    <desc lang="pt">A Lynn leva o Liam aos limites quando ele se torna o principal arremessador do time de beisebol da escola. Os amigos do Lincoln tentam impedi-lo de fazer um show de mágica no show de talentos.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">9.8.</episode-num>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107172000 -0300" stop="20251107173000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">O Rei da Enrolação</sub-title>
-    <desc lang="pt">Preocupado que a professora tenha algo de ruim a dizer sobre ele, Lincoln tenta atrasar a reunião de pais e professores. Luan acorda com uma espinha no dia do seu primeiro encontro com Benny, então ela pede ajuda aos irmãos.</desc>
+    <sub-title lang="pt">Garoto do esterco / Salvo pelo feitiço</sub-title>
+    <desc lang="pt">A Lynn leva o Liam aos limites quando ele se torna o principal arremessador do time de beisebol da escola. Os amigos do Lincoln tentam impedi-lo de fazer um show de mágica no show de talentos.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107173000 -0300" stop="20251107175500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Campeonato de Força / Ed Morto</sub-title>
-    <desc lang="pt">O amigo de Jack, Beef, o convida para uma festa do pijama. Jack, que é novato nisso, fica nervoso tentando impressionar seu novo amigo.</desc>
+    <sub-title lang="pt">A Almondega de Cayon Valley / Dedos Grudentos</sub-title>
+    <desc lang="pt">Halmoni escolhe Jack, e Lily, com ciúmes, busca vingança. // Min pede um favor a Jack, mas Charlie, o gibão, atrapalha, e Jack e Lily o perseguem nas minas abandonadas da cidade.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107175500 -0300" stop="20251107181000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">La Mordida Ansiada</sub-title>
-    <desc lang="pt">Quando um vampiro se muda pra Royal Woods, a Lucy precisa convencê-lo a transformar os membros do Clube.</desc>
+    <sub-title lang="pt">Mudando de Opinião / Melhorando a Saúde</sub-title>
+    <desc lang="pt">Clyde, desesperado para aprender a agir normalmente perto de Lori, pede a ajuda de Leni. Preocupados com a saúde dos pais, por não serem muito ativos, as crianças os encorajam a fazer exercícios.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">5.24.</episode-num>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107181000 -0300" stop="20251107183000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Los Huesos Loud</sub-title>
-    <desc lang="pt">Lisa descobre que o osso de dinossauro que ela encontrou no jardim pode não ser o que parece.</desc>
+    <sub-title lang="pt">Sim, Cara / Amigo ou Inimigo</sub-title>
+    <desc lang="pt">As irmãs Loud pedem a ajuda do &quot;Mestre do Convencimento&quot; (ou melhor, Lincoln), para ensiná-las a pedir dinheiro para a mãe e o pai.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">5.24.</episode-num>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107183000 -0300" stop="20251107185000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">Um Esquema de Noite de Verão</sub-title>
-    <desc lang="pt">Max concorda em mentorar a irmã mais nova do Capitão Perfeito, que quer se tornar uma supervilã. Mas ele fica sobrecarregado quando ela tenta se tornar uma das capangas do Mastermind.</desc>
+    <sub-title lang="pt">Tudo Sobre o Steve</sub-title>
+    <desc lang="pt">Billy chega esperançoso de que seu novo parceiro, Steve, possa entrar na T-Force. Phoebe e Max consideram a ideia, mas descobrem que seu superpoder é fazer marshmallows.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107185000 -0300" stop="20251107191500 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">Charlotte Fantasma</sub-title>
-    <desc lang="pt">Schwoz inventa um aspirador para ajudar Henry a limpar sua casa, mas ele acidentalmente suga a Charlotte para dentro. Quando a família de Henry ouve a Charlotte eles pensam o aspirador é assombrado.</desc>
+    <title lang="pt">Os Thundermans: Disfarçados</title>
+    <desc lang="pt">Billy chega esperançoso de que seu novo parceiro, Steve, possa entrar na T-Force. Phoebe e Max consideram a ideia, mas descobrem que seu superpoder é fazer marshmallows.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">5.15.</episode-num>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107191500 -0300" stop="20251107194000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Henry Danger</title>
-    <sub-title lang="pt">Tanque de Histórias</sub-title>
-    <desc lang="pt">Grandes bifes estão em jogo quando Henry alega que nada o assusta.</desc>
+    <sub-title lang="pt">O Amor é Lindo</sub-title>
+    <desc lang="pt">Henry e Ray tentam ajudar Piper a planejar um &quot;acaso fofo&quot; com um garoto novo da escola que ela gosta.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">5.28.</episode-num>
+    <episode-num system="xmltv_ns">4.18.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107194000 -0300" stop="20251107201000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">A Escola Assombrada</sub-title>
-    <desc lang="pt">Enquanto Chapa, Miles, Mika e Bose tentam ser campeões em vários esportes diferentes, eles percebem que Schwoz está muito ocupado com algumas atividades inusitadas de &quot;antigamente&quot;.</desc>
+    <title lang="pt">Henry Danger</title>
+    <sub-title lang="pt">Soletrando</sub-title>
+    <desc lang="pt">Dr. Minyak desafia o Capitão Man para uma disputa de soletrar palavras.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107201000 -0300" stop="20251107203500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Força Danger</title>
-    <sub-title lang="pt">Monstro</sub-title>
-    <desc lang="pt">Quando Mika se esforça demais para ganhar a funcionária do mês da Caverna Man, ela cria um monstro que pode arruinar o programa que a Força Danger está organizando.</desc>
+    <sub-title lang="pt">A Festa De Aniversário Do Bose</sub-title>
+    <desc lang="pt">Miles precisa ser ele mesmo e Awol na festa do Bose para agradar a meia-irmã do Bose.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107203500 -0300" stop="20251107205500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Os Thundermans: Disfarçados</title>
-    <sub-title lang="pt">Um Esquema de Noite de Verão</sub-title>
-    <desc lang="pt">Max concorda em mentorar a irmã mais nova do Capitão Perfeito, que quer se tornar uma supervilã. Mas ele fica sobrecarregado quando ela tenta se tornar uma das capangas do Mastermind.</desc>
+    <sub-title lang="pt">O Verão Em Que Fiquei Tonto</sub-title>
+    <desc lang="pt">Chateado pela Phoebe ter um novo parceiro, Max faz dupla com seu amigo Gideon. Mas tudo dá errado quando ele tenta transformar Gideon em um super-herói gigante.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20251107205500 -0300" stop="20251107212500 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Contatos Imediatos do Grau Nerd - Parte 1</sub-title>
-    <desc lang="pt">Lincoln e seus amigos pedem doces ou travessuras. Mas tudo toma um rumo assustador quando pessoas começam a desaparecer.</desc>
+    <sub-title lang="pt">A Kara não pode ouvir / Dólares e perfumes</sub-title>
+    <desc lang="pt">A equipe do Noticiário Ação tenta conseguir uma revista em quadrinhos rara. // Miguel lança uma linha de perfumes.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">8.11.</episode-num>
+    <episode-num system="xmltv_ns">8.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107212500 -0300" stop="20251107215000 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">Contatos Imediatos do Grau Nerd - Parte 2</sub-title>
-    <desc lang="pt">Lincoln e seus amigos pedem doces ou travessuras. Mas tudo toma um rumo assustador quando pessoas começam a desaparecer.</desc>
+    <sub-title lang="pt">Musculação e mal-humor / Caça ao bafafá</sub-title>
+    <desc lang="pt">O pai luta para administrar o Mesa do Lynn quando seu irmão Lance abre uma academia em cima do restaurante. // A par de todas as fofocas na escola, Lola é recrutada para ter sua própria coluna de fofocas no jornal da escola.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">8.12.</episode-num>
+    <episode-num system="xmltv_ns">8.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107215000 -0300" stop="20251107221500 -0300" channel="NICKELODEON HD">
     <title lang="pt">The Loud House</title>
-    <sub-title lang="pt">O Fantasma</sub-title>
-    <desc lang="pt">Com a ajuda do Lincoln e do Clyde, a Lori afasta um fantasma que parece a estar assombrando.</desc>
+    <sub-title lang="pt">A tinta mais fraca / Venda forçada</sub-title>
+    <desc lang="pt">Para comemorar as cem mil visualizações de seu clipe, os integrantes da Cabras da Lua concordam em fazer tatuagens combinando.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">5.5.</episode-num>
+    <episode-num system="xmltv_ns">8.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107221500 -0300" stop="20251107224000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Wylde Pak</title>
-    <sub-title lang="pt">Campeonato de Força / Ed Morto</sub-title>
-    <desc lang="pt">O amigo de Jack, Beef, o convida para uma festa do pijama. Jack, que é novato nisso, fica nervoso tentando impressionar seu novo amigo.</desc>
+    <sub-title lang="pt">A Almondega de Cayon Valley / Dedos Grudentos</sub-title>
+    <desc lang="pt">Halmoni escolhe Jack, e Lily, com ciúmes, busca vingança. // Min pede um favor a Jack, mas Charlie, o gibão, atrapalha, e Jack e Lily o perseguem nas minas abandonadas da cidade.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107224000 -0300" stop="20251107231000 -0300" channel="NICKELODEON HD">
-    <title lang="pt">Os Padrinhos Mágicos: Um Novo Desejo</title>
-    <sub-title lang="pt">Operação Aniversário de Pt 1/ Operação Aniversário de Pt 2</sub-title>
-    <desc lang="pt">Jogo de Volta - Quando uma antiga inimiga de Cosmo e Wanda assume o controle da festa de aniversário de Dev , Hazel prepara uma série de armadilhas para salvar o dia.</desc>
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <sub-title lang="pt">Seguro de Vida</sub-title>
+    <desc lang="pt">Depois de um mal-entendido, Bob Esponja e Patrick tentam provar que seu seguro de vida os protege de qualquer perigo!</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107231000 -0300" stop="20251107233500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">O Atalho / Aula de Volante</sub-title>
-    <desc lang="pt">Bob Esponja procura um atalho pra chegar no trabalho mas acaba perdido. Após repetir no exame de volante mais uma vez, Seu Sirigueijo decide ensinar Bob Esponja a dirigir.</desc>
+    <sub-title lang="pt">Pesadelo de Avelãs / Quadro de Avisos</sub-title>
+    <desc lang="pt">Sandy cria uma deliciosa manteiga de avelãs e, para produzir mais, acaba desgastante sua árvore.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.90.</episode-num>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107233500 -0300" stop="20251107235500 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Lula Molusco Apaixonado / Tratamento Executivo</sub-title>
-    <desc lang="pt">Depois de receber o convite para a inauguração de uma galeria, Lula Molusco precisa achar um amigo para acompanhá-lo. Para pedir um sanduíche especial, Patrick entra sem querer no mundo dos negócios.</desc>
+    <sub-title lang="pt">Cérebros Voadores</sub-title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.91.</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107235500 -0300" stop="20251108002000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Lanchonete do Bob Esponja / Plankton é Expulso</sub-title>
-    <desc lang="pt">Quando Bob Esponja faz hambúrgueres em casa, os clientes do Seu Sirigueijo vão para a Lanchonete do Bob Esponja. Plankton é expulso de casa por Karen, e Bob Esponja precisa ajuda-lo a recuperar a esposa.</desc>
+    <sub-title lang="pt">Esponja Roxa</sub-title>
+    <desc lang="pt">Bob está com o olho roxo e ele conta a todos que se machucou em uma briga com um forasteiro perigoso.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <episode-num system="xmltv_ns">1.94.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251107235500 -0300" stop="20251108002000 -0300" channel="NICKELODEON HD">
     <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <sub-title lang="pt">Lanchonete do Bob Esponja / Plankton é Expulso</sub-title>
-    <desc lang="pt">Quando Bob Esponja faz hambúrgueres em casa, os clientes do Seu Sirigueijo vão para a Lanchonete do Bob Esponja. Plankton é expulso de casa por Karen, e Bob Esponja precisa ajuda-lo a recuperar a esposa.</desc>
+    <sub-title lang="pt">Esponja Roxa</sub-title>
+    <desc lang="pt">Bob está com o olho roxo e ele conta a todos que se machucou em uma briga com um forasteiro perigoso.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <episode-num system="xmltv_ns">1.94.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -167340,74 +167440,74 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107000000 -0300" stop="20251107020000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107020000 -0300" stop="20251107040000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107040000 -0300" stop="20251107060000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107060000 -0300" stop="20251107080000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107080000 -0300" stop="20251107100000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107100000 -0300" stop="20251107120000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107120000 -0300" stop="20251107140000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107140000 -0300" stop="20251107160000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107160000 -0300" stop="20251107180000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107180000 -0300" stop="20251107200000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107200000 -0300" stop="20251107220000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107220000 -0300" stop="20251108000000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Fortaleza x Grêmio</title>
+    <desc lang="pt">Fortaleza e Grêmio jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
@@ -167700,74 +167800,74 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107000000 -0300" stop="20251107020000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107020000 -0300" stop="20251107040000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107040000 -0300" stop="20251107060000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107060000 -0300" stop="20251107080000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107080000 -0300" stop="20251107100000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107100000 -0300" stop="20251107120000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107120000 -0300" stop="20251107140000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107140000 -0300" stop="20251107160000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107160000 -0300" stop="20251107180000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107180000 -0300" stop="20251107200000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107200000 -0300" stop="20251107220000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107220000 -0300" stop="20251108000000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Corinthians x Ceará</title>
+    <desc lang="pt">Corinthians e Ceará jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
@@ -167988,146 +168088,146 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106000000 -0300" stop="20251106020000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106020000 -0300" stop="20251106040000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106040000 -0300" stop="20251106060000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106060000 -0300" stop="20251106080000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106080000 -0300" stop="20251106100000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106100000 -0300" stop="20251106120000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106120000 -0300" stop="20251106140000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106140000 -0300" stop="20251106160000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106160000 -0300" stop="20251106180000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106180000 -0300" stop="20251106200000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106200000 -0300" stop="20251106220000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251106220000 -0300" stop="20251107000000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107000000 -0300" stop="20251107020000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107020000 -0300" stop="20251107040000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107040000 -0300" stop="20251107060000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107060000 -0300" stop="20251107080000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107080000 -0300" stop="20251107100000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107100000 -0300" stop="20251107120000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107120000 -0300" stop="20251107140000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107140000 -0300" stop="20251107160000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107160000 -0300" stop="20251107180000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107180000 -0300" stop="20251107200000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107200000 -0300" stop="20251107220000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251107220000 -0300" stop="20251108000000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <title lang="pt">Dia 09/11: Cruzeiro x Fluminense</title>
+    <desc lang="pt">Cruzeiro e Fluminense jogam pela 33ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Mineirão, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
@@ -182325,10 +182425,9 @@
     </rating>
   </programme>
   <programme start="20251108104500 -0300" stop="20251108110300 -0300" channel="SPACE HD">
-    <title lang="pt">São Paulo x Taubaté - ao vivo</title>
-    <desc lang="pt">São Paulo e Taubaté jogam pela 12ª rodada da 1ª fase do Campeonato Paulista Feminino, no Cotia.</desc>
+    <title lang="pt">Pré-Jogo Paulistão Feminino</title>
+    <desc lang="pt">Pré-Jogo Paulistão Feminino.</desc>
     <length units="minutes">1080</length>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251108110300 -0300" stop="20251108130000 -0300" channel="SPACE HD">
     <title lang="pt">São Paulo x Taubaté - ao vivo</title>
@@ -224731,16 +224830,48 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107060000 -0300" stop="20251107064000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Superman &amp; Lois</title>
-    <desc lang="pt">Lois tenta entrevistar Peia, na esperança de descobrir a verdade sobre um antigo caso. Enquanto isso, Clark se empenha para passar momentos agradáveis com os meninos.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
+  <programme start="20251107060000 -0300" stop="20251107062400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Miracle Workers</title>
+    <desc lang="pt">Ambientada no ano de 1844, &quot;Miracle Workers: Oregon Trail&quot; acompanha um pastor idealista (Radcliffe) de uma pequena cidade que se une a um criminoso procurado (Buscemi) e a uma mulher aventureira (Viswanathan).</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107064000 -0300" stop="20251107070300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107062400 -0300" stop="20251107062700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251107062700 -0300" stop="20251107062900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251107062900 -0300" stop="20251107063200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251107063200 -0300" stop="20251107063300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">60</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20251107063300 -0300" stop="20251107065600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
     <length units="minutes">1380</length>
@@ -224749,7 +224880,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107070300 -0300" stop="20251107072700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107065600 -0300" stop="20251107072000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Incapaz de dormir, Alan aceita a sugestão de Charlie e vai cavalgar na praia. Depois de sua carreira dar um guinada desastrosa, Alan se consulta com um psiquiatra na esperança de descobrir a origem de sua insônia.</desc>
     <length units="minutes">1440</length>
@@ -224758,52 +224889,52 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107072700 -0300" stop="20251107075100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107072000 -0300" stop="20251107074200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107075100 -0300" stop="20251107081300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107074200 -0300" stop="20251107080600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tem que escolher entre sua namorada, Lydia, e Berta, quando cada uma delas, pensando que a outra ultrapassou seus limites, luta para que ele fique do seu lado.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107081300 -0300" stop="20251107083500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107080600 -0300" stop="20251107082900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107083500 -0300" stop="20251107085900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107082900 -0300" stop="20251107085200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta descobre que Alan está saindo às escondidas com sua filha, Naomi, Alan espera por problemas. Porém, a reação de Berta é surpreendente, e muito pior, de qualquer uma que Alan pudesse imaginar.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107085900 -0300" stop="20251107094200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107085200 -0300" stop="20251107093600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Anna visita Damon levando um convidado surpresa. Elena e Stefan passam por uma situação delicada durante um encontro com Matt e Caroline. Entretanto, logo todos perceberão que têm muitas coisas em comum.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">1.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251107094200 -0300" stop="20251107102800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107093600 -0300" stop="20251107102200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Quando Stefan e Damon fazem um novo inimigo perigoso, Stefan se encontra numa situação complicada. Damon e Elena tentam convencer Alaric a trabalhar com eles para ajudar Stefan.</desc>
     <length units="minutes">2760</length>
@@ -224812,25 +224943,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251107102800 -0300" stop="20251107105000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107102200 -0300" stop="20251107104300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Meemaw é disputada por dois senhores interessados, Sheldon interfere, obrigando-a a estabelecer algumas regras básicas.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107105000 -0300" stop="20251107110900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107104300 -0300" stop="20251107110400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Depois que Sheldon desmonta a geladeira para parar um barulho irritante, ele precisa pagar pelo reparo entregando jornal.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107110900 -0300" stop="20251107113000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107110400 -0300" stop="20251107112500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando o Dr. Sturgis se aproxima de Paige, outro gênio de 10 anos, o ciúme de Sheldon leva Meemaw a intervir.</desc>
     <length units="minutes">1260</length>
@@ -224839,16 +224970,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107113000 -0300" stop="20251107115300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107112500 -0300" stop="20251107114700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando a fé de Mary é abalada por uma tragédia na comunidade, Sheldon se torna um aliado improvável.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107115300 -0300" stop="20251107121300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107114700 -0300" stop="20251107120700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando Sheldon (JIM PARSONS) descobre sobre uma mudança inesperada em seu contrato de condomínio, ele decide voltar aos tempos de 2003 - um tempo mais simples antes de conhecer Leonard ou Penny.</desc>
     <length units="minutes">1200</length>
@@ -224857,61 +224988,61 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107121300 -0300" stop="20251107123200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107120700 -0300" stop="20251107122800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os nerds recebem aulas de esgrima de Barry Kripke e Sheldon se vê em uma posição desconfortável quando Kripke expressa interesse por Amy.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107123200 -0300" stop="20251107125400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107122800 -0300" stop="20251107124900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">No meio de uma escassez nacional de gelo, Leonard e Sheldon se vem forçados a ir comprar de um distribuidor do mercado negro para poder terminar um experimento.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107125400 -0300" stop="20251107131200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107124900 -0300" stop="20251107130900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard e Penny ficam chocados ao descobrir que Sheldon iria pedir Amy em casamento. Enquanto isso, Howard e Bernadette discordam sobre reformar a casa onde ele cresceu.</desc>
-    <length units="minutes">1080</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">9.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107131200 -0300" stop="20251107133200 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107130900 -0300" stop="20251107133000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Amy se encontra com um homem misterioso e Sheldon pede a ajuda de Howard e Raj para encontrar uma nova namorada na internet.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107133200 -0300" stop="20251107135600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107133000 -0300" stop="20251107135300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">9.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107135600 -0300" stop="20251107142000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107135300 -0300" stop="20251107141600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107142000 -0300" stop="20251107144300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107141600 -0300" stop="20251107143900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Incapaz de dormir, Alan aceita a sugestão de Charlie e vai cavalgar na praia. Depois de sua carreira dar um guinada desastrosa, Alan se consulta com um psiquiatra na esperança de descobrir a origem de sua insônia.</desc>
     <length units="minutes">1380</length>
@@ -224920,69 +225051,69 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107144300 -0300" stop="20251107150500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107143900 -0300" stop="20251107150300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107150500 -0300" stop="20251107153000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107150300 -0300" stop="20251107152700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tem que escolher entre sua namorada, Lydia, e Berta, quando cada uma delas, pensando que a outra ultrapassou seus limites, luta para que ele fique do seu lado.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107153000 -0300" stop="20251107155400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107152700 -0300" stop="20251107155000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107155400 -0300" stop="20251107161900 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107155000 -0300" stop="20251107161400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta descobre que Alan está saindo às escondidas com sua filha, Naomi, Alan espera por problemas. Porém, a reação de Berta é surpreendente, e muito pior, de qualquer uma que Alan pudesse imaginar.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107161900 -0300" stop="20251107190000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107161400 -0300" stop="20251107185600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Superman: O Retorno</title>
     <desc lang="pt">Anos após um súbito desaparecimento, Superman retorna. Mas a situação é outra, a cidade se acostumou a viver sem ele. Agora além de se adaptar à nova realidade, terá de enfrentar um antigo inimigo que planej...</desc>
-    <length units="minutes">9660</length>
+    <length units="minutes">9720</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107190000 -0300" stop="20251107192300 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107185600 -0300" stop="20251107191800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando Meemaw é disputada por dois senhores interessados, Sheldon interfere, obrigando-a a estabelecer algumas regras básicas.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107192300 -0300" stop="20251107194400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107191800 -0300" stop="20251107194000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Depois que Sheldon desmonta a geladeira para parar um barulho irritante, ele precisa pagar pelo reparo entregando jornal.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107194400 -0300" stop="20251107200400 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107194000 -0300" stop="20251107200000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando o Dr. Sturgis se aproxima de Paige, outro gênio de 10 anos, o ciúme de Sheldon leva Meemaw a intervir.</desc>
     <length units="minutes">1200</length>
@@ -224991,34 +225122,34 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107200400 -0300" stop="20251107202700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107200000 -0300" stop="20251107202200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Quando a fé de Mary é abalada por uma tragédia na comunidade, Sheldon se torna um aliado improvável.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107202700 -0300" stop="20251107204700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107202200 -0300" stop="20251107204300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando Sheldon (JIM PARSONS) descobre sobre uma mudança inesperada em seu contrato de condomínio, ele decide voltar aos tempos de 2003 - um tempo mais simples antes de conhecer Leonard ou Penny.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107204700 -0300" stop="20251107210500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107204300 -0300" stop="20251107210400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os nerds recebem aulas de esgrima de Barry Kripke e Sheldon se vê em uma posição desconfortável quando Kripke expressa interesse por Amy.</desc>
-    <length units="minutes">1080</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107210500 -0300" stop="20251107212700 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107210400 -0300" stop="20251107212600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">No meio de uma escassez nacional de gelo, Leonard e Sheldon se vem forçados a ir comprar de um distribuidor do mercado negro para poder terminar um experimento.</desc>
     <length units="minutes">1320</length>
@@ -225027,28 +225158,28 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107212700 -0300" stop="20251107214800 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107212600 -0300" stop="20251107214600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard e Penny ficam chocados ao descobrir que Sheldon iria pedir Amy em casamento. Enquanto isso, Howard e Bernadette discordam sobre reformar a casa onde ele cresceu.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">9.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107214800 -0300" stop="20251107220600 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107214600 -0300" stop="20251107220700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Amy se encontra com um homem misterioso e Sheldon pede a ajuda de Howard e Raj para encontrar uma nova namorada na internet.</desc>
-    <length units="minutes">1080</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107220600 -0300" stop="20251107223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107220700 -0300" stop="20251107223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">9.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -225063,37 +225194,37 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251107225600 -0300" stop="20251107232000 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107225600 -0300" stop="20251107231900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107232000 -0300" stop="20251107234100 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107231900 -0300" stop="20251107234300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Incapaz de dormir, Alan aceita a sugestão de Charlie e vai cavalgar na praia. Depois de sua carreira dar um guinada desastrosa, Alan se consulta com um psiquiatra na esperança de descobrir a origem de sua insônia.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107234100 -0300" stop="20251108000500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107234300 -0300" stop="20251108000600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20251107234100 -0300" stop="20251108000500 -0300" channel="WARNER CHANNEL">
+  <programme start="20251107234300 -0300" stop="20251108000600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
