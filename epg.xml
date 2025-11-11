@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-11-11 11:31:01" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-11-11 14:30:55" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -85385,6 +85385,7 @@
     <title lang="pt">European Qualifiers Preview</title>
     <desc lang="pt">As melhores jogadas e os destaques do dia. Fique por dentro das Eliminatórias Européias para a Euro 2024.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">70.315.</episode-num>
   </programme>
   <programme start="20251111110000 -0300" stop="20251111130000 -0300" channel="ESPN 5">
     <title lang="pt">Botafogo-SP x Amazonas</title>
@@ -85959,7 +85960,7 @@
     <title lang="pt">30 for 30: Berlusconi: Condemned to Win</title>
     <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">9.1.</episode-num>
+    <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -175912,11 +175913,11 @@
     <previously-shown/>
   </programme>
   <programme start="20251112083000 -0300" stop="20251112093000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fortaleza x Grêmio</title>
-    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">78.316.</episode-num>
   </programme>
   <programme start="20251112093000 -0300" stop="20251112103000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Vasco x Juventude</title>
@@ -175989,23 +175990,38 @@
     <previously-shown/>
   </programme>
   <programme start="20251112193000 -0300" stop="20251112203000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Internacional x Bahia</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <title lang="pt">Aquecimento SporTV - ao vivo</title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">79.316.</episode-num>
+  </programme>
+  <programme start="20251112203000 -0300" stop="20251112223000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Fortaleza - ao vivo</title>
+    <desc lang="pt">Atlético-MG e Fortaleza jogam pela 16ª rodada do Primeiro Turno do Campeonato Brasileiro, Série A, na Arena MRV, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251112223000 -0300" stop="20251112233000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Santos</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20251112203000 -0300" stop="20251113003000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Fortaleza - ao vivo</title>
-    <desc lang="pt">Atlético-MG e Fortaleza jogam pela 16ª rodada do Primeiro Turno do Campeonato Brasileiro, Série A, na Arena MRV, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20251112233000 -0300" stop="20251113003000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Corinthians x Ceará</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251112203000 -0300" stop="20251113003000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Fortaleza - ao vivo</title>
-    <desc lang="pt">Atlético-MG e Fortaleza jogam pela 16ª rodada do Primeiro Turno do Campeonato Brasileiro, Série A, na Arena MRV, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20251112233000 -0300" stop="20251113003000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Corinthians x Ceará</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20251113003000 -0300" stop="20251113013000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Flamengo x São Paulo</title>
@@ -178278,93 +178294,93 @@
     </rating>
   </programme>
   <programme start="20251111000000 -0300" stop="20251111030000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111030000 -0300" stop="20251111060000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111060000 -0300" stop="20251111090000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111090000 -0300" stop="20251111120000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111120000 -0300" stop="20251111150000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111150000 -0300" stop="20251111180000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251111180000 -0300" stop="20251111200000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20251111200000 -0300" stop="20251112013000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">19800</length>
   </programme>
   <programme start="20251111200000 -0300" stop="20251112013000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">19800</length>
   </programme>
   <programme start="20251112013000 -0300" stop="20251112030000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">5400</length>
   </programme>
   <programme start="20251112030000 -0300" stop="20251112060000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251112060000 -0300" stop="20251112090000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251112090000 -0300" stop="20251112120000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251112120000 -0300" stop="20251112150000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251112150000 -0300" stop="20251112180000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20251112180000 -0300" stop="20251112200000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20251112200000 -0300" stop="20251113013000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">19800</length>
   </programme>
   <programme start="20251112200000 -0300" stop="20251113013000 -0300" channel="Paramount+ 1">
-    <title lang="pt">CONMEBOL Libertadores e Sudamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sudamericana com jogos exclusivos.</desc>
+    <title lang="pt">Dia 23/11 - Lanús (ARG) x Atlético Mineiro - O Resultado da Partida</title>
+    <desc lang="pt">Lanús e Atlético Mineiro definiram a grande final da Sulamericana 2025!</desc>
     <length units="minutes">19800</length>
   </programme>
   <programme start="20251113013000 -0300" stop="20251113030000 -0300" channel="Paramount+ 1">
@@ -190651,41 +190667,71 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20251111011733 -0300" stop="20251111020000 -0300" channel="SPORTV 2">
+  <programme start="20251111011033 -0300" stop="20251111011620 -0300" channel="SPORTV 2">
     <title lang="pt">1/1 Giba Fala De Relação Com Bernardinho E Quase Agressão Ao …</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2547</length>
+    <length units="minutes">347</length>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251111020000 -0300" stop="20251111040000 -0300" channel="SPORTV 2">
+  <programme start="20251111011620 -0300" stop="20251111012236 -0300" channel="SPORTV 2">
+    <title lang="pt">2/2 Abre Aspas: Giba Admite Derrota Proposital Contra A Bulgária</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">376</length>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251111012236 -0300" stop="20251111032700 -0300" channel="SPORTV 2">
     <title lang="pt">Superliga Masculina De Vôlei: Cruzeiro x Minas</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7464</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20251111040000 -0300" stop="20251111060000 -0300" channel="SPORTV 2">
-    <title lang="pt">Superliga Masculina De Vôlei: Praia Clube x  Joinville</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251111032700 -0300" stop="20251111033839 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Abre Aspas: Thaisa, Bicampeã Olimpica De Vôlei</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">699</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20251111060000 -0300" stop="20251111080000 -0300" channel="SPORTV 2">
+  <programme start="20251111033839 -0300" stop="20251111035111 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Abre Aspas: Douglas Souza, Jogador De Vôlei Do Sada/Cruzeiro</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">752</length>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251111035111 -0300" stop="20251111042121 -0300" channel="SPORTV 2">
+    <title lang="pt">1/1 Abre Aspas Bruninho Relembra Ao Fundo Do Poço, Fala De R</title>
+    <sub-title lang="pt">Jogo de Ida</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1810</length>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251111042121 -0300" stop="20251111062045 -0300" channel="SPORTV 2">
     <title lang="pt">Superliga Feminina De Vôlei: Sesi-Bauru x Fluminense</title>
     <sub-title lang="pt">4ª Rodada</sub-title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7164</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20251111080000 -0300" stop="20251111100000 -0300" channel="SPORTV 2">
+  <programme start="20251111062045 -0300" stop="20251111100000 -0300" channel="SPORTV 2">
     <title lang="pt">Superliga Masculina De Vôlei: Campinas x Guarulhos</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">13155</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -190767,50 +190813,75 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20251112050000 -0300" stop="20251112090000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112050000 -0300" stop="20251112070000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Masculina De Vôlei: Cruzeiro x Minas</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20251112090000 -0300" stop="20251112130000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112070000 -0300" stop="20251112085000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina De Vôlei: Tijuca x Sesc RJ Flamengo: 4ª …</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">6600</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20251112130000 -0300" stop="20251112170000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112085000 -0300" stop="20251112110000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Masculina De Vôlei: Praia Clube x  Joinville</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">7800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20251112170000 -0300" stop="20251112210000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112110000 -0300" stop="20251112130000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina De Vôlei: Sesi-Bauru x Fluminense</title>
+    <sub-title lang="pt">4ª Rodada</sub-title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20251112210000 -0300" stop="20251113000000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">10800</length>
+  <programme start="20251112130000 -0300" stop="20251112140000 -0300" channel="SPORTV 2">
+    <title lang="pt">Hello La</title>
+    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">73.316.</episode-num>
+  </programme>
+  <programme start="20251112140000 -0300" stop="20251112160000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina De Vôlei: Tijuca x Sesc RJ Flamengo: 4ª …</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251112160000 -0300" stop="20251112181000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Masculina De Vôlei: Praia Clube x  Joinville</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251112181000 -0300" stop="20251112203000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina De Vôlei: Minas x Tijuca - ao vivo</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251112203000 -0300" stop="20251112230000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Masculina De Vôlei: Cruzeiro x Campinas: …</title>
+    <sub-title lang="pt">11ª Rodada</sub-title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20251112230000 -0300" stop="20251113000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Hello La</title>
+    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">73.316.</episode-num>
   </programme>
   <programme start="20251113000000 -0300" stop="20251113020000 -0300" channel="SPORTV 2">
     <title lang="pt">Superliga Feminina De Vôlei: Minas x Tijuca</title>
@@ -190988,28 +191059,22 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">22.314.</episode-num>
   </programme>
-  <programme start="20251111010956 -0300" stop="20251111050956 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251111005401 -0300" stop="20251111035241 -0300" channel="SPORTV 3">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
+    <length units="minutes">10720</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20251111050956 -0300" stop="20251111075500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9904</length>
+  <programme start="20251111035241 -0300" stop="20251111075804 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: KSW 111</title>
+    <desc lang="pt">É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
+    <length units="minutes">14723</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20251111075500 -0300" stop="20251111102500 -0300" channel="SPORTV 3">
+  <programme start="20251111075804 -0300" stop="20251111102500 -0300" channel="SPORTV 3">
     <title lang="pt">Faixa Combate: One Fight Night 36</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">8816</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">7.315.</episode-num>
   </programme>
@@ -191101,59 +191166,65 @@
     <length units="minutes">14400</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251112061500 -0300" stop="20251112101500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112061500 -0300" stop="20251112092000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: PFL Europe</title>
+    <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc>
+    <length units="minutes">11100</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">6.316.</episode-num>
   </programme>
-  <programme start="20251112101500 -0300" stop="20251112141500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112092000 -0300" stop="20251112115000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: One Fight Night 36</title>
+    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA.</desc>
+    <length units="minutes">9000</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">9.316.</episode-num>
   </programme>
-  <programme start="20251112141500 -0300" stop="20251112181500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112115000 -0300" stop="20251112144500 -0300" channel="SPORTV 3">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
+    <length units="minutes">10500</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">11.316.</episode-num>
   </programme>
-  <programme start="20251112181500 -0300" stop="20251112221500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112144500 -0300" stop="20251112174500 -0300" channel="SPORTV 3">
+    <title lang="pt">FMS Fight Night 7</title>
+    <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20251112221500 -0300" stop="20251113021500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112174500 -0300" stop="20251112200000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: Mac 16</title>
+    <desc lang="pt">Uma batalha de técnica, resistência e estratégia. o MAC promete adrenalina pura, superação e um desfecho emocionante.</desc>
+    <length units="minutes">8100</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">17.316.</episode-num>
   </programme>
-  <programme start="20251112221500 -0300" stop="20251113021500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20251112200000 -0300" stop="20251112215000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: PFL Mena</title>
+    <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc>
+    <length units="minutes">6600</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">20.316.</episode-num>
+  </programme>
+  <programme start="20251112215000 -0300" stop="20251113005500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: PFL Europe</title>
+    <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc>
+    <length units="minutes">11100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">21.316.</episode-num>
+  </programme>
+  <programme start="20251112215000 -0300" stop="20251113005500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: PFL Europe</title>
+    <desc lang="pt">PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc>
+    <length units="minutes">11100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">21.316.</episode-num>
+  </programme>
+  <programme start="20251113005500 -0300" stop="20251113021500 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">4800</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20251113021500 -0300" stop="20251113061500 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
@@ -194766,40 +194837,13 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
   </programme>
-  <programme start="20251111000000 -0300" stop="20251111023000 -0300" channel="SportyNet HD">
+  <programme start="20251111000000 -0300" stop="20251111013000 -0300" channel="SportyNet HD">
     <title lang="pt">América-MX x Leon</title>
     <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">5400</length>
     <previously-shown/>
   </programme>
-  <programme start="20251111023000 -0300" stop="20251111030000 -0300" channel="SportyNet HD">
-    <title lang="pt">Nossa Resenha</title>
-    <desc lang="pt">A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">72.315.</episode-num>
-  </programme>
-  <programme start="20251111030000 -0300" stop="20251111053000 -0300" channel="SportyNet HD">
-    <title lang="pt">Fora Do Jogo</title>
-    <desc lang="pt">JP Scofano recebe personalidades do futebol para um bate-papo bem-humorado e com muita resenha.</desc>
-    <length units="minutes">9000</length>
-  </programme>
-  <programme start="20251111053000 -0300" stop="20251111064500 -0300" channel="SportyNet HD">
-    <title lang="pt">Sporty Clube</title>
-    <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
-    <length units="minutes">4500</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251111064500 -0300" stop="20251111080000 -0300" channel="SportyNet HD">
-    <title lang="pt">Sports Market Makers</title>
-    <desc lang="pt">O Sports Market Makers é a editoria de Finanças &amp; Esportes do Market Makers, em parceria com a OutField - gestora referência em investimentos em esportes.</desc>
-    <length units="minutes">4500</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251111080000 -0300" stop="20251111093000 -0300" channel="SportyNet HD">
+  <programme start="20251111013000 -0300" stop="20251111030000 -0300" channel="SportyNet HD">
     <title lang="pt">Sporty Clube</title>
     <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
     <length units="minutes">5400</length>
@@ -194807,10 +194851,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251111093000 -0300" stop="20251111100000 -0300" channel="SportyNet HD">
-    <title lang="pt">Bundesliga Klassiker</title>
-    <desc lang="pt">O Nosso Futebol relembra momentos que foram marcantes na história de mais de 60 anos da Bundesliga.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20251111030000 -0300" stop="20251111054500 -0300" channel="SportyNet HD">
+    <title lang="pt">Fora Do Jogo</title>
+    <desc lang="pt">JP Scofano recebe personalidades do futebol para um bate-papo bem-humorado e com muita resenha.</desc>
+    <length units="minutes">9900</length>
+  </programme>
+  <programme start="20251111054500 -0300" stop="20251111064500 -0300" channel="SportyNet HD">
+    <title lang="pt">Nossa Resenha</title>
+    <desc lang="pt">A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">75.315.</episode-num>
+  </programme>
+  <programme start="20251111064500 -0300" stop="20251111083000 -0300" channel="SportyNet HD">
+    <title lang="pt">Sports Market Makers</title>
+    <desc lang="pt">O Sports Market Makers é a editoria de Finanças &amp; Esportes do Market Makers, em parceria com a OutField - gestora referência em investimentos em esportes.</desc>
+    <length units="minutes">6300</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251111083000 -0300" stop="20251111100000 -0300" channel="SportyNet HD">
+    <title lang="pt">Sporty Clube</title>
+    <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -194821,37 +194884,39 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">70.315.</episode-num>
   </programme>
-  <programme start="20251111110000 -0300" stop="20251111140000 -0300" channel="SportyNet HD">
-    <title lang="pt">América-MG x Novorizontino</title>
+  <programme start="20251111110000 -0300" stop="20251111130000 -0300" channel="SportyNet HD">
+    <title lang="pt">Criciúma x Atlético-GO</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20251111140000 -0300" stop="20251111150000 -0300" channel="SportyNet HD">
+  <programme start="20251111130000 -0300" stop="20251111150000 -0300" channel="SportyNet HD">
     <title lang="pt">El Chiringuito</title>
     <desc lang="pt">O talk show esportivo mais intenso da Espanha estreia no Brasil! Josep Pedrerol e sua equipe mergulham nos bastidores do futebol europeu com opiniões afiadas, debates acalorados e muita paixão.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251111150000 -0300" stop="20251111170000 -0300" channel="SportyNet HD">
-    <title lang="pt">Atlético-GO x Paysandu</title>
+    <title lang="pt">Paysandu x Coritiba</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20251111170000 -0300" stop="20251111190000 -0300" channel="SportyNet HD">
-    <title lang="pt">América-MX x Leon</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251111190000 -0300" stop="20251111200000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+  <programme start="20251111170000 -0300" stop="20251111180000 -0300" channel="SportyNet HD">
+    <title lang="pt">Bastidores Do Acesso</title>
+    <desc lang="pt">A Série C de 2025 coroou Ponte Preta, Londrina, Náutico e São Bernardo com o tão sonhado acesso à Série B. A SportyNet homenagea os quatro clubes e traz imagens marcantes do dia do acesso, um dia que ficará etern...</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">79.315.</episode-num>
+    <episode-num system="xmltv_ns">77.315.</episode-num>
+  </programme>
+  <programme start="20251111180000 -0300" stop="20251111200000 -0300" channel="SportyNet HD">
+    <title lang="pt">El Chiringuito</title>
+    <desc lang="pt">O talk show esportivo mais intenso da Espanha estreia no Brasil! Josep Pedrerol e sua equipe mergulham nos bastidores do futebol europeu com opiniões afiadas, debates acalorados e muita paixão.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251111200000 -0300" stop="20251111210000 -0300" channel="SportyNet HD">
     <title lang="pt">Planeta Futebol Feminino - ao vivo</title>
@@ -194860,63 +194925,66 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">70.315.</episode-num>
   </programme>
-  <programme start="20251111210000 -0300" stop="20251111230000 -0300" channel="SportyNet HD">
-    <title lang="pt">Campeonato Francês</title>
-    <desc lang="pt">Dezoito clubes disputam a tradicional Ligue 2. O sonho é chegar à primeira divisão do futebol francês. São duas vagas diretas para a elite e mais uma vaga disputada em um playoff emocionante no fim da temporada.-</desc>
-    <length units="minutes">7200</length>
+  <programme start="20251111210000 -0300" stop="20251111223000 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">71.315.</episode-num>
   </programme>
-  <programme start="20251111230000 -0300" stop="20251112000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Nossa Resenha</title>
-    <desc lang="pt">A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">73.315.</episode-num>
+  <programme start="20251111223000 -0300" stop="20251112000000 -0300" channel="SportyNet HD">
+    <title lang="pt">Cruz Azul x Pumas</title>
+    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
   </programme>
   <programme start="20251112000000 -0300" stop="20251112020000 -0300" channel="SportyNet HD">
-    <title lang="pt">RB Leipzig x Stuttgart</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
+    <title lang="pt">Toluca x América-MX</title>
+    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20251112020000 -0300" stop="20251112030000 -0300" channel="SportyNet HD">
-    <title lang="pt">Nossa Resenha</title>
-    <desc lang="pt">A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">72.316.</episode-num>
-  </programme>
-  <programme start="20251112030000 -0300" stop="20251112054500 -0300" channel="SportyNet HD">
-    <title lang="pt">Fora Do Jogo</title>
-    <desc lang="pt">JP Scofano recebe personalidades do futebol para um bate-papo bem-humorado e com muita resenha.</desc>
-    <length units="minutes">9900</length>
-  </programme>
-  <programme start="20251112054500 -0300" stop="20251112064500 -0300" channel="SportyNet HD">
+  <programme start="20251112020000 -0300" stop="20251112033000 -0300" channel="SportyNet HD">
     <title lang="pt">Sporty Clube</title>
     <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251112064500 -0300" stop="20251112080000 -0300" channel="SportyNet HD">
+  <programme start="20251112033000 -0300" stop="20251112054500 -0300" channel="SportyNet HD">
+    <title lang="pt">Fora Do Jogo</title>
+    <desc lang="pt">JP Scofano recebe personalidades do futebol para um bate-papo bem-humorado e com muita resenha.</desc>
+    <length units="minutes">8100</length>
+  </programme>
+  <programme start="20251112054500 -0300" stop="20251112064500 -0300" channel="SportyNet HD">
+    <title lang="pt">Nossa Resenha</title>
+    <desc lang="pt">A Nossa Resenha é completa! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">75.316.</episode-num>
+  </programme>
+  <programme start="20251112064500 -0300" stop="20251112083000 -0300" channel="SportyNet HD">
     <title lang="pt">Sports Market Makers</title>
     <desc lang="pt">O Sports Market Makers é a editoria de Finanças &amp; Esportes do Market Makers, em parceria com a OutField - gestora referência em investimentos em esportes.</desc>
+    <length units="minutes">6300</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251112083000 -0300" stop="20251112094500 -0300" channel="SportyNet HD">
+    <title lang="pt">Sporty Clube</title>
+    <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
     <length units="minutes">4500</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251112080000 -0300" stop="20251112090000 -0300" channel="SportyNet HD">
-    <title lang="pt">Sporty Clube</title>
-    <desc lang="pt">No Sporty Clube o debate é com irreverência e paixão pelo futebol, trazendo análises afiadas, convidados especiais e muita resenha sobre os principais lances da rodada - tudo no clima descontraído que só o Nosso Futeb...</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251112094500 -0300" stop="20251112100000 -0300" channel="SportyNet HD">
+    <title lang="pt">Bundesliga Klassiker</title>
+    <desc lang="pt">O Nosso Futebol relembra momentos que foram marcantes na história de mais de 60 anos da Bundesliga.</desc>
+    <length units="minutes">900</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
-  </programme>
-  <programme start="20251112090000 -0300" stop="20251112100000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show Da Copa Da Itália</title>
-    <desc lang="pt">O melhor da rodada da Copa Itália. Gols, melhores momentos e todos os detalhes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">79.316.</episode-num>
   </programme>
   <programme start="20251112100000 -0300" stop="20251112110000 -0300" channel="SportyNet HD">
     <title lang="pt">Show da Bundesliga</title>
@@ -194925,7 +194993,7 @@
     <episode-num system="xmltv_ns">70.316.</episode-num>
   </programme>
   <programme start="20251112110000 -0300" stop="20251112130000 -0300" channel="SportyNet HD">
-    <title lang="pt">Goiás x Athletico-PR</title>
+    <title lang="pt">Paysandu x Coritiba</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -194939,7 +195007,7 @@
     </rating>
   </programme>
   <programme start="20251112150000 -0300" stop="20251112170000 -0300" channel="SportyNet HD">
-    <title lang="pt">RB Leipzig x Stuttgart</title>
+    <title lang="pt">Union Berlin x Bayern De Munique</title>
     <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -194965,7 +195033,7 @@
     <episode-num system="xmltv_ns">70.316.</episode-num>
   </programme>
   <programme start="20251112210000 -0300" stop="20251112230000 -0300" channel="SportyNet HD">
-    <title lang="pt">Monterrey x Tigres</title>
+    <title lang="pt">Toluca x América-MX</title>
     <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -201707,18 +201775,11 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251111201500 -0300" stop="20251111204500 -0300" channel="TNT HD">
-    <title lang="pt">Pré-Jogo Paulistão</title>
-    <desc lang="pt">O estadual mais disputado do país chega na tela da TNT! São 16 equipes na luta para conquistar a primeira taça do calendário nacional e você acompanha todos os detalhes agora.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251111204500 -0300" stop="20251111221500 -0300" channel="TNT HD">
+  <programme start="20251111201500 -0300" stop="20251111221500 -0300" channel="TNT HD">
     <title lang="pt">Sorteio Paulistão</title>
     <desc lang="pt">O Paulistão começa agora! As 16 equipes participantes conhecem nesta quinta-feira os grupos para a primeira fase da competição.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">70.315.</episode-num>
   </programme>
   <programme start="20251111221500 -0300" stop="20251112003100 -0300" channel="TNT HD">
     <title lang="pt">John Wick 3 - Parabellum</title>
