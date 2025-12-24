@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-12-24 14:31:07" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-12-24 17:30:56" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11432,19 +11432,10 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.361.</episode-num>
   </programme>
-  <programme start="20251227060000 -0300" stop="20251227063000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.361.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251227063000 -0300" stop="20251227070000 -0300" channel="BAND HD">
+  <programme start="20251227060000 -0300" stop="20251227070000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.361.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -11661,13 +11652,10 @@
     </rating>
   </programme>
   <programme start="20251228083000 -0300" stop="20251228090000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Saúde e Bem Estar</title>
-    <desc lang="pt">Espaço publicitário.</desc>
+    <title lang="pt">Band Esporte</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">8.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">78.362.</episode-num>
   </programme>
   <programme start="20251228090000 -0300" stop="20251228093000 -0300" channel="BAND HD">
     <title lang="pt">Cidade Forte, Brasil Forte</title>
@@ -11701,17 +11689,11 @@
     <length units="minutes">8100</length>
     <episode-num system="xmltv_ns">72.362.</episode-num>
   </programme>
-  <programme start="20251228141500 -0300" stop="20251228163000 -0300" channel="BAND HD">
+  <programme start="20251228141500 -0300" stop="20251228164500 -0300" channel="BAND HD">
     <title lang="pt">Argélia x Burkina Faso - ao vivo</title>
     <desc lang="pt">A principal competição de futebol entre seleções do continente africano, com craques dos maiores times do mundo.</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20251228163000 -0300" stop="20251228164500 -0300" channel="BAND HD">
-    <title lang="pt">Show do Esporte</title>
-    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">76.362.</episode-num>
   </programme>
   <programme start="20251228164500 -0300" stop="20251228190000 -0300" channel="BAND HD">
     <title lang="pt">Costa do Marfim x Camarões - ao vivo</title>
