@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-12-28 11:30:56" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-12-28 14:30:58" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -5791,7 +5791,7 @@
     <title lang="pt">Arte 1 em Série: Beethoven por Barenboim: Sinfonia Eroica</title>
     <desc lang="pt">Ao longo da série de treze episódios, o maestro argentino Daniel Barenboim mergulha nas composições de Beethoven. Ao tocar a obra do compositor germânico, Barenboim mostra a genialidade de cada nota.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.9.</episode-num>
+    <episode-num system="xmltv_ns">28.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -5800,7 +5800,7 @@
     <title lang="pt">Arte 1 em Série: Beethoven por Barenboim: O Sinfonista</title>
     <desc lang="pt">Ao longo da série de treze episódios, o maestro argentino Daniel Barenboim mergulha nas composições de Beethoven. Ao tocar a obra do compositor germânico, Barenboim mostra a genialidade de cada nota.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">25.10.</episode-num>
+    <episode-num system="xmltv_ns">28.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -5809,7 +5809,7 @@
     <title lang="pt">Arte 1 em Série: Beethoven por Barenboim: Sonata para Piano No. 32, …</title>
     <desc lang="pt">Ao longo da série de treze episódios, o maestro argentino Daniel Barenboim mergulha nas composições de Beethoven. Ao tocar a obra do compositor germânico, Barenboim mostra a genialidade de cada nota.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.12.</episode-num>
+    <episode-num system="xmltv_ns">26.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -5916,7 +5916,7 @@
     <title lang="pt">Arte 1 em Série: Beethoven por Barenboim: Sonata para Piano No. 32, …</title>
     <desc lang="pt">Ao longo da série de treze episódios, o maestro argentino Daniel Barenboim mergulha nas composições de Beethoven. Ao tocar a obra do compositor germânico, Barenboim mostra a genialidade de cada nota.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
+    <episode-num system="xmltv_ns">26.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -20188,7 +20188,7 @@
     <sub-title lang="pt">_24/12/2025</sub-title>
     <desc lang="pt">O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.156.</episode-num>
+    <episode-num system="xmltv_ns">26.156.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -22747,11 +22747,46 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228030000 -0300" stop="20251228060000 -0300" channel="CANAL RURAL">
-    <title lang="pt">TV Verdade</title>
-    <desc lang="pt">Acompanhe as novidades sobre o mercado agropecuário e agricultor.</desc>
-    <length units="minutes">10800</length>
+  <programme start="20251228030000 -0300" stop="20251228041500 -0300" channel="CANAL RURAL">
+    <title lang="pt">Podcast Giro do Boi</title>
+    <desc lang="pt">Programa de entrevista com os melhores ícones da pecuária nacional.</desc>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">3.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228041500 -0300" stop="20251228044500 -0300" channel="CANAL RURAL">
+    <title lang="pt">Interligados Vida No Campo</title>
+    <desc lang="pt">Semanalmente, o Interligados visita produtores e produtoras de todo o Brasil.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">4.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228044500 -0300" stop="20251228051500 -0300" channel="CANAL RURAL">
+    <title lang="pt">Planeta Campo Talks</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228051500 -0300" stop="20251228053000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Memórias Do Brasil Rural</title>
+    <desc lang="pt">A história do agro contada por quem protagonizou fatos que tornaram o segmento uma potência global. É o que vai mostrar o Memórias do Brasil Rural.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228053000 -0300" stop="20251228060000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Odair Terra</title>
+    <desc lang="pt">Odair Terra com programa recheado de música sertaneja e entrevistas com nomes renomados da música!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -22775,10 +22810,9 @@
     </rating>
   </programme>
   <programme start="20251228073000 -0300" stop="20251228080000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Porteira Aberta Empreender</title>
-    <desc lang="pt">O projeto &quot;Porteira Aberta Empreender&quot;, uma parceria do Sebrae e do Canal Rural, leva informações de gestão, finanças e empreendedorismo para o micro e pequeno produtor rural.</desc>
+    <title lang="pt">Agenda ESG</title>
+    <desc lang="pt">&quot;Agenda ESG&quot; é uma envolvente série que explora a importância da sustentabilidade e das práticas ESG (ambiental, social e governança) no mundo atual.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">7.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -22799,15 +22833,6 @@
     </rating>
   </programme>
   <programme start="20251228100000 -0300" stop="20251228103000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Interligados Vida No Campo</title>
-    <desc lang="pt">Semanalmente, o Interligados visita produtores e produtoras de todo o Brasil.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">10.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228103000 -0300" stop="20251228110000 -0300" channel="CANAL RURAL">
     <title lang="pt">Canal Rural Entrevista</title>
     <desc lang="pt">Acompanhe discussões sobre temas do agronegócio, como política, infraestrutura e sustentabilidade.</desc>
     <length units="minutes">1800</length>
@@ -22816,15 +22841,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228110000 -0300" stop="20251228120000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Documentário Porto Alegre</title>
-    <desc lang="pt">A história da cidade de Porto Alegre, capital do Estado do Rio Grande do Sul, em uma narrativa parte ficcional e parte documental que utiliza imagens de arquivo, depoimentos e cenas filmadas que reconstituem eventos marcantes vf.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251228103000 -0300" stop="20251228123000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Lance Cast</title>
+    <desc lang="pt">Acompanhe entrevistas com convidados e fique por dentro dos assuntos do momento na agricultura.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">10.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228120000 -0300" stop="20251228121500 -0300" channel="CANAL RURAL">
+  <programme start="20251228123000 -0300" stop="20251228124500 -0300" channel="CANAL RURAL">
     <title lang="pt">Cores e Sabores</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">900</length>
@@ -22833,94 +22859,84 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228121500 -0300" stop="20251228130000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Brasil Caipira</title>
-    <desc lang="pt">Música caipira, vida na roça, produtor rural, homem do campo,costumes, tradições e cultura brasileira, Sertanejo, sertão, viola caipira, coisas do interior.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20251228124500 -0300" stop="20251228130000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Podcast Giro do Boi</title>
+    <desc lang="pt">Programa de entrevista com os melhores ícones da pecuária nacional.</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">12.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228130000 -0300" stop="20251228133000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Nova Amazônia</title>
-    <desc lang="pt">Todas as formas de conhecimento originado na região amazônica - do rigor da pesquisa científica à sabedoria dos povos da floresta. Produzido pela TV Cultura do Amazonas.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20251228130000 -0300" stop="20251228131500 -0300" channel="CANAL RURAL">
+    <title lang="pt">Em Busca Da Árvore Perfeita</title>
+    <desc lang="pt">Série documental que acompanha o desenvolvimento de novas tecnologias e práticas para aprimorar o cultivo de árvores, especialmente eucaliptos, visando obter árvores com características superiores para plantações.</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">13.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228133000 -0300" stop="20251228140000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Planeta Campo Talks</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20251228131500 -0300" stop="20251228133000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Videocast A Protagonista</title>
+    <desc lang="pt">Este programa semanal, exibido no Canal Rural, destaca as vozes e realizações das mulheres no setor, conectando os grupos mais relevantes do agronegócio feminino.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">13.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228140000 -0300" stop="20251228170000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Televendas Marilda</title>
-    <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.</desc>
-    <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">14.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228170000 -0300" stop="20251228180000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Vale Agrícola</title>
-    <desc lang="pt">Aqui você confere as principais culturas que predominam nas lavouras, as novidades que são destaque no campo, produtores que se dedicam ao cultivo da terra e assuntos que estão em alta no setor.</desc>
+  <programme start="20251228133000 -0300" stop="20251228143000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Brasil Caipira</title>
+    <desc lang="pt">Música caipira, vida na roça, produtor rural, homem do campo,costumes, tradições e cultura brasileira, Sertanejo, sertão, viola caipira, coisas do interior.</desc>
     <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">13.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228143000 -0300" stop="20251228153000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Documentário Xandy Negrão</title>
+    <desc lang="pt">A trajetória do pecuarista, piloto da Stock Car e fundador da Medley.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228153000 -0300" stop="20251228163000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Mangalarga Marchador</title>
+    <desc lang="pt">Programa jornalístico que apresenta os cuidados com os animais da raça e entrevistas com criadores e especialistas, além de trazer a cobertura de eventos.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">75.362.</episode-num>
+  </programme>
+  <programme start="20251228163000 -0300" stop="20251228170000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Odair Terra</title>
+    <desc lang="pt">Odair Terra com programa recheado de música sertaneja e entrevistas com nomes renomados da música!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">16.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228170000 -0300" stop="20251228200000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Champion Saúde Animal</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços da Champion Saúde Animal.</desc>
+    <length units="minutes">10800</length>
     <episode-num system="xmltv_ns">17.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228180000 -0300" stop="20251228184500 -0300" channel="CANAL RURAL">
-    <title lang="pt">Memórias Do Brasil Rural</title>
-    <desc lang="pt">A história do agro contada por quem protagonizou fatos que tornaram o segmento uma potência global. É o que vai mostrar o Memórias do Brasil Rural.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">18.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228184500 -0300" stop="20251228190000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Especial Nelore Fest 2025</title>
-    <desc lang="pt">A principal premiação da pecuária brasileira celebrou inovação, mercado aquecido e o futuro da raça.</desc>
-    <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228190000 -0300" stop="20251228194000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Construindo Pontes</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228194000 -0300" stop="20251228210000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Podcast Giro do Boi</title>
-    <desc lang="pt">Programa de entrevista com os melhores ícones da pecuária nacional.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">19.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228210000 -0300" stop="20251228223000 -0300" channel="CANAL RURAL">
+  <programme start="20251228200000 -0300" stop="20251228220000 -0300" channel="CANAL RURAL">
     <title lang="pt">Lance Cast</title>
     <desc lang="pt">Acompanhe entrevistas com convidados e fique por dentro dos assuntos do momento na agricultura.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">21.362.</episode-num>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">20.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228223000 -0300" stop="20251228230000 -0300" channel="CANAL RURAL">
+  <programme start="20251228220000 -0300" stop="20251228223000 -0300" channel="CANAL RURAL">
     <title lang="pt">Planeta Campo Talks</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
@@ -22928,10 +22944,20 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20251228223000 -0300" stop="20251228230000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Interligados Vida No Campo</title>
+    <desc lang="pt">Semanalmente, o Interligados visita produtores e produtoras de todo o Brasil.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">22.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20251228230000 -0300" stop="20251229000000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Documentário Amazônia Azul</title>
-    <desc lang="pt">O documentário busca abranger aspectos humanos, ambientais e seus desdobramentos econômicos e geopolíticos, com uma enorme diversidade de cenários até hoje muito poucoacessados e divulgados.</desc>
+    <title lang="pt">Podcast Giro do Boi</title>
+    <desc lang="pt">Programa de entrevista com os melhores ícones da pecuária nacional.</desc>
     <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -45424,17 +45450,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228000000 -0300" stop="20251228013000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Talks</title>
-    <desc lang="pt">A plataforma de eventos que conecta vozes e impulsiona o diálogo.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20251227210000 -0300" stop="20251228013000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
+    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
+    <length units="minutes">16200</length>
+    <episode-num system="xmltv_ns">71.361.</episode-num>
   </programme>
   <programme start="20251228013000 -0300" stop="20251228023000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">WW</title>
-    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
+    <title lang="pt">Cripto na Real</title>
+    <desc lang="pt">Programa dedicado ao universo das criptomoedas e da tecnologia blockchain. Com uma linguagem acessível e foco em conteúdo de qualidade, o programa tem como objetivo explorar as oportunidades de negócios no mundo das criptomoedas.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">71.362.</episode-num>
   </programme>
@@ -45453,65 +45477,53 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228073000 -0300" stop="20251228090000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Talks</title>
-    <desc lang="pt">A plataforma de eventos que conecta vozes e impulsiona o diálogo.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">7.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228090000 -0300" stop="20251228133000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20251228073000 -0300" stop="20251228120000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
     <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <length units="minutes">16200</length>
-    <episode-num system="xmltv_ns">79.362.</episode-num>
+    <episode-num system="xmltv_ns">77.362.</episode-num>
   </programme>
-  <programme start="20251228133000 -0300" stop="20251228143000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Capital Insights</title>
-    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
+  <programme start="20251228120000 -0300" stop="20251228130000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Cripto na Real</title>
+    <desc lang="pt">Programa dedicado ao universo das criptomoedas e da tecnologia blockchain. Com uma linguagem acessível e foco em conteúdo de qualidade, o programa tem como objetivo explorar as oportunidades de negócios no mundo das criptomoedas.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">13.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">72.362.</episode-num>
   </programme>
-  <programme start="20251228143000 -0300" stop="20251228153000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20251228130000 -0300" stop="20251228140000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">WW</title>
     <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">74.362.</episode-num>
+    <episode-num system="xmltv_ns">73.362.</episode-num>
   </programme>
-  <programme start="20251228153000 -0300" stop="20251228160000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20251228140000 -0300" stop="20251228143000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">É Negócio</title>
     <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">15.362.</episode-num>
+    <episode-num system="xmltv_ns">14.362.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228160000 -0300" stop="20251228173000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Talks</title>
-    <desc lang="pt">A plataforma de eventos que conecta vozes e impulsiona o diálogo.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">16.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251228173000 -0300" stop="20251228183000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">WW</title>
-    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">77.362.</episode-num>
-  </programme>
-  <programme start="20251228183000 -0300" stop="20251228230000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20251228143000 -0300" stop="20251228190000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
     <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <length units="minutes">16200</length>
-    <episode-num system="xmltv_ns">78.362.</episode-num>
+    <episode-num system="xmltv_ns">74.362.</episode-num>
+  </programme>
+  <programme start="20251228190000 -0300" stop="20251228200000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Capital Insights</title>
+    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">19.362.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251228200000 -0300" stop="20251228210000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Cripto na Real</title>
+    <desc lang="pt">Programa dedicado ao universo das criptomoedas e da tecnologia blockchain. Com uma linguagem acessível e foco em conteúdo de qualidade, o programa tem como objetivo explorar as oportunidades de negócios no mundo das criptomoedas.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">70.362.</episode-num>
   </programme>
   <programme start="20251228210000 -0300" stop="20251229013000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
@@ -45519,14 +45531,11 @@
     <length units="minutes">16200</length>
     <episode-num system="xmltv_ns">71.362.</episode-num>
   </programme>
-  <programme start="20251228230000 -0300" stop="20251229000000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Capital Insights</title>
-    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.362.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20251228210000 -0300" stop="20251229013000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
+    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
+    <length units="minutes">16200</length>
+    <episode-num system="xmltv_ns">71.362.</episode-num>
   </programme>
   <programme start="20251229013000 -0300" stop="20251229023000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">WW</title>
@@ -52958,7 +52967,7 @@
     <title lang="pt">Caminhos dos Orixás: Nanã - O vodun da sabedoria: o feminismo …</title>
     <desc lang="pt">A avó, a que estava no inicio de tudo, quem forneceu o barro para moldar os humanos, vamos conhecer a Irmandade da Boa Morte e uma das festas mais tradicionais para o povo de Axé. Saluba!</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">25.192.</episode-num>
+    <episode-num system="xmltv_ns">26.52.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -53035,7 +53044,7 @@
     <title lang="pt">Em Cena: A Arte da Interpretação</title>
     <desc lang="pt">O terceiro episódio investiga as diferentes escolas de pensamento sobre interpretação que nasceram pelo mundo mas encontraram ressonância por aqui como Stanislavski, Brecht, Meyerhold, Artaud e Grotowski.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">25.3.</episode-num>
+    <episode-num system="xmltv_ns">26.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101387,7 +101396,7 @@
     <sub-title lang="pt">Soluções Baseadas na Natureza</sub-title>
     <desc lang="pt">O Brasil é um grande polo de inovação do agronegócio no mundo, veremos neste episódio exemplos de como a agricultura torna-se uma solução baseada na natureza quando é feita de forma sustentável.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.12.</episode-num>
+    <episode-num system="xmltv_ns">28.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101407,7 +101416,7 @@
     <sub-title lang="pt">Tecnologia que vem do Lixo</sub-title>
     <desc lang="pt">O lixo eletrônico tem poder de transformação. Nosso apresentador mostra como esses materiais e garrafas PETs podem virar robôs, postes e outros recursos valiosos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101466,7 +101475,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -101476,7 +101485,7 @@
     <sub-title lang="pt">Marvel</sub-title>
     <desc lang="pt">A Marvel é a super-heroína do mundo do entretenimento, mas a empresa esteve à beira do colapso, em guerra para sobreviver.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101486,7 +101495,7 @@
     <sub-title lang="pt">Ecoturismo</sub-title>
     <desc lang="pt">O turismo comunitário na Amazônia abre novas possibilidades de geração de renda para as comunidades do interior da região. Além disso, promove a conscientização sobre o desenvolvimento sustentável.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101496,7 +101505,7 @@
     <sub-title lang="pt">Joel Zito Araújo II</sub-title>
     <desc lang="pt">A negação do Brasil: o diretor Joel Zito Araújo fala sobre seu trabalho, vida e trajetória cinematográfica.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">28.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101535,7 +101544,7 @@
     <sub-title lang="pt">Diversidade cultural e seus conflitos</sub-title>
     <desc lang="pt">Como trabalhar as diferenças em sala de aula? Especialistas discutem estratégias para ampliar o respeito e a inclusão, debatendo diversidade cultural, identidade e conflitos sociais na EJA.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.8.</episode-num>
+    <episode-num system="xmltv_ns">27.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101545,7 +101554,7 @@
     <sub-title lang="pt">CE Professora Luiza Marinho</sub-title>
     <desc lang="pt">Com a forte participação dos alunos nas atividades culturais e a proximidade com a Escola de Samba da Portela, os estudantes receberam o desafio de criar uma marchinha de carnaval para o colégio.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.3.</episode-num>
+    <episode-num system="xmltv_ns">27.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101583,7 +101592,7 @@
     <sub-title lang="pt">A M.U.F.A. Está Em Obras</sub-title>
     <desc lang="pt">Kauê e Carol ajudam Miolo a fazer obrar para tornar a M.U.F.A mais acessível. Em meio a brincadeiras, eles aprendem sobre os diversos tipos de acessibilidade.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.8.</episode-num>
+    <episode-num system="xmltv_ns">26.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101593,7 +101602,7 @@
     <sub-title lang="pt">Carlos Gardel</sub-title>
     <desc lang="pt">Manga está tendo dificuldades para tocar sua flauta quando Mytikah os leva para conhecer a história de Carlos Gardel.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">25.7.</episode-num>
+    <episode-num system="xmltv_ns">28.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101603,7 +101612,7 @@
     <sub-title lang="pt">O cavaleiro de madeira</sub-title>
     <desc lang="pt">Yetili e Nina estão jogando enquanto Leon está caçando mosquitos. Depois, juntos todos vão ler a história de hoje.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">25.25.</episode-num>
+    <episode-num system="xmltv_ns">26.25.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101613,7 +101622,7 @@
     <sub-title lang="pt">O biscoito da sorte</sub-title>
     <desc lang="pt">Inspirado por vó Maga, Tuca resolve fazer biscoitos da sorte com mensagens dentro. Todos se divertem com as previsões, menos Isa, que acha a própria sorte sem graça.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">25.24.</episode-num>
+    <episode-num system="xmltv_ns">28.24.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101622,7 +101631,7 @@
     <title lang="pt">Juro Que Vi!</title>
     <desc lang="pt">Nas margens de um grande rio, assolado pela ganância do garimpo, um jovem sonhador encontra a Iara, senhora das águas.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101632,7 +101641,7 @@
     <sub-title lang="pt">Belmiro é Chocante</sub-title>
     <desc lang="pt">Belmiro está se escondendo. O peixinho-elétrico não quer mais machucar os amigos com choques involuntários.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">25.9.</episode-num>
+    <episode-num system="xmltv_ns">28.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101652,7 +101661,7 @@
     <sub-title lang="pt">Carmen Sorte</sub-title>
     <desc lang="pt">Depois de dois raios atingirem a caverna, Petra e Júlia conhecem Carmen Sorte, uma criatura muito simpática e diferente de todas que elas já viram…mas espera, a Carmen Sorte é muito azarada!</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">28.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101671,7 +101680,7 @@
     <sub-title lang="pt">EDUCAÇÃO FINANCEIRA</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
+    <episode-num system="xmltv_ns">27.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101681,7 +101690,7 @@
     <sub-title lang="pt">Tecnologia que vem do Lixo</sub-title>
     <desc lang="pt">O lixo eletrônico tem poder de transformação. Nosso apresentador mostra como esses materiais e garrafas PETs podem virar robôs, postes e outros recursos valiosos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101691,7 +101700,7 @@
     <sub-title lang="pt">Soluções Baseadas na Natureza</sub-title>
     <desc lang="pt">O Brasil é um grande polo de inovação do agronegócio no mundo, veremos neste episódio exemplos de como a agricultura torna-se uma solução baseada na natureza quando é feita de forma sustentável.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.12.</episode-num>
+    <episode-num system="xmltv_ns">28.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101701,7 +101710,7 @@
     <sub-title lang="pt">Habitação sustentável</sub-title>
     <desc lang="pt">Neste episódio, falaremos de construções de moradias com arquitetura sustentável. Esse tipo de construção gera economia de energia e material, proporcionando uma melhor qualidade de vida.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
+    <episode-num system="xmltv_ns">28.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101749,7 +101758,7 @@
     <sub-title lang="pt">Grandes Telescópios</sub-title>
     <desc lang="pt">Ciência para Todos é uma série documental que mostra como importantes iniciativas científicas apoiadas pela FAPESP impactam diretamente o nosso dia a dia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.7.</episode-num>
+    <episode-num system="xmltv_ns">28.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101786,7 +101795,7 @@
     <sub-title lang="pt">Médio Rio Solimões</sub-title>
     <desc lang="pt">Na cidade de Tefé - AM, conhecemos um grupo de  cinema itinerante, e um coletivo de mulheres que fazem rádio. A festa do Divino Espírito Santo encerra esse episódio cheio de água, música e cultura.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101806,7 +101815,7 @@
     <sub-title lang="pt">Marvel</sub-title>
     <desc lang="pt">A Marvel é a super-heroína do mundo do entretenimento, mas a empresa esteve à beira do colapso, em guerra para sobreviver.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101816,7 +101825,7 @@
     <sub-title lang="pt">Ecoturismo</sub-title>
     <desc lang="pt">O turismo comunitário na Amazônia abre novas possibilidades de geração de renda para as comunidades do interior da região. Além disso, promove a conscientização sobre o desenvolvimento sustentável.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101870,7 +101879,7 @@
     <sub-title lang="pt">Simba</sub-title>
     <desc lang="pt">&quot;Eu me chamo Simba, sou artista plástico, carioca, de 21 anos e trago no meu trabalho a força de criar imagens, personagens e símbolos figurativos de sentimentos que viver nessa cidade me traz.&quot;</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">26.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101880,7 +101889,7 @@
     <sub-title lang="pt">A Grande</sub-title>
     <desc lang="pt">Final - Nesta final emocionante, as duas equipes roxa e rosa são testadas em todas as habilidades necessárias para provarem que estão prontas para a indústria 4.0. Quem será a equipe campeã?</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.13.</episode-num>
+    <episode-num system="xmltv_ns">26.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101890,7 +101899,7 @@
     <sub-title lang="pt">Andrea</sub-title>
     <desc lang="pt">Apresentado por Luana Xavier e por uma equipe multidisciplinar, a série busca contribuir na saúde física e mental de seus participantes para alcançar uma melhor qualidade de vida.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.6.</episode-num>
+    <episode-num system="xmltv_ns">26.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101900,7 +101909,7 @@
     <sub-title lang="pt">Tecnologia que vem do Lixo</sub-title>
     <desc lang="pt">O lixo eletrônico tem poder de transformação. Nosso apresentador mostra como esses materiais e garrafas PETs podem virar robôs, postes e outros recursos valiosos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -106495,10 +106504,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251227230000 -0300" stop="20251228003000 -0300" channel="GLOBONEWS">
+  <programme start="20251227232422 -0300" stop="20251228003000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Documentário</title>
     <desc lang="pt">A história de Luiz Gonzaga nas memórias de seus conterrâneos, parentes e amigos que vivem até hoje na cidade pernambucana de Exu, onde nasceu o rei do baião.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3938</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">73.361.</episode-num>
   </programme>
@@ -111423,7 +111432,7 @@
     <sub-title lang="pt">Lá vem o pato</sub-title>
     <desc lang="pt">As Pipas brincam de esconde-esconde na Nuvem Parquinho quando um Patinho que ainda está aprendendo a voar, cai do céu. Capu, encantada, adota e acolhe o indefeso novo amigo.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -112216,7 +112225,7 @@
     <sub-title lang="pt">Lá vem o pato</sub-title>
     <desc lang="pt">As Pipas brincam de esconde-esconde na Nuvem Parquinho quando um Patinho que ainda está aprendendo a voar, cai do céu. Capu, encantada, adota e acolhe o indefeso novo amigo.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -123619,11 +123628,11 @@
     </rating>
   </programme>
   <programme start="20251228150500 -0300" stop="20251228172500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Invocação do Mal 4: O Último Ritual</title>
+    <desc lang="pt">Os investigadores paranormais Ed e Lorraine Warren tentam banir um demônio da casa de uma família.</desc>
     <length units="minutes">8400</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20251228172500 -0300" stop="20251228194000 -0300" channel="HBO">
@@ -123642,15 +123651,15 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251228220000 -0300" stop="20251228234500 -0300" channel="HBO">
+  <programme start="20251228220000 -0300" stop="20251228234300 -0300" channel="HBO">
     <title lang="pt">Acompanhante Perfeita</title>
     <desc lang="pt">Um fim de semana entre amigos em uma cabana remota se transforma em caos após a revelação de que um dos hóspedes não é o que parece.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6180</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20251228234500 -0300" stop="20251229012500 -0300" channel="HBO">
+  <programme start="20251228234300 -0300" stop="20251229012300 -0300" channel="HBO">
     <title lang="pt">Karatê Kid: Lendas</title>
     <desc lang="pt">Li Fong, um prodígio do kung fu, se muda para Nova York com a mãe. Ele tenta ficar longe de brigas enquanto se adapta ao novo país, mas sua paixão pelo combate o leva a se inscrever em um torneio de artes marciais.</desc>
     <length units="minutes">6000</length>
@@ -146638,7 +146647,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Chiquinha e Chaves trocam moedas. Seu Madruga finge que a Chiquinha está doente para não pagar o aluguel e todos ficam com medo de pegar catapora.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">28.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -146647,7 +146656,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Chapolin precisa ajudar uma mulher, que está sendo obrigada pelo pai a casar com um milionário. Um diretor tenta convencer um figurante que herdou uma fortuna a investir o dinheiro em seu novo filme.</desc>
     <length units="minutes">1860</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">28.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146656,7 +146665,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Chiquinha não quer tomar remédio e Seu Madruga diz que as crianças desobedientes são levadas pelo &quot;roupa velha&quot;. As crianças disputam para ver quem fica com a moeda perdida do Quico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <episode-num system="xmltv_ns">26.5.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -146665,7 +146674,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Maria Antonieta pede ajuda ao Chapolin depois que sua casa é destruída por uma explosão de gás. Dr. Chapatin se envolve em uma confusão quando vai comprar frutas em uma quitanda.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <episode-num system="xmltv_ns">26.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146692,7 +146701,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">As crianças estão no pátio da vila e resolvem brincar de atropelamento. Só que a brincadeira acaba indo longe demais.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.102.</episode-num>
+    <episode-num system="xmltv_ns">27.102.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -146701,7 +146710,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Um advogado é ameaçado pelo Quase Nada, que quer pegar de volta uma nota promissória. Para piorar, o bandido coloca uma bomba em seu escritório, e apenas o Chapolin pode evitar a tragédia.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.109.</episode-num>
+    <episode-num system="xmltv_ns">27.109.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -146719,7 +146728,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Chiquinha não quer tomar remédio e Seu Madruga diz que as crianças desobedientes são levadas pelo &quot;roupa velha&quot;. As crianças disputam para ver quem fica com a moeda perdida do Quico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <episode-num system="xmltv_ns">26.5.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -146746,7 +146755,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Maria Antonieta pede ajuda ao Chapolin depois que sua casa é destruída por uma explosão de gás. Dr. Chapatin se envolve em uma confusão quando vai comprar frutas em uma quitanda.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <episode-num system="xmltv_ns">26.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -152580,7 +152589,7 @@
     <sub-title lang="pt">Iberostar Bahia, Oceana Atlântico Hotel e Canto do Irerê Boutique Hotel</sub-title>
     <desc lang="pt">Começamos visitando o Iberostar Bahia, já em João Pessoa conhecemos o deslumbrante Oceana Atlântico Hotel e finalizamos em Atibaia, no espetacular Canto do Irerê Boutique Hotel.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">25.4.</episode-num>
+    <episode-num system="xmltv_ns">28.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152590,7 +152599,7 @@
     <sub-title lang="pt">Embaúba Boutique Hotel, Pousada Eco Luar, Botanique Hotel &amp; Spa</sub-title>
     <desc lang="pt">Nesse episódio visitamos o espetacular Embaúba Boutique Hotel, a charmosa Pousada Eco Luar. E finalizamos na Serra da Mantiqueira no encantador Botanique Hotel &amp; Spa.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <episode-num system="xmltv_ns">26.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162386,7 +162395,7 @@
     <sub-title lang="pt">Expectativas pro ano com a chegada do Zay</sub-title>
     <desc lang="pt">A família Nalu faz uma retrospectiva de como foram as primeiras experiências pelo mundo e quais são expectativas para uma nova jornada, agora com o Zay.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">25.1.</episode-num>
+    <episode-num system="xmltv_ns">26.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162396,7 +162405,7 @@
     <sub-title lang="pt">Temporada no Havaí</sub-title>
     <desc lang="pt">A Família arruma as malas para a primeira temporada Havaiana com o Zay. Acomodados em uma casa de frente para o mar, desfrutam do clima e mostram a rotina de treinamento da Bela.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">26.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162406,7 +162415,7 @@
     <sub-title lang="pt">Voando por 100km</sub-title>
     <desc lang="pt">A missão agora é uma travessia de paramotor de mais de 100 km. Sylvestre e Kester passam por cima de cadeias de montanhas incríveis e por pequenas aldeias espalhadas pelo meio do deserto da Namíbia.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
+    <episode-num system="xmltv_ns">26.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162416,7 +162425,7 @@
     <sub-title lang="pt">A Aldeia Kapika</sub-title>
     <desc lang="pt">Seguindo rumo ao norte, Sylvestre e Kester voam em direção a fronteira da Namíbia com a Angola. Ao pousarem, a dupla impressiona os moradores locais com a forma que chegam na cidade.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">25.12.</episode-num>
+    <episode-num system="xmltv_ns">26.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162426,7 +162435,7 @@
     <sub-title lang="pt">Desert Point</sub-title>
     <desc lang="pt">A onda de Desert é sem dúvida uma das mais cheias da Indonésia. Mesmo com um acesso difícil, nada parece intimidar os surfistas que vão até o país atrás da onda dos sonhos.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">25.9.</episode-num>
+    <episode-num system="xmltv_ns">26.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -162436,7 +162445,7 @@
     <sub-title lang="pt">Joaquina</sub-title>
     <desc lang="pt">A Joaquina não é só a queridinha dos turistas, as ondas por lá  são uma das melhores do Brasil, o que faz com que o pico seja também o mais procurado por surfistas na região.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">25.10.</episode-num>
+    <episode-num system="xmltv_ns">26.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -184598,12 +184607,33 @@
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20251228123000 -0300" stop="20251228180000 -0300" channel="SPORTV">
+  <programme start="20251228123000 -0300" stop="20251228133000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes</title>
     <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">19800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">72.362.</episode-num>
+  </programme>
+  <programme start="20251228133000 -0300" stop="20251228150000 -0300" channel="SPORTV">
+    <title lang="pt">Futevôlei: Tafc Feminina - Rio De Janeiro-RJ - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Acompanhe as emoções do Futevôlei - TATC.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251228150000 -0300" stop="20251228163000 -0300" channel="SPORTV">
+    <title lang="pt">Futevôlei: Tafc Lendas - Rio De Janeiro-RJ - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Acompanhe as emoções do Futevôlei - TATC.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20251228163000 -0300" stop="20251228180000 -0300" channel="SPORTV">
+    <title lang="pt">Futevôlei: Tafc Masculina - Rio De Janeiro-RJ - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Acompanhe as emoções do Futevôlei - TATC.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20251228180000 -0300" stop="20251228193000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - ao vivo</title>
@@ -199157,142 +199187,142 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251228063900 -0300" stop="20251228074700 -0300" channel="TNT SERIES HD">
+  <programme start="20251228063900 -0300" stop="20251228072400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando um membro importante da Visualize é misteriosamente morto, Jane sai para investigar, na esperança de que o caso ofereça uma pista que o leve a Red John.</desc>
-    <length units="minutes">4080</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228074700 -0300" stop="20251228083000 -0300" channel="TNT SERIES HD">
+  <programme start="20251228072400 -0300" stop="20251228081000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a prova final nas mãos, Jane tenta reunir os suspeitos de Red John no mesmo lugar, na esperança de finalmente descobrir sua identidade.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228083000 -0300" stop="20251228091800 -0300" channel="TNT SERIES HD">
+  <programme start="20251228081000 -0300" stop="20251228085700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e Lisbon viajam para o Beirute, onde devem trabalhar com Erica Flynn, a conhecida adversária de Jane.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228091800 -0300" stop="20251228100100 -0300" channel="TNT SERIES HD">
+  <programme start="20251228085700 -0300" stop="20251228094200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe investiga um assassinato ligado a uma operação de falsificação de diamantes, mas uma doença obriga Jane a confiar em seus colegas enquanto ele se recupera.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228100100 -0300" stop="20251228104500 -0300" channel="TNT SERIES HD">
+  <programme start="20251228094200 -0300" stop="20251228102700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um encontro casual com um coronel militar (Aaron Raymond) leva Jane a reabrir um caso de assassinato.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228104500 -0300" stop="20251228112900 -0300" channel="TNT SERIES HD">
+  <programme start="20251228102700 -0300" stop="20251228111300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">O FBI é chamado para investigar uma operação fracassada do DEA, mas o ex-colega de Abbott poderá desviar a investigação... e a carreira de Abbott.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228112900 -0300" stop="20251228121500 -0300" channel="TNT SERIES HD">
+  <programme start="20251228111300 -0300" stop="20251228115800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma investigação de assassinato se torna algo pessoal para Lisbon quando ela descobre que seu irmão mais novo, Jimmy (Rob Belushi), está sendo procurado por ser a principal testemunha.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228121500 -0300" stop="20251228125900 -0300" channel="TNT SERIES HD">
+  <programme start="20251228115800 -0300" stop="20251228124400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Lisbon aceita o pedido de casamento surpresa de Jane, mas a jornada de vingança de um assassino pode custar o final feliz que eles trabalharam duramente para conseguir.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228125900 -0300" stop="20251228134400 -0300" channel="TNT SERIES HD">
+  <programme start="20251228124400 -0300" stop="20251228133000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane envolve o CBI em um caso em Napa, para se centrar no xerife McAllister enquanto Van Pelt e Rigsby finalmente se casam.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228134400 -0300" stop="20251228143000 -0300" channel="TNT SERIES HD">
+  <programme start="20251228133000 -0300" stop="20251228141700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane revela que uma lista de falsos possíveis Red John que ele havia criado foi roubada e a equipe do CBI se dá conta de que esses homens estão em perigo.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228143000 -0300" stop="20251228151400 -0300" channel="TNT SERIES HD">
+  <programme start="20251228141700 -0300" stop="20251228150300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando um membro importante da Visualize é misteriosamente morto, Jane sai para investigar, na esperança de que o caso ofereça uma pista que o leve a Red John.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228151400 -0300" stop="20251228160000 -0300" channel="TNT SERIES HD">
+  <programme start="20251228150300 -0300" stop="20251228155100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a prova final nas mãos, Jane tenta reunir os suspeitos de Red John no mesmo lugar, na esperança de finalmente descobrir sua identidade.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228160000 -0300" stop="20251228164800 -0300" channel="TNT SERIES HD">
+  <programme start="20251228155100 -0300" stop="20251228163800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e Lisbon viajam para o Beirute, onde devem trabalhar com Erica Flynn, a conhecida adversária de Jane.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228164800 -0300" stop="20251228173100 -0300" channel="TNT SERIES HD">
+  <programme start="20251228163800 -0300" stop="20251228172300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe investiga um assassinato ligado a uma operação de falsificação de diamantes, mas uma doença obriga Jane a confiar em seus colegas enquanto ele se recupera.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228173100 -0300" stop="20251228181400 -0300" channel="TNT SERIES HD">
+  <programme start="20251228172300 -0300" stop="20251228180700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um encontro casual com um coronel militar (Aaron Raymond) leva Jane a reabrir um caso de assassinato.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">7.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228181400 -0300" stop="20251228185900 -0300" channel="TNT SERIES HD">
+  <programme start="20251228180700 -0300" stop="20251228185200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">O FBI é chamado para investigar uma operação fracassada do DEA, mas o ex-colega de Abbott poderá desviar a investigação... e a carreira de Abbott.</desc>
     <length units="minutes">2700</length>
@@ -199301,16 +199331,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228185900 -0300" stop="20251228194400 -0300" channel="TNT SERIES HD">
+  <programme start="20251228185200 -0300" stop="20251228194000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma investigação de assassinato se torna algo pessoal para Lisbon quando ela descobre que seu irmão mais novo, Jimmy (Rob Belushi), está sendo procurado por ser a principal testemunha.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228194400 -0300" stop="20251228202900 -0300" channel="TNT SERIES HD">
+  <programme start="20251228194000 -0300" stop="20251228202500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Lisbon aceita o pedido de casamento surpresa de Jane, mas a jornada de vingança de um assassino pode custar o final feliz que eles trabalharam duramente para conseguir.</desc>
     <length units="minutes">2700</length>
@@ -199319,19 +199349,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228202900 -0300" stop="20251228211400 -0300" channel="TNT SERIES HD">
+  <programme start="20251228202500 -0300" stop="20251228211200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane envolve o CBI em um caso em Napa, para se centrar no xerife McAllister enquanto Van Pelt e Rigsby finalmente se casam.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228211400 -0300" stop="20251228220000 -0300" channel="TNT SERIES HD">
+  <programme start="20251228211200 -0300" stop="20251228220000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane revela que uma lista de falsos possíveis Red John que ele havia criado foi roubada e a equipe do CBI se dá conta de que esses homens estão em perigo.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -199346,19 +199376,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228224400 -0300" stop="20251228232900 -0300" channel="TNT SERIES HD">
+  <programme start="20251228224400 -0300" stop="20251228233100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Com a prova final nas mãos, Jane tenta reunir os suspeitos de Red John no mesmo lugar, na esperança de finalmente descobrir sua identidade.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251228232900 -0300" stop="20251229001600 -0300" channel="TNT SERIES HD">
+  <programme start="20251228233100 -0300" stop="20251229001700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e Lisbon viajam para o Beirute, onde devem trabalhar com Erica Flynn, a conhecida adversária de Jane.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -224025,7 +224055,7 @@
     <title lang="pt">Law &amp; Order True Crime: The Menendez Murders</title>
     <desc lang="pt">Todos estão de olho na mídia nacional quando o caso vai para o tribunal.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
+    <episode-num system="xmltv_ns">28.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -224034,7 +224064,7 @@
     <title lang="pt">Law &amp; Order True Crime: The Menendez Murders</title>
     <desc lang="pt">Alegações de abuso infantil evidenciam um motivo para os assassinatos.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">25.3.</episode-num>
+    <episode-num system="xmltv_ns">26.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
