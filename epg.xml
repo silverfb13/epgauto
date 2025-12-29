@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2025-12-29 11:30:58" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2025-12-29 14:30:58" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -150039,27 +150039,42 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251229000000 -0300" stop="20251229010000 -0300" channel="Nsports HD">
+  <programme start="20251229000000 -0300" stop="20251229014500 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">70.363.</episode-num>
+  </programme>
+  <programme start="20251229014500 -0300" stop="20251229020000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20251229020000 -0300" stop="20251229033000 -0300" channel="Nsports HD">
+    <title lang="pt">Celoricense x Porto</title>
+    <desc lang="pt">As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251229033000 -0300" stop="20251229040000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251229040000 -0300" stop="20251229050000 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
     <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">70.363.</episode-num>
+    <episode-num system="xmltv_ns">74.363.</episode-num>
   </programme>
-  <programme start="20251229010000 -0300" stop="20251229020000 -0300" channel="Nsports HD">
-    <title lang="pt">EHF Champions League Handebol - Gyori Audi x Esbjerg</title>
-    <desc lang="pt">Acompanhe na NSports a EHF FINAL4 Feminina 2025 é o destaque indiscutível do handebol feminino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20251229050000 -0300" stop="20251229063000 -0300" channel="Nsports HD">
+    <title lang="pt">NBB: Cruzeiro x Minas</title>
+    <desc lang="pt">NSports é a casa do Basquete!</desc>
+    <length units="minutes">5400</length>
     <previously-shown/>
-  </programme>
-  <programme start="20251229020000 -0300" stop="20251229030000 -0300" channel="Nsports HD">
-    <title lang="pt">Especial: El Clásico Golf Cup</title>
-    <desc lang="pt">Lendas de Real Madrid e Barcelona voltam a campo para mais um El Clásico, só que dessa vez a disputa é no golfe.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20251229030000 -0300" stop="20251229063000 -0300" channel="Nsports HD">
-    <title lang="pt">Fórmula E</title>
-    <desc lang="pt">Velocidade, estratégia e pura inovação: a Fórmula E acelera no Nsports.</desc>
-    <length units="minutes">12600</length>
   </programme>
   <programme start="20251229063000 -0300" stop="20251229070000 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
@@ -150071,56 +150086,23 @@
     </rating>
   </programme>
   <programme start="20251229070000 -0300" stop="20251229083000 -0300" channel="Nsports HD">
-    <title lang="pt">Um Assado Para</title>
-    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <title lang="pt">PSV x GVVV</title>
+    <desc lang="pt">O Copa da  Holanda chega ao NSPORTS com tradição, talento jovem e futebol ofensivo. Clássicos históricos, revelações e a disputa título.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">77.363.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20251229083000 -0300" stop="20251229090000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251229090000 -0300" stop="20251229100000 -0300" channel="Nsports HD">
-    <title lang="pt">Brasil x Nova Zelândia</title>
-    <desc lang="pt">A nova temporada dos campeonatos europeus está chegando. E para abrirmos os trabalhos, os principais times internacionais se juntam para disputar amistosos e se preparar nessa pré-temporada.</desc>
-    <length units="minutes">3600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251229100000 -0300" stop="20251229120000 -0300" channel="Nsports HD">
-    <title lang="pt">Um Assado Para</title>
-    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">70.363.</episode-num>
-  </programme>
-  <programme start="20251229120000 -0300" stop="20251229121500 -0300" channel="Nsports HD">
-    <title lang="pt">Giro Nsports</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">72.363.</episode-num>
-  </programme>
-  <programme start="20251229121500 -0300" stop="20251229123000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-    <length units="minutes">900</length>
-  </programme>
-  <programme start="20251229123000 -0300" stop="20251229130000 -0300" channel="Nsports HD">
-    <title lang="pt">Quinestesia</title>
-    <desc lang="pt">Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
     <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20251229130000 -0300" stop="20251229143000 -0300" channel="Nsports HD">
-    <title lang="pt">Fórmula E</title>
-    <desc lang="pt">Velocidade, estratégia e pura inovação: a Fórmula E acelera no Nsports.</desc>
+  <programme start="20251229090000 -0300" stop="20251229103000 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
     <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">79.363.</episode-num>
   </programme>
-  <programme start="20251229143000 -0300" stop="20251229150000 -0300" channel="Nsports HD">
+  <programme start="20251229103000 -0300" stop="20251229110000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <length units="minutes">1800</length>
@@ -150128,39 +150110,43 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251229150000 -0300" stop="20251229163000 -0300" channel="Nsports HD">
-    <title lang="pt">Fórmula E</title>
-    <desc lang="pt">Velocidade, estratégia e pura inovação: a Fórmula E acelera no Nsports.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20251229110000 -0300" stop="20251229120000 -0300" channel="Nsports HD">
+    <title lang="pt">Brasil x Colômbia</title>
+    <desc lang="pt">O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
   </programme>
-  <programme start="20251229163000 -0300" stop="20251229170000 -0300" channel="Nsports HD">
+  <programme start="20251229120000 -0300" stop="20251229130000 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
     <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">76.363.</episode-num>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">72.363.</episode-num>
   </programme>
-  <programme start="20251229170000 -0300" stop="20251229173000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
+  <programme start="20251229130000 -0300" stop="20251229140000 -0300" channel="Nsports HD">
+    <title lang="pt">El Clasico Golf Cup</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">17.363.</episode-num>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251229173000 -0300" stop="20251229180000 -0300" channel="Nsports HD">
-    <title lang="pt">Live Show</title>
-    <desc lang="pt">Central do Basquete mantém você ligado em tudo de melhor que rola na NBA toda semana!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">77.363.</episode-num>
+  <programme start="20251229140000 -0300" stop="20251229153000 -0300" channel="Nsports HD">
+    <title lang="pt">Aut Fórmula E Treino Class</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
   </programme>
-  <programme start="20251229180000 -0300" stop="20251229190000 -0300" channel="Nsports HD">
-    <title lang="pt">Ajax x Utrecht</title>
-    <desc lang="pt">Campeonato holandês feminino.</desc>
+  <programme start="20251229153000 -0300" stop="20251229160000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20251229160000 -0300" stop="20251229170000 -0300" channel="Nsports HD">
+    <title lang="pt">Boxe - IBA Championschip</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20251229190000 -0300" stop="20251229200000 -0300" channel="Nsports HD">
+  <programme start="20251229170000 -0300" stop="20251229180000 -0300" channel="Nsports HD">
     <title lang="pt">Beach Tennis: A Praia do Brasil</title>
     <desc lang="pt">O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
     <length units="minutes">3600</length>
@@ -150168,172 +150154,190 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251229200000 -0300" stop="20251229210000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">70.363.</episode-num>
+  <programme start="20251229180000 -0300" stop="20251229193000 -0300" channel="Nsports HD">
+    <title lang="pt">NBB: Mogi x Pato Branco</title>
+    <desc lang="pt">NSports é a casa do Basquete!</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
   </programme>
-  <programme start="20251229210000 -0300" stop="20251229211500 -0300" channel="Nsports HD">
-    <title lang="pt">Giro Nsports</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">71.363.</episode-num>
-  </programme>
-  <programme start="20251229211500 -0300" stop="20251229213000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">900</length>
+  <programme start="20251229193000 -0300" stop="20251229200000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">19.363.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251229213000 -0300" stop="20251229220000 -0300" channel="Nsports HD">
+  <programme start="20251229200000 -0300" stop="20251229210000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">70.363.</episode-num>
+  </programme>
+  <programme start="20251229210000 -0300" stop="20251229211500 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">900</length>
   </programme>
-  <programme start="20251229220000 -0300" stop="20251229223000 -0300" channel="Nsports HD">
+  <programme start="20251229211500 -0300" stop="20251229214500 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251229214500 -0300" stop="20251229223000 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.363.</episode-num>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">21.363.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20251229223000 -0300" stop="20251230000000 -0300" channel="Nsports HD">
-    <title lang="pt">Live Show</title>
-    <desc lang="pt">Central do Basquete mantém você ligado em tudo de melhor que rola na NBA toda semana!</desc>
+    <title lang="pt">Aut Corrida Fórmula E de SP</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">72.363.</episode-num>
   </programme>
-  <programme start="20251230000000 -0300" stop="20251230010000 -0300" channel="Nsports HD">
+  <programme start="20251230000000 -0300" stop="20251230014500 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">70.364.</episode-num>
+  </programme>
+  <programme start="20251230014500 -0300" stop="20251230020000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20251230020000 -0300" stop="20251230033000 -0300" channel="Nsports HD">
+    <title lang="pt">Atlético x Benfica</title>
+    <desc lang="pt">As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251230033000 -0300" stop="20251230040000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251230040000 -0300" stop="20251230050000 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
     <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">70.364.</episode-num>
+    <episode-num system="xmltv_ns">74.364.</episode-num>
   </programme>
-  <programme start="20251230010000 -0300" stop="20251230020000 -0300" channel="Nsports HD">
-    <title lang="pt">EHF Champions League Handebol - Metz Handball x Odense</title>
-    <desc lang="pt">Acompanhe na NSports a EHF FINAL4 Feminina 2025 é o destaque indiscutível do handebol feminino europeu de clubes e um dos eventos esportivos mais prestigiados da Europa.</desc>
-    <length units="minutes">3600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251230020000 -0300" stop="20251230041500 -0300" channel="Nsports HD">
-    <title lang="pt">NBB: Cruzeiro x Minas</title>
+  <programme start="20251230050000 -0300" stop="20251230063000 -0300" channel="Nsports HD">
+    <title lang="pt">NBB: Franca x Botafogo</title>
     <desc lang="pt">NSports é a casa do Basquete!</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">5400</length>
     <previously-shown/>
   </programme>
-  <programme start="20251230041500 -0300" stop="20251230053000 -0300" channel="Nsports HD">
-    <title lang="pt">Celoricense x Porto</title>
-    <desc lang="pt">As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
-    <length units="minutes">4500</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251230053000 -0300" stop="20251230060000 -0300" channel="Nsports HD">
+  <programme start="20251230063000 -0300" stop="20251230070000 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">5.364.</episode-num>
+    <episode-num system="xmltv_ns">6.364.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20251230060000 -0300" stop="20251230073000 -0300" channel="Nsports HD">
-    <title lang="pt">Um Assado Para</title>
-    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">76.364.</episode-num>
-  </programme>
-  <programme start="20251230073000 -0300" stop="20251230080000 -0300" channel="Nsports HD">
-    <title lang="pt">Quinestesia</title>
-    <desc lang="pt">Um mergulho na preparação mental e física do lutador Marco Black Diamond nos dez dias que antecedem a disputa pelo cinturão do STF, confira os bastidores intensos do MMA.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251230080000 -0300" stop="20251230093000 -0300" channel="Nsports HD">
-    <title lang="pt">NBB: São José x Flamengo</title>
-    <desc lang="pt">O melhor do basquete nacional está na Nsports! Acompanhe o NBB, com jogos ao vivo, grandes estrelas em quadra e toda a emoção da principal liga do país</desc>
+  <programme start="20251230070000 -0300" stop="20251230083000 -0300" channel="Nsports HD">
+    <title lang="pt">Excelsior Maassluis x Ajax</title>
+    <desc lang="pt">O Copa da  Holanda chega ao NSPORTS com tradição, talento jovem e futebol ofensivo. Clássicos históricos, revelações e a disputa título</desc>
     <length units="minutes">5400</length>
     <previously-shown/>
   </programme>
-  <programme start="20251230093000 -0300" stop="20251230100000 -0300" channel="Nsports HD">
+  <programme start="20251230083000 -0300" stop="20251230090000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
     <length units="minutes">1800</length>
   </programme>
-  <programme start="20251230100000 -0300" stop="20251230110000 -0300" channel="Nsports HD">
+  <programme start="20251230090000 -0300" stop="20251230103000 -0300" channel="Nsports HD">
     <title lang="pt">Um Assado Para</title>
     <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">70.364.</episode-num>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">79.364.</episode-num>
+  </programme>
+  <programme start="20251230103000 -0300" stop="20251230110000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20251230110000 -0300" stop="20251230120000 -0300" channel="Nsports HD">
+    <title lang="pt">Brasil x Guatemala</title>
+    <desc lang="pt">O torneio internacional de futsal feminino que acontece em Xanxerê reúne 4 seleções em mais uma etapa de qualificatória para a Copa do Mundo de Futsal.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251230120000 -0300" stop="20251230133000 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">72.364.</episode-num>
+  </programme>
+  <programme start="20251230133000 -0300" stop="20251230140000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">13.364.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251230140000 -0300" stop="20251230153000 -0300" channel="Nsports HD">
+    <title lang="pt">Aut Corrida Fórmula E de SP</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20251230153000 -0300" stop="20251230160000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20251230160000 -0300" stop="20251230170000 -0300" channel="Nsports HD">
+    <title lang="pt">Boxe - IBA Championschip</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251230170000 -0300" stop="20251230180000 -0300" channel="Nsports HD">
+    <title lang="pt">El Clasico Golf Cup</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251230180000 -0300" stop="20251230193000 -0300" channel="Nsports HD">
+    <title lang="pt">NBB: Bauru x Minas</title>
+    <desc lang="pt">NSports é a casa do Basquete!</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20251230193000 -0300" stop="20251230200000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">19.364.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20251230200000 -0300" stop="20251230210000 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
     <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">71.364.</episode-num>
-  </programme>
-  <programme start="20251230120000 -0300" stop="20251230121500 -0300" channel="Nsports HD">
-    <title lang="pt">Giro Nsports</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias do esporte de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">72.364.</episode-num>
-  </programme>
-  <programme start="20251230121500 -0300" stop="20251230123000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-    <length units="minutes">900</length>
-  </programme>
-  <programme start="20251230123000 -0300" stop="20251230130000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251230130000 -0300" stop="20251230150000 -0300" channel="Nsports HD">
-    <title lang="pt">Palmeiras x Grêmio</title>
-    <desc lang="pt">A Ladies Cup apresenta grandes clubes e estrelas do futebol feminino em um torneio amistoso de alto nível, com jogos intensos e muita emoção em campo.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251230150000 -0300" stop="20251230153000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251230153000 -0300" stop="20251230180000 -0300" channel="Nsports HD">
-    <title lang="pt">Caldas x Braga</title>
-    <desc lang="pt">Taça de Portugal - As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
-    <length units="minutes">9000</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20251230180000 -0300" stop="20251230191500 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe Iba Mens Boxing</title>
-    <desc lang="pt">Acompanhe os melhores pugilistas do mundo no IBA Men's Boxing Championship, em duelos eletrizantes que definem os novos protagonistas do boxe internacional.</desc>
-    <length units="minutes">4500</length>
-  </programme>
-  <programme start="20251230191500 -0300" stop="20251230194500 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20251230194500 -0300" stop="20251230210000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe Iba Mens Boxing</title>
-    <desc lang="pt">Acompanhe os melhores pugilistas do mundo no IBA Men's Boxing Championship, em duelos eletrizantes que definem os novos protagonistas do boxe internacional.</desc>
-    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">70.364.</episode-num>
   </programme>
   <programme start="20251230210000 -0300" stop="20251230220000 -0300" channel="Nsports HD">
     <title lang="pt">Cavaco Futebol Clube</title>
@@ -150342,9 +150346,10 @@
     <episode-num system="xmltv_ns">71.364.</episode-num>
   </programme>
   <programme start="20251230220000 -0300" stop="20251230233000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe Iba Mens Boxing</title>
-    <desc lang="pt">Acompanhe os melhores pugilistas do mundo no IBA Men's Boxing Championship, em duelos eletrizantes que definem os novos protagonistas do boxe internacional.</desc>
+    <title lang="pt">NBB: Franca x Bauru</title>
+    <desc lang="pt">NSports é a casa do Basquete!</desc>
     <length units="minutes">5400</length>
+    <previously-shown/>
   </programme>
   <programme start="20251230233000 -0300" stop="20251231000000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
