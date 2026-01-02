@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-02 17:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-02 20:31:24" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -12663,19 +12663,10 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.3.</episode-num>
   </programme>
-  <programme start="20260103060000 -0300" stop="20260103063000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260103063000 -0300" stop="20260103070000 -0300" channel="BAND HD">
+  <programme start="20260103060000 -0300" stop="20260103070000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -12732,8 +12723,8 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260103110000 -0300" stop="20260103111500 -0300" channel="BAND HD">
-    <title lang="pt">Band Esporte Clube - SP</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <title lang="pt">Band Esporte</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo esportivo da Band.</desc>
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">81.3.</episode-num>
   </programme>
@@ -12762,9 +12753,10 @@
     </rating>
   </programme>
   <programme start="20260103124500 -0300" stop="20260103150000 -0300" channel="BAND HD">
-    <title lang="pt">Copa Africana Das Nações</title>
-    <desc lang="pt">Principal competição de futebol entre seleções do continente africano.</desc>
+    <title lang="pt">Senegal x Sudão - ao vivo</title>
+    <desc lang="pt">A principal competição de futebol entre seleções do continente africano, com craques dos maiores times do mundo.</desc>
     <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260103150000 -0300" stop="20260103154500 -0300" channel="BAND HD">
     <title lang="pt">Band Esporte Clube</title>
@@ -12773,9 +12765,10 @@
     <episode-num system="xmltv_ns">85.3.</episode-num>
   </programme>
   <programme start="20260103154500 -0300" stop="20260103180000 -0300" channel="BAND HD">
-    <title lang="pt">Copa Africana Das Nações</title>
-    <desc lang="pt">Principal competição de futebol entre seleções do continente africano.</desc>
+    <title lang="pt">Mali x Tunísia - ao vivo</title>
+    <desc lang="pt">A principal competição de futebol entre seleções do continente africano, com craques dos maiores times do mundo.</desc>
     <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260103180000 -0300" stop="20260103192000 -0300" channel="BAND HD">
     <title lang="pt">Brasil Urgente</title>
@@ -14433,8 +14426,7 @@
     <episode-num system="xmltv_ns">82.3.</episode-num>
   </programme>
   <programme start="20260103124500 -0300" stop="20260103150000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt"> - ao vivo</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Senegal x Sudão - ao vivo</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
@@ -14447,8 +14439,7 @@
     <episode-num system="xmltv_ns">85.3.</episode-num>
   </programme>
   <programme start="20260103154500 -0300" stop="20260103180000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt"> - ao vivo</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Mali x Tunísia - ao vivo</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
@@ -14472,14 +14463,16 @@
     <episode-num system="xmltv_ns">88.3.</episode-num>
   </programme>
   <programme start="20260103194500 -0300" stop="20260103214500 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Senegal x Sudão</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260103214500 -0300" stop="20260103233000 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Mali x Tunísia</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">6300</length>
+    <previously-shown/>
   </programme>
   <programme start="20260103233000 -0300" stop="20260104003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Mundial de Superbike: Etapa Espanha: WorldSBK: Corrida 2</title>
@@ -14551,14 +14544,16 @@
     <previously-shown/>
   </programme>
   <programme start="20260104083000 -0300" stop="20260104103000 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Senegal x Sudão</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260104103000 -0300" stop="20260104123000 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Mali x Tunísia</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260104123000 -0300" stop="20260104124500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Pré-jogo - ao vivo</title>
@@ -14568,8 +14563,7 @@
     <episode-num system="xmltv_ns">82.4.</episode-num>
   </programme>
   <programme start="20260104124500 -0300" stop="20260104150000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt"> - ao vivo</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Marrocos x Tanzânia - ao vivo</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
@@ -14582,8 +14576,7 @@
     <episode-num system="xmltv_ns">85.4.</episode-num>
   </programme>
   <programme start="20260104154500 -0300" stop="20260104180000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt"> - ao vivo</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">África do Sul x Camarões - ao vivo</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
@@ -14607,14 +14600,16 @@
     <episode-num system="xmltv_ns">89.4.</episode-num>
   </programme>
   <programme start="20260104193000 -0300" stop="20260104213000 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">Marrocos x Tanzânia</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260104213000 -0300" stop="20260104233000 -0300" channel="BAND SPORTS HD">
-    <sub-title lang="pt">Oitavas de Final</sub-title>
+    <title lang="pt">África do Sul x Camarões</title>
     <desc lang="pt">A 35º edição da Copa Africana de Nações começou. O BandSports transmite a Copa Africana de Nações com exclusividade na TV por assinatura.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260104233000 -0300" stop="20260105003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Mundial de Motocross: Etapa das Nações MXGP: Corrida 2</title>
@@ -103337,17 +103332,25 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">31.20.</episode-num>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260103024000 -0300" stop="20260103060000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260103024000 -0300" stop="20260103043000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Corujão: O Escândalo</title>
     <desc lang="pt">O presidente da Fox News é processado por Gretchen Carlson por assédio sexual. Com a repercursão da notícia, outras mulheres se manisfestam sobre o caso contra a gigande das notícias.</desc>
-    <length units="minutes">12000</length>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103043000 -0300" stop="20260103060000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Corujão II: A Última Palavra</title>
+    <desc lang="pt">Harriet é uma mulher de negócios aposentada e super controladora. Ela decide escrever um obituário contando seus grandes feitos e, para isso, contrata a jornalista Anne.</desc>
+    <length units="minutes">5400</length>
+    <rating system="Brazil">
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260103060000 -0300" stop="20260103065000 -0300" channel="GLOBO SÃO PAULO">
@@ -103404,12 +103407,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103144000 -0300" stop="20260103161500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Sessão de Sábado: Um Santo Vizinho</title>
-    <desc lang="pt">Maggie acaba de se divorciar. Ela e o filho de 12 anos - fragilizado pela separação dos pais - se mudam. Um vizinho, St. Vincent, se aproxima deles e se oferece para cuidar do menino. Uma grande amizade nasce.</desc>
-    <length units="minutes">5700</length>
+  <programme start="20260103144000 -0300" stop="20260103152000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">84.3.</episode-num>
+  </programme>
+  <programme start="20260103152000 -0300" stop="20260103161500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260103161500 -0300" stop="20260103184000 -0300" channel="GLOBO SÃO PAULO">
@@ -103423,7 +103433,7 @@
   </programme>
   <programme start="20260103184000 -0300" stop="20260103192500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor!</title>
-    <desc lang="pt">Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
+    <desc lang="pt">Estela despista Míriam, e afirma não ser filha da paciente. Quinzinho garante a Cunegundes que não quer mudar sua vida. Maria Divina seduz Zé dos Porcos.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.3.</episode-num>
     <rating system="Brazil">
@@ -103438,7 +103448,7 @@
   </programme>
   <programme start="20260103194500 -0300" stop="20260103203000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt">Leona tem sua vida transformada pela relação com Sofia, uma menina de sete anos de quem passa a ser babá. Sofia é uma criança que perdeu a mãe ainda bebê e cresceu se sentindo sozinha na casa da família de s...</desc>
+    <desc lang="pt">Bárbara acusa Marlon de ter armado contra ela. Jaques pede a Tânia para deixar o país, mas ela o humilha. Dara anuncia a Marlon que Jussara conseguirá colocar o marcapasso.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">89.3.</episode-num>
     <rating system="Brazil">
@@ -103453,7 +103463,7 @@
   </programme>
   <programme start="20260103212000 -0300" stop="20260103222500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Três Graças</title>
-    <desc lang="pt">Gerluce, a mãe Lígia e a filha Joélly dividem o mesmo destino: a gravidez solo na adolescência. A vida dessas três mulheres, moradoras de Sâo Paulo, é cheia de desafios, mas também esperança.</desc>
+    <desc lang="pt">Viviane fica apreensiva ao ser surpreendida com a chegada de Edilberto, Vicente e Luciano à farmácia. Arminda diz a Ferette que sente que Rogério está vivo. Joélly se sente amparada por Jorginho.</desc>
     <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">81.3.</episode-num>
     <rating system="Brazil">
