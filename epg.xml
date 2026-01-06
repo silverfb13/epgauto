@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-06 11:30:58" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-06 14:31:12" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -81398,36 +81398,26 @@
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20260107163000 -0300" stop="20260107164000 -0300" channel="ESPN 2">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">16.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260107163000 -0300" stop="20260107165500 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">86.7.</episode-num>
   </programme>
-  <programme start="20260107164000 -0300" stop="20260107184500 -0300" channel="ESPN 2">
+  <programme start="20260107165500 -0300" stop="20260107190000 -0300" channel="ESPN 2">
     <title lang="pt">Benfica x Braga - ao vivo</title>
     <desc lang="pt">A Taça da Liga de Portugal reúne os melhores times das duas primeiras divisões do futebol português. Disputado em fase de grupos e depois mata-mata, o campeão garante mais uma taça para a coleção!</desc>
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260107184500 -0300" stop="20260107204500 -0300" channel="ESPN 2">
+  <programme start="20260107190000 -0300" stop="20260107210000 -0300" channel="ESPN 2">
     <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 1</title>
     <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
     <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">18.7.</episode-num>
+    <episode-num system="xmltv_ns">19.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
-  </programme>
-  <programme start="20260107204500 -0300" stop="20260107210000 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter Abre o Jogo: NBA - ao vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.7.</episode-num>
   </programme>
   <programme start="20260107210000 -0300" stop="20260107211200 -0300" channel="ESPN 2">
     <title lang="pt">NBA - ao vivo</title>
@@ -171793,7 +171783,7 @@
   </programme>
   <programme start="20260106134500 -0300" stop="20260106143000 -0300" channel="SBT São Paulo">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando confirma a doença de Dionísio. Branca fica desapontada com a reação de Rodolfo quando vê o neto.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">83.6.</episode-num>
     <rating system="Brazil">
@@ -171802,7 +171792,7 @@
   </programme>
   <programme start="20260106143000 -0300" stop="20260106153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Maribel é consolada por Marcos, que tenta reanimá-la, garantindo que Alessandro logo se recuperará.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">84.6.</episode-num>
     <rating system="Brazil">
@@ -171829,7 +171819,7 @@
   </programme>
   <programme start="20260106174500 -0300" stop="20260106183000 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">José Antonio pede a Simone que leve Esther para viver com ela, já que com a morte de seu filho, nada a obriga a viver em uma cabana junto a ele, e que se tivessem mais filhos, ele teme que também morram como o primeiro.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">87.6.</episode-num>
     <rating system="Brazil">
@@ -171850,7 +171840,7 @@
   </programme>
   <programme start="20260106210000 -0300" stop="20260106220000 -0300" channel="SBT São Paulo">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Yazmín, sentindo-se tão desesperada, decide confessar a Estrella que tem um vício. Ela tenta convencê-la de que é melhor contar a Fabián sobre seu problema.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.6.</episode-num>
     <rating system="Brazil">
@@ -171890,7 +171880,7 @@
     </rating>
   </programme>
   <programme start="20260107013000 -0300" stop="20260107021500 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - PODCMAIS</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
@@ -171924,7 +171914,7 @@
   </programme>
   <programme start="20260107134500 -0300" stop="20260107143000 -0300" channel="SBT São Paulo">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda retoma as aulas. Lúcio se sente humilhado ao saber, pelo bobo Sabiá, que Esmeralda operou os olhos e já está enxergando.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">83.7.</episode-num>
     <rating system="Brazil">
@@ -171933,7 +171923,7 @@
   </programme>
   <programme start="20260107143000 -0300" stop="20260107153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Ao se dar conta da fuga de Rubi, Heitor fica furioso.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">84.7.</episode-num>
     <rating system="Brazil">
@@ -171960,7 +171950,7 @@
   </programme>
   <programme start="20260107174500 -0300" stop="20260107183000 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">O governador diz a Doris que localizaram um avião em uma ilha próxima e que já estão fazendo os trabalhos de resgate.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">87.7.</episode-num>
     <rating system="Brazil">
@@ -171981,7 +171971,7 @@
   </programme>
   <programme start="20260107210000 -0300" stop="20260107220000 -0300" channel="SBT São Paulo">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Xavier tenta fugir com Yazmín e causa um terrível acidente. Ele fica gravemente ferido, então a filha de Fabián entra em contato com Érika para pedir ajuda.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.7.</episode-num>
     <rating system="Brazil">
