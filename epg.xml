@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-09 11:31:00" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-09 14:30:53" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -102801,7 +102801,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">7.12.</episode-num>
+    <episode-num system="xmltv_ns">9.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102917,7 +102917,7 @@
   </programme>
   <programme start="20260109194000 -0300" stop="20260109203000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Reapresentação do último capítulo.</desc>
     <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">89.9.</episode-num>
     <rating system="Brazil">
@@ -102971,7 +102971,7 @@
   </programme>
   <programme start="20260110004500 -0300" stop="20260110013000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Dona de Mim</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Reapresentação do último capítulo.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">80.10.</episode-num>
     <rating system="Brazil">
@@ -102983,7 +102983,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">7.12.</episode-num>
+    <episode-num system="xmltv_ns">9.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -152531,57 +152531,43 @@
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">87.9.</episode-num>
   </programme>
-  <programme start="20260109183000 -0300" stop="20260109191500 -0300" channel="Nsports HD">
+  <programme start="20260109183000 -0300" stop="20260109194500 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">88.9.</episode-num>
+  </programme>
+  <programme start="20260109194500 -0300" stop="20260110020000 -0300" channel="Nsports HD">
+    <title lang="pt">Tênis: United Cup - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">22500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260109194500 -0300" stop="20260110020000 -0300" channel="Nsports HD">
+    <title lang="pt">Tênis: United Cup - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">22500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260110020000 -0300" stop="20260110021500 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">900</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260109191500 -0300" stop="20260109201500 -0300" channel="Nsports HD">
+  <programme start="20260110021500 -0300" stop="20260110031500 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
     <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">89.9.</episode-num>
+    <episode-num system="xmltv_ns">82.10.</episode-num>
   </programme>
-  <programme start="20260109201500 -0300" stop="20260110020000 -0300" channel="Nsports HD">
+  <programme start="20260110031500 -0300" stop="20260110070000 -0300" channel="Nsports HD">
     <title lang="pt">Tênis: United Cup - ao vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">20700</length>
+    <length units="minutes">13500</length>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260109201500 -0300" stop="20260110020000 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: United Cup - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">20700</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260110020000 -0300" stop="20260110040000 -0300" channel="Nsports HD">
-    <title lang="pt">Caldas x Braga</title>
-    <desc lang="pt">Taça de Portugal - As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260110040000 -0300" stop="20260110050000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.10.</episode-num>
-  </programme>
-  <programme start="20260110050000 -0300" stop="20260110063000 -0300" channel="Nsports HD">
-    <title lang="pt">NBB: Franca x Corinthians</title>
-    <desc lang="pt">NSports é a casa do Basquete!</desc>
-    <length units="minutes">5400</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260110063000 -0300" stop="20260110070000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20260110070000 -0300" stop="20260110080000 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
@@ -152675,40 +152661,101 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">82.10.</episode-num>
   </programme>
-  <programme start="20260110223000 -0300" stop="20260111003000 -0300" channel="Nsports HD">
+  <programme start="20260110223000 -0300" stop="20260111013000 -0300" channel="Nsports HD">
     <title lang="pt">Um Assado Para</title>
     <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">10800</length>
     <episode-num system="xmltv_ns">82.10.</episode-num>
   </programme>
-  <programme start="20260110223000 -0300" stop="20260111003000 -0300" channel="Nsports HD">
+  <programme start="20260110223000 -0300" stop="20260111013000 -0300" channel="Nsports HD">
     <title lang="pt">Um Assado Para</title>
     <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">10800</length>
     <episode-num system="xmltv_ns">82.10.</episode-num>
   </programme>
-  <programme start="20260111003000 -0300" stop="20260111021500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Alemanha x Holanda - Duplas Mistas</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260111021500 -0300" stop="20260111030000 -0300" channel="Nsports HD">
-    <title lang="pt">Pod Cast Sport Insider</title>
-    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+  <programme start="20260111013000 -0300" stop="20260111021500 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">82.11.</episode-num>
-  </programme>
-  <programme start="20260111030000 -0300" stop="20260111033000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260111033000 -0300" stop="20260111040000 -0300" channel="Nsports HD">
+  <programme start="20260111021500 -0300" stop="20260111031500 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.11.</episode-num>
+  </programme>
+  <programme start="20260111031500 -0300" stop="20260111070000 -0300" channel="Nsports HD">
+    <title lang="pt">Tênis: United Cup - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">13500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260111070000 -0300" stop="20260111080000 -0300" channel="Nsports HD">
+    <title lang="pt">Pod Cast Sport Insider</title>
+    <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.11.</episode-num>
+  </programme>
+  <programme start="20260111080000 -0300" stop="20260111094500 -0300" channel="Nsports HD">
+    <title lang="pt">Santa Clara x Sporting</title>
+    <desc lang="pt">As principais equipes de Portugal disputam o torneio mata-mata do país e só um sairá campeão. Porto, Braga, Benfica e Sporting estão entre os favoritos.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260111094500 -0300" stop="20260111100000 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260111100000 -0300" stop="20260111110000 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.11.</episode-num>
+  </programme>
+  <programme start="20260111110000 -0300" stop="20260111121500 -0300" channel="Nsports HD">
+    <title lang="pt">Brasil x Nova Zelândia</title>
+    <desc lang="pt">A nova temporada dos campeonatos europeus está chegando. E para abrirmos os trabalhos, os principais times internacionais se juntam para disputar amistosos e se preparar nessa pré-temporada.</desc>
+    <length units="minutes">4500</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260111121500 -0300" stop="20260111130000 -0300" channel="Nsports HD">
+    <title lang="pt">Cavaco Futebol Clube</title>
+    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">82.11.</episode-num>
+  </programme>
+  <programme start="20260111130000 -0300" stop="20260111143000 -0300" channel="Nsports HD">
+    <title lang="pt">Excelsior Maassluis x Ajax</title>
+    <desc lang="pt">O Copa da  Holanda chega ao NSPORTS com tradição, talento jovem e futebol ofensivo. Clássicos históricos, revelações e a disputa título</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260111143000 -0300" stop="20260111150000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">14.11.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260111150000 -0300" stop="20260111153000 -0300" channel="Nsports HD">
+    <title lang="pt">Programa Sem Nome</title>
+    <desc lang="pt">Sinopse: A galera da redação traz as notícias do esporte mais inusitadas que você não viu durante a semana.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">85.11.</episode-num>
+  </programme>
+  <programme start="20260111153000 -0300" stop="20260111183000 -0300" channel="Nsports HD">
+    <title lang="pt">Camboriú x Chapecoense - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260111183000 -0300" stop="20260111190000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
     <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
     <length units="minutes">1800</length>
@@ -152716,70 +152763,27 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260111040000 -0300" stop="20260111050000 -0300" channel="Nsports HD">
+  <programme start="20260111190000 -0300" stop="20260111213000 -0300" channel="Nsports HD">
+    <title lang="pt">Corinthians x Deportivo Cali (COL)</title>
+    <desc lang="pt">A Libertadores Feminina é o principal torneio de clubes da América do Sul, reunindo as melhores equipes do continente em busca do título sul-americano e impulsionando o futebol feminino na região.</desc>
+    <length units="minutes">9000</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260111213000 -0300" stop="20260111220000 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260111220000 -0300" stop="20260111230000 -0300" channel="Nsports HD">
     <title lang="pt">Pod Cast Sport Insider</title>
     <desc lang="pt">Sport Insider! Sua conversa sobre futebol, liderança e economia com os maiores nomes do futebol brasileiro, com Rodrigo Capelo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.11.</episode-num>
-  </programme>
-  <programme start="20260111050000 -0300" stop="20260111051500 -0300" channel="Nsports HD">
-    <title lang="pt">Programa Sem Nome</title>
-    <desc lang="pt">Sinopse: A galera da redação traz as notícias do esporte mais inusitadas que você não viu durante a semana.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">85.11.</episode-num>
-  </programme>
-  <programme start="20260111051500 -0300" stop="20260111054500 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260111054500 -0300" stop="20260111074500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Jasmine Paoline x Belinda Bencic - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260111074500 -0300" stop="20260111094500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Flavio Cobolli x Stan Wawrinka - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260111094500 -0300" stop="20260111113000 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Itália x Suíça - Duplas Mistas - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">6300</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260111113000 -0300" stop="20260111120000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">11.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260111120000 -0300" stop="20260111130000 -0300" channel="Nsports HD">
-    <title lang="pt">Cavaco Futebol Clube</title>
-    <desc lang="pt">O Cavaco Futebol Clube é o ponto de encontro entre duas paixões que definem o Brasil: o futebol e o samba.</desc>
-    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">82.11.</episode-num>
   </programme>
-  <programme start="20260111130000 -0300" stop="20260111143000 -0300" channel="Nsports HD">
-    <title lang="pt">Na Raça: O DNA do Atleta Brasileiro</title>
-    <desc lang="pt">O documentário trata do esporte brasileiro sob diferentes perspectivas - médica, psicológica e social - na tentativa de compreender a importância das nossas origens na construção de ídolos nacionais.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260111143000 -0300" stop="20260111150000 -0300" channel="Nsports HD">
-    <title lang="pt">Negueritmo</title>
-    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260111150000 -0300" stop="20260111160000 -0300" channel="Nsports HD">
+  <programme start="20260111230000 -0300" stop="20260112000000 -0300" channel="Nsports HD">
     <title lang="pt">Beach Tennis: A Praia do Brasil</title>
     <desc lang="pt">O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
     <length units="minutes">3600</length>
@@ -152787,58 +152791,9 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260111160000 -0300" stop="20260111170000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260111170000 -0300" stop="20260111180000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260111180000 -0300" stop="20260111193000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260111193000 -0300" stop="20260111194500 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+  <programme start="20260112000000 -0300" stop="20260112001500 -0300" channel="Nsports HD">
+    <title lang="pt">Conteúdo não disponível</title>
     <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260111194500 -0300" stop="20260111201500 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260111201500 -0300" stop="20260111221500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Barbora Krejcikova x Malene Helgo - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260111221500 -0300" stop="20260112001500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Jakub Mensik x Casper Ruud - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260111221500 -0300" stop="20260112001500 -0300" channel="Nsports HD">
-    <title lang="pt">Tênis: Jakub Mensik x Casper Ruud - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260112001500 -0300" stop="20260112021500 -0300" channel="Nsports HD">
     <title lang="pt">Tênis: Tchéquia x Noruega - Duplas Mistas</title>
