@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-22 11:31:00" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-22 14:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -23920,11 +23920,51 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">1.24.</episode-num>
   </programme>
-  <programme start="20260124160000 -0300" stop="20260124230000 -0300" channel="CANAL UOL">
+  <programme start="20260124160000 -0300" stop="20260124161500 -0300" channel="CANAL UOL">
     <title lang="pt">Carnauol 2026 - ao vivo</title>
     <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar, promet...</desc>
-    <length units="minutes">25200</length>
+    <length units="minutes">900</length>
     <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260124161500 -0300" stop="20260124171500 -0300" channel="CANAL UOL">
+    <title lang="pt">João Gomes</title>
+    <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260124171500 -0300" stop="20260124185500 -0300" channel="CANAL UOL">
+    <title lang="pt">Dilsinho</title>
+    <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar.</desc>
+    <length units="minutes">6000</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260124185500 -0300" stop="20260124201500 -0300" channel="CANAL UOL">
+    <title lang="pt">Marina Sena</title>
+    <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar.</desc>
+    <length units="minutes">4800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260124201500 -0300" stop="20260124214000 -0300" channel="CANAL UOL">
+    <title lang="pt">Kesha</title>
+    <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar.</desc>
+    <length units="minutes">5100</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260124214000 -0300" stop="20260124230000 -0300" channel="CANAL UOL">
+    <title lang="pt">Pablo Vittar</title>
+    <desc lang="pt">A transmissão do festival em 2026 celebra a diversidade da música brasileira e internacional, reunindo grandes atrações no palco. O evento conta com shows de João Gomes, Dilsinho, Marina Sena, Kesha e Pabllo Vittar.</desc>
+    <length units="minutes">4800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -79720,7 +79760,7 @@
     <episode-num system="xmltv_ns">84.23.</episode-num>
   </programme>
   <programme start="20260123043000 -0300" stop="20260123063000 -0300" channel="ESPN">
-    <title lang="pt">Siena x Catania</title>
+    <title lang="pt">Milan x Lecce</title>
     <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -79792,7 +79832,7 @@
     <episode-num system="xmltv_ns">81.23.</episode-num>
   </programme>
   <programme start="20260123220000 -0300" stop="20260123230000 -0300" channel="ESPN">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Alef Manga e Pedrinho</title>
     <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">82.23.</episode-num>
@@ -80203,21 +80243,27 @@
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260123000000 -0300" stop="20260123050000 -0300" channel="ESPN 2">
+  <programme start="20260123000000 -0300" stop="20260123040000 -0300" channel="ESPN 2">
     <title lang="pt">Tênis: Austrálian Open 2026 - ao vivo</title>
     <desc lang="pt">O Australian Open é primeiro dos quatro Grand Slams do ano. Veja os principais tenistas da ATP e da WTA em busca do título nas quadras rápidas de Melbourne Park, na Austrália.</desc>
-    <length units="minutes">18000</length>
+    <length units="minutes">14400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260123050000 -0300" stop="20260123100000 -0300" channel="ESPN 2">
+  <programme start="20260123040000 -0300" stop="20260123080000 -0300" channel="ESPN 2">
     <title lang="pt">Tênis: Austrálian Open 2026 - ao vivo</title>
     <desc lang="pt">O Australian Open é primeiro dos quatro Grand Slams do ano. Veja os principais tenistas da ATP e da WTA em busca do título nas quadras rápidas de Melbourne Park, na Austrália.</desc>
-    <length units="minutes">18000</length>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260123080000 -0300" stop="20260123100000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis: Austrálian Open 2026 - ao vivo</title>
+    <desc lang="pt">O Australian Open é primeiro dos quatro Grand Slams do ano. Veja os principais tenistas da ATP e da WTA em busca do título nas quadras rápidas de Melbourne Park, na Austrália.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260123100000 -0300" stop="20260123110000 -0300" channel="ESPN 2">
     <title lang="pt">NFL: Houston Texans x New England Patriots</title>
-    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
@@ -80556,13 +80602,13 @@
   </programme>
   <programme start="20260122233000 -0300" stop="20260123003000 -0300" channel="ESPN 3">
     <title lang="pt">NFL: Houston Texans x New England Patriots</title>
-    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
   <programme start="20260122233000 -0300" stop="20260123003000 -0300" channel="ESPN 3">
     <title lang="pt">NFL: Houston Texans x New England Patriots</title>
-    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
@@ -80613,7 +80659,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260123130000 -0300" stop="20260123150000 -0300" channel="ESPN 3">
-    <title lang="pt">Al Gharafa (QAT) x Sharjah (UAE)</title>
+    <title lang="pt">Al Gharafa x Sharjah</title>
     <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -81583,7 +81629,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260122200000 -0300" stop="20260122220000 -0300" channel="ESPN 5">
-    <title lang="pt">Al Gharafa (QAT) x Sharjah (UAE)</title>
+    <title lang="pt">Al Gharafa x Sharjah</title>
     <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -81648,7 +81694,7 @@
     <episode-num system="xmltv_ns">89.23.</episode-num>
   </programme>
   <programme start="20260123100000 -0300" stop="20260123120000 -0300" channel="ESPN 5">
-    <title lang="pt">Al Gharafa (QAT) x Sharjah (UAE)</title>
+    <title lang="pt">Al Gharafa x Sharjah</title>
     <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -82118,7 +82164,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260123153000 -0300" stop="20260123173000 -0300" channel="ESPN 6">
-    <title lang="pt">Al Gharafa (QAT) x Sharjah (UAE)</title>
+    <title lang="pt">Al Gharafa x Sharjah</title>
     <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -82139,7 +82185,7 @@
   </programme>
   <programme start="20260123210000 -0300" stop="20260123220000 -0300" channel="ESPN 6">
     <title lang="pt">NFL: Buffalo Bills x Denver Broncos</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
@@ -97106,7 +97152,7 @@
     <sub-title lang="pt">Solano Trindade por Complexo Negra Palavra</sub-title>
     <desc lang="pt">O coletivo artístico homageia o poeta Solano Trindade, tema de um espetáculo do grupo nos teatros cariocas, repleto de ritmos brasileiros e discussões relativas à condição do negro no Brasil.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97143,7 +97189,7 @@
     <sub-title lang="pt">Adélia Prado I</sub-title>
     <desc lang="pt">Como nasce uma poeta: a gratidão de existir. A poeta Adélia Prado nos conta sobre seus processos de criação.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.1.</episode-num>
+    <episode-num system="xmltv_ns">22.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97153,7 +97199,7 @@
     <sub-title lang="pt">Equidade de gênero em sala de aula</sub-title>
     <desc lang="pt">O episódio discute equidade de gênero na EJA, abordando os desafios que afetam a vida dos educandos. Especialistas analisam como a educação pode transformar realidades e promover respeito.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97183,7 +97229,7 @@
     <sub-title lang="pt">Teatro no Semiárido</sub-title>
     <desc lang="pt">No Sertão, o teatro se torna resistência.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97233,7 +97279,7 @@
     <sub-title lang="pt">Tia Ciata</sub-title>
     <desc lang="pt">Nesse episódio recebemos, no Canal da História, a sensação cultural do Rio de Janeiro no início do século XX, matrona do carnaval e mãe de santo, a Tia Ciata! Ela nos contará um pouco mais sobre o</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">21.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97313,7 +97359,7 @@
     <sub-title lang="pt">O Sumiço da Chupeta</sub-title>
     <desc lang="pt">Mika perdeu sua chupeta e sem ela, Mika não consegue dormir. Com a ajuda de Javô, Mika vai tentar encontrá-la.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">21.76.</episode-num>
+    <episode-num system="xmltv_ns">22.76.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97323,7 +97369,7 @@
     <sub-title lang="pt">Ernest e Celestine perdem Simeon</sub-title>
     <desc lang="pt">Yetili está preparando as celebrações de natal e tentando tricotar belos suéteres. Mas, digamos que ele é muito melhor em contar histórias.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">21.18.</episode-num>
+    <episode-num system="xmltv_ns">22.18.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97353,7 +97399,7 @@
     <sub-title lang="pt">Sepé Tiaraju</sub-title>
     <desc lang="pt">Leco não sabe o que fazer com um saco de sementes que ganhou de seu avô.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">21.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97363,7 +97409,7 @@
     <sub-title lang="pt">O Mundo das Emoções</sub-title>
     <desc lang="pt">Conhecer os gostos, as preferências, os sentimentos dos filhotes humanos. Este é o objetivo de Solo neste terceiro dia orbitando a Terra.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -97393,7 +97439,7 @@
     <sub-title lang="pt">O Terremoto e a Aluna Nova</sub-title>
     <desc lang="pt">Marcelo fica muito impressionado com Maline, a menina nova da turma, que não fala sua língua. Quando acontece um terremoto, Marcelo vai precisar convencê-la a enfrentar seu medo e sair da sala.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">20.14.</episode-num>
+    <episode-num system="xmltv_ns">22.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97413,7 +97459,7 @@
     <sub-title lang="pt">MASCULINIDADES</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97483,7 +97529,7 @@
     <sub-title lang="pt">Teatro no Semiárido</sub-title>
     <desc lang="pt">No Sertão, o teatro se torna resistência.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97493,7 +97539,7 @@
     <sub-title lang="pt">Solano Trindade por Complexo Negra Palavra</sub-title>
     <desc lang="pt">O coletivo artístico homageia o poeta Solano Trindade, tema de um espetáculo do grupo nos teatros cariocas, repleto de ritmos brasileiros e discussões relativas à condição do negro no Brasil.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97532,7 +97578,7 @@
     <sub-title lang="pt">GET Pablo Picasso</sub-title>
     <desc lang="pt">Neste episódio, vamos conhecer um projeto que usa massinha e palitos para ensinar Geometria.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.23.</episode-num>
+    <episode-num system="xmltv_ns">22.23.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97542,7 +97588,7 @@
     <sub-title lang="pt">Saúde Menstrual - CE Erich Walter Heine</sub-title>
     <desc lang="pt">A sustentabilidade faz parte do colégio, e o projeto Ab.Ecos reforça essa missão ao produzir absorventes reutilizáveis. O desafio é organizar uma grande produção dentro da própria escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97552,7 +97598,7 @@
     <sub-title lang="pt">Equidade de gênero em sala de aula</sub-title>
     <desc lang="pt">O episódio discute equidade de gênero na EJA, abordando os desafios que afetam a vida dos educandos. Especialistas analisam como a educação pode transformar realidades e promover respeito.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97562,7 +97608,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -97588,7 +97634,7 @@
     <sub-title lang="pt">Baixo Rio Amazonas</sub-title>
     <desc lang="pt">A foz do rio Amazonas ainda está preservada e o turismo de base comunitária contribui para esta preservação. Mas o projeto de extração de petróleo na foz  do rio ameaça esse equilíbrio ecológico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97598,7 +97644,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97608,7 +97654,7 @@
     <sub-title lang="pt">Finanças</sub-title>
     <desc lang="pt">Investimentos são necessários para criar qualquer coisa, e finanças não se tratam apenas do retorno, do lucro. Finanças são o meio pelo qual as coisas podem se materializar.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97653,7 +97699,7 @@
     <sub-title lang="pt">Meteoros</sub-title>
     <desc lang="pt">Este episódio fala sobre meteoros.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">21.10.</episode-num>
+    <episode-num system="xmltv_ns">22.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97663,7 +97709,7 @@
     <sub-title lang="pt">VALÉRIA PAIVA</sub-title>
     <desc lang="pt">Nessa temporada especial do Caça Joia, Chinaina vai até Belém para apresentar as principais joias da música independente paraense.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97693,7 +97739,7 @@
     <sub-title lang="pt">Novas Perspectivas Contra o Câncer</sub-title>
     <desc lang="pt">Ciência para Todos é uma série documental que mostra como importantes iniciativas científicas apoiadas pela FAPESP impactam diretamente o nosso dia a dia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">22.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97723,7 +97769,7 @@
     <sub-title lang="pt">Saúde Menstrual - CE Erich Walter Heine</sub-title>
     <desc lang="pt">A sustentabilidade faz parte do colégio, e o projeto Ab.Ecos reforça essa missão ao produzir absorventes reutilizáveis. O desafio é organizar uma grande produção dentro da própria escola.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97743,7 +97789,7 @@
     <sub-title lang="pt">Clarisse G. S. Silva</sub-title>
     <desc lang="pt">Pesquisadora e historiadora da arte no Rio de Janeiro, é colunista da Revista Desvio. Atualmente pesquisa manifestações artísticas e culturais periféricas e/ou afrodescendentes.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97823,9 +97869,9 @@
   <programme start="20260123001500 -0300" stop="20260123004500 -0300" channel="FUTURA HD">
     <title lang="pt">Identidade Brasil</title>
     <sub-title lang="pt">José Roberto de Castro Neves</sub-title>
-    <desc lang="pt">Diálogos sobre educação e educadores conduzidos pelo professor Arnaldo Niskier.</desc>
+    <desc lang="pt">Isio Ghelman recebe José Roberto de Castro Neves, Doutor em Direito, Escritor e Membro da Academia Brasileira de Letras.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.232.</episode-num>
+    <episode-num system="xmltv_ns">23.232.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97850,7 +97896,7 @@
     <sub-title lang="pt">GET Pablo Picasso</sub-title>
     <desc lang="pt">Neste episódio, vamos conhecer um projeto que usa massinha e palitos para ensinar Geometria.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.23.</episode-num>
+    <episode-num system="xmltv_ns">22.23.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97880,7 +97926,7 @@
     <sub-title lang="pt">VALÉRIA PAIVA</sub-title>
     <desc lang="pt">Nessa temporada especial do Caça Joia, Chinaina vai até Belém para apresentar as principais joias da música independente paraense.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97890,7 +97936,7 @@
     <sub-title lang="pt">Clarisse G. S. Silva</sub-title>
     <desc lang="pt">Pesquisadora e historiadora da arte no Rio de Janeiro, é colunista da Revista Desvio. Atualmente pesquisa manifestações artísticas e culturais periféricas e/ou afrodescendentes.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97909,7 +97955,7 @@
     <sub-title lang="pt">NAED Espaço Concórdia</sub-title>
     <desc lang="pt">O Núcleo de Ação Educativa Descentralizada da região Noroeste de Campinas, também conhecido como NAED Espaço Concórdia, recebe turmas de jovens e adultos para concluírem seus estudos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">23.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98009,7 +98055,7 @@
     <sub-title lang="pt">O Terremoto e a Aluna Nova</sub-title>
     <desc lang="pt">Marcelo fica muito impressionado com Maline, a menina nova da turma, que não fala sua língua. Quando acontece um terremoto, Marcelo vai precisar convencê-la a enfrentar seu medo e sair da sala.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">20.14.</episode-num>
+    <episode-num system="xmltv_ns">22.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98118,7 +98164,7 @@
     <sub-title lang="pt">Meu Coelho Pipo</sub-title>
     <desc lang="pt">Cecilia mora em uma fazenda e adora todos os tipos de animais, mas seu favorito é o coelho Pipo. Um dia ela descobre que Pipo está prestes a virar uma refeição para sua família. O que ela deve fazer?</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">21.15.</episode-num>
+    <episode-num system="xmltv_ns">23.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98196,7 +98242,7 @@
     <sub-title lang="pt">Baixo Rio Amazonas</sub-title>
     <desc lang="pt">A foz do rio Amazonas ainda está preservada e o turismo de base comunitária contribui para esta preservação. Mas o projeto de extração de petróleo na foz  do rio ameaça esse equilíbrio ecológico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98206,7 +98252,7 @@
     <sub-title lang="pt">Perigo</sub-title>
     <desc lang="pt">Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.5.</episode-num>
+    <episode-num system="xmltv_ns">23.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98369,7 +98415,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -98399,7 +98445,7 @@
     <sub-title lang="pt">Batidas da Resistência</sub-title>
     <desc lang="pt">Neste episódio, mergulhamos nas raízes do jongo, expressão afro-brasileira que se refere à mistura de percussão, dança e tradições místicas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98567,7 +98613,7 @@
     <sub-title lang="pt">Fakenews - Educação midiática</sub-title>
     <desc lang="pt">Neste episódio, iremos mostrar, na prática, o que faz um checador de notícias. O profissional é responsável por um trabalho essencial para o período em que vivemos: combater a desinformação.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">24.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98594,7 +98640,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -98717,7 +98763,7 @@
     <sub-title lang="pt">Uma estranha no ninho</sub-title>
     <desc lang="pt">Tainá e sua turma precisam salvar três filhotes de tartarugas da Amazônia que estão sendo levados pela correnteza do rio até uma cachoeira.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98737,7 +98783,7 @@
     <sub-title lang="pt">O Mundo das Emoções</sub-title>
     <desc lang="pt">Conhecer os gostos, as preferências, os sentimentos dos filhotes humanos. Este é o objetivo de Solo neste terceiro dia orbitando a Terra.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -98747,7 +98793,7 @@
     <sub-title lang="pt">Goiabada com queijo</sub-title>
     <desc lang="pt">Por causa da reforma, Pri precisa dormir no quarto de Tuca. Ela fica super empolgada, propõe milhões de brincadeiras e não hesita em tomar conta do espaço - o que deixa Tuca um tanto sufocado.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.13.</episode-num>
+    <episode-num system="xmltv_ns">24.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98757,7 +98803,7 @@
     <sub-title lang="pt">Olha, papai</sub-title>
     <desc lang="pt">Senhoras e senhores, venham descobrir o mais impressionante número de malabarismo do mundo aqui na Livraria do Yetili! Depois de toda emoção, é hora da história!</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.17.</episode-num>
+    <episode-num system="xmltv_ns">24.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98777,7 +98823,7 @@
     <sub-title lang="pt">Olga Cossettini</sub-title>
     <desc lang="pt">Manga e Leco estão brincando quando Mytikah os leva para a Argentina para conhecer Olga Cossettini, uma professora que realiza atividades que envolvem a escola e a comunidade.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">24.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98796,7 +98842,7 @@
     <title lang="pt">Matemágica</title>
     <desc lang="pt">O matemático Eric demonstra a incrível potência do 2; mostra o desafio da data de aniversário; e pergunta: será você um quadrado ou um retângulo? Não é mágica, é matemática!</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">24.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98825,7 +98871,7 @@
     <sub-title lang="pt">MASCULINIDADES</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98835,7 +98881,7 @@
     <sub-title lang="pt">POR QUE A BETERRABA SOLTA TINTA?</sub-title>
     <desc lang="pt">No LAB DE CHEF ciência e gastronomia vão se misturar em deliciosas receitas e surpreendentes experimentos feitos por Maya e Tom, com a ajuda do robô mestre-cuca temperamental.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.7.</episode-num>
+    <episode-num system="xmltv_ns">24.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98865,7 +98911,7 @@
     <sub-title lang="pt">Batidas da Resistência</sub-title>
     <desc lang="pt">Neste episódio, mergulhamos nas raízes do jongo, expressão afro-brasileira que se refere à mistura de percussão, dança e tradições místicas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98875,7 +98921,7 @@
     <sub-title lang="pt">Clarisse G. S. Silva</sub-title>
     <desc lang="pt">Pesquisadora e historiadora da arte no Rio de Janeiro, é colunista da Revista Desvio. Atualmente pesquisa manifestações artísticas e culturais periféricas e/ou afrodescendentes.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98905,7 +98951,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98915,7 +98961,7 @@
     <sub-title lang="pt">Baixo Rio Amazonas</sub-title>
     <desc lang="pt">A foz do rio Amazonas ainda está preservada e o turismo de base comunitária contribui para esta preservação. Mas o projeto de extração de petróleo na foz  do rio ameaça esse equilíbrio ecológico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98925,7 +98971,7 @@
     <sub-title lang="pt">Energizando</sub-title>
     <desc lang="pt">A urgência climática no Brasil e no mundo e os desafios para uma transição energética justa e necessária.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98935,7 +98981,7 @@
     <sub-title lang="pt">Equidade de gênero em sala de aula</sub-title>
     <desc lang="pt">O episódio discute equidade de gênero na EJA, abordando os desafios que afetam a vida dos educandos. Especialistas analisam como a educação pode transformar realidades e promover respeito.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98945,7 +98991,7 @@
     <sub-title lang="pt">Saúde Menstrual - CE Erich Walter Heine</sub-title>
     <desc lang="pt">A sustentabilidade faz parte do colégio, e o projeto Ab.Ecos reforça essa missão ao produzir absorventes reutilizáveis. O desafio é organizar uma grande produção dentro da própria escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98992,7 +99038,7 @@
     <sub-title lang="pt">Perigo</sub-title>
     <desc lang="pt">Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.5.</episode-num>
+    <episode-num system="xmltv_ns">23.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99136,7 +99182,7 @@
     <sub-title lang="pt">Baixo Rio Amazonas</sub-title>
     <desc lang="pt">A foz do rio Amazonas ainda está preservada e o turismo de base comunitária contribui para esta preservação. Mas o projeto de extração de petróleo na foz  do rio ameaça esse equilíbrio ecológico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99165,7 +99211,7 @@
     <sub-title lang="pt">Finanças</sub-title>
     <desc lang="pt">Investimentos são necessários para criar qualquer coisa, e finanças não se tratam apenas do retorno, do lucro. Finanças são o meio pelo qual as coisas podem se materializar.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99175,7 +99221,7 @@
     <sub-title lang="pt">Energizando</sub-title>
     <desc lang="pt">A urgência climática no Brasil e no mundo e os desafios para uma transição energética justa e necessária.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99185,7 +99231,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99214,7 +99260,7 @@
     <sub-title lang="pt">Soros Antiofídicos</sub-title>
     <desc lang="pt">Documentário que fala sobre o médico e sanitarista Vital Brazil, que liderou combates a grandes epidemias no Brasil e foi pioneiro na produção de soros antiofídicos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
+    <episode-num system="xmltv_ns">25.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99244,7 +99290,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -99312,7 +99358,7 @@
     <sub-title lang="pt">Equidade de gênero em sala de aula</sub-title>
     <desc lang="pt">O episódio discute equidade de gênero na EJA, abordando os desafios que afetam a vida dos educandos. Especialistas analisam como a educação pode transformar realidades e promover respeito.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99322,7 +99368,7 @@
     <sub-title lang="pt">Saúde Menstrual - CE Erich Walter Heine</sub-title>
     <desc lang="pt">A sustentabilidade faz parte do colégio, e o projeto Ab.Ecos reforça essa missão ao produzir absorventes reutilizáveis. O desafio é organizar uma grande produção dentro da própria escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99349,7 +99395,7 @@
     <title lang="pt">Matemágica</title>
     <desc lang="pt">O matemático Eric demonstra a incrível potência do 2; mostra o desafio da data de aniversário; e pergunta: será você um quadrado ou um retângulo? Não é mágica, é matemática!</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">24.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99369,7 +99415,7 @@
     <sub-title lang="pt">Sepé Tiaraju</sub-title>
     <desc lang="pt">Leco não sabe o que fazer com um saco de sementes que ganhou de seu avô.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">21.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99419,7 +99465,7 @@
     <sub-title lang="pt">POR QUE A BETERRABA SOLTA TINTA?</sub-title>
     <desc lang="pt">No LAB DE CHEF ciência e gastronomia vão se misturar em deliciosas receitas e surpreendentes experimentos feitos por Maya e Tom, com a ajuda do robô mestre-cuca temperamental.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">21.7.</episode-num>
+    <episode-num system="xmltv_ns">24.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99449,7 +99495,7 @@
     <sub-title lang="pt">MASCULINIDADES</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99459,7 +99505,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99469,7 +99515,7 @@
     <sub-title lang="pt">Finanças</sub-title>
     <desc lang="pt">Investimentos são necessários para criar qualquer coisa, e finanças não se tratam apenas do retorno, do lucro. Finanças são o meio pelo qual as coisas podem se materializar.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99507,7 +99553,7 @@
     <sub-title lang="pt">NAED Espaço Concórdia</sub-title>
     <desc lang="pt">O Núcleo de Ação Educativa Descentralizada da região Noroeste de Campinas, também conhecido como NAED Espaço Concórdia, recebe turmas de jovens e adultos para concluírem seus estudos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">23.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99527,7 +99573,7 @@
     <sub-title lang="pt">Novas Perspectivas Contra o Câncer</sub-title>
     <desc lang="pt">Ciência para Todos é uma série documental que mostra como importantes iniciativas científicas apoiadas pela FAPESP impactam diretamente o nosso dia a dia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">22.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99537,7 +99583,7 @@
     <sub-title lang="pt">Perigo</sub-title>
     <desc lang="pt">Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.5.</episode-num>
+    <episode-num system="xmltv_ns">23.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99563,7 +99609,7 @@
     <sub-title lang="pt">Baixo Rio Amazonas</sub-title>
     <desc lang="pt">A foz do rio Amazonas ainda está preservada e o turismo de base comunitária contribui para esta preservação. Mas o projeto de extração de petróleo na foz  do rio ameaça esse equilíbrio ecológico.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99602,7 +99648,7 @@
     <sub-title lang="pt">Soros Antiofídicos</sub-title>
     <desc lang="pt">Documentário que fala sobre o médico e sanitarista Vital Brazil, que liderou combates a grandes epidemias no Brasil e foi pioneiro na produção de soros antiofídicos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
+    <episode-num system="xmltv_ns">25.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99676,7 +99722,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99739,7 +99785,7 @@
     <sub-title lang="pt">Batidas da Resistência</sub-title>
     <desc lang="pt">Neste episódio, mergulhamos nas raízes do jongo, expressão afro-brasileira que se refere à mistura de percussão, dança e tradições místicas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99773,7 +99819,7 @@
     <sub-title lang="pt">Saúde Menstrual - CE Erich Walter Heine</sub-title>
     <desc lang="pt">A sustentabilidade faz parte do colégio, e o projeto Ab.Ecos reforça essa missão ao produzir absorventes reutilizáveis. O desafio é organizar uma grande produção dentro da própria escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">22.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99842,7 +99888,7 @@
     <sub-title lang="pt">Santuários Ameaçados</sub-title>
     <desc lang="pt">A urbanização desenfreada é um perigo para os animais. Nosso apresentador apoia veterinários e biólogos na luta por animais afetados pela urbanização em manguezais e áreas litorâneas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99852,7 +99898,7 @@
     <sub-title lang="pt">Meu Coelho Pipo</sub-title>
     <desc lang="pt">Cecilia mora em uma fazenda e adora todos os tipos de animais, mas seu favorito é o coelho Pipo. Um dia ela descobre que Pipo está prestes a virar uma refeição para sua família. O que ela deve fazer?</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">21.15.</episode-num>
+    <episode-num system="xmltv_ns">23.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99932,7 +99978,7 @@
     <sub-title lang="pt">MASCULINIDADES</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99980,7 +100026,7 @@
     <title lang="pt">Matemágica</title>
     <desc lang="pt">O matemático Eric demonstra a incrível potência do 2; mostra o desafio da data de aniversário; e pergunta: será você um quadrado ou um retângulo? Não é mágica, é matemática!</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.2.</episode-num>
+    <episode-num system="xmltv_ns">24.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -99990,7 +100036,7 @@
     <sub-title lang="pt">Olga Cossettini</sub-title>
     <desc lang="pt">Manga e Leco estão brincando quando Mytikah os leva para a Argentina para conhecer Olga Cossettini, uma professora que realiza atividades que envolvem a escola e a comunidade.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">24.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -100055,7 +100101,7 @@
     <sub-title lang="pt">GET Pablo Picasso</sub-title>
     <desc lang="pt">Neste episódio, vamos conhecer um projeto que usa massinha e palitos para ensinar Geometria.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.23.</episode-num>
+    <episode-num system="xmltv_ns">22.23.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -100085,7 +100131,7 @@
     <sub-title lang="pt">Energizando</sub-title>
     <desc lang="pt">A urgência climática no Brasil e no mundo e os desafios para uma transição energética justa e necessária.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -100135,7 +100181,7 @@
     <sub-title lang="pt">Clarisse G. S. Silva</sub-title>
     <desc lang="pt">Pesquisadora e historiadora da arte no Rio de Janeiro, é colunista da Revista Desvio. Atualmente pesquisa manifestações artísticas e culturais periféricas e/ou afrodescendentes.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -100173,7 +100219,7 @@
     <sub-title lang="pt">Batidas da Resistência</sub-title>
     <desc lang="pt">Neste episódio, mergulhamos nas raízes do jongo, expressão afro-brasileira que se refere à mistura de percussão, dança e tradições místicas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.12.</episode-num>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -100278,7 +100324,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">21.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -159459,7 +159505,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260122120000 -0300" stop="20260122130000 -0300" channel="PRIME BOX BRAZIL">
@@ -159911,7 +159957,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260123110000 -0300" stop="20260123113000 -0300" channel="PRIME BOX BRAZIL">
@@ -160963,7 +161009,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260125220000 -0300" stop="20260125231500 -0300" channel="PRIME BOX BRAZIL">
@@ -161354,7 +161400,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260126210000 -0300" stop="20260126213000 -0300" channel="PRIME BOX BRAZIL">
@@ -171265,7 +171311,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">2.28.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122103000 -0300" stop="20260122112000 -0300" channel="SONY CHANNEL">
@@ -171275,7 +171321,7 @@
     <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122112000 -0300" stop="20260122114400 -0300" channel="SONY CHANNEL">
@@ -171285,7 +171331,7 @@
     <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122114400 -0300" stop="20260122121400 -0300" channel="SONY CHANNEL">
@@ -171295,7 +171341,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122121400 -0300" stop="20260122135900 -0300" channel="SONY CHANNEL">
@@ -171360,7 +171406,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">2.28.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122163900 -0300" stop="20260122172900 -0300" channel="SONY CHANNEL">
@@ -171370,7 +171416,7 @@
     <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122172900 -0300" stop="20260122180000 -0300" channel="SONY CHANNEL">
@@ -171380,7 +171426,7 @@
     <length units="minutes">1860</length>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260122180000 -0300" stop="20260122202000 -0300" channel="SONY CHANNEL">
@@ -171554,7 +171600,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123103000 -0300" stop="20260123110000 -0300" channel="SONY CHANNEL">
@@ -171564,7 +171610,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123110000 -0300" stop="20260123113000 -0300" channel="SONY CHANNEL">
@@ -171574,7 +171620,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123113000 -0300" stop="20260123120000 -0300" channel="SONY CHANNEL">
@@ -171584,7 +171630,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123120000 -0300" stop="20260123121000 -0300" channel="SONY CHANNEL">
@@ -171646,7 +171692,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123163000 -0300" stop="20260123170000 -0300" channel="SONY CHANNEL">
@@ -171656,7 +171702,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123170000 -0300" stop="20260123173000 -0300" channel="SONY CHANNEL">
@@ -171666,7 +171712,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260123173000 -0300" stop="20260123190500 -0300" channel="SONY CHANNEL">
@@ -172117,7 +172163,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126103000 -0300" stop="20260126110000 -0300" channel="SONY CHANNEL">
@@ -172127,7 +172173,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126110000 -0300" stop="20260126113000 -0300" channel="SONY CHANNEL">
@@ -172137,7 +172183,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126113000 -0300" stop="20260126115400 -0300" channel="SONY CHANNEL">
@@ -172147,7 +172193,7 @@
     <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126115400 -0300" stop="20260126132900 -0300" channel="SONY CHANNEL">
@@ -172209,7 +172255,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126160900 -0300" stop="20260126163900 -0300" channel="SONY CHANNEL">
@@ -172219,7 +172265,7 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126163900 -0300" stop="20260126170400 -0300" channel="SONY CHANNEL">
@@ -172229,7 +172275,7 @@
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126170400 -0300" stop="20260126172900 -0300" channel="SONY CHANNEL">
@@ -172239,7 +172285,7 @@
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260126172900 -0300" stop="20260126190900 -0300" channel="SONY CHANNEL">
@@ -172373,42 +172419,42 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122074200 -0300" stop="20260122091400 -0300" channel="SPACE HD">
+  <programme start="20260122074200 -0300" stop="20260122090200 -0300" channel="SPACE HD">
     <title lang="pt">Guerreiros de Fogo</title>
     <desc lang="pt">Red Sonja viveu numa época selvagem de um mundo indomado, cheio de seres fantásticos e fabulosas criaturas, dominado pelo poder da espada e feitiçaria. Ela une suas forças com as de um guerreiro para enfrentar perversa rainha.</desc>
-    <length units="minutes">5520</length>
+    <length units="minutes">4800</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122091400 -0300" stop="20260122113000 -0300" channel="SPACE HD">
+  <programme start="20260122090200 -0300" stop="20260122112100 -0300" channel="SPACE HD">
     <title lang="pt">O Último Grande Herói</title>
     <desc lang="pt">Sargento persegue bandidos só com seu revólver e nunca perde batalha na guerra com o crime, transformando-se em herói dos filmes de ação.</desc>
-    <length units="minutes">8160</length>
+    <length units="minutes">8340</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122113000 -0300" stop="20260122131400 -0300" channel="SPACE HD">
+  <programme start="20260122112100 -0300" stop="20260122130400 -0300" channel="SPACE HD">
     <title lang="pt">O Grande Assalto</title>
     <desc lang="pt">Após não conseguir entrar para a polícia, Chris arruma um emprego como segurança. Quando ele percebe que a empresa possui inúmeras falhas de segurança, Chris é convencido por seu amigo a roubar o local.</desc>
-    <length units="minutes">6240</length>
+    <length units="minutes">6180</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122131400 -0300" stop="20260122152000 -0300" channel="SPACE HD">
+  <programme start="20260122130400 -0300" stop="20260122151500 -0300" channel="SPACE HD">
     <title lang="pt">Fuga Para a Vitória</title>
     <desc lang="pt">Comandante de um campo de prisioneiros alemão, forma um time para enfrentar equipe de Aliados e usar a vitória como propaganda nazista, sem desconfiar que seus adversários aceitaram o desafio para executar um ousado plano de fuga.</desc>
-    <length units="minutes">7560</length>
+    <length units="minutes">7860</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122152000 -0300" stop="20260122172000 -0300" channel="SPACE HD">
+  <programme start="20260122151500 -0300" stop="20260122172000 -0300" channel="SPACE HD">
     <title lang="pt">O Vingador do Futuro</title>
     <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7500</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -172447,44 +172493,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122232500 -0300" stop="20260122235100 -0300" channel="SPACE HD">
+  <programme start="20260122232500 -0300" stop="20260122235000 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Mudança Planejada</sub-title>
     <desc lang="pt">Noite de apreensões de drogas e mercadorias ilegais na fronteira brasileira.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122235100 -0300" stop="20260123003500 -0300" channel="SPACE HD">
+  <programme start="20260122235000 -0300" stop="20260123003300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">O tiroteio numa loja de armas pode estar conectado a uma jovem envolvida num pacto suicida.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260122235100 -0300" stop="20260123003500 -0300" channel="SPACE HD">
+  <programme start="20260122235000 -0300" stop="20260123003300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">O tiroteio numa loja de armas pode estar conectado a uma jovem envolvida num pacto suicida.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123003500 -0300" stop="20260123012200 -0300" channel="SPACE HD">
+  <programme start="20260123003300 -0300" stop="20260123011900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Duas lindas mulheres são assassinadas num hotel em Las Vegas e os CSIs descobrem um serial killer pouco comum em suas investigações.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123012200 -0300" stop="20260123020700 -0300" channel="SPACE HD">
+  <programme start="20260123011900 -0300" stop="20260123020400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">A investigação sobre traficantes de órgãos humanos continua, mas agora, é uma corrida contra o relógio.</desc>
     <length units="minutes">2700</length>
@@ -172493,16 +172539,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123020700 -0300" stop="20260123025100 -0300" channel="SPACE HD">
+  <programme start="20260123020400 -0300" stop="20260123024700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">O caso de dois estudantes de colégio, um morto e outra desaparecida, levam os CSIs ao mundo das corridas de rua e a uma rede complexa de competição mortal.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123025100 -0300" stop="20260123033300 -0300" channel="SPACE HD">
+  <programme start="20260123024700 -0300" stop="20260123032900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">O tiroteio numa loja de armas pode estar conectado a uma jovem envolvida num pacto suicida.</desc>
     <length units="minutes">2520</length>
@@ -172511,16 +172557,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123033300 -0300" stop="20260123041800 -0300" channel="SPACE HD">
+  <programme start="20260123032900 -0300" stop="20260123041200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Duas lindas mulheres são assassinadas num hotel em Las Vegas e os CSIs descobrem um serial killer pouco comum em suas investigações.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">10.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123041800 -0300" stop="20260123050200 -0300" channel="SPACE HD">
+  <programme start="20260123041200 -0300" stop="20260123045600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">A investigação sobre traficantes de órgãos humanos continua, mas agora, é uma corrida contra o relógio.</desc>
     <length units="minutes">2640</length>
@@ -172529,13 +172575,22 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260123050200 -0300" stop="20260123061400 -0300" channel="SPACE HD">
+  <programme start="20260123045600 -0300" stop="20260123053800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">O caso de dois estudantes de colégio, um morto e outra desaparecida, levam os CSIs ao mundo das corridas de rua e a uma rede complexa de competição mortal.</desc>
-    <length units="minutes">4320</length>
+    <length units="minutes">2520</length>
     <episode-num system="xmltv_ns">10.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260123053800 -0300" stop="20260123061400 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2160</length>
+    <episode-num system="xmltv_ns">5.23.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260123061400 -0300" stop="20260123063600 -0300" channel="SPACE HD">
@@ -185248,51 +185303,51 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122072400 -0300" stop="20260122092400 -0300" channel="TNT HD">
+  <programme start="20260122072400 -0300" stop="20260122095700 -0300" channel="TNT HD">
     <title lang="pt">Esquadrão Suicida</title>
     <desc lang="pt">Após a aparição do Superman, a agente Amanda está convencida que o governo americano precisa ter sua própria equipe de metahumanos.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">9180</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122092400 -0300" stop="20260122112400 -0300" channel="TNT HD">
+  <programme start="20260122095700 -0300" stop="20260122114200 -0300" channel="TNT HD">
     <title lang="pt">Slavia Praga (TCH) x Barcelona (ESP)</title>
     <desc lang="pt">Slavia Praga (TCH) e Barcelona (ESP) jogam pela 7ª rodada da 1ª fase da UEFA Champions League.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260122112400 -0300" stop="20260122114700 -0300" channel="TNT HD">
+  <programme start="20260122114200 -0300" stop="20260122120600 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Jogador de Boliche</sub-title>
     <desc lang="pt">Em vez de ir à Princeton, o Carlton quer se tornar um jogador de boliche profissional. Quando ele finalmente é aceito para estudar nesta renomada universidade, ele resolve surpreender a todos com uma nova notícia.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122114700 -0300" stop="20260122121000 -0300" channel="TNT HD">
+  <programme start="20260122120600 -0300" stop="20260122123100 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Culpa É Do Filho Do Mordomo</sub-title>
     <desc lang="pt">Um homem que diz ser o filho do Geoffrey vem visitar. O Geoffrey o questiona e o aceita como o seu filho. Todos na casa gostam do Frederick - menos o Will. O Will está decidido a descobrir a verdade.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122121000 -0300" stop="20260122123500 -0300" channel="TNT HD">
+  <programme start="20260122123100 -0300" stop="20260122125500 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Coelhinho da Páscoa</sub-title>
     <desc lang="pt">O pastor da igreja acha que a devoção religiosa da Vivian é uma boa forma de se aproximar dela, então ele a paquera. O Carlton e o Will discutem sobre o desejo dela de cantar na cerimônia de Páscoa.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122123500 -0300" stop="20260122130000 -0300" channel="TNT HD">
+  <programme start="20260122125500 -0300" stop="20260122132000 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">No Flagra, Galera</sub-title>
     <desc lang="pt">Este episódio mostra os erros de gravação durante a filmagem das temporadas anteriores. O Dick Clark entra em cena para ajudar o Will a mostrar os erros. O Will entrevista os atores que aparecem na série.</desc>
@@ -185302,7 +185357,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122130000 -0300" stop="20260122132300 -0300" channel="TNT HD">
+  <programme start="20260122132000 -0300" stop="20260122134300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia o Baile da Nona Serie</sub-title>
     <desc lang="pt">Chris e Greg estavam sem pares para o baile do nono ano, até que Greg recebe um convite, deixando Chris no papel de estranho no ninho. A sra. Morello sugere que Chris convide a única garota que ficou sem par.</desc>
@@ -185312,17 +185367,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122132300 -0300" stop="20260122134400 -0300" channel="TNT HD">
+  <programme start="20260122134300 -0300" stop="20260122140600 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Formatura</sub-title>
     <desc lang="pt">A animação de Chris para a formatura na escola acaba quando Greg revela que ele vai para outra escola no ano seguinte. Sem querer se separar do seu melhor amigo, Tyler se prepara para ser qualificado para a doação em dinheiro.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.22.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122134400 -0300" stop="20260122140600 -0300" channel="TNT HD">
+  <programme start="20260122140600 -0300" stop="20260122142800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia A Tattaglia</sub-title>
     <desc lang="pt">Como calouro do ensino médio, Chris esperava frequentar uma escola com alguma diversidade. Infelizmente, ao chegar lá, ele descobre que a nova diretora, a sra. Morello, colocou-o na única turma que só tem alunos brancos.</desc>
@@ -185332,79 +185387,79 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122140600 -0300" stop="20260122162900 -0300" channel="TNT HD">
+  <programme start="20260122142800 -0300" stop="20260122165000 -0300" channel="TNT HD">
     <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
     <desc lang="pt">Fugitivo de Azkaban, a prisão dos magos, invade Hogwarts em busca de Harry Potter, agora no seu terceiro ano de aprendiz.</desc>
-    <length units="minutes">8580</length>
+    <length units="minutes">8520</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122162900 -0300" stop="20260122191900 -0300" channel="TNT HD">
+  <programme start="20260122165000 -0300" stop="20260122192700 -0300" channel="TNT HD">
     <title lang="pt">Harry Potter e o Cálice de Fogo</title>
     <desc lang="pt">Harry Potter, misteriosamente, é selecionado para participar do Torneio Tribruxo, onde enfrentará alunos mais velhos e experientes de Hogwarts e também de outras escolas de magia. Enquanto isso Voldemort prepara sua volta.</desc>
-    <length units="minutes">10200</length>
+    <length units="minutes">9420</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122191900 -0300" stop="20260122212400 -0300" channel="TNT HD">
+  <programme start="20260122192700 -0300" stop="20260122213000 -0300" channel="TNT HD">
     <title lang="pt">Liga da Justiça</title>
     <desc lang="pt">Impulsionado pela restauração de sua fé na humanidade, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado.</desc>
-    <length units="minutes">7500</length>
+    <length units="minutes">7380</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260122212400 -0300" stop="20260122233000 -0300" channel="TNT HD">
+  <programme start="20260122213000 -0300" stop="20260122233000 -0300" channel="TNT HD">
     <title lang="pt">Atômica</title>
     <desc lang="pt">Lorraine Broughton, uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos.</desc>
-    <length units="minutes">7560</length>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260122233000 -0300" stop="20260122235300 -0300" channel="TNT HD">
+  <programme start="20260122233000 -0300" stop="20260122235200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia o Baile da Nona Serie</sub-title>
     <desc lang="pt">Chris e Greg estavam sem pares para o baile do nono ano, até que Greg recebe um convite, deixando Chris no papel de estranho no ninho. A sra. Morello sugere que Chris convide a única garota que ficou sem par.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.20.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122235300 -0300" stop="20260123001500 -0300" channel="TNT HD">
+  <programme start="20260122235200 -0300" stop="20260123001500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Formatura</sub-title>
     <desc lang="pt">A animação de Chris para a formatura na escola acaba quando Greg revela que ele vai para outra escola no ano seguinte. Sem querer se separar do seu melhor amigo, Tyler se prepara para ser qualificado para a doação em dinheiro.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.22.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260122235300 -0300" stop="20260123001500 -0300" channel="TNT HD">
+  <programme start="20260122235200 -0300" stop="20260123001500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Formatura</sub-title>
     <desc lang="pt">A animação de Chris para a formatura na escola acaba quando Greg revela que ele vai para outra escola no ano seguinte. Sem querer se separar do seu melhor amigo, Tyler se prepara para ser qualificado para a doação em dinheiro.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.22.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260123001500 -0300" stop="20260123003700 -0300" channel="TNT HD">
+  <programme start="20260123001500 -0300" stop="20260123003800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia A Tattaglia</sub-title>
     <desc lang="pt">Como calouro do ensino médio, Chris esperava frequentar uma escola com alguma diversidade. Infelizmente, ao chegar lá, ele descobre que a nova diretora, a sra. Morello, colocou-o na única turma que só tem alunos brancos.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260123003700 -0300" stop="20260123010100 -0300" channel="TNT HD">
+  <programme start="20260123003800 -0300" stop="20260123010200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Três é Demais</sub-title>
     <desc lang="pt">Hilary comprou uma casa. O Will e o Carlton estão fazendo a sua viagem de esqui anual e as coisas não vão como o planejado.</desc>
@@ -185414,11 +185469,11 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260123010100 -0300" stop="20260123012600 -0300" channel="TNT HD">
+  <programme start="20260123010200 -0300" stop="20260123012600 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Uma Mentira Inocente</sub-title>
     <desc lang="pt">Lisa diz que o Will pode sair com os amigos dele à noite enquanto ela sai com as amigas dela. Os dois mentem sobre o que vão fazer, e acabam se encontrando na mesma festa. E o que é pior, eles encontram a Ashley nessa festa.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">5.14.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -185444,26 +185499,27 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260123021200 -0300" stop="20260123024200 -0300" channel="TNT HD">
+  <programme start="20260123021200 -0300" stop="20260123024800 -0300" channel="TNT HD">
     <title lang="pt">Liga Espetacular</title>
     <desc lang="pt">O Liga Espetacular reúne num só lugar todos os motivos que fazem da Liga dos Campeões o melhor torneio de clubes do mundo.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2160</length>
     <episode-num system="xmltv_ns">82.23.</episode-num>
   </programme>
-  <programme start="20260123024200 -0300" stop="20260123044800 -0300" channel="TNT HD">
+  <programme start="20260123024800 -0300" stop="20260123044900 -0300" channel="TNT HD">
     <title lang="pt">Bad Boys para Sempre</title>
     <desc lang="pt">O indicado ao Oscar Will Smith e Martin Lawrence retornam para mais uma investigação da mais explosiva dupla da polícia de Miami.</desc>
-    <length units="minutes">7560</length>
+    <length units="minutes">7260</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260123044800 -0300" stop="20260123060000 -0300" channel="TNT HD">
-    <title lang="pt">Cinquenta Tons de Cinza</title>
-    <desc lang="pt">Anastasia Steele é uma estudante de literatura de 21 anos, recatada, virgem e atrapalhada por natureza. Ana tem uma grande amiga chamada Kate, que está se formando em jornalismo.</desc>
-    <length units="minutes">4320</length>
+  <programme start="20260123044900 -0300" stop="20260123060000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">4260</length>
+    <episode-num system="xmltv_ns">4.23.</episode-num>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260123060000 -0300" stop="20260123063300 -0300" channel="TNT HD">
