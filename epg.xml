@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-24 17:30:57" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-24 20:31:00" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -80520,8 +80520,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260126173000 -0300" stop="20260126200000 -0300" channel="ESPN 3">
-    <title lang="pt">NBA: Golden State Warriors x Minnesota Timberwolves</title>
-    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
+    <title lang="pt">NHL: Tampa Bay Lightning x Chicago Blackhawks</title>
+    <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
     <length units="minutes">9000</length>
     <previously-shown/>
   </programme>
@@ -80880,11 +80880,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260124193000 -0300" stop="20260124220000 -0300" channel="ESPN 4">
-    <title lang="pt">NBA: Golden State Warriors x Minnesota Timberwolves - ao vivo</title>
-    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260124193000 -0300" stop="20260124213000 -0300" channel="ESPN 4">
+    <title lang="pt">Chelsea x Arsenal</title>
+    <desc lang="pt">É a principal categoria da modalidade na Inglaterra e reúne as melhores equipes do país, que disputam o título e a classificação para a Champions League.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260124213000 -0300" stop="20260124220000 -0300" channel="ESPN 4">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre o mundo da NBA.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">21.24.</episode-num>
   </programme>
   <programme start="20260124220000 -0300" stop="20260124223000 -0300" channel="ESPN 4">
     <title lang="pt">Sportscenter Abre o Jogo: NBA - ao vivo</title>
@@ -80894,14 +80900,16 @@
     <episode-num system="xmltv_ns">82.24.</episode-num>
   </programme>
   <programme start="20260124223000 -0300" stop="20260125010000 -0300" channel="ESPN 4">
-    <title lang="pt">NBA: Los Angeles Lakers x Cleveland Cavaliers</title>
+    <title lang="pt">NBA: Los Angeles Lakers x Dallas Mavericks - ao vivo</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
     <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260124223000 -0300" stop="20260125010000 -0300" channel="ESPN 4">
-    <title lang="pt">NBA: Los Angeles Lakers x Cleveland Cavaliers</title>
+    <title lang="pt">NBA: Los Angeles Lakers x Dallas Mavericks - ao vivo</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
     <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260125010000 -0300" stop="20260125023000 -0300" channel="ESPN 4">
     <title lang="pt">Linha de Passe: Mesa-Redonda</title>
@@ -81428,8 +81436,8 @@
     </rating>
   </programme>
   <programme start="20260125133000 -0300" stop="20260125160000 -0300" channel="ESPN 5">
-    <title lang="pt">NBA: Golden State Warriors x Minnesota Timberwolves</title>
-    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
+    <title lang="pt">NHL: Tampa Bay Lightning x Chicago Blackhawks</title>
+    <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
     <length units="minutes">9000</length>
     <previously-shown/>
   </programme>
