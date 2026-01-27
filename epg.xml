@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-27 14:31:05" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-27 17:30:55" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -101931,10 +101931,16 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260127170500 -0300" stop="20260127182500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260127170500 -0300" stop="20260127171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt">Boletim com as principais notícias de São Paulo.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">87.27.</episode-num>
+  </programme>
+  <programme start="20260127171500 -0300" stop="20260127182500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata: None</title>
     <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo e a socialite falida Laurinha Figueroa.</desc>
-    <length units="minutes">4800</length>
+    <length units="minutes">4200</length>
     <episode-num system="xmltv_ns">87.27.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -102014,7 +102020,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">27.14.</episode-num>
+    <episode-num system="xmltv_ns">28.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102108,10 +102114,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128170500 -0300" stop="20260128180500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260128170500 -0300" stop="20260128171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt">Boletim com as principais notícias de São Paulo.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">87.28.</episode-num>
+  </programme>
+  <programme start="20260128171500 -0300" stop="20260128180500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata: None</title>
     <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo e a socialite falida Laurinha Figueroa.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">87.28.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -152558,77 +152570,80 @@
     <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
     <length units="minutes">1800</length>
   </programme>
-  <programme start="20260128090000 -0300" stop="20260128103000 -0300" channel="Nsports HD">
-    <title lang="pt">Brasil x Holanda</title>
-    <desc lang="pt">Amistoso internacional de futsal masculino.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20260128090000 -0300" stop="20260128120000 -0300" channel="Nsports HD">
+    <title lang="pt">United Cup - Austrália x Noruega</title>
+    <desc lang="pt">Acompanhe na Nsports tansmissão ao vivo da United Cup que recebe sete das 10 melhores tenistas do momento na WTA e seis dos 12 melhores jogadores do ranking da ATP.</desc>
+    <length units="minutes">10800</length>
     <previously-shown/>
   </programme>
-  <programme start="20260128103000 -0300" stop="20260128110000 -0300" channel="Nsports HD">
-    <title lang="pt">O Brabo Tem Nome</title>
-    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260128120000 -0300" stop="20260128121500 -0300" channel="Nsports HD">
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
+    <length units="minutes">900</length>
   </programme>
-  <programme start="20260128110000 -0300" stop="20260128123000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128123000 -0300" stop="20260128130000 -0300" channel="Nsports HD">
-    <title lang="pt">Programa Sem Nome</title>
-    <desc lang="pt">Sinopse: A galera da redação traz as notícias do esporte mais inusitadas que você não viu durante a semana.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.28.</episode-num>
-  </programme>
-  <programme start="20260128130000 -0300" stop="20260128143000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128143000 -0300" stop="20260128150000 -0300" channel="Nsports HD">
+  <programme start="20260128121500 -0300" stop="20260128123000 -0300" channel="Nsports HD">
     <title lang="pt">Vai Gabi</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">14.28.</episode-num>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">12.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128150000 -0300" stop="20260128163000 -0300" channel="Nsports HD">
-    <title lang="pt">Boxe - IBA Championschip</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128163000 -0300" stop="20260128173000 -0300" channel="Nsports HD">
-    <title lang="pt">Beach Tennis: A Praia do Brasil</title>
-    <desc lang="pt">O documentário conta a história do Beach Tennis, esporte que apaixona milhões e está cotado para entrar nas Olimpíadas de 2032.</desc>
-    <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260128173000 -0300" stop="20260128190000 -0300" channel="Nsports HD">
-    <title lang="pt">Central do Basquete - ao vivo</title>
+  <programme start="20260128123000 -0300" stop="20260128140000 -0300" channel="Nsports HD">
+    <title lang="pt">Live Show</title>
     <desc lang="pt">Central do Basquete mantém você ligado em tudo de melhor que rola na NBA toda semana!</desc>
     <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.28.</episode-num>
+    <episode-num system="xmltv_ns">82.28.</episode-num>
   </programme>
-  <programme start="20260128190000 -0300" stop="20260128193000 -0300" channel="Nsports HD">
+  <programme start="20260128140000 -0300" stop="20260128160000 -0300" channel="Nsports HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">Duda Garbi recebe convidados, assa um churrasco e troca um papo sobre o que rola no mundo da bola, histórias e muito mais.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">84.28.</episode-num>
+  </programme>
+  <programme start="20260128160000 -0300" stop="20260128183000 -0300" channel="Nsports HD">
+    <title lang="pt">Princesa x Amazonas - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260128183000 -0300" stop="20260128190000 -0300" channel="Nsports HD">
     <title lang="pt">Negueritmo</title>
     <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
     <length units="minutes">1800</length>
   </programme>
-  <programme start="20260128193000 -0300" stop="20260128213000 -0300" channel="Nsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260128190000 -0300" stop="20260128193000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">19.28.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260128193000 -0300" stop="20260128210000 -0300" channel="Nsports HD">
+    <title lang="pt">Feyenoord x Heerenveen</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128210000 -0300" stop="20260128211500 -0300" channel="Nsports HD">
+    <title lang="pt">O Brabo Tem Nome</title>
+    <desc lang="pt">Os mais &quot;Brabos&quot; do esporte se encontram para uma resenha descontraída com Chico Pedrotti.</desc>
+    <length units="minutes">900</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260128211500 -0300" stop="20260128213000 -0300" channel="Nsports HD">
+    <title lang="pt">Vai Gabi</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">21.28.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260128213000 -0300" stop="20260128220000 -0300" channel="Nsports HD">
     <title lang="pt">O Brabo Tem Nome</title>
@@ -152639,18 +152654,14 @@
     </rating>
   </programme>
   <programme start="20260128220000 -0300" stop="20260128223000 -0300" channel="Nsports HD">
-    <title lang="pt">Vai Gabi</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Negueritmo</title>
+    <desc lang="pt">Wallace Neguere, pai do Zezeu, mostra as melhores trends da semana. Tudo o que viralizou nas redes está no Negueritmo!</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.28.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260128223000 -0300" stop="20260129021500 -0300" channel="Nsports HD">
-    <title lang="pt">Central do Basquete</title>
+  <programme start="20260128223000 -0300" stop="20260129000000 -0300" channel="Nsports HD">
+    <title lang="pt">Live Show</title>
     <desc lang="pt">Central do Basquete mantém você ligado em tudo de melhor que rola na NBA toda semana!</desc>
-    <length units="minutes">13500</length>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">82.28.</episode-num>
   </programme>
   <programme start="20260128223000 -0300" stop="20260129021500 -0300" channel="Nsports HD">
@@ -159316,74 +159327,67 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260127230000 -0300" stop="20260128001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260127230000 -0300" stop="20260128000000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Botafogo x Redonda</title>
     <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida emocionante aqui no sportv!</desc>
-    <length units="minutes">4200</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260127230000 -0300" stop="20260128001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260128000000 -0300" stop="20260128010000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Maricá x Bangu</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128010000 -0300" stop="20260128020000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Internacional x Inter De Santa Maria</title>
+    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128020000 -0300" stop="20260128030000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">América-MG x Atlético-MG</title>
+    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128030000 -0300" stop="20260128040000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Guarany De Bagé x Grêmio</title>
+    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128040000 -0300" stop="20260128050000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Botafogo x Redonda</title>
     <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida emocionante aqui no sportv!</desc>
-    <length units="minutes">4200</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260128001000 -0300" stop="20260128011000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260128050000 -0300" stop="20260128060000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Boavista x Vasco</title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260128011000 -0300" stop="20260128021000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Juventude x Moonson</title>
-    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128021000 -0300" stop="20260128031000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260128060000 -0300" stop="20260128070000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Internacional x Grêmio</title>
     <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128031000 -0300" stop="20260128041000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Botafogo x Bangu</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128041000 -0300" stop="20260128051000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Uberlândia x América-MG</title>
-    <desc lang="pt">Um dos estaduais mais famosos do Brasil agora está na tela da SportyNet! O Galo quer o inédito hepta, mas a Raposa vem firme e forte para tentar quebrar essa hegemonia! Doze equipes entram em ação no Campeonato Mineiro de 2026!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128051000 -0300" stop="20260128060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3000</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">85.28.</episode-num>
-  </programme>
-  <programme start="20260128060000 -0300" stop="20260128070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Vasco</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260128070000 -0300" stop="20260128080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Internacional x Grêmio</title>
-    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
+    <title lang="pt">Botafogo x Bangu</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
@@ -159396,83 +159400,90 @@
     <previously-shown/>
   </programme>
   <programme start="20260128090000 -0300" stop="20260128100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Flamengo</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128100000 -0300" stop="20260128110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Boavista x Vasco</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260128110000 -0300" stop="20260128120000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Juventude x Moonson</title>
     <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
+  <programme start="20260128100000 -0300" stop="20260128110000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Maricá x Bangu</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128110000 -0300" stop="20260128120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Boavista x Vasco</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
   <programme start="20260128120000 -0300" stop="20260128130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Internacional x Grêmio</title>
-    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
+    <title lang="pt">Botafogo x Redonda</title>
+    <sub-title lang="pt">Jogo de Volta</sub-title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260128130000 -0300" stop="20260128140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Botafogo x Bangu</title>
+    <title lang="pt">Fluminense x Flamengo</title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260128140000 -0300" stop="20260128150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Cruzeiro</title>
-    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
+    <title lang="pt">Guarany De Bagé x Grêmio</title>
+    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260128150000 -0300" stop="20260128160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Vasco</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <title lang="pt">Boavista x Vasco</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260128160000 -0300" stop="20260128164500 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Palmeiras</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260128160000 -0300" stop="20260128170000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Maricá x Bangu</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260128164500 -0300" stop="20260128180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <length units="minutes">4500</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">86.28.</episode-num>
+  <programme start="20260128170000 -0300" stop="20260128180000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260128180000 -0300" stop="20260128210000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260128180000 -0300" stop="20260128190000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Atlético-MG x Palmeiras - ao vivo</title>
-    <desc lang="pt">Atlético-MG e Palmeiras jogam pela 1ª rodada do Primeiro Turno do Campeonato Brasileiro, na Arena MRV, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
-    <length units="minutes">10800</length>
+    <desc lang="pt">Pré-Hora Atlético-MG e Palmeiras jogam pela 1ª rodada do Primeiro Turno do Brasileirão, na Arena MRV, em Belo Horizonte (MG).</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260128190000 -0300" stop="20260128210000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Palmeiras - ao vivo</title>
+    <desc lang="pt">Atlético-MG e Palmeiras jogam pela 1ª rodada do Primeiro Turno do Brasileirão, na Arena MRV, em Belo Horizonte (MG). Acesse o canal 250 e seja assinante Premiere.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260128210000 -0300" stop="20260128234000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">São Paulo x Flamengo - ao vivo</title>
-    <desc lang="pt">São Paulo e Flamengo jogam pela 1ª rodada do Primeiro Turno do Campeonato Brasileiro, no Morumbis, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
+    <desc lang="pt">São Paulo e Flamengo jogam pela 1ª rodada do Primeiro Turno do Brasileirão, no Morumbis, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
     <length units="minutes">9600</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260128234000 -0300" stop="20260129004000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Botafogo x Bangu</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <title lang="pt">Corinthians x Bahia</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
