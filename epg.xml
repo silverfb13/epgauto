@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-01-28 11:30:56" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-01-28 14:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -23159,117 +23159,326 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128003000 -0300" stop="20260128043000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128000000 -0300" stop="20260128003000 -0300" channel="CANAL UOL">
+    <title lang="pt">Fim de Papo - ao vivo</title>
+    <desc lang="pt">Os melhores comentaristas analisam os resultados dos principais jogos e da rodada logo depois do momento em que eles acontecem.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128003000 -0300" stop="20260128010000 -0300" channel="CANAL UOL">
+    <title lang="pt">Splash Show</title>
+    <desc lang="pt">Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no &quot;Splash Show&quot;!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128043000 -0300" stop="20260128083000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128010000 -0300" stop="20260128013000 -0300" channel="CANAL UOL">
+    <title lang="pt">O Povo Quer Saber</title>
+    <desc lang="pt">Chico Barney desvenda mistérios das redes, da TV e da cultura pop brasileira.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128083000 -0300" stop="20260128123000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128013000 -0300" stop="20260128020000 -0300" channel="CANAL UOL">
+    <title lang="pt">Enquadrado</title>
+    <desc lang="pt">De uma forma bem descontraída, Roberto Sadovski e Yuri Moraes trazem as estreias do cinema e do mundo dos streamings.</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260128020000 -0300" stop="20260128030500 -0300" channel="CANAL UOL">
+    <title lang="pt">Desculpa Alguma Coisa</title>
+    <desc lang="pt">O influenciador, roteirista e ator foi o convidado de Tati Bernardi esta semana. Mais conhecido como &quot;Esse Menino&quot;, viralizou  no período da pandemia com vídeos fazendo críticas ao governo da época. Hoje, Rafa segue c...</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128123000 -0300" stop="20260128163000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128030500 -0300" stop="20260128040000 -0300" channel="CANAL UOL">
+    <title lang="pt">Divã de CNPJ</title>
+    <desc lang="pt">O empreendedor Facundo Guerra entrevista donos de negócios que empreenderam em diferentes ramos de mercado para entender quais são as dores, caminhos e necessidades para criar e manter um negócio no Brasil.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128163000 -0300" stop="20260128203000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128040000 -0300" stop="20260128060000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News </title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260128060000 -0300" stop="20260128080000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128080000 -0300" stop="20260128083000 -0300" channel="CANAL UOL">
+    <title lang="pt">Mercado Aberto - ao vivo</title>
+    <desc lang="pt">Amanda Klein analisa os principais assuntos econômicos do dia</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.28.</episode-num>
+  </programme>
+  <programme start="20260128083000 -0300" stop="20260128100000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News Esporte - ao vivo</title>
+    <desc lang="pt">Eduardo Tironi traz os principais fatos do esporte com a participação de colunistas, repórteres e convidados especiais, provocando a interação com o público e o debate.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128100000 -0300" stop="20260128130000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News - 1° Edição - ao vivo</title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.28.</episode-num>
+  </programme>
+  <programme start="20260128130000 -0300" stop="20260128140000 -0300" channel="CANAL UOL">
+    <title lang="pt">Olha Aqui - ao vivo</title>
+    <desc lang="pt">Reinaldo Azevedo analisa os principais temas de política e economia do dia no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260128140000 -0300" stop="20260128160000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira - ao vivo</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128160000 -0300" stop="20260128170000 -0300" channel="CANAL UOL">
+    <title lang="pt">Central Splash</title>
+    <desc lang="pt">No Central Splash Chico Barney e colunistas comentam as últimas notícias dos famosos ao vivo</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128203000 -0300" stop="20260129003000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128170000 -0300" stop="20260128190000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News - 2° Edição - ao vivo</title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">87.28.</episode-num>
+  </programme>
+  <programme start="20260128190000 -0300" stop="20260128200000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128200000 -0300" stop="20260128203000 -0300" channel="CANAL UOL">
+    <title lang="pt">Fala Aí</title>
+    <desc lang="pt">Yara Fantoni apresenta os bastidores do futebol, trazendo histórias, curiosidades, entrevistas e tudo o que acontece além das quatro linhas, com uma abordagem leve e envolvente.</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260128203000 -0300" stop="20260128210000 -0300" channel="CANAL UOL">
+    <title lang="pt">Profissão Montanhista</title>
+    <desc lang="pt">As montanhas mais altas do globo da visão de quem conhece do assunto.</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260128210000 -0300" stop="20260128213000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL Carros</title>
+    <desc lang="pt">Todas as novidades, lançamentos e dicas sobre o mundo dos automóveis com as colunas mais especializadas do UOL Carros.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128213000 -0300" stop="20260128220000 -0300" channel="CANAL UOL">
+    <title lang="pt">120 Dias de Moto</title>
+    <desc lang="pt">Aventure-se nessa incrível viagem da Raquel Stein desbravando o Brasil. Durante 120 dias ela, explora sozinha estradas desconhecidas, desafiando limites e vivenciando experiências inesquecíveis.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128203000 -0300" stop="20260129003000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128220000 -0300" stop="20260128223000 -0300" channel="CANAL UOL">
+    <title lang="pt">Splash Show</title>
+    <desc lang="pt">Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no &quot;Splash Show&quot;!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129003000 -0300" stop="20260129043000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128223000 -0300" stop="20260128233000 -0300" channel="CANAL UOL">
+    <title lang="pt">Desculpa Alguma Coisa</title>
+    <desc lang="pt">O influenciador, roteirista e ator foi o convidado de Tati Bernardi esta semana. Mais conhecido como &quot;Esse Menino&quot;, viralizou  no período da pandemia com vídeos fazendo críticas ao governo da época. Hoje, Rafa segue c...</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129043000 -0300" stop="20260129083000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260128233000 -0300" stop="20260129003000 -0300" channel="CANAL UOL">
+    <title lang="pt">Fim de Papo - ao vivo</title>
+    <desc lang="pt">Os melhores comentaristas analisam os resultados dos principais jogos e da rodada logo depois do momento em que eles acontecem.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260128233000 -0300" stop="20260129003000 -0300" channel="CANAL UOL">
+    <title lang="pt">Fim de Papo - ao vivo</title>
+    <desc lang="pt">Os melhores comentaristas analisam os resultados dos principais jogos e da rodada logo depois do momento em que eles acontecem.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+  </programme>
+  <programme start="20260129003000 -0300" stop="20260129010000 -0300" channel="CANAL UOL">
+    <title lang="pt">Splash Show</title>
+    <desc lang="pt">Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no &quot;Splash Show&quot;!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129083000 -0300" stop="20260129123000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260129010000 -0300" stop="20260129020000 -0300" channel="CANAL UOL">
+    <title lang="pt">Alt Tabet</title>
+    <desc lang="pt">Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129123000 -0300" stop="20260129163000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260129020000 -0300" stop="20260129030500 -0300" channel="CANAL UOL">
+    <title lang="pt">Desculpa Alguma Coisa</title>
+    <desc lang="pt">O influenciador, roteirista e ator foi o convidado de Tati Bernardi esta semana. Mais conhecido como &quot;Esse Menino&quot;, viralizou  no período da pandemia com vídeos fazendo críticas ao governo da época. Hoje, Rafa segue c...</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129163000 -0300" stop="20260129203000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260129030500 -0300" stop="20260129040000 -0300" channel="CANAL UOL">
+    <title lang="pt">Divã de CNPJ</title>
+    <desc lang="pt">O empreendedor Facundo Guerra entrevista donos de negócios que empreenderam em diferentes ramos de mercado para entender quais são as dores, caminhos e necessidades para criar e manter um negócio no Brasil.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129203000 -0300" stop="20260130003000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260129040000 -0300" stop="20260129060000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News </title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260129060000 -0300" stop="20260129080000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129080000 -0300" stop="20260129083000 -0300" channel="CANAL UOL">
+    <title lang="pt">Mercado Aberto - ao vivo</title>
+    <desc lang="pt">Amanda Klein analisa os principais assuntos econômicos do dia</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.29.</episode-num>
+  </programme>
+  <programme start="20260129083000 -0300" stop="20260129100000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News Esporte - ao vivo</title>
+    <desc lang="pt">Eduardo Tironi traz os principais fatos do esporte com a participação de colunistas, repórteres e convidados especiais, provocando a interação com o público e o debate.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129100000 -0300" stop="20260129130000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News - 1° Edição - ao vivo</title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.29.</episode-num>
+  </programme>
+  <programme start="20260129130000 -0300" stop="20260129140000 -0300" channel="CANAL UOL">
+    <title lang="pt">Olha Aqui - ao vivo</title>
+    <desc lang="pt">Reinaldo Azevedo analisa os principais temas de política e economia do dia no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260129140000 -0300" stop="20260129160000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira - ao vivo</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129160000 -0300" stop="20260129170000 -0300" channel="CANAL UOL">
+    <title lang="pt">Central Splash</title>
+    <desc lang="pt">No Central Splash Chico Barney e colunistas comentam as últimas notícias dos famosos ao vivo</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260129203000 -0300" stop="20260130003000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260129170000 -0300" stop="20260129190000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News - 2° Edição - ao vivo</title>
+    <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem,de um jeito fácil de entender ajudando o espectador a formar sua pr...</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">87.29.</episode-num>
+  </programme>
+  <programme start="20260129190000 -0300" stop="20260129200000 -0300" channel="CANAL UOL">
+    <title lang="pt">De Primeira</title>
+    <desc lang="pt">Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129200000 -0300" stop="20260129210000 -0300" channel="CANAL UOL">
+    <title lang="pt">Poder e Mercado - ao vivo</title>
+    <desc lang="pt">Raquel Landim, colunistas do UOL e convidados analisam os principais fatos da política e economia do dia</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.29.</episode-num>
+  </programme>
+  <programme start="20260129210000 -0300" stop="20260129213000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL Prime</title>
+    <desc lang="pt">O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129213000 -0300" stop="20260129220000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL Líderes</title>
+    <desc lang="pt">O podcast traz entrevistas com presidentes, CEOs ou fundadores de grandes empresas nacionais e estrangeiras.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260129220000 -0300" stop="20260129223000 -0300" channel="CANAL UOL">
+    <title lang="pt">Splash Show</title>
+    <desc lang="pt">Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no &quot;Splash Show&quot;!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20260129223000 -0300" stop="20260129233000 -0300" channel="CANAL UOL">
+    <title lang="pt">Enquadrado</title>
+    <desc lang="pt">De uma forma bem descontraída, Roberto Sadovski e Yuri Moraes trazem as estreias do cinema e do mundo dos streamings.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260129233000 -0300" stop="20260130000000 -0300" channel="CANAL UOL">
+    <title lang="pt">Fim de Papo - ao vivo</title>
+    <desc lang="pt">Os melhores comentaristas analisam os resultados dos principais jogos e da rodada logo depois do momento em que eles acontecem.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20260130000000 -0300" stop="20260130003000 -0300" channel="CANAL UOL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">1800</length>
   </programme>
   <programme start="20260130003000 -0300" stop="20260130043000 -0300" channel="CANAL UOL">
     <title lang="pt">Programação Canal UOL</title>
@@ -80515,30 +80724,28 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260128220000 -0300" stop="20260129000000 -0300" channel="ESPN 3">
-    <title lang="pt">Tênis: Austrálian Open 2026</title>
-    <desc lang="pt">O Australian Open é primeiro dos quatro Grand Slams do ano. Veja os principais tenistas da ATP e da WTA em busca do título nas quadras rápidas de Melbourne Park, na Austrália.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260129000000 -0300" stop="20260129010000 -0300" channel="ESPN 3">
-    <title lang="pt">NFL: New England Patriots x Denver Broncos</title>
-    <desc lang="pt">Touchdowns, lançamentos, tackles e outras jogadas que ficam na história. A elite do futebol americano se enfrenta a cada temporada em busca do troféu Vince Lombardi.</desc>
-    <length units="minutes">3600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260129010000 -0300" stop="20260129020000 -0300" channel="ESPN 3">
-    <title lang="pt">Sportscenter Americano - ao vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.29.</episode-num>
-  </programme>
-  <programme start="20260129020000 -0300" stop="20260129023000 -0300" channel="ESPN 3">
-    <title lang="pt">Show da Rodada do Italiano</title>
-    <desc lang="pt">O melhor resumo dos gols da Série A italiana logo depois de cada partida.</desc>
+  <programme start="20260128220000 -0300" stop="20260128223000 -0300" channel="ESPN 3">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt">Apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte em alto nível.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.29.</episode-num>
+  </programme>
+  <programme start="20260128223000 -0300" stop="20260129003000 -0300" channel="ESPN 3">
+    <title lang="pt">Tênis: Australian Open - Melhor do Dia</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+  </programme>
+  <programme start="20260128223000 -0300" stop="20260129003000 -0300" channel="ESPN 3">
+    <title lang="pt">Tênis: Australian Open - Melhor do Dia</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+  </programme>
+  <programme start="20260129003000 -0300" stop="20260129023000 -0300" channel="ESPN 3">
+    <title lang="pt">Tênis: Australian Open - ao vivo</title>
+    <desc lang="pt">Acompanhe diariamente a supercobertura ao vivo e exclusiva do primeiro Grand Slam de tênis do ano!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260129023000 -0300" stop="20260129030500 -0300" channel="ESPN 3">
     <title lang="pt">Show da Rodada La Liga</title>
