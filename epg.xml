@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-03 14:31:22" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-03 17:30:58" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -102667,7 +102667,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102806,8 +102806,8 @@
     </rating>
   </programme>
   <programme start="20260204212000 -0300" stop="20260204233000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Grêmio x Botafogo - ao vivo</title>
-    <desc lang="pt">Grêmio e Botafogo jogam pela 2ª rodada do Primeiro Turno do Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
+    <title lang="pt">Palmeiras x Vitória - ao vivo</title>
+    <desc lang="pt">Palmeiras e Vitória jogam pela 2ª rodada do Primeiro Turno do Brasileirão, na Arena Barueri, em Barueri (SP).</desc>
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -103354,47 +103354,126 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260203000000 -0300" stop="20260203010000 -0300" channel="GLOBONEWS">
+  <programme start="20260203000000 -0300" stop="20260203000026 -0300" channel="GLOBONEWS">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">26</length>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20260203000026 -0300" stop="20260203011411 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
     <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4425</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">80.34.</episode-num>
   </programme>
-  <programme start="20260203010000 -0300" stop="20260203030000 -0300" channel="GLOBONEWS">
+  <programme start="20260203011411 -0300" stop="20260203030736 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">6805</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">81.34.</episode-num>
+  </programme>
+  <programme start="20260203030736 -0300" stop="20260203033917 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">O 1º episódio de Cenas Sertanejas mostra Goiânia como epicentro dessa cultura que une artistas aspirantes e os maiores players de uma indústria milionária.</desc>
+    <length units="minutes">1901</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.34.</episode-num>
+  </programme>
+  <programme start="20260203033917 -0300" stop="20260203050047 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">4890</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.34.</episode-num>
+  </programme>
+  <programme start="20260203050047 -0300" stop="20260203060009 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (5h)</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <length units="minutes">3562</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">85.34.</episode-num>
+  </programme>
+  <programme start="20260203060009 -0300" stop="20260203070031 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (6h)</title>
+    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <length units="minutes">3622</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.34.</episode-num>
+  </programme>
+  <programme start="20260203070031 -0300" stop="20260203093012 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Ponto</title>
+    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <length units="minutes">8981</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">87.34.</episode-num>
+  </programme>
+  <programme start="20260203093012 -0300" stop="20260203133012 -0300" channel="GLOBONEWS">
+    <title lang="pt">Programação GloboNews</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260203133012 -0300" stop="20260203135801 -0300" channel="GLOBONEWS">
+    <title lang="pt">Programação GloboNews</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <length units="minutes">1669</length>
+    <category lang="en">news/current affairs (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260203135801 -0300" stop="20260203165932 -0300" channel="GLOBONEWS">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <length units="minutes">10891</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.34.</episode-num>
+  </programme>
+  <programme start="20260203165932 -0300" stop="20260203180000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais</title>
+    <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
+    <length units="minutes">3628</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.34.</episode-num>
+  </programme>
+  <programme start="20260203180000 -0300" stop="20260203200000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">88.34.</episode-num>
+  </programme>
+  <programme start="20260203200000 -0300" stop="20260203220000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
     <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
     <length units="minutes">7200</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">81.34.</episode-num>
+    <episode-num system="xmltv_ns">80.34.</episode-num>
   </programme>
-  <programme start="20260203030000 -0300" stop="20260203033000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Especial</title>
-    <desc lang="pt">O 1º episódio de Cenas Sertanejas mostra Goiânia como epicentro dessa cultura que une artistas aspirantes e os maiores players de uma indústria milionária.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.34.</episode-num>
-  </programme>
-  <programme start="20260203033000 -0300" stop="20260203050000 -0300" channel="GLOBONEWS">
+  <programme start="20260203220000 -0300" stop="20260203233000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal Das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">82.34.</episode-num>
+  </programme>
+  <programme start="20260203233000 -0300" stop="20260204000000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.34.</episode-num>
   </programme>
-  <programme start="20260203050000 -0300" stop="20260204010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (5h)</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
-    <length units="minutes">72000</length>
+  <programme start="20260204000000 -0300" stop="20260204010000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
+    <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.34.</episode-num>
-  </programme>
-  <programme start="20260203050000 -0300" stop="20260204010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (5h)</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
-    <length units="minutes">72000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.34.</episode-num>
+    <episode-num system="xmltv_ns">80.35.</episode-num>
   </programme>
   <programme start="20260204010000 -0300" stop="20260204030000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103410,19 +103489,89 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.35.</episode-num>
   </programme>
-  <programme start="20260204033000 -0300" stop="20260205010000 -0300" channel="GLOBONEWS">
+  <programme start="20260204033000 -0300" stop="20260204050000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal Das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">77400</length>
+    <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.35.</episode-num>
   </programme>
-  <programme start="20260204033000 -0300" stop="20260205010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
-    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">77400</length>
+  <programme start="20260204050000 -0300" stop="20260204060000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (5h)</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">85.35.</episode-num>
+  </programme>
+  <programme start="20260204060000 -0300" stop="20260204070000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (6h)</title>
+    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.35.</episode-num>
+  </programme>
+  <programme start="20260204070000 -0300" stop="20260204093000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Ponto</title>
+    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">87.35.</episode-num>
+  </programme>
+  <programme start="20260204093000 -0300" stop="20260204130000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">89.35.</episode-num>
+  </programme>
+  <programme start="20260204130000 -0300" stop="20260204160000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.35.</episode-num>
+  </programme>
+  <programme start="20260204160000 -0300" stop="20260204180000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais</title>
+    <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.35.</episode-num>
+  </programme>
+  <programme start="20260204180000 -0300" stop="20260204200000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">88.35.</episode-num>
+  </programme>
+  <programme start="20260204200000 -0300" stop="20260204220000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">80.35.</episode-num>
+  </programme>
+  <programme start="20260204220000 -0300" stop="20260204233000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">82.35.</episode-num>
+  </programme>
+  <programme start="20260204233000 -0300" stop="20260205000000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt">Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.35.</episode-num>
+  </programme>
+  <programme start="20260205000000 -0300" stop="20260205010000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
+    <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">80.36.</episode-num>
   </programme>
   <programme start="20260205010000 -0300" stop="20260205030000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103438,26 +103587,89 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.36.</episode-num>
   </programme>
-  <programme start="20260205033000 -0300" stop="20260205233000 -0300" channel="GLOBONEWS">
+  <programme start="20260205033000 -0300" stop="20260205050000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal Das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">72000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.36.</episode-num>
-  </programme>
-  <programme start="20260205233000 -0300" stop="20260206010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.36.</episode-num>
   </programme>
-  <programme start="20260205233000 -0300" stop="20260206010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20260205050000 -0300" stop="20260205060000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (5h)</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">85.36.</episode-num>
+  </programme>
+  <programme start="20260205060000 -0300" stop="20260205070000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (6h)</title>
+    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.36.</episode-num>
+  </programme>
+  <programme start="20260205070000 -0300" stop="20260205093000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Ponto</title>
+    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">87.36.</episode-num>
+  </programme>
+  <programme start="20260205093000 -0300" stop="20260205130000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">89.36.</episode-num>
+  </programme>
+  <programme start="20260205130000 -0300" stop="20260205160000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.36.</episode-num>
+  </programme>
+  <programme start="20260205160000 -0300" stop="20260205180000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais</title>
+    <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.36.</episode-num>
+  </programme>
+  <programme start="20260205180000 -0300" stop="20260205200000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">88.36.</episode-num>
+  </programme>
+  <programme start="20260205200000 -0300" stop="20260205220000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">80.36.</episode-num>
+  </programme>
+  <programme start="20260205220000 -0300" stop="20260205233000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">82.36.</episode-num>
+  </programme>
+  <programme start="20260205233000 -0300" stop="20260206000000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Liderança S/A GloboNews</title>
+    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.36.</episode-num>
+  </programme>
+  <programme start="20260206000000 -0300" stop="20260206010000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
+    <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">80.37.</episode-num>
   </programme>
   <programme start="20260206010000 -0300" stop="20260206030000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103473,10 +103685,10 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.37.</episode-num>
   </programme>
-  <programme start="20260206033000 -0300" stop="20260207010000 -0300" channel="GLOBONEWS">
+  <programme start="20260206033000 -0300" stop="20260206050000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal Das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">77400</length>
+    <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.37.</episode-num>
   </programme>
@@ -103484,6 +103696,76 @@
     <title lang="pt">Jornal Das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">77400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.37.</episode-num>
+  </programme>
+  <programme start="20260206050000 -0300" stop="20260206060000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (5h)</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">85.37.</episode-num>
+  </programme>
+  <programme start="20260206060000 -0300" stop="20260206070000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (6h)</title>
+    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.37.</episode-num>
+  </programme>
+  <programme start="20260206070000 -0300" stop="20260206093000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Ponto</title>
+    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">87.37.</episode-num>
+  </programme>
+  <programme start="20260206093000 -0300" stop="20260206130000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Conexão GloboNews</title>
+    <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">89.37.</episode-num>
+  </programme>
+  <programme start="20260206130000 -0300" stop="20260206160000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.37.</episode-num>
+  </programme>
+  <programme start="20260206160000 -0300" stop="20260206180000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais</title>
+    <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">86.37.</episode-num>
+  </programme>
+  <programme start="20260206180000 -0300" stop="20260206200000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">88.37.</episode-num>
+  </programme>
+  <programme start="20260206200000 -0300" stop="20260206220000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">80.37.</episode-num>
+  </programme>
+  <programme start="20260206220000 -0300" stop="20260206233000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">82.37.</episode-num>
+  </programme>
+  <programme start="20260206233000 -0300" stop="20260207000000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Diálogos Com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.37.</episode-num>
   </programme>
@@ -217916,16 +218198,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204045700 -0300" stop="20260204052000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204045700 -0300" stop="20260204051900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">O professor Proton ajuda Sheldon a lidar com a tristeza, enquanto Leonard transforma um importante marco ao lado de Penny em uma competição. Ao mesmo tempo, Amy e Bernadette presenteiam os companheiros no &quot;Dia de Star Wars&quot;.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">7.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204052000 -0300" stop="20260204054300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204051900 -0300" stop="20260204054200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon enfrenta um futuro incerto e considera fazer uma grande mudança. Enquanto isso, a relação de Raj e Emily se desenvolve</desc>
     <length units="minutes">1380</length>
@@ -217934,24 +218216,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204054300 -0300" stop="20260204055200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204054200 -0300" stop="20260204055200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
-    <length units="minutes">540</length>
+    <length units="minutes">600</length>
     <episode-num system="xmltv_ns">5.80.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260204055200 -0300" stop="20260204055500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">TNT Buzz</title>
-    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">180</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260204055500 -0300" stop="20260204055700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204055200 -0300" stop="20260204055400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <length units="minutes">120</length>
@@ -217959,10 +218233,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204055700 -0300" stop="20260204060000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204055400 -0300" stop="20260204055600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">180</length>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260204055600 -0300" stop="20260204060000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -217976,53 +218258,44 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204062300 -0300" stop="20260204064700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Tribunal Noturno</title>
-    <desc lang="pt">O sobrinho de Gurgs e os colegas de classe fazem uma visita ao tribunal como parte de um projeto escolar.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260204064700 -0300" stop="20260204073200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204062300 -0300" stop="20260204070900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Com as festas de fim de ano chegando, a busca por Julian leva Damon e Stefan a uma pequena cidade fora de Mystic Falls.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260204073200 -0300" stop="20260204081900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204070900 -0300" stop="20260204075500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <sub-title lang="pt">O Inferno São os Outros</sub-title>
     <desc lang="pt">Damon fica preso em Phoenix e lembra da sua experiencia traumatica durante a época da Guerra Civil.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260204081900 -0300" stop="20260204083800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204075500 -0300" stop="20260204081600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon estuda para ser o advogado de Meemaw quando ela é colocada em prisão domiciliária e os Coopers têm uma emergência de canalização.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">7.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204083800 -0300" stop="20260204090000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204081600 -0300" stop="20260204083900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">O artigo publicado por Sheldon leva a um frenesi de recrutamento em escolas de pós-graduação, e Georgie tenta falar mais corretamente na frente de sua filha.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">7.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204090000 -0300" stop="20260204092300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204083900 -0300" stop="20260204090200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
     <length units="minutes">1380</length>
@@ -218031,25 +218304,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204092300 -0300" stop="20260204094800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204090200 -0300" stop="20260204092600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta descobre que Alan está saindo às escondidas com sua filha, Naomi, Alan espera por problemas. Porém, a reação de Berta é surpreendente, e muito pior, de qualquer uma que Alan pudesse imaginar.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204094800 -0300" stop="20260204100800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204092600 -0300" stop="20260204094900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Jake conta para Charlie e Alan que, freqüentemente, ouve Judith e seu namorado Herb, mantendo relações, e formula uma teoria sobre o porquê sua mãe estar sempre dando instruções a Herb na cama.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204100800 -0300" stop="20260204103200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204094900 -0300" stop="20260204101300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie arma para Alan com sua nova vizinha, mas acaba ficando com ciúmes quando a armação parece dar certo.</desc>
     <length units="minutes">1440</length>
@@ -218058,7 +218331,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204103200 -0300" stop="20260204105600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204101300 -0300" stop="20260204103700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
     <length units="minutes">1440</length>
@@ -218067,7 +218340,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204105600 -0300" stop="20260204111900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204103700 -0300" stop="20260204110000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">A jovem e sexy namorada de Charlie o leva para um novo clube. Ela convida Alan para conhecer uma de suas amigas, mas ele fica chocado quando sabe que é considerado &quot;velho&quot;.</desc>
     <length units="minutes">1380</length>
@@ -218076,25 +218349,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204111900 -0300" stop="20260204114000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204110000 -0300" stop="20260204112200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Os planos de casamento de Georgie e Mandy colocam Mary contra a mãe de Mandy, Audrey (Rachel Bay Jones), com a bebé CeeCee no meio.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">7.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204114000 -0300" stop="20260204120200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204112200 -0300" stop="20260204114500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Georgie e Mandy casam! Entretanto, a sala de jogo de Meemaw é assaltada.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204120200 -0300" stop="20260204122300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204114500 -0300" stop="20260204120600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon estuda para ser o advogado de Meemaw quando ela é colocada em prisão domiciliária e os Coopers têm uma emergência de canalização.</desc>
     <length units="minutes">1260</length>
@@ -218103,61 +218376,61 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204122300 -0300" stop="20260204124400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204120600 -0300" stop="20260204122800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">O artigo publicado por Sheldon leva a um frenesi de recrutamento em escolas de pós-graduação, e Georgie tenta falar mais corretamente na frente de sua filha.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">7.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204124400 -0300" stop="20260204130400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204122800 -0300" stop="20260204124900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">A honestidade de Raj sobre seu passado volta para assombrá-lo quando percebe que Emily, sua nova namorada, está tratando Penny de forma fria.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">8.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204130400 -0300" stop="20260204132500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204124900 -0300" stop="20260204130900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Amy e Bernadette acusam Penny de ser uma estraga-prazeres quando ela recebe um email de trabalho durante o fim de semana em Vegas.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">8.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204132500 -0300" stop="20260204134900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204130900 -0300" stop="20260204133200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon e Raj testam se conseguem sobreviver à expedição de pesquisa em uma mina de sal simulando as condições do local.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">8.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204134900 -0300" stop="20260204140800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204133200 -0300" stop="20260204135400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os nerds tentam ajudar Penny a se livrar de um complicado dilema no trabalho. Enquanto isso, Amy e Bernadette discutem se as cientistas femininas devem abusar da sexualidade.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">8.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204140800 -0300" stop="20260204143100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204135400 -0300" stop="20260204141600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando os rapazes recriam a noite de formatura do colegial no telhado do prédio, Sheldon sente-se pressionado a fazer parte das tradições românticas.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">8.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204143100 -0300" stop="20260204145400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204141600 -0300" stop="20260204143900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando  Leonard faz uma pequena cirurgia no nariz, Sheldon reage de forma exagerada. Enquanto isso, Howard e Bernadette tentam resolver suas diferenças frente ao iminente divórcio dos pais de Raj.</desc>
     <length units="minutes">1380</length>
@@ -218166,25 +218439,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204145400 -0300" stop="20260204151800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204143900 -0300" stop="20260204150200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204151800 -0300" stop="20260204153900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204150200 -0300" stop="20260204152500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta descobre que Alan está saindo às escondidas com sua filha, Naomi, Alan espera por problemas. Porém, a reação de Berta é surpreendente, e muito pior, de qualquer uma que Alan pudesse imaginar.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204153900 -0300" stop="20260204160300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204152500 -0300" stop="20260204154900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Jake conta para Charlie e Alan que, freqüentemente, ouve Judith e seu namorado Herb, mantendo relações, e formula uma teoria sobre o porquê sua mãe estar sempre dando instruções a Herb na cama.</desc>
     <length units="minutes">1440</length>
@@ -218193,7 +218466,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204160300 -0300" stop="20260204162700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204154900 -0300" stop="20260204161300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie arma para Alan com sua nova vizinha, mas acaba ficando com ciúmes quando a armação parece dar certo.</desc>
     <length units="minutes">1440</length>
@@ -218202,51 +218475,43 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204162700 -0300" stop="20260204165100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204161300 -0300" stop="20260204163800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204165100 -0300" stop="20260204171300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204163800 -0300" stop="20260204170100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">A jovem e sexy namorada de Charlie o leva para um novo clube. Ela convida Alan para conhecer uma de suas amigas, mas ele fica chocado quando sabe que é considerado &quot;velho&quot;.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204171300 -0300" stop="20260204185500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">As Patricinhas De Beverly Hills</title>
-    <desc lang="pt">Cher é uma adolescente rica e fútil, criticada por Josh. Para provar que ele está errado, ela decide fazer boas ações. No entanto, os dois percebem ter muito em comum.</desc>
-    <length units="minutes">6120</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260204185500 -0300" stop="20260204191800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204170100 -0300" stop="20260204172500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Os planos de casamento de Georgie e Mandy colocam Mary contra a mãe de Mandy, Audrey (Rachel Bay Jones), com a bebé CeeCee no meio.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">7.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204191800 -0300" stop="20260204193800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204172500 -0300" stop="20260204174900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Georgie e Mandy casam! Entretanto, a sala de jogo de Meemaw é assaltada.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204193800 -0300" stop="20260204200000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204174900 -0300" stop="20260204181100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon estuda para ser o advogado de Meemaw quando ela é colocada em prisão domiciliária e os Coopers têm uma emergência de canalização.</desc>
     <length units="minutes">1320</length>
@@ -218255,34 +218520,42 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204200000 -0300" stop="20260204202300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204181100 -0300" stop="20260204183300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">O artigo publicado por Sheldon leva a um frenesi de recrutamento em escolas de pós-graduação, e Georgie tenta falar mais corretamente na frente de sua filha.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">7.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204202300 -0300" stop="20260204204300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204183300 -0300" stop="20260204201400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">As Patricinhas De Beverly Hills</title>
+    <desc lang="pt">Cher é uma adolescente rica e fútil, criticada por Josh. Para provar que ele está errado, ela decide fazer boas ações. No entanto, os dois percebem ter muito em comum.</desc>
+    <length units="minutes">6060</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260204201400 -0300" stop="20260204203500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">A honestidade de Raj sobre seu passado volta para assombrá-lo quando percebe que Emily, sua nova namorada, está tratando Penny de forma fria.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">8.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204204300 -0300" stop="20260204210300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204203500 -0300" stop="20260204205800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Amy e Bernadette acusam Penny de ser uma estraga-prazeres quando ela recebe um email de trabalho durante o fim de semana em Vegas.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">8.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204210300 -0300" stop="20260204212700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204205800 -0300" stop="20260204212200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon e Raj testam se conseguem sobreviver à expedição de pesquisa em uma mina de sal simulando as condições do local.</desc>
     <length units="minutes">1440</length>
@@ -218291,28 +218564,28 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204212700 -0300" stop="20260204214700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204212200 -0300" stop="20260204214500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os nerds tentam ajudar Penny a se livrar de um complicado dilema no trabalho. Enquanto isso, Amy e Bernadette discutem se as cientistas femininas devem abusar da sexualidade.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">8.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204214700 -0300" stop="20260204220700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204214500 -0300" stop="20260204220600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando os rapazes recriam a noite de formatura do colegial no telhado do prédio, Sheldon sente-se pressionado a fazer parte das tradições românticas.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">8.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260204220700 -0300" stop="20260204223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260204220600 -0300" stop="20260204223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando  Leonard faz uma pequena cirurgia no nariz, Sheldon reage de forma exagerada. Enquanto isso, Howard e Bernadette tentam resolver suas diferenças frente ao iminente divórcio dos pais de Raj.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">8.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
