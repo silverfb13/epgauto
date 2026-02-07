@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-07 11:30:57" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-07 14:31:00" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -81746,10 +81746,10 @@
     <episode-num system="xmltv_ns">89.38.</episode-num>
   </programme>
   <programme start="20260207095000 -0300" stop="20260207115500 -0300" channel="ESPN 4">
-    <title lang="pt">Rayo Vallecano x Real Oviedo - ao vivo</title>
+    <title lang="pt">Celta x Osasuna</title>
     <desc lang="pt">Os melhores clubes e profissionais de destaque mundial. Times como Barcelona, Real Madrid e Atlético de Madrid se enfrentam em duelos imperdíveis na luta pelo título.</desc>
     <length units="minutes">7500</length>
-    <category lang="en">live broadcast</category>
+    <previously-shown/>
   </programme>
   <programme start="20260207115500 -0300" stop="20260207140000 -0300" channel="ESPN 4">
     <title lang="pt">Wolverhampton x Chelsea - ao vivo</title>
@@ -81757,25 +81757,28 @@
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260207140000 -0300" stop="20260207142000 -0300" channel="ESPN 4">
+  <programme start="20260207140000 -0300" stop="20260207143000 -0300" channel="ESPN 4">
     <title lang="pt">Premier League Stories</title>
     <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260207142000 -0300" stop="20260207163000 -0300" channel="ESPN 4">
-    <title lang="pt">Sevilla x Girona - ao vivo</title>
-    <desc lang="pt">Os melhores clubes e profissionais de destaque mundial. Times como Barcelona, Real Madrid e Atlético de Madrid se enfrentam em duelos imperdíveis na luta pelo título.</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260207143000 -0300" stop="20260207163000 -0300" channel="ESPN 4">
+    <title lang="pt">Hellas Verona x Pisa</title>
+    <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260207163000 -0300" stop="20260207165000 -0300" channel="ESPN 4">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt">Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas, estatísticas, curiosidades e muito mais!</desc>
+    <title lang="pt">Momento ESPN</title>
+    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">86.38.</episode-num>
+    <episode-num system="xmltv_ns">16.38.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260207165000 -0300" stop="20260207190000 -0300" channel="ESPN 4">
     <title lang="pt">Aldosivi x Rosario Central - ao vivo</title>
@@ -81790,9 +81793,10 @@
     <episode-num system="xmltv_ns">89.38.</episode-num>
   </programme>
   <programme start="20260207192500 -0300" stop="20260207195000 -0300" channel="ESPN 4">
-    <title lang="pt">Premier League Stories</title>
-    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <title lang="pt">Momento ESPN</title>
+    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
     <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">19.38.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101850,7 +101854,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102058,7 +102062,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="xmltv_ns">8.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -139482,7 +139486,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Ainda trabalhando como carpinteiro, Seu Madruga precisa consertar a cadeira da dona Florinda, que as crianças quebraram ao brincar com as ferramentas dele.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">6.158.</episode-num>
+    <episode-num system="xmltv_ns">7.158.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139491,7 +139495,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Chapolin é chamado para averiguar se o fantasma do Riacho Molhado está rondando uma casa. Dr. Chapatin e outro velhinho têm uma ideia para sair do restaurante sem pagar a conta.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">6.159.</episode-num>
+    <episode-num system="xmltv_ns">7.159.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -139500,7 +139504,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">O pessoal da vila acha que Chaves está louco porque o viram falando com as portas. Para curá-lo da loucura, Chiquinha e Quico decidem lhe dar um banho de água fria.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">5.156.</episode-num>
+    <episode-num system="xmltv_ns">7.156.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139509,9 +139513,9 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">O perigoso Racha Cuca está de volta ao Velho Oeste. E o único capaz de conseguir detê-lo é o Chapolin Colorado.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">5.157.</episode-num>
+    <episode-num system="xmltv_ns">7.157.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260207043100 -0300" stop="20260207050100 -0300" channel="MULTISHOW HD">
@@ -139880,7 +139884,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">As crianças brincam de amarelinha no pátio da vila. Depois, o Professor Girafales ensina aos meninos sobre a importância de compartilhar as coisas com os outros.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">5.154.</episode-num>
+    <episode-num system="xmltv_ns">8.154.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139889,7 +139893,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Florinda e seu pai estão sendo ameaçados de despejo. O pior de tudo é que a casa onde vivem pode desabar a qualquer momento.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">5.155.</episode-num>
+    <episode-num system="xmltv_ns">8.155.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -139898,7 +139902,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Seu Madruga percebe que toda vez que o Chaves estoura um balão do Quico, o bochechudo vai comprar outro. Ele se aproveita disso para vender bexigas e tentar ganhar um bom dinheiro.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">6.155.</episode-num>
+    <episode-num system="xmltv_ns">8.155.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139907,16 +139911,16 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Ramón é um paciente rabugento que se nega a tomar uma injeção. mas se ele não tomar a injeção pode até morrer. Chapolin é chamado para ajudar. Dr.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">6.156.</episode-num>
+    <episode-num system="xmltv_ns">8.156.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260208040000 -0300" stop="20260208042500 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chaves</title>
     <desc lang="pt">O pessoal da vila acha que Chaves está louco porque o viram falando com as portas. Para curá-lo da loucura, Chiquinha e Quico decidem lhe dar um banho de água fria.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">5.156.</episode-num>
+    <episode-num system="xmltv_ns">7.156.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139925,16 +139929,16 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">O perigoso Racha Cuca está de volta ao Velho Oeste. E o único capaz de conseguir detê-lo é o Chapolin Colorado.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">5.157.</episode-num>
+    <episode-num system="xmltv_ns">7.157.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260208045100 -0300" stop="20260208051800 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chaves</title>
     <desc lang="pt">Seu Madruga está trabalhando como carpinteiro, mas as crianças vivem lhe interrompendo. Além disso, toda hora ele martela os dedos.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">5.157.</episode-num>
+    <episode-num system="xmltv_ns">8.157.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139943,16 +139947,16 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Chapolin precisa ajudar uma moça que está sendo obrigada a se casar com um homem milionário. Os negócios vão mal e o Dr. Chapatin faz de tudo para conseguir um paciente.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">5.158.</episode-num>
+    <episode-num system="xmltv_ns">8.158.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260208054600 -0300" stop="20260208060900 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chaves</title>
     <desc lang="pt">Ainda trabalhando como carpinteiro, Seu Madruga precisa consertar a cadeira da dona Florinda, que as crianças quebraram ao brincar com as ferramentas dele.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">6.158.</episode-num>
+    <episode-num system="xmltv_ns">7.158.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139961,7 +139965,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Chapolin é chamado para averiguar se o fantasma do Riacho Molhado está rondando uma casa. Dr. Chapatin e outro velhinho têm uma ideia para sair do restaurante sem pagar a conta.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">6.159.</episode-num>
+    <episode-num system="xmltv_ns">7.159.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -139970,7 +139974,7 @@
     <title lang="pt">Like De Milhões</title>
     <desc lang="pt">Ao comando de Marcus Majella e Rafael Infante, o Like de Milhões viaja até Sucupira, na Bahia, para conhecer Ney Lima, que conquista a internet pelo humor.</desc>
     <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <episode-num system="xmltv_ns">8.6.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -184186,11 +184190,38 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260207055100 -0300" stop="20260207070400 -0300" channel="TNT HD">
+  <programme start="20260207055100 -0300" stop="20260207060000 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">4380</length>
+    <length units="minutes">540</length>
     <episode-num system="xmltv_ns">5.38.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260207060000 -0300" stop="20260207063400 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2040</length>
+    <episode-num system="xmltv_ns">6.38.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260207063400 -0300" stop="20260207065000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">960</length>
+    <episode-num system="xmltv_ns">6.38.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260207065000 -0300" stop="20260207070400 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">840</length>
+    <episode-num system="xmltv_ns">6.38.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -184268,20 +184299,20 @@
   </programme>
   <programme start="20260207130900 -0300" stop="20260207133200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Superstição</sub-title>
-    <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
+    <sub-title lang="pt">Todo Mundo Odeia Promessas</sub-title>
+    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260207133200 -0300" stop="20260207154500 -0300" channel="TNT HD">
-    <title lang="pt">Karate Kid I: A Hora da Verdade</title>
+    <title lang="pt">Karate Kid: A Hora da Verdade</title>
     <desc lang="pt">Um jovem tenta desenvolver sua auto estima lutando karate mas descobre que lutas marciais envolve mais do que usar seus punhos e é quando conhece um velho e este decide ensiná-lo a lutar.</desc>
     <length units="minutes">7980</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260207154500 -0300" stop="20260207160000 -0300" channel="TNT HD">
@@ -184298,246 +184329,314 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260207180000 -0300" stop="20260207195600 -0300" channel="TNT HD">
+  <programme start="20260207180000 -0300" stop="20260207200000 -0300" channel="TNT HD">
     <title lang="pt">Karatê Kid 2 - A Hora da Verdade Continua</title>
     <desc lang="pt">Com Ralph Macchio, Moriyuki Morita. Miyagi retorna para Okinawa em companhia do jovem Daniel, constatando que as forças que exigiram seu exílio continuam imutáveis após tantos anos.</desc>
-    <length units="minutes">6960</length>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260207195600 -0300" stop="20260207215300 -0300" channel="TNT HD">
+  <programme start="20260207200000 -0300" stop="20260207220100 -0300" channel="TNT HD">
     <title lang="pt">Karate Kid 3 - O Desafio</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Danny é desafiado por lutador de caratê que quer destruir também  seu mestre, Miyagi. Miyagi se recusa a ajudá-lo, argumentando que o caratê é para defender a honra e a vida e não para se obter títulos e tro...</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">7260</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260207215300 -0300" stop="20260207232300 -0300" channel="TNT HD">
+  <programme start="20260207220100 -0300" stop="20260207233400 -0300" channel="TNT HD">
     <title lang="pt">Kung Fu Panda</title>
     <desc lang="pt">Entusiasmado, grande e um pouco desajeitado, o panda Po é o maior fã de kung fu da região. Mas isso não ajuda muito no emprego que tem no restaurante de macarrão da família.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">5580</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260207232300 -0300" stop="20260208010300 -0300" channel="TNT HD">
+  <programme start="20260207233400 -0300" stop="20260208011600 -0300" channel="TNT HD">
     <title lang="pt">Kung-Fusão</title>
     <desc lang="pt">Sing é um ladrão que sonha integrar a gangue do martelo. Ele tenta extorquir dinheiro de um morador do Beco do Chiqueiro dos Porcos, mas é surpreendido pelos vizinhos da vítima, mestres do kung fu.</desc>
-    <length units="minutes">6000</length>
+    <length units="minutes">6120</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260207232300 -0300" stop="20260208010300 -0300" channel="TNT HD">
+  <programme start="20260207233400 -0300" stop="20260208011600 -0300" channel="TNT HD">
     <title lang="pt">Kung-Fusão</title>
     <desc lang="pt">Sing é um ladrão que sonha integrar a gangue do martelo. Ele tenta extorquir dinheiro de um morador do Beco do Chiqueiro dos Porcos, mas é surpreendido pelos vizinhos da vítima, mestres do kung fu.</desc>
-    <length units="minutes">6000</length>
+    <length units="minutes">6120</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208010300 -0300" stop="20260208023100 -0300" channel="TNT HD">
+  <programme start="20260208011600 -0300" stop="20260208024700 -0300" channel="TNT HD">
     <title lang="pt">Drácula: A História Nunca Contada</title>
     <desc lang="pt">Um conflito se inicia quando o rei Mehmed exige que os moradores da Transilvânia entreguem 100 crianças ao exército turco. Para defender seu povo, o príncipe Vlad se transforma numa terrível criatura.</desc>
-    <length units="minutes">5280</length>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208023100 -0300" stop="20260208064800 -0300" channel="TNT HD">
+  <programme start="20260208024700 -0300" stop="20260208054000 -0300" channel="TNT HD">
     <title lang="pt">It: Capítulo Dois</title>
     <desc lang="pt">Passaram-se vinte e sete anos e &quot;A Coisa&quot; está de volta a Derry. Os membros do Clube dos Perdedores, agora adultos e traumatizados pelo passado, devem superar seus medos mais profundos para derrotar Pennywise.</desc>
-    <length units="minutes">15420</length>
+    <length units="minutes">10380</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260208064800 -0300" stop="20260208082000 -0300" channel="TNT HD">
+  <programme start="20260208054000 -0300" stop="20260208055300 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">5.39.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208055300 -0300" stop="20260208055600 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208055600 -0300" stop="20260208060000 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208060000 -0300" stop="20260208063400 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2040</length>
+    <episode-num system="xmltv_ns">6.39.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208063400 -0300" stop="20260208071000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2160</length>
+    <episode-num system="xmltv_ns">6.39.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208071000 -0300" stop="20260208072500 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">7.39.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208072500 -0300" stop="20260208073800 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">7.39.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260208073800 -0300" stop="20260208090800 -0300" channel="TNT HD">
     <title lang="pt">Scarygirl</title>
     <desc lang="pt">Se o seu mundo estiver envolto em trevas, uma jovem terá de superar os seus medos e viajar para uma misteriosa cidade de luz, salvar o seu pai de um cientista perigoso e impedir a destruição do seu planeta.</desc>
-    <length units="minutes">5520</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260208082000 -0300" stop="20260208085100 -0300" channel="TNT HD">
+  <programme start="20260208090800 -0300" stop="20260208093100 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Superstição</sub-title>
     <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208085100 -0300" stop="20260208092200 -0300" channel="TNT HD">
+  <programme start="20260208093100 -0300" stop="20260208095400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia De Ação De Graças</sub-title>
     <desc lang="pt">Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208092200 -0300" stop="20260208095400 -0300" channel="TNT HD">
+  <programme start="20260208095400 -0300" stop="20260208101700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Papai Noel</sub-title>
     <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208095400 -0300" stop="20260208102500 -0300" channel="TNT HD">
+  <programme start="20260208101700 -0300" stop="20260208104000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Ovos</sub-title>
     <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208102500 -0300" stop="20260208105700 -0300" channel="TNT HD">
+  <programme start="20260208104000 -0300" stop="20260208110300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Um Mentiroso</sub-title>
     <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208105700 -0300" stop="20260208112900 -0300" channel="TNT HD">
+  <programme start="20260208110300 -0300" stop="20260208112600 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Malvo</sub-title>
     <desc lang="pt">Chris sente-se honrado quando Doc finalmente confia nele para ver a caixa registradora, mas a situação vai de boa a muito ruim quando Malvo, o famoso delinquente reincidente do bairro, rouba Chris.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208112900 -0300" stop="20260208120100 -0300" channel="TNT HD">
+  <programme start="20260208112600 -0300" stop="20260208114900 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Sistema de Parceiragem</sub-title>
     <desc lang="pt">O novo diretor de Chris, o diretor Edwards, decide que a melhor maneira de melhorar a tensão entre Chris e Caruso é aproximá-los na viagem de campo.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208120100 -0300" stop="20260208123200 -0300" channel="TNT HD">
+  <programme start="20260208114900 -0300" stop="20260208121100 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Promessas</sub-title>
+    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260208121100 -0300" stop="20260208123400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Superstição</sub-title>
     <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208123200 -0300" stop="20260208130400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Superstição</sub-title>
-    <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
-    <length units="minutes">1920</length>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260208130400 -0300" stop="20260208133600 -0300" channel="TNT HD">
+  <programme start="20260208123400 -0300" stop="20260208125700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia De Ação De Graças</sub-title>
     <desc lang="pt">Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208133600 -0300" stop="20260208140800 -0300" channel="TNT HD">
+  <programme start="20260208125700 -0300" stop="20260208132000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Papai Noel</sub-title>
     <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208140800 -0300" stop="20260208143900 -0300" channel="TNT HD">
+  <programme start="20260208132000 -0300" stop="20260208134400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Ovos</sub-title>
     <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208143900 -0300" stop="20260208163500 -0300" channel="TNT HD">
-    <title lang="pt">Cinderella</title>
-    <desc lang="pt">Cinderela é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada. A garota conta com a ajuda de seu Fado Madrinho e ratinhos.</desc>
-    <length units="minutes">6960</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260208163500 -0300" stop="20260208180300 -0300" channel="TNT HD">
+  <programme start="20260208134400 -0300" stop="20260208151500 -0300" channel="TNT HD">
     <title lang="pt">Kung Fu Panda</title>
     <desc lang="pt">Entusiasmado, grande e um pouco desajeitado, o panda Po é o maior fã de kung fu da região. Mas isso não ajuda muito no emprego que tem no restaurante de macarrão da família.</desc>
-    <length units="minutes">5280</length>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208180300 -0300" stop="20260208193500 -0300" channel="TNT HD">
+  <programme start="20260208151500 -0300" stop="20260208160000 -0300" channel="TNT HD">
+    <title lang="pt">Pré-Jogo Paulistão</title>
+    <desc lang="pt">O estadual mais disputado do país chega na tela da TNT! São 16 equipes na luta para conquistar a primeira taça do calendário nacional e você acompanha todos os detalhes agora.</desc>
+    <length units="minutes">2700</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260208160000 -0300" stop="20260208180000 -0300" channel="TNT HD">
+    <title lang="pt">Noroeste x Santos - ao vivo</title>
+    <desc lang="pt">Noroeste e Santos jogam pela 7ª rodada da 1ª fase do Campeonato Paulista, no Alfredo de Castilho, em Bauru (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260208180000 -0300" stop="20260208190000 -0300" channel="TNT HD">
+    <title lang="pt">Último Lance</title>
+    <desc lang="pt">Último Lance! O programa coloca o telespectador como protagonista, cobrindo o que há de melhor no futebol pelo mundo. Aqui a emoção dos 90 minutos não termina no apito final.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260208190000 -0300" stop="20260208203100 -0300" channel="TNT HD">
     <title lang="pt">Kung Fu Panda 2</title>
     <desc lang="pt">Po, o panda que se tornou o Guerreiro Dragão, e os Cinco Furiosos lutam contra Lord Shen, que quer destruir a tradição do Kung Fu e conquistar a China. Enquanto luta com seus amigos, Po descobrirá sua verdadeira origem.</desc>
-    <length units="minutes">5520</length>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260208193500 -0300" stop="20260208220900 -0300" channel="TNT HD">
+  <programme start="20260208203100 -0300" stop="20260208230900 -0300" channel="TNT HD">
     <title lang="pt">O Último Samurai</title>
     <desc lang="pt">Designado a treinar tropas japonesas contra os samurais, o capitão Algren é capturado e, ao conhecer seus inimigos, começa a questionar sua missão.</desc>
-    <length units="minutes">9240</length>
+    <length units="minutes">9480</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208220900 -0300" stop="20260208233900 -0300" channel="TNT HD">
+  <programme start="20260208230900 -0300" stop="20260209004300 -0300" channel="TNT HD">
     <title lang="pt">Drácula: A História Nunca Contada</title>
     <desc lang="pt">Um conflito se inicia quando o rei Mehmed exige que os moradores da Transilvânia entreguem 100 crianças ao exército turco. Para defender seu povo, o príncipe Vlad se transforma numa terrível criatura.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">5640</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208233900 -0300" stop="20260209012300 -0300" channel="TNT HD">
-    <title lang="pt">300: A Ascensão do Império</title>
-    <desc lang="pt">O valente Temístocles tenta unir toda a Grécia para enfrentar as forças invasoras da Pérsia. Ele terá que lutar contra o poderoso rei Xerxes, um homem transformado em deus, e Artemísia, a letal comandante.</desc>
-    <length units="minutes">6240</length>
+  <programme start="20260208230900 -0300" stop="20260209004300 -0300" channel="TNT HD">
+    <title lang="pt">Drácula: A História Nunca Contada</title>
+    <desc lang="pt">Um conflito se inicia quando o rei Mehmed exige que os moradores da Transilvânia entreguem 100 crianças ao exército turco. Para defender seu povo, o príncipe Vlad se transforma numa terrível criatura.</desc>
+    <length units="minutes">5640</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208233900 -0300" stop="20260209012300 -0300" channel="TNT HD">
-    <title lang="pt">300: A Ascensão do Império</title>
-    <desc lang="pt">O valente Temístocles tenta unir toda a Grécia para enfrentar as forças invasoras da Pérsia. Ele terá que lutar contra o poderoso rei Xerxes, um homem transformado em deus, e Artemísia, a letal comandante.</desc>
-    <length units="minutes">6240</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
+  <programme start="20260209004300 -0300" stop="20260209012300 -0300" channel="TNT HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">2400</length>
   </programme>
   <programme start="20260209012300 -0300" stop="20260209041300 -0300" channel="TNT HD">
     <title lang="pt">It: Capítulo Dois</title>
