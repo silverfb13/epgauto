@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-20 17:31:07" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-20 20:30:56" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -101997,7 +101997,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2100</length>
-    <episode-num system="xmltv_ns">19.11.</episode-num>
+    <episode-num system="xmltv_ns">20.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102183,33 +102183,47 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">19.11.</episode-num>
+    <episode-num system="xmltv_ns">21.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221022000 -0300" stop="20260221071000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221022000 -0300" stop="20260221042000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Melhores Momentos Olimpíadas de Inverno</title>
     <desc lang="pt">Acompanhe as Olimpíadas de Inverno 2026.</desc>
-    <length units="minutes">17400</length>
+    <length units="minutes">7200</length>
   </programme>
-  <programme start="20260221071000 -0300" stop="20260221075000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221042000 -0300" stop="20260221060000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Corujão: Kung Fu Yoga</title>
+    <desc lang="pt">Dois professores se unem para localizar um tesouro perdido e embarcar em uma aventura que os leva de uma caverna de gelo tibetana a Dubai a um templo montanhoso na Índia.</desc>
+    <length units="minutes">6000</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260221060000 -0300" stop="20260221065000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">86.52.</episode-num>
+  </programme>
+  <programme start="20260221065000 -0300" stop="20260221075000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Bom Dia Sábado</title>
     <desc lang="pt">Leve, descontraído e dinâmico, o telejornal tem como foco as cidades e temas que se aproximam do cotidiano das pessoas, com notícias de todo o Brasil, além de muita prestação de serviço e previsão do tempo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">86.52.</episode-num>
+  </programme>
+  <programme start="20260221075000 -0300" stop="20260221083000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.</desc>
     <length units="minutes">2400</length>
     <episode-num system="xmltv_ns">87.52.</episode-num>
   </programme>
-  <programme start="20260221075000 -0300" stop="20260221090000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
-    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">87.52.</episode-num>
-  </programme>
-  <programme start="20260221090000 -0300" stop="20260221114500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221083000 -0300" stop="20260221114500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">É de Casa</title>
     <desc lang="pt">Maria Beltrão, Rita Batista, Thiago Oliveira e Talitha Morete comandam programa de variedades das manhãs de sábado, ao vivo.</desc>
-    <length units="minutes">9900</length>
-    <episode-num system="xmltv_ns">9.52.</episode-num>
+    <length units="minutes">11700</length>
+    <episode-num system="xmltv_ns">8.52.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -102226,91 +102240,122 @@
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">83.52.</episode-num>
   </programme>
-  <programme start="20260221132500 -0300" stop="20260221140000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221132500 -0300" stop="20260221141000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">2100</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">83.52.</episode-num>
   </programme>
-  <programme start="20260221140000 -0300" stop="20260221162000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Caldeirão com Mion</title>
-    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
-    <length units="minutes">8400</length>
-    <episode-num system="xmltv_ns">14.52.</episode-num>
+  <programme start="20260221141000 -0300" stop="20260221144000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">84.52.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221144000 -0300" stop="20260221152000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">84.52.</episode-num>
+  </programme>
+  <programme start="20260221152000 -0300" stop="20260221161500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">15.52.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260221162000 -0300" stop="20260221183000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Futebol 2026</title>
-    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260221161500 -0300" stop="20260221184000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Caldeirão com Mion</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
+    <length units="minutes">8700</length>
+    <episode-num system="xmltv_ns">16.52.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
   </programme>
-  <programme start="20260221183000 -0300" stop="20260221192000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221184000 -0300" stop="20260221192500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Êta Mundo Melhor!</title>
-    <desc lang="pt">Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.</desc>
-    <length units="minutes">3000</length>
+    <desc lang="pt">Túlio e Estela socorrem Dita na delegacia. Candinho recusa a chantagem de Zulma, e afirma a Samir que encontrará uma forma de resgatar o filho. Túlio diz a Estela que precisa tratar de seus traumas.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221192000 -0300" stop="20260221194500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221192500 -0300" stop="20260221194500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">89.52.</episode-num>
   </programme>
   <programme start="20260221194500 -0300" stop="20260221203000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Agrado Garcia é uma cantora e compositora talentosa que batalha para conquistar uma carreira de sucesso no universo da música sertaneja. Novela de Izabel de Oliveira e Maria Helena Nascimento.</desc>
+    <desc lang="pt">Alaor se prepara para encontrar Clara/Cinara, que dispensa o empresário. Alaor se aproxima de Zuzu. Giovana assedia João Raul, mas Agrado contorna a situação. Ronei garante a Naiane que Giovana atingirá Agrado.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">89.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221203000 -0300" stop="20260221211000 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221203000 -0300" stop="20260221212000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">80.52.</episode-num>
   </programme>
-  <programme start="20260221211000 -0300" stop="20260221215500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221212000 -0300" stop="20260221222500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Três Graças</title>
-    <desc lang="pt">Gerluce, a mãe Lígia e a filha Joélly dividem o mesmo destino: a gravidez solo na adolescência. A vida dessas três mulheres, moradoras de Sâo Paulo, é cheia de desafios, mas também esperança.</desc>
-    <length units="minutes">2700</length>
+    <desc lang="pt">Jorginho fica emocionado ao ouvir um choro de criança. Herculano tenta tranquilizar Lena. Samira avisa a Lena que a criança nasceu bem, e ameaça não entregar o bebê caso ela apareça na clínica.</desc>
+    <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">81.52.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221215500 -0300" stop="20260221222500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260221222500 -0300" stop="20260221225500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Big Brother Brasil 26</title>
     <desc lang="pt">Tadeu Schmidt comanda os participantes da 26ª edição do reality show da Globo.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">21.52.</episode-num>
+    <episode-num system="xmltv_ns">21.41.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221222500 -0300" stop="20260222065000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Carnaval 2026</title>
-    <sub-title lang="pt">Escolas de São Paulo</sub-title>
-    <desc lang="pt">Confira os desfiles de Carnaval das escolas de São Paulo.</desc>
-    <length units="minutes">30300</length>
+  <programme start="20260221225500 -0300" stop="20260221231500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Show Desfile das Campeãs</title>
+    <desc lang="pt">Show Desfile das Campeãs.</desc>
+    <length units="minutes">1200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221222500 -0300" stop="20260222065000 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Carnaval 2026</title>
-    <sub-title lang="pt">Escolas de São Paulo</sub-title>
-    <desc lang="pt">Confira os desfiles de Carnaval das escolas de São Paulo.</desc>
-    <length units="minutes">30300</length>
+  <programme start="20260221231500 -0300" stop="20260222003500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <length units="minutes">4800</length>
+    <episode-num system="xmltv_ns">23.52.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20260221231500 -0300" stop="20260222003500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <length units="minutes">4800</length>
+    <episode-num system="xmltv_ns">23.52.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260222003500 -0300" stop="20260222065000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">22500</length>
   </programme>
   <programme start="20260222065000 -0300" stop="20260222074000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Globo Repórter</title>
@@ -119777,15 +119822,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260220162600 -0300" stop="20260220182100 -0300" channel="HBO">
+  <programme start="20260220162600 -0300" stop="20260220181000 -0300" channel="HBO">
     <title lang="pt">Família Do Bagulho</title>
     <desc lang="pt">Jason Sudeikis interpreta nesta louca comédia a um pequeno traficante de maconha, quem prefere manter um perfil baixo em um pequeno subúrbio.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6240</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260220182100 -0300" stop="20260220200100 -0300" channel="HBO">
+  <programme start="20260220181000 -0300" stop="20260220195000 -0300" channel="HBO">
     <title lang="pt">Herchcovitch; Exposto</title>
     <desc lang="pt">Documentário conta a vida de Alexandre Herchcovitch por meio de imagens e de vídeos. Estilista tem obras expostas ao redor do mundo e já vestiu artistas como Bjork, Lady Gaga e Gisele Bündchen.</desc>
     <length units="minutes">6000</length>
@@ -119793,7 +119838,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260220200100 -0300" stop="20260220221700 -0300" channel="HBO">
+  <programme start="20260220195000 -0300" stop="20260220220600 -0300" channel="HBO">
     <title lang="pt">A Hora do Mal</title>
     <desc lang="pt">Todas as crianças da mesma sala de aula, exceto uma, desaparecem misteriosamente na mesma noite e exatamente no mesmo horário. A comunidade fica se perguntando quem ou o que está por trás do desaparecimento.</desc>
     <length units="minutes">8160</length>
@@ -119801,7 +119846,7 @@
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260220221700 -0300" stop="20260221001200 -0300" channel="HBO">
+  <programme start="20260220220600 -0300" stop="20260221000100 -0300" channel="HBO">
     <title lang="pt">Venom: A Última Rodada</title>
     <desc lang="pt">Eddie e Venom devem tomar uma decisão devastadora enquanto são perseguidos por um misterioso homem.</desc>
     <length units="minutes">6900</length>
@@ -119809,7 +119854,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260220221700 -0300" stop="20260221001200 -0300" channel="HBO">
+  <programme start="20260220220600 -0300" stop="20260221000100 -0300" channel="HBO">
     <title lang="pt">Venom: A Última Rodada</title>
     <desc lang="pt">Eddie e Venom devem tomar uma decisão devastadora enquanto são perseguidos por um misterioso homem.</desc>
     <length units="minutes">6900</length>
@@ -119817,18 +119862,18 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221001200 -0300" stop="20260221021400 -0300" channel="HBO">
+  <programme start="20260221000100 -0300" stop="20260221020200 -0300" channel="HBO">
     <title lang="pt">Assassino por Acaso</title>
     <desc lang="pt">Um assassino quebra o protocolo para ajudar uma mulher desesperada que tenta fugir de seu marido.</desc>
-    <length units="minutes">7320</length>
+    <length units="minutes">7260</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221021400 -0300" stop="20260221060000 -0300" channel="HBO">
+  <programme start="20260221020200 -0300" stop="20260221060000 -0300" channel="HBO">
     <title lang="pt">O Senhor dos Anéis: A Sociedade do Anel</title>
     <desc lang="pt">Num mundo habitado por magos, elfos e outros seres fantásticos, Frodo tem em suas mãos um poderoso anel, disputado pelas forças do bem e do mal.</desc>
-    <length units="minutes">13560</length>
+    <length units="minutes">14280</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -124066,15 +124111,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221113600 -0300" stop="20260221123100 -0300" channel="HBO2">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260221113600 -0300" stop="20260221123700 -0300" channel="HBO2">
+    <title lang="pt">Como Água Para Chocolate</title>
+    <sub-title lang="pt">Alegrias de Amaranto</sub-title>
+    <desc lang="pt">Devido às tradições familiares arraigadas, Tita e Pedro, duas almas profundamente apaixonadas, não podem ficar juntos. Tita deve escolher entre lutar pelo amor ou seguir o caminho predeterminado de sua família.</desc>
+    <length units="minutes">3660</length>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221123100 -0300" stop="20260221144100 -0300" channel="HBO2">
+  <programme start="20260221123700 -0300" stop="20260221144700 -0300" channel="HBO2">
     <title lang="pt">Jurassic Park - O Parque dos Dinossauros</title>
     <desc lang="pt">Um milionário traz à vida dinossauros extintos há milhares de anos, criando um imenso parque. Mas os gigantes pré-históricos começam a ameaçar a vida dos visitantes.</desc>
     <length units="minutes">7800</length>
@@ -124082,7 +124129,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221144100 -0300" stop="20260221164000 -0300" channel="HBO2">
+  <programme start="20260221144700 -0300" stop="20260221164600 -0300" channel="HBO2">
     <title lang="pt">Assassino por Acaso</title>
     <desc lang="pt">Um assassino quebra o protocolo para ajudar uma mulher desesperada que tenta fugir de seu marido.</desc>
     <length units="minutes">7140</length>
@@ -124090,15 +124137,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221164000 -0300" stop="20260221182500 -0300" channel="HBO2">
+  <programme start="20260221164600 -0300" stop="20260221182800 -0300" channel="HBO2">
     <title lang="pt">Se Beber, Não Case! Parte 3</title>
     <desc lang="pt">Após a morte do pai de Alan, os garotos começam a receber ajuda profissional. Mas a caminho do hospital, Doug é sequestrado. Agora, o sequestrador vai forçá-los a encontrar Leslie Chow, que está foragido.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6120</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221182500 -0300" stop="20260221202000 -0300" channel="HBO2">
+  <programme start="20260221182800 -0300" stop="20260221202300 -0300" channel="HBO2">
     <title lang="pt">Magic Mike: A Última Dança</title>
     <desc lang="pt">Após encarar um negócio falido, um período sem grana e um trabalho como bartender na Flórida, Magic Mike Lane decide voltar aos palcos.</desc>
     <length units="minutes">6900</length>
@@ -124106,7 +124153,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221202000 -0300" stop="20260221220000 -0300" channel="HBO2">
+  <programme start="20260221202300 -0300" stop="20260221220300 -0300" channel="HBO2">
     <title lang="pt">A Garota da Vez</title>
     <desc lang="pt">Na década de 1970, em Los Angeles, onda de assassinatos ganha manchetes. Uma jovem que deseja se tornar atriz e um assassino em série se cruzam durante episódio de programa de namoro na TV.</desc>
     <length units="minutes">6000</length>
@@ -124114,10 +124161,10 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260221235500 -0300" channel="HBO2">
+  <programme start="20260221220300 -0300" stop="20260221235500 -0300" channel="HBO2">
     <title lang="pt">Venom: A Última Rodada</title>
     <desc lang="pt">Eddie e Venom devem tomar uma decisão devastadora enquanto são perseguidos por um misterioso homem.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6720</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -185410,11 +185457,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222011400 -0300" stop="20260222014100 -0300" channel="TNT HD">
-    <title lang="pt">Conteúdo não disponível</title>
-    <length units="minutes">1620</length>
+  <programme start="20260222011400 -0300" stop="20260222030400 -0300" channel="TNT HD">
+    <title lang="pt">Golpe Duplo</title>
+    <desc lang="pt">Nicky, um trapaceiro profissional, é escolhido como vítima por uma iniciante na profissão, Jess. Ele se deixa levar pelo golpe para desmascará-la no momento certo.</desc>
+    <length units="minutes">6600</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
   </programme>
-  <programme start="20260222014100 -0300" stop="20260222031900 -0300" channel="TNT HD">
+  <programme start="20260222030400 -0300" stop="20260222044200 -0300" channel="TNT HD">
     <title lang="pt">Eu Sou a Lenda</title>
     <desc lang="pt">A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.</desc>
     <length units="minutes">5880</length>
@@ -185422,91 +185473,80 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222031900 -0300" stop="20260222071300 -0300" channel="TNT HD">
-    <title lang="pt">Rocketman</title>
-    <desc lang="pt">Elton John traça sua trajetória desde a infância ao estrelato, após se internar na reabilitação. Com a parceria de Bernie Taupin, o astro celebra as conquistas que o tornaram um fenômeno.</desc>
-    <length units="minutes">14040</length>
+  <programme start="20260222044200 -0300" stop="20260222063400 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">6720</length>
+    <episode-num system="xmltv_ns">4.53.</episode-num>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222071300 -0300" stop="20260222084500 -0300" channel="TNT HD">
+  <programme start="20260222063400 -0300" stop="20260222080300 -0300" channel="TNT HD">
     <title lang="pt">Minha Teoria da Popularidade</title>
     <desc lang="pt">Minha Popular Teoria mostra Erwin, uma garota que por conta da sua genialidade, já está no ensino médio aos 11 anos. Ela luta contra o isolamento social diariamente até que um dia ela conhece melhor seu colega de ciência, ...</desc>
-    <length units="minutes">5520</length>
+    <length units="minutes">5340</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222084500 -0300" stop="20260222102200 -0300" channel="TNT HD">
+  <programme start="20260222080300 -0300" stop="20260222093100 -0300" channel="TNT HD">
     <title lang="pt">A Lista de Beijos</title>
     <desc lang="pt">Quando um rumor expõe sua falta de técnica para beijar, Camille, uma adolescente de 16 anos com pouca experiência romântica, planeja beijar os estudantes mais desejados da escola para desmentir os boatos.</desc>
-    <length units="minutes">5820</length>
+    <length units="minutes">5280</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222102200 -0300" stop="20260222104400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Orientador</sub-title>
-    <desc lang="pt">Depois que Chris se dá mal em um teste padronizado, sua professora, a sra. Morello, leva-o ao orientador da escola, o sr. Abbott.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
+  <programme start="20260222093100 -0300" stop="20260222110900 -0300" channel="TNT HD">
+    <title lang="pt">Eu Sou a Lenda</title>
+    <desc lang="pt">A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.</desc>
+    <length units="minutes">5880</length>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222104400 -0300" stop="20260222110600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia O Caruso</sub-title>
-    <desc lang="pt">Caruso abre mão do seu papel de valentão da escola depois que ele mesmo passa a ser perseguido.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260222110600 -0300" stop="20260222112900 -0300" channel="TNT HD">
+  <programme start="20260222110900 -0300" stop="20260222113300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Dirigir</sub-title>
     <desc lang="pt">As coisas vão mal quando Chris, que não tem habilitação para dirigir, se oferece para tirar o carro do pai do lugar, mas acaba dirigindo até a escola, numa tentativa de impressionar Tasha.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222112900 -0300" stop="20260222115300 -0300" channel="TNT HD">
+  <programme start="20260222113300 -0300" stop="20260222115500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Cachorro</sub-title>
     <desc lang="pt">O apartamento é arrombado e Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222115300 -0300" stop="20260222121400 -0300" channel="TNT HD">
+  <programme start="20260222115500 -0300" stop="20260222121800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Piadas Sujas</sub-title>
     <desc lang="pt">Chris testa algumas piadas sujas com seus colegas e descobre que fazer as pessoas rirem é a chave de popularidade, mas seu professor tem uma opinião diferente da situação.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222121400 -0300" stop="20260222123600 -0300" channel="TNT HD">
+  <programme start="20260222121800 -0300" stop="20260222124200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Matemática</sub-title>
     <desc lang="pt">Com a turma inteira de Chris contando com seus conhecimentos sobre álgebra para uma olimpíada da matemática, Rochelle assume a responsabilidade de ser a tutora de Chris.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222123600 -0300" stop="20260222125900 -0300" channel="TNT HD">
+  <programme start="20260222124200 -0300" stop="20260222130500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Último Dia</sub-title>
     <desc lang="pt">Com o fim do ano escolar se aproximando, Chris decide se vingar de Caruso para fazê-lo pagar pela sua vida infernal nos últimos dois anos.</desc>
@@ -185516,37 +185556,37 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222125900 -0300" stop="20260222132300 -0300" channel="TNT HD">
+  <programme start="20260222130500 -0300" stop="20260222132800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Presidente Da Turma</sub-title>
     <desc lang="pt">Com a esperança de ter uma vida melhor na Escola Corleone, Chris decide concorrer ao cargo de Presidente da Turma e pede que Greg seja seu vice.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222132300 -0300" stop="20260222134400 -0300" channel="TNT HD">
+  <programme start="20260222132800 -0300" stop="20260222135000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia o Orientador</sub-title>
     <desc lang="pt">Depois que Chris se dá mal em um teste padronizado, sua professora, a sra. Morello, leva-o ao orientador da escola, o sr. Abbott.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222134400 -0300" stop="20260222140700 -0300" channel="TNT HD">
+  <programme start="20260222135000 -0300" stop="20260222141400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Caruso</sub-title>
     <desc lang="pt">Caruso abre mão do seu papel de valentão da escola depois que ele mesmo passa a ser perseguido.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222140700 -0300" stop="20260222143000 -0300" channel="TNT HD">
+  <programme start="20260222141400 -0300" stop="20260222143700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Dirigir</sub-title>
     <desc lang="pt">As coisas vão mal quando Chris, que não tem habilitação para dirigir, se oferece para tirar o carro do pai do lugar, mas acaba dirigindo até a escola, numa tentativa de impressionar Tasha.</desc>
@@ -185556,7 +185596,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222143000 -0300" stop="20260222145300 -0300" channel="TNT HD">
+  <programme start="20260222143700 -0300" stop="20260222150000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Cachorro</sub-title>
     <desc lang="pt">O apartamento é arrombado e Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis.</desc>
@@ -185566,43 +185606,45 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222145300 -0300" stop="20260222163200 -0300" channel="TNT HD">
-    <title lang="pt">Eu Sou a Lenda</title>
-    <desc lang="pt">A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto.</desc>
-    <length units="minutes">5940</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222163200 -0300" stop="20260222181000 -0300" channel="TNT HD">
-    <title lang="pt">A do Todo Poderoso</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">Deus procura um âncora de telejornal que foi recentemente eleito como congressista, passando-lhe a missão de construir uma arca.</desc>
-    <length units="minutes">5880</length>
+  <programme start="20260222150000 -0300" stop="20260222160000 -0300" channel="TNT HD">
+    <title lang="pt">Pré-Jogo Paulistão</title>
+    <desc lang="pt">O estadual mais disputado do país chega na tela da TNT! São 16 equipes na luta para conquistar a primeira taça do calendário nacional e você acompanha todos os detalhes agora.</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222181000 -0300" stop="20260222200400 -0300" channel="TNT HD">
+  <programme start="20260222160000 -0300" stop="20260222180000 -0300" channel="TNT HD">
+    <title lang="pt">Novorizontino x Santos - ao vivo</title>
+    <desc lang="pt">Novorizontino e Santos jogam pelas Quartas De Final do Campeonato Paulista, no Jorge Ismael de Biasi, em Novo Horizonte (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222180000 -0300" stop="20260222190000 -0300" channel="TNT HD">
+    <title lang="pt">Último Lance</title>
+    <desc lang="pt">Último Lance! O programa coloca o telespectador como protagonista, cobrindo o que há de melhor no futebol pelo mundo. Aqui a emoção dos 90 minutos não termina no apito final.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260222190000 -0300" stop="20260222205200 -0300" channel="TNT HD">
     <title lang="pt">As Branquelas</title>
     <desc lang="pt">Depois que seu último trabalho resultou em fiasco, dois agentes afro-americanos do FBI decidem fazer se passar por duas jovens loiras da alta-sociedade, com a intenção de descobrir quem está tentando seqüestrá-las.</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6720</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222200400 -0300" stop="20260222220000 -0300" channel="TNT HD">
+  <programme start="20260222205200 -0300" stop="20260222224700 -0300" channel="TNT HD">
     <title lang="pt">Megatubarão</title>
     <desc lang="pt">Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão conhecido como Megalodon.</desc>
-    <length units="minutes">6960</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260222235900 -0300" channel="TNT HD">
+  <programme start="20260222224700 -0300" stop="20260222235900 -0300" channel="TNT HD">
     <title lang="pt">Megatubarão 2</title>
     <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
-    <length units="minutes">7140</length>
+    <length units="minutes">4320</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -187950,17 +187992,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221061900 -0300" stop="20260221071300 -0300" channel="TNT SERIES HD">
+  <programme start="20260221061900 -0300" stop="20260221070500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Liberdades</sub-title>
     <desc lang="pt">Os detetives lidam com uma mulher que acusa um homem de tê-la estuprado. No entanto, a credibilidade dela fica em risco quando pornografia infantil é descoberta em seu computador.</desc>
-    <length units="minutes">3240</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.21.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221071300 -0300" stop="20260221075800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221070500 -0300" stop="20260221075000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Zebras</sub-title>
     <desc lang="pt">Uma mulher é encontrada morta e os detetives presumem que se trata de um estupro seguido de morte. Quando descobrem que ela estava grávida e que o crime envolve o bebê, percebem que não foi um assassinato comum.</desc>
@@ -187970,37 +188012,37 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221075800 -0300" stop="20260221084200 -0300" channel="TNT SERIES HD">
+  <programme start="20260221075000 -0300" stop="20260221083600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Lunático</sub-title>
     <desc lang="pt">Um famoso astronauta é encontrado morto em um parque. A investigação não avança, então Stabler pede ajuda ao seu antigo mentor, Dick Finley, um astronauta da NASA e colega da vítima.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.1.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221084200 -0300" stop="20260221092900 -0300" channel="TNT SERIES HD">
+  <programme start="20260221083600 -0300" stop="20260221092200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Experiências</sub-title>
     <desc lang="pt">Os detetives investigam um casal acusado de abusar de seu filho adotivo. Enquanto isso, Stabler é frio com a nova promotora da equipe, Kim Greylek.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.2.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221092900 -0300" stop="20260221101500 -0300" channel="TNT SERIES HD">
+  <programme start="20260221092200 -0300" stop="20260221100900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Confissão</sub-title>
     <desc lang="pt">Um adolescente revela à Unidade de Vítimas Especiais sentir atração sexual pelo filho do seu padrasto. Os detetives decidem investigar um site para pedófilos no qual o menino se consultava.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221101500 -0300" stop="20260221110100 -0300" channel="TNT SERIES HD">
+  <programme start="20260221100900 -0300" stop="20260221105500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Shaw arrisca ser detectada pela Samaritan quando se une a uma equipe internacional de ladrões para monitorar a mais nova Pessoa de Interesse.</desc>
     <length units="minutes">2760</length>
@@ -188009,25 +188051,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221110100 -0300" stop="20260221114800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221105500 -0300" stop="20260221114100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese trabalha como instrutor voluntário na Academia de Polícia do NYPD para ficar de olho numa talentosa novata cujas ações suspeitas o fazem questionar suas intenções.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221114800 -0300" stop="20260221123400 -0300" channel="TNT SERIES HD">
+  <programme start="20260221114100 -0300" stop="20260221122900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese e Finch se veem no meio de uma luta pelo controle das gangues da cidade quando Elias (ENRICO COLANTONI) vira alvo de Dominic, o líder rival da Brotherhood.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221123400 -0300" stop="20260221132200 -0300" channel="TNT SERIES HD">
+  <programme start="20260221122900 -0300" stop="20260221131700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">A Samaritan demonstra seu real poder assumindo o controle de Nova York por 48 horas e eliminando o crime na cidade, numa tentativa de descobrir onde está a Máquina.</desc>
     <length units="minutes">2880</length>
@@ -188036,43 +188078,43 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221132200 -0300" stop="20260221140800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221131700 -0300" stop="20260221140400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">A Samaritan lança um ataque cibernético na bolsa de valores e obriga a equipe a se arriscar numa missão desesperada para impedir uma catástrofe global.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221140800 -0300" stop="20260221145800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221140400 -0300" stop="20260221145300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">Rush e Valens investigam a descoberta de nove crânios humanos enterrados em um quintal residencial. A casa permanece desocupada desde 1972, quando Simone Marks, de 33 anos, que foi assassinada.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.23.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221145800 -0300" stop="20260221154800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221145300 -0300" stop="20260221154100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">Quando Anya, uma jovem garota diz para Rush que ela tem falado com um homem que alega ser seu pai, a equipe reinvestiga a morte de Jimmy, um adolescente que foi morto na noite do seu nascimento.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221154800 -0300" stop="20260221163300 -0300" channel="TNT SERIES HD">
+  <programme start="20260221154100 -0300" stop="20260221162800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">O pai de uma adolescente, de 18 anos, que morreu &quot;acidentalmente&quot; em 2004, leva até a homicídios uma foto que a jovem enviou antes de morrer, e mostra ela sendo obrigada a beber, amarrada.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221163300 -0300" stop="20260221171800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221162800 -0300" stop="20260221171300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">Lilly e Jeffries reabrem um caso de 1978, do assassinato de Angus, um jovem de 21 anos, após sua mãe encontrar uma carta que sugere que ele foi morto por alguém que ele conhecia e não uma vítima aleatória.</desc>
     <length units="minutes">2700</length>
@@ -188081,26 +188123,26 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221171800 -0300" stop="20260221180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260221171300 -0300" stop="20260221175700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <desc lang="pt">Rush e Jeffries investigam um caso de 1845 que envolve a estrela do beisebol, Glyde 'The Glide&quot; Taylor, assassinado a golpes com seu próprio bastão depois de um jogo.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221180100 -0300" stop="20260221183100 -0300" channel="TNT SERIES HD">
+  <programme start="20260221175700 -0300" stop="20260221182600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Circo Voador</sub-title>
     <desc lang="pt">O Circo Voador completa 40 anos como casa de espetáculos, eventos culturais, políticos, artísticos e, principalmente, como o palco de uma revolução de costumes que marcou e marca a vida de brasileiros nas últimas 4 d...</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1740</length>
     <episode-num system="xmltv_ns">5.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221183100 -0300" stop="20260221185500 -0300" channel="TNT SERIES HD">
+  <programme start="20260221182600 -0300" stop="20260221185000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Focados</sub-title>
     <desc lang="pt">Lara e Mila contratam um garoto-propaganda cinquentão e problemas surgem. Benjamin dá match com uma mulher que se apaixona obsessivamente por ele.</desc>
@@ -188110,7 +188152,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221185500 -0300" stop="20260221192100 -0300" channel="TNT SERIES HD">
+  <programme start="20260221185000 -0300" stop="20260221191600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Ursinho Fogoso</sub-title>
     <desc lang="pt">Benjamin dá match com uma antiga amiga, enquanto Milo chama Mila para conhecer sua mãe, Escovão dá match com um perfil que é um urso de pelúcia.</desc>
@@ -188120,64 +188162,64 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221192100 -0300" stop="20260221194400 -0300" channel="TNT SERIES HD">
+  <programme start="20260221191600 -0300" stop="20260221194000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Swing... Ou Algo Assim</sub-title>
     <desc lang="pt">Mila sente inseguranças em torno do seu namoro com Milo. Enquanto isso, Lara e Benjamin dão match num ex-casal que se gostam um pouco demais ainda.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221194400 -0300" stop="20260221200700 -0300" channel="TNT SERIES HD">
+  <programme start="20260221194000 -0300" stop="20260221200400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Chantilly Salgado</sub-title>
     <desc lang="pt">É aniversário de Lara e ninguém parece lembrar, o que a deixa frustrada. Na agência, Mila está depressiva sobre Milo, já que acha que tudo acabou entre eles.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221200700 -0300" stop="20260221202900 -0300" channel="TNT SERIES HD">
+  <programme start="20260221200400 -0300" stop="20260221202700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <desc lang="pt">Lara e Benjamin tentam ficar juntos, mas tudo dá errado: interrupções, confusões e o ex de Lara complicam tudo. Mila encara um apagão alcoólico e um noivado inesperado, enquanto Escovão sugere transformar o bar n...</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3..</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221202900 -0300" stop="20260221205300 -0300" channel="TNT SERIES HD">
+  <programme start="20260221202700 -0300" stop="20260221205200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <desc lang="pt">Matches é uma comédia sobre as novas formas de se relacionar nesse início do século 21.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221205300 -0300" stop="20260221211700 -0300" channel="TNT SERIES HD">
+  <programme start="20260221205200 -0300" stop="20260221211700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <desc lang="pt">Matches é uma comédia sobre as novas formas de se relacionar nesse início do século 21.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221211700 -0300" stop="20260221214600 -0300" channel="TNT SERIES HD">
+  <programme start="20260221211700 -0300" stop="20260221214500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Filmes de Lutas</sub-title>
     <desc lang="pt">De gregos e romanos às guerras nas estrelas, as histórias de batalhas sempre encantaram a humanidade e, assim também viraram grandes sucessos no cinema.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1680</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221214600 -0300" stop="20260221215600 -0300" channel="TNT SERIES HD">
+  <programme start="20260221214500 -0300" stop="20260221215500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Quarto Quente Branco</sub-title>
     <desc lang="pt">Jeane e Caio são irmãos a caminho da escola. A menina usa uma máscara de Arara e Caio usa sapatos peculiares. Embora ninguém saiba, Jeane consegue ouvir os pensamentos de todos no Buzum.</desc>
@@ -188187,37 +188229,37 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221215600 -0300" stop="20260221224100 -0300" channel="TNT SERIES HD">
+  <programme start="20260221215500 -0300" stop="20260221224300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Shaw arrisca ser detectada pela Samaritan quando se une a uma equipe internacional de ladrões para monitorar a mais nova Pessoa de Interesse.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221224100 -0300" stop="20260221232800 -0300" channel="TNT SERIES HD">
+  <programme start="20260221224300 -0300" stop="20260221233100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese trabalha como instrutor voluntário na Academia de Polícia do NYPD para ficar de olho numa talentosa novata cujas ações suspeitas o fazem questionar suas intenções.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221232800 -0300" stop="20260222001400 -0300" channel="TNT SERIES HD">
+  <programme start="20260221233100 -0300" stop="20260222001800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese e Finch se veem no meio de uma luta pelo controle das gangues da cidade quando Elias (ENRICO COLANTONI) vira alvo de Dominic, o líder rival da Brotherhood.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221232800 -0300" stop="20260222001400 -0300" channel="TNT SERIES HD">
+  <programme start="20260221233100 -0300" stop="20260222001800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">Reese e Finch se veem no meio de uma luta pelo controle das gangues da cidade quando Elias (ENRICO COLANTONI) vira alvo de Dominic, o líder rival da Brotherhood.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
