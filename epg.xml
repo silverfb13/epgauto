@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-21 11:31:03" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-21 14:31:07" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -20292,20 +20292,27 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222003500 -0300" channel="CANAL BRASIL HD">
+  <programme start="20260221210000 -0300" stop="20260221220000 -0300" channel="CANAL BRASIL HD">
     <title lang="pt">Paloma - A Série</title>
     <sub-title lang="pt">Mãe de todas</sub-title>
     <desc lang="pt">Paloma inicia uma campanha de busca por Jennifer. O destino de Miltinho é descoberto. Na candidatura, Paloma começa a ser difamada, mas não desiste. No outro mundo, Rickelly celebra.</desc>
-    <length units="minutes">12900</length>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222003500 -0300" channel="CANAL BRASIL HD">
-    <title lang="pt">Paloma - A Série</title>
-    <sub-title lang="pt">Mãe de todas</sub-title>
-    <desc lang="pt">Paloma inicia uma campanha de busca por Jennifer. O destino de Miltinho é descoberto. Na candidatura, Paloma começa a ser difamada, mas não desiste. No outro mundo, Rickelly celebra.</desc>
-    <length units="minutes">12900</length>
+  <programme start="20260221220000 -0300" stop="20260222003500 -0300" channel="CANAL BRASIL HD">
+    <title lang="pt">O Traidor</title>
+    <desc lang="pt">Nos anos 1980, Tommaso Buscetta vive em meio a uma guerra entre os chefes da Máfia Siciliana pelo controle do tráfico de heroína.</desc>
+    <length units="minutes">9300</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221220000 -0300" stop="20260222003500 -0300" channel="CANAL BRASIL HD">
+    <title lang="pt">O Traidor</title>
+    <desc lang="pt">Nos anos 1980, Tommaso Buscetta vive em meio a uma guerra entre os chefes da Máfia Siciliana pelo controle do tráfico de heroína.</desc>
+    <length units="minutes">9300</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -20473,7 +20480,7 @@
     <sub-title lang="pt">_18/02/2026</sub-title>
     <desc lang="pt">O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema brasileiro.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -20536,20 +20543,28 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222210000 -0300" stop="20260223012000 -0300" channel="CANAL BRASIL HD">
+  <programme start="20260222210000 -0300" stop="20260222225500 -0300" channel="CANAL BRASIL HD">
     <title lang="pt">O Último Episódio</title>
     <desc lang="pt">Erik tem 13 anos e mente sobre ter a fita do episódio final de Caverna do Dragão para impressionar Sheila. Com ajuda dos amigos, tenta criar o episódio e lidar com os dilemas da adolescência.</desc>
-    <length units="minutes">15600</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222210000 -0300" stop="20260223012000 -0300" channel="CANAL BRASIL HD">
-    <title lang="pt">O Último Episódio</title>
-    <desc lang="pt">Erik tem 13 anos e mente sobre ter a fita do episódio final de Caverna do Dragão para impressionar Sheila. Com ajuda dos amigos, tenta criar o episódio e lidar com os dilemas da adolescência.</desc>
-    <length units="minutes">15600</length>
+  <programme start="20260222225500 -0300" stop="20260223012000 -0300" channel="CANAL BRASIL HD">
+    <title lang="pt">Vermelho Monet</title>
+    <desc lang="pt">Johannes Van Almeida, um pintor que acabou de sair da prisão, quer recomeçar sua vida, mas tudo muda quando a negociante de arte Antoinette e a atriz internacional em crise Florence Lizz ficam no seu</desc>
+    <length units="minutes">8700</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260222225500 -0300" stop="20260223012000 -0300" channel="CANAL BRASIL HD">
+    <title lang="pt">Vermelho Monet</title>
+    <desc lang="pt">Johannes Van Almeida, um pintor que acabou de sair da prisão, quer recomeçar sua vida, mas tudo muda quando a negociante de arte Antoinette e a atriz internacional em crise Florence Lizz ficam no seu</desc>
+    <length units="minutes">8700</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260223012000 -0300" stop="20260223030500 -0300" channel="CANAL BRASIL HD">
@@ -46351,58 +46366,50 @@
     <length units="minutes">10500</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221050500 -0300" stop="20260221081500 -0300" channel="COMBATE HD">
+  <programme start="20260221050500 -0300" stop="20260221080000 -0300" channel="COMBATE HD">
     <title lang="pt">FMS : FMS 6 - reprise</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento. Grandes nomes já passaram no evento.</desc>
-    <length units="minutes">11400</length>
+    <length units="minutes">10500</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260221081500 -0300" stop="20260221111500 -0300" channel="COMBATE HD">
+  <programme start="20260221080000 -0300" stop="20260221110000 -0300" channel="COMBATE HD">
     <title lang="pt">MMA Reprise: FMS Fight Night 7</title>
     <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
     <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221111500 -0300" stop="20260221142000 -0300" channel="COMBATE HD">
+  <programme start="20260221110000 -0300" stop="20260221140500 -0300" channel="COMBATE HD">
     <title lang="pt">MMA Reprise: FMS Fight Night 8</title>
     <desc lang="pt">O maior evento de influenciadores da América Latina, traz em mais uma edição, uma luta histórica no Paraná! São 10 lutas de MMA e 3 lutas de Boxe que prometem muito!</desc>
     <length units="minutes">11100</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221142000 -0300" stop="20260221162500 -0300" channel="COMBATE HD">
+  <programme start="20260221140500 -0300" stop="20260221161000 -0300" channel="COMBATE HD">
     <title lang="pt">MMA Reprise: One Fight Night 40</title>
     <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <length units="minutes">7500</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221162500 -0300" stop="20260221172000 -0300" channel="COMBATE HD">
-    <title lang="pt">Sessão Combate: Acesso Total Judô - Ippon Tokio</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28.</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260221161000 -0300" stop="20260221183000 -0300" channel="COMBATE HD">
+    <title lang="pt">VT - Grand Slam de Judô: Paris, França</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">8400</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">..</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260221172000 -0300" stop="20260221175500 -0300" channel="COMBATE HD">
-    <title lang="pt">Sessão Combate: Cine Marcial: Força Destruidora</title>
+  <programme start="20260221183000 -0300" stop="20260221190000 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: Cine Marcial: Nico Acima Da Lei</title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
-    <length units="minutes">2100</length>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20260221175500 -0300" stop="20260221215500 -0300" channel="COMBATE HD">
+  <programme start="20260221190000 -0300" stop="20260221230000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260221215500 -0300" stop="20260221230000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">3900</length>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
@@ -46451,12 +46458,9 @@
   </programme>
   <programme start="20260222090000 -0300" stop="20260222120000 -0300" channel="COMBATE HD">
     <title lang="pt">FMS Fight Night: FMS Fight Night 9</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">FMS possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
     <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20260222120000 -0300" stop="20260222140500 -0300" channel="COMBATE HD">
     <title lang="pt">MMA Reprise: One Fight Night 40</title>
@@ -46478,23 +46482,23 @@
     <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260222194500 -0300" stop="20260223014500 -0300" channel="COMBATE HD">
+  <programme start="20260222194500 -0300" stop="20260222224500 -0300" channel="COMBATE HD">
     <title lang="pt">FMS Fight Night: FMS Fight Night 9</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">21600</length>
+    <desc lang="pt">FMS possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260222194500 -0300" stop="20260223014500 -0300" channel="COMBATE HD">
-    <title lang="pt">FMS Fight Night: FMS Fight Night 9</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">21600</length>
+  <programme start="20260222224500 -0300" stop="20260223014500 -0300" channel="COMBATE HD">
+    <title lang="pt">MMA Reprise: Jungle Fight 144</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
+    <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  </programme>
+  <programme start="20260222224500 -0300" stop="20260223014500 -0300" channel="COMBATE HD">
+    <title lang="pt">MMA Reprise: Jungle Fight 144</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260223014500 -0300" stop="20260223044000 -0300" channel="COMBATE HD">
     <title lang="pt">UFC BJJ: Ufc Bjj 5</title>
@@ -97865,7 +97869,7 @@
     <sub-title lang="pt">Marcinha</sub-title>
     <desc lang="pt">Larissa vai encontrar Marcinha numa região rural isolada. A agricultora tem uma rotina intensa em seu quintal produtivo e coloca Larissa para trabalhar junto com ela.</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -97920,7 +97924,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -97953,7 +97957,7 @@
     <sub-title lang="pt">Jaci</sub-title>
     <desc lang="pt">O Claquete exibe e discute o curta Jaci, sobre uma artista que tenta concluir uma maquete enquanto lida com o caos ao seu redor. Realidade e criação se fundem em sua reconstrução.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.7.</episode-num>
+    <episode-num system="xmltv_ns">21.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -98003,7 +98007,7 @@
     <sub-title lang="pt">Luis Gama</sub-title>
     <desc lang="pt">Neste episódio, recebemos Luís Gama, o &quot;Apóstolo Negro da Abolição&quot;. Poeta, jornalista e advogado, Gama foi pessoalmente responsável pela libertação de mais de 500 escravos. A abolição ta...</desc>
     <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">20.9.</episode-num>
+    <episode-num system="xmltv_ns">21.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98053,7 +98057,7 @@
     <sub-title lang="pt">Iara</sub-title>
     <desc lang="pt">Nas margens de um grande rio, assolado pela ganância do garimpo, um jovem sonhador encontra a Iara, senhora das águas.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98063,7 +98067,7 @@
     <sub-title lang="pt">No Mundo das Telas</sub-title>
     <desc lang="pt">Até mesmo Solo se surpreende com o fascínio dos terráqueos pelas telas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.7.</episode-num>
+    <episode-num system="xmltv_ns">21.7.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -98103,7 +98107,7 @@
     <sub-title lang="pt">Dolores Caguango</sub-title>
     <desc lang="pt">Manga e Leco estão lendo um livro no quarto quando Mytikah chega e os leva para o Equador, onde conhecem Dolores Cacuango, uma ingígena que luta pelo direito à educação e por uma vida mais justa para</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98113,7 +98117,7 @@
     <sub-title lang="pt">Primeiro Dia</sub-title>
     <desc lang="pt">Olivia tenta fazer as pazes com Hannah depois do incidente na festa de Jazzie, mas Hannah acha difícil perdoar sua amiga. O Grupo do Orgulho começa a atrair membros e Billy mostra interesse em Hannah.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98141,7 +98145,7 @@
     <sub-title lang="pt">A FANTÁSTICA FÁBRICA DE INSTRUMENTOS MUSICAIS</sub-title>
     <desc lang="pt">Na M.U.F.A, Carol e Kauê identificam sons de instrumentos de percussão, cordas e sopro, enquanto desenvolvem habilidades que irão aplicar no show de talentos da escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98151,7 +98155,7 @@
     <sub-title lang="pt">SAÚDE SOCIOEMOCIONAL</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="xmltv_ns">21.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98171,7 +98175,7 @@
     <sub-title lang="pt">Wagner</sub-title>
     <desc lang="pt">Wagner, motoboy com rotina intensa para sustentar sua família. Se alimenta mal e abusa do café. A equipe do Mutirão Saúde vai ajudá-lo a ter hábitos saudáveis e apoio emocional.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.1.</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98191,7 +98195,7 @@
     <sub-title lang="pt">No compasso de Tia Ciata</sub-title>
     <desc lang="pt">Neste episódio, vamos explorar o legado fascinante de Tia Ciata, uma figura fundamental na criação do samba carioca e na preservação da herança cultural afrodescendente no Rio de Janeiro.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98201,7 +98205,7 @@
     <sub-title lang="pt">Carol Dall Farra</sub-title>
     <desc lang="pt">Poeta, rapper, slammer e graduanda em Geografia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98211,7 +98215,7 @@
     <sub-title lang="pt">KEILA</sub-title>
     <desc lang="pt">Nessa temporada especial do Caça Joia, Chinaina vai até Belém para apresentar as principais joias da música independente paraense.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98231,7 +98235,7 @@
     <sub-title lang="pt">Vida que vem do lodo</sub-title>
     <desc lang="pt">No último episódio da temporada, Marcos mostra que o esgoto pode se tornar um fertilizante poderoso e conhece soluções que o transformam em fertilizante e recurso para recuperar áreas degradadas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98261,7 +98265,7 @@
     <sub-title lang="pt">Conexão entre meio ambiente e trabalho</sub-title>
     <desc lang="pt">Como se dá a conexão entre trabalho e meio ambiente na vida dos educandos da EJA? Abordamos as mudanças climáticas, o impacto social e a intencionalidade do ensino para a consciência ecológica.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98271,7 +98275,7 @@
     <sub-title lang="pt">CE Professora Luiza Marinho</sub-title>
     <desc lang="pt">Com a forte participação dos alunos nas atividades culturais e a proximidade com a Escola de Samba da Portela, os estudantes receberam o desafio de criar uma marchinha de carnaval para o colégio.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98309,7 +98313,7 @@
     <sub-title lang="pt">Inteligência Artificial</sub-title>
     <desc lang="pt">Usando inteligência artificial, as duas equipes devem criar embalagens para produtos específicos e depois programar um robô de atendimento ao cliente</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98319,7 +98323,7 @@
     <sub-title lang="pt">Presença</sub-title>
     <desc lang="pt">Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98349,7 +98353,7 @@
     <sub-title lang="pt">Jal Vieira</sub-title>
     <desc lang="pt">Moda Feita de Gente: Jal Vieira é uma estilista inspirada pela própria mãe que migrou do nordeste para São Paulo.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98359,7 +98363,7 @@
     <sub-title lang="pt">Marcinha</sub-title>
     <desc lang="pt">Larissa vai encontrar Marcinha numa região rural isolada. A agricultora tem uma rotina intensa em seu quintal produtivo e coloca Larissa para trabalhar junto com ela.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98407,25 +98411,33 @@
     <sub-title lang="pt">Alô Brasil! Respeito é um ato político</sub-title>
     <desc lang="pt">Benedita Casé e Pedro Henrique França recebem o influencer Ivan Baron e a atriz e consultora em diversidade e inclusão Tabata Contri.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222003000 -0300" channel="FUTURA HD">
+  <programme start="20260221210000 -0300" stop="20260221223000 -0300" channel="FUTURA HD">
     <title lang="pt">Passo a Passo</title>
     <desc lang="pt">História da primeira década do Ballet Paraisópolis, contada por meio de sua fundadora, a coreógrafa, bailarina e professora Mônica Tarragó.</desc>
-    <length units="minutes">12600</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222003000 -0300" channel="FUTURA HD">
-    <title lang="pt">Passo a Passo</title>
-    <desc lang="pt">História da primeira década do Ballet Paraisópolis, contada por meio de sua fundadora, a coreógrafa, bailarina e professora Mônica Tarragó.</desc>
-    <length units="minutes">12600</length>
+  <programme start="20260221223000 -0300" stop="20260222003000 -0300" channel="FUTURA HD">
+    <title lang="pt">Linha de Passe</title>
+    <desc lang="pt">Quatro irmãos são criados por uma mãe empregada doméstica e grávida novamente. Sem o pai por perto, lutam por seus sonhos. Um deles aposta no futebol como chance de mudar o destino da família.</desc>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221223000 -0300" stop="20260222003000 -0300" channel="FUTURA HD">
+    <title lang="pt">Linha de Passe</title>
+    <desc lang="pt">Quatro irmãos são criados por uma mãe empregada doméstica e grávida novamente. Sem o pai por perto, lutam por seus sonhos. Um deles aposta no futebol como chance de mudar o destino da família.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260222003000 -0300" stop="20260222010000 -0300" channel="FUTURA HD">
@@ -98442,7 +98454,7 @@
     <sub-title lang="pt">Economia Circular</sub-title>
     <desc lang="pt">A economia circular se inspira em processos biológicos de não desperdício, para evitar a geração excessiva de resíduos e otimizar processos empresariais, reduzindo assim os impactos ambientais.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.7.</episode-num>
+    <episode-num system="xmltv_ns">22.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98462,7 +98474,7 @@
     <sub-title lang="pt">Vida que vem do lodo</sub-title>
     <desc lang="pt">No último episódio da temporada, Marcos mostra que o esgoto pode se tornar um fertilizante poderoso e conhece soluções que o transformam em fertilizante e recurso para recuperar áreas degradadas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98501,7 +98513,7 @@
     <sub-title lang="pt">KEILA</sub-title>
     <desc lang="pt">Nessa temporada especial do Caça Joia, Chinaina vai até Belém para apresentar as principais joias da música independente paraense.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98521,7 +98533,7 @@
     <sub-title lang="pt">Como ser uma pessoa aliada da comunidade LGBTQIA+?</sub-title>
     <desc lang="pt">Tamara Braga destaca o papel dos aliados na inclusão e na saúde mental LGBTQIA+ nas empresas.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -98531,7 +98543,7 @@
     <sub-title lang="pt">Alô Brasil! Respeito é um ato político</sub-title>
     <desc lang="pt">Benedita Casé e Pedro Henrique França recebem o influencer Ivan Baron e a atriz e consultora em diversidade e inclusão Tabata Contri.</desc>
     <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98560,7 +98572,7 @@
     <sub-title lang="pt">Conexão entre meio ambiente e trabalho</sub-title>
     <desc lang="pt">Como se dá a conexão entre trabalho e meio ambiente na vida dos educandos da EJA? Abordamos as mudanças climáticas, o impacto social e a intencionalidade do ensino para a consciência ecológica.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98570,7 +98582,7 @@
     <sub-title lang="pt">CE Professora Luiza Marinho</sub-title>
     <desc lang="pt">Com a forte participação dos alunos nas atividades culturais e a proximidade com a Escola de Samba da Portela, os estudantes receberam o desafio de criar uma marchinha de carnaval para o colégio.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98588,7 +98600,7 @@
     <title lang="pt">Matemágica</title>
     <desc lang="pt">O matemágico Eric desvenda o mistério das pipas; mostra uma ilusão que faz uma linha reta parecer uma linha curva; e mostra como padrões matemáticos são usados na dança, na arte e na arquitetura.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">22.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98607,7 +98619,7 @@
     <sub-title lang="pt">A FANTÁSTICA FÁBRICA DE INSTRUMENTOS MUSICAIS</sub-title>
     <desc lang="pt">Na M.U.F.A, Carol e Kauê identificam sons de instrumentos de percussão, cordas e sopro, enquanto desenvolvem habilidades que irão aplicar no show de talentos da escola.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98617,7 +98629,7 @@
     <sub-title lang="pt">Túpac Amaru II</sub-title>
     <desc lang="pt">Mytikah leva os irmãos Manga e Leco para o Peru, onde conhecem José Gabriel. Ele conta sobre Túpac Amaru I e sua resistência à invasão espanhola.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98627,7 +98639,7 @@
     <sub-title lang="pt">Ernest E Celestine: Músicos De Rua</sub-title>
     <desc lang="pt">Nina e Leon estão tirando dinheiro do cofrinho. Mas o que vale mais: moedas ou notas? Eles negociam. Felizes com o acordo, estão prontos para a história do dia!</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">19.13.</episode-num>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98637,7 +98649,7 @@
     <sub-title lang="pt">A viagem esquecida</sub-title>
     <desc lang="pt">Tuca e Pri estão empolgados com a viagem à praia. Tuca até fez um quindim! Porém, o pai de Tuca e Pri fica atarefado demais e se esquece da viagem.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98647,7 +98659,7 @@
     <sub-title lang="pt">Iara</sub-title>
     <desc lang="pt">Nas margens de um grande rio, assolado pela ganância do garimpo, um jovem sonhador encontra a Iara, senhora das águas.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98657,7 +98669,7 @@
     <sub-title lang="pt">Mauro, o Morcego</sub-title>
     <desc lang="pt">Mais um chamado para Tainá e seus amigos. Desta vez, Mauro, o misterioso Morcego, que mora na tenebrosa Caverna da Caveira, precisa de ajuda.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">19.23.</episode-num>
+    <episode-num system="xmltv_ns">22.23.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98677,7 +98689,7 @@
     <sub-title lang="pt">A Brux Bruxa do Inverno</sub-title>
     <desc lang="pt">A Brux Bruxa é uma bruxa muito famosa no mundo mágico pois é ela quem traz o inverno que faz todas as folhinhas de todas as plantas caírem…para salvar sua plantinha preferida, Petra tenta parar o</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.5.</episode-num>
+    <episode-num system="xmltv_ns">22.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98687,7 +98699,7 @@
     <sub-title lang="pt">Primeiro Dia</sub-title>
     <desc lang="pt">Olivia tenta fazer as pazes com Hannah depois do incidente na festa de Jazzie, mas Hannah acha difícil perdoar sua amiga. O Grupo do Orgulho começa a atrair membros e Billy mostra interesse em Hannah.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98697,7 +98709,7 @@
     <sub-title lang="pt">SAÚDE SOCIOEMOCIONAL</sub-title>
     <desc lang="pt">A nova temporada de Quintal TV explora temas contemporâneos como inteligência artificial, ansiedade climática e amizade pelo olhar curioso das crianças.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="xmltv_ns">21.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98707,7 +98719,7 @@
     <sub-title lang="pt">Vida que vem do lodo</sub-title>
     <desc lang="pt">No último episódio da temporada, Marcos mostra que o esgoto pode se tornar um fertilizante poderoso e conhece soluções que o transformam em fertilizante e recurso para recuperar áreas degradadas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98717,7 +98729,7 @@
     <sub-title lang="pt">Economia Circular</sub-title>
     <desc lang="pt">A economia circular se inspira em processos biológicos de não desperdício, para evitar a geração excessiva de resíduos e otimizar processos empresariais, reduzindo assim os impactos ambientais.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.7.</episode-num>
+    <episode-num system="xmltv_ns">22.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98727,7 +98739,7 @@
     <sub-title lang="pt">Biomassa</sub-title>
     <desc lang="pt">Neste episódio, fala-se do uso de materiais orgânicos e biomassa. O que é, como é gerada e como utilizá-la.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98755,7 +98767,7 @@
     <sub-title lang="pt">Escola Municipal Anne Frank</sub-title>
     <desc lang="pt">Localizada em Minas Gerais, no limite entre os municípios de Belo Horizonte e Contagem, a Escola Municipal Anne Frank surgiu com o movimento social dos sem-teto, em 1988.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.7.</episode-num>
+    <episode-num system="xmltv_ns">22.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98775,7 +98787,7 @@
     <sub-title lang="pt">A Ciência dos Raios</sub-title>
     <desc lang="pt">Ciência para Todos é uma série documental que mostra como importantes iniciativas científicas apoiadas pela FAPESP impactam diretamente o nosso dia a dia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98785,7 +98797,7 @@
     <sub-title lang="pt">Presença</sub-title>
     <desc lang="pt">Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98821,7 +98833,7 @@
     <sub-title lang="pt">Memórias no Semiárido</sub-title>
     <desc lang="pt">Entre a preservação de objetos históricos e a arte de fazer louças, o Semiárido guarda memórias vivas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98831,7 +98843,7 @@
     <sub-title lang="pt">Alô Brasil! Respeito é um ato político</sub-title>
     <desc lang="pt">Benedita Casé e Pedro Henrique França recebem o influencer Ivan Baron e a atriz e consultora em diversidade e inclusão Tabata Contri.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98876,7 +98888,7 @@
     <sub-title lang="pt">KEILA</sub-title>
     <desc lang="pt">Nessa temporada especial do Caça Joia, Chinaina vai até Belém para apresentar as principais joias da música independente paraense.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98886,7 +98898,7 @@
     <sub-title lang="pt">Carol Dall Farra</sub-title>
     <desc lang="pt">Poeta, rapper, slammer e graduanda em Geografia.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98896,7 +98908,7 @@
     <sub-title lang="pt">Inteligência Artificial</sub-title>
     <desc lang="pt">Usando inteligência artificial, as duas equipes devem criar embalagens para produtos específicos e depois programar um robô de atendimento ao cliente</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98906,7 +98918,7 @@
     <sub-title lang="pt">Wagner</sub-title>
     <desc lang="pt">Wagner, motoboy com rotina intensa para sustentar sua família. Se alimenta mal e abusa do café. A equipe do Mutirão Saúde vai ajudá-lo a ter hábitos saudáveis e apoio emocional.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.1.</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -98916,7 +98928,7 @@
     <sub-title lang="pt">Vida que vem do lodo</sub-title>
     <desc lang="pt">No último episódio da temporada, Marcos mostra que o esgoto pode se tornar um fertilizante poderoso e conhece soluções que o transformam em fertilizante e recurso para recuperar áreas degradadas.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -101886,7 +101898,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102078,7 +102090,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102738,12 +102750,14 @@
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">82.51.</episode-num>
   </programme>
-  <programme start="20260221000451 -0300" stop="20260221010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
+  <programme start="20260221000000 -0300" stop="20260221010000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
     <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
-    <length units="minutes">3309</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.52.</episode-num>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221010000 -0300" stop="20260221030000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -102753,50 +102767,65 @@
     <episode-num system="xmltv_ns">81.52.</episode-num>
   </programme>
   <programme start="20260221030000 -0300" stop="20260221040000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (3h)</title>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">3.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221040000 -0300" stop="20260221043000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Diálogos Com Mario Sergio Conti</title>
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
     <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">84.52.</episode-num>
   </programme>
   <programme start="20260221043000 -0300" stop="20260221060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">84.52.</episode-num>
+    <episode-num system="xmltv_ns">4.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221060000 -0300" stop="20260221070000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 06h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 06h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">86.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">6.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221070000 -0300" stop="20260221080000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 07h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 07h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">87.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">7.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221080000 -0300" stop="20260221090000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 08h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 08h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">8.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221090000 -0300" stop="20260221100000 -0300" channel="GLOBONEWS">
     <title lang="pt">Globo Repórter</title>
-    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.</desc>
+    <desc lang="pt">Reportagens especiais em edições temáticas.</desc>
     <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">9.52.</episode-num>
@@ -102805,85 +102834,115 @@
     </rating>
   </programme>
   <programme start="20260221100000 -0300" stop="20260221120000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 10h</title>
-    <desc lang="pt">Notícias da manhã, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.</desc>
+    <title lang="pt">Jornal GloboNews - Edição das 10h - ao vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">10.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221120000 -0300" stop="20260221143000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia</title>
+    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">12.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221143000 -0300" stop="20260221150000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Cidades E Soluções</title>
-    <desc lang="pt">O programa discute de que forma a comunicação não-violenta tem sido usada na mediação de conflito de diferentes tipos.</desc>
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">84.52.</episode-num>
   </programme>
   <programme start="20260221150000 -0300" stop="20260221173000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 15h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 15h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">15.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221173000 -0300" stop="20260221180000 -0300" channel="GLOBONEWS">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Gustavo Pimenta, CEO da Vale, fala como a experiência em finanças tem ajudado a liderar um dos negócios mais complexos do país.</desc>
+    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">87.52.</episode-num>
+    <episode-num system="xmltv_ns">17.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221180000 -0300" stop="20260221200000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <title lang="pt">Jornal GloboNews Edição das 18h - ao vivo</title>
     <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">18.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221200000 -0300" stop="20260221213000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 20h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 20h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">5400</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.52.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">20.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221213000 -0300" stop="20260221220000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Cidades E Soluções</title>
+    <title lang="pt">Cidades e Soluções</title>
     <desc lang="pt">Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">81.52.</episode-num>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222003000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+  <programme start="20260221220000 -0300" stop="20260221230000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.52.</episode-num>
-  </programme>
-  <programme start="20260221220000 -0300" stop="20260222003000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
-    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.52.</episode-num>
-  </programme>
-  <programme start="20260222003000 -0300" stop="20260222013000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
-    <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
     <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.53.</episode-num>
+    <episode-num system="xmltv_ns">22.52.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260221230000 -0300" stop="20260222003000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Documentário</title>
+    <desc lang="pt">Uma reportagem especial sobre um tema de grande repercussão.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.52.</episode-num>
+  </programme>
+  <programme start="20260221230000 -0300" stop="20260222003000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Documentário</title>
+    <desc lang="pt">Uma reportagem especial sobre um tema de grande repercussão.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">83.52.</episode-num>
+  </programme>
+  <programme start="20260222003000 -0300" stop="20260222013000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
+    <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222013000 -0300" stop="20260222023000 -0300" channel="GLOBONEWS">
     <title lang="pt">Globo Repórter</title>
-    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.</desc>
+    <desc lang="pt">Reportagens especiais em edições temáticas.</desc>
     <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">1.53.</episode-num>
@@ -102892,43 +102951,55 @@
     </rating>
   </programme>
   <programme start="20260222023000 -0300" stop="20260222030000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Cidades E Soluções</title>
+    <title lang="pt">Cidades e Soluções</title>
     <desc lang="pt">Iniciativas bem-sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">82.53.</episode-num>
   </programme>
   <programme start="20260222030000 -0300" stop="20260222043000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (3h)</title>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">5400</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">3.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222043000 -0300" stop="20260222050000 -0300" channel="GLOBONEWS">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Gustavo Pimenta, CEO da Vale, fala como a experiência em finanças tem ajudado a liderar um dos negócios mais complexos do país.</desc>
+    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">84.53.</episode-num>
+    <episode-num system="xmltv_ns">4.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222050000 -0300" stop="20260222060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.53.</episode-num>
+    <episode-num system="xmltv_ns">5.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222060000 -0300" stop="20260222062000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 06h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 06h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">1200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">86.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">6.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222062000 -0300" stop="20260222070000 -0300" channel="GLOBONEWS">
     <title lang="pt">Globo Repórter</title>
-    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.</desc>
+    <desc lang="pt">Reportagens especiais em edições temáticas.</desc>
     <length units="minutes">2400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">6.53.</episode-num>
@@ -102937,64 +103008,85 @@
     </rating>
   </programme>
   <programme start="20260222070000 -0300" stop="20260222080000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 07h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 07h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">87.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">7.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222080000 -0300" stop="20260222093000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 08h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 08h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">5400</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">8.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222093000 -0300" stop="20260222100000 -0300" channel="GLOBONEWS">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Gustavo Pimenta, CEO da Vale, fala como a experiência em finanças tem ajudado a liderar um dos negócios mais complexos do país.</desc>
+    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">89.53.</episode-num>
+    <episode-num system="xmltv_ns">9.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222100000 -0300" stop="20260222110000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 10h</title>
-    <desc lang="pt">Notícias da manhã, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.</desc>
+    <title lang="pt">Jornal GloboNews - Edição das 10h - ao vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">10.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222110000 -0300" stop="20260222123000 -0300" channel="GLOBONEWS">
     <title lang="pt">Globo Rural</title>
-    <desc lang="pt">As notícias sobre a vida no campo e o agronegócio. O Globo Rural apresenta assuntos como a criação de animais, o andamento das safras, as cotações do mercado, entre outros.</desc>
+    <desc lang="pt">Notícias sobre agronegócios, empreendimentos rurais e os principais índices do setor agrícola.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">81.53.</episode-num>
   </programme>
   <programme start="20260222123000 -0300" stop="20260222142000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia</title>
+    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">6600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">12.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222142000 -0300" stop="20260222150000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
-    <desc lang="pt">O programa traça um perfil do microempresário brasileiro, mostra como funcionam pequenos empreendimentos e apresenta soluções criativas para problemas.</desc>
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+    <desc lang="pt">Histórias de sucesso no mundo das pequenas e médias empresas.</desc>
     <length units="minutes">2400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">84.53.</episode-num>
+    <episode-num system="xmltv_ns">14.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222150000 -0300" stop="20260222172000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 15h</title>
+    <title lang="pt">Jornal GloboNews - Edição das 15h - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">8400</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">15.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222172000 -0300" stop="20260222180000 -0300" channel="GLOBONEWS">
     <title lang="pt">Globo Repórter</title>
-    <desc lang="pt">Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.</desc>
+    <desc lang="pt">Reportagens especiais em edições temáticas.</desc>
     <length units="minutes">2400</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">17.53.</episode-num>
@@ -103003,119 +103095,159 @@
     </rating>
   </programme>
   <programme start="20260222180000 -0300" stop="20260222193000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <title lang="pt">Jornal GloboNews Edição das 18h - ao vivo</title>
     <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <length units="minutes">5400</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">18.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222193000 -0300" stop="20260222200000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Internacional</title>
+    <title lang="pt">GloboNews Internacional - ao vivo</title>
     <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação.</desc>
     <length units="minutes">1800</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">19.53.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260222200000 -0300" stop="20260222220000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <title lang="pt">Jornal GloboNews Edição das 18h - ao vivo</title>
     <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.53.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">20.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260222220000 -0300" stop="20260222230500 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">3900</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.53.</episode-num>
+    <episode-num system="xmltv_ns">22.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260222230500 -0300" stop="20260223023500 -0300" channel="GLOBONEWS">
+  <programme start="20260222230500 -0300" stop="20260222233500 -0300" channel="GLOBONEWS">
     <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Gustavo Pimenta, CEO da Vale, fala como a experiência em finanças tem ajudado a liderar um dos negócios mais complexos do país.</desc>
-    <length units="minutes">12600</length>
+    <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">23.53.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260222233500 -0300" stop="20260223023500 -0300" channel="GLOBONEWS">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Programa em forma de revista eletrônica, o Show da Vida mistura jornalismo, denúncia, esporte, humor, dramaturgia, documentário, música e ciência.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.53.</episode-num>
   </programme>
-  <programme start="20260222230500 -0300" stop="20260223023500 -0300" channel="GLOBONEWS">
-    <title lang="pt">Liderança S/A GloboNews</title>
-    <desc lang="pt">Gustavo Pimenta, CEO da Vale, fala como a experiência em finanças tem ajudado a liderar um dos negócios mais complexos do país.</desc>
-    <length units="minutes">12600</length>
+  <programme start="20260222233500 -0300" stop="20260223023500 -0300" channel="GLOBONEWS">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Programa em forma de revista eletrônica, o Show da Vida mistura jornalismo, denúncia, esporte, humor, dramaturgia, documentário, música e ciência.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.53.</episode-num>
   </programme>
   <programme start="20260223023500 -0300" stop="20260223032000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (3h)</title>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
     <length units="minutes">2700</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.54.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">2.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223032000 -0300" stop="20260223040000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
-    <desc lang="pt">O programa traça um perfil do microempresário brasileiro, mostra como funcionam pequenos empreendimentos e apresenta soluções criativas para problemas.</desc>
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+    <desc lang="pt">Histórias de sucesso no mundo das pequenas e médias empresas.</desc>
     <length units="minutes">2400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.54.</episode-num>
+    <episode-num system="xmltv_ns">3.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223040000 -0300" stop="20260223050000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">3600</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">84.54.</episode-num>
+    <episode-num system="xmltv_ns">4.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223050000 -0300" stop="20260223060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (5h)</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
+    <desc lang="pt">As principais notícias do brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.54.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">5.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223060000 -0300" stop="20260223070000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (6h)</title>
-    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
+    <desc lang="pt">Principais notícias da manhã, a agenda política e tudo o que você precisa saber para começar o dia bem-informado.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">86.54.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">6.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223070000 -0300" stop="20260223093000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Em Ponto</title>
-    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <title lang="pt">GloboNews Em Ponto - ao vivo</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
     <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">87.54.</episode-num>
   </programme>
   <programme start="20260223093000 -0300" stop="20260223130000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Conexão GloboNews</title>
+    <title lang="pt">Conexão GloboNews - ao vivo</title>
     <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
     <length units="minutes">12600</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">89.54.</episode-num>
   </programme>
   <programme start="20260223130000 -0300" stop="20260223160000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Estúdio i</title>
-    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <title lang="pt">Estúdio i - ao vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
     <length units="minutes">10800</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.54.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">13.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223160000 -0300" stop="20260223180000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Mais</title>
+    <title lang="pt">GloboNews Mais - ao vivo</title>
     <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.54.</episode-num>
   </programme>
   <programme start="20260223180000 -0300" stop="20260223200000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <title lang="pt">Jornal GloboNews Edição das 18h - ao vivo</title>
     <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.54.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">18.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223200000 -0300" stop="20260223220000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103125,25 +103257,33 @@
     <episode-num system="xmltv_ns">80.54.</episode-num>
   </programme>
   <programme start="20260223220000 -0300" stop="20260223233000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.54.</episode-num>
+    <episode-num system="xmltv_ns">22.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260223233000 -0300" stop="20260224000000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Especial</title>
-    <desc lang="pt">O segundo episódio acompanha a jornada de artistas sertanejos que enfrentam as estradas do Brasil em busca do sonho de se tornarem ídolos nacionais.</desc>
+    <desc lang="pt">Reportagens documentais sobre o tema de destaque da semana ou que está sendo discutido pela sociedade.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.54.</episode-num>
+    <episode-num system="xmltv_ns">23.54.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224000000 -0300" stop="20260224010000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - ao vivo</title>
     <desc lang="pt">Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">80.55.</episode-num>
+    <category lang="en">live broadcast</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224010000 -0300" stop="20260224030000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103154,66 +103294,84 @@
   </programme>
   <programme start="20260224030000 -0300" stop="20260224033000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Especial</title>
-    <desc lang="pt">O segundo episódio acompanha a jornada de artistas sertanejos que enfrentam as estradas do Brasil em busca do sonho de se tornarem ídolos nacionais.</desc>
+    <desc lang="pt">Reportagens documentais sobre o tema de destaque da semana ou que está sendo discutido pela sociedade.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.55.</episode-num>
+    <episode-num system="xmltv_ns">3.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224033000 -0300" stop="20260224050000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.55.</episode-num>
+    <episode-num system="xmltv_ns">3.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224050000 -0300" stop="20260224060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (5h)</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
+    <desc lang="pt">As principais notícias do brasil e do mundo.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">85.55.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">5.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224060000 -0300" stop="20260224070000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (6h)</title>
-    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <title lang="pt">Jornal GloboNews - ao vivo</title>
+    <desc lang="pt">Principais notícias da manhã, a agenda política e tudo o que você precisa saber para começar o dia bem-informado.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">86.55.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">6.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224070000 -0300" stop="20260224093000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Em Ponto</title>
-    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <title lang="pt">GloboNews Em Ponto - ao vivo</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas.</desc>
     <length units="minutes">9000</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">87.55.</episode-num>
   </programme>
   <programme start="20260224093000 -0300" stop="20260224130000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Conexão GloboNews</title>
+    <title lang="pt">Conexão GloboNews - ao vivo</title>
     <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
     <length units="minutes">12600</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">89.55.</episode-num>
   </programme>
   <programme start="20260224130000 -0300" stop="20260224160000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Estúdio i</title>
-    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <title lang="pt">Estúdio i - ao vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público.</desc>
     <length units="minutes">10800</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.55.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">13.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224160000 -0300" stop="20260224180000 -0300" channel="GLOBONEWS">
-    <title lang="pt">GloboNews Mais</title>
+    <title lang="pt">GloboNews Mais - ao vivo</title>
     <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.55.</episode-num>
   </programme>
   <programme start="20260224180000 -0300" stop="20260224200000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews - Edição das 18h</title>
+    <title lang="pt">Jornal GloboNews Edição das 18h - ao vivo</title>
     <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">88.55.</episode-num>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">18.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224200000 -0300" stop="20260224220000 -0300" channel="GLOBONEWS">
     <title lang="pt">GloboNews Em Pauta</title>
@@ -103223,18 +103381,24 @@
     <episode-num system="xmltv_ns">80.55.</episode-num>
   </programme>
   <programme start="20260224220000 -0300" stop="20260224233000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal Das Dez</title>
+    <title lang="pt">Jornal das Dez</title>
     <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
     <length units="minutes">5400</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">82.55.</episode-num>
+    <episode-num system="xmltv_ns">22.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260224233000 -0300" stop="20260225000000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Roberto D'avila</title>
+    <title lang="pt">Roberto D'Avila</title>
     <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.</desc>
     <length units="minutes">1800</length>
     <category lang="en">news/current affairs (general)</category>
-    <episode-num system="xmltv_ns">83.55.</episode-num>
+    <episode-num system="xmltv_ns">23.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260225000000 -0300" stop="20260225010000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite</title>
@@ -103930,22 +104094,32 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221234800 -0300" stop="20260222001100 -0300" channel="GLOOB HD">
+  <programme start="20260221234800 -0300" stop="20260221235900 -0300" channel="GLOOB HD">
     <title lang="pt">Alvinnn!!! E Os Esquilos</title>
     <sub-title lang="pt">Insanidade Monstruosa</sub-title>
     <desc lang="pt">Alvin e Simon provocam as esquiletes, alegando que ficaram assustadas com um filme. Porém, elas lançam um vídeo que mostra realmente quem ficou com medo!</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">23.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221234800 -0300" stop="20260222001100 -0300" channel="GLOOB HD">
+  <programme start="20260221235900 -0300" stop="20260222001100 -0300" channel="GLOOB HD">
     <title lang="pt">Alvinnn!!! E Os Esquilos</title>
-    <sub-title lang="pt">Insanidade Monstruosa</sub-title>
-    <desc lang="pt">Alvin e Simon provocam as esquiletes, alegando que ficaram assustadas com um filme. Porém, elas lançam um vídeo que mostra realmente quem ficou com medo!</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">23.28.</episode-num>
+    <sub-title lang="pt">As Super-Heroínas</sub-title>
+    <desc lang="pt">As esquiletes se propuseram a provar a Alvin e aos meninos que ser um super-herói não é apenas uma &quot;coisa de meninos&quot;.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">23.29.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260221235900 -0300" stop="20260222001100 -0300" channel="GLOOB HD">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <sub-title lang="pt">As Super-Heroínas</sub-title>
+    <desc lang="pt">As esquiletes se propuseram a provar a Alvin e aos meninos que ser um super-herói não é apenas uma &quot;coisa de meninos&quot;.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">23.29.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -104636,22 +104810,32 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222231700 -0300" stop="20260223000600 -0300" channel="GLOOB HD">
+  <programme start="20260222231700 -0300" stop="20260222234100 -0300" channel="GLOOB HD">
     <title lang="pt">Escola De Gênios</title>
     <sub-title lang="pt">O Segredo De Fídias</sub-title>
     <desc lang="pt">Depois de descobrir que o projeto do telescópio foi divulgado, Fídias confronta Leo e Otto, sem saber que Maya foi a responsável pela publicação. Guto, Luiza e Drica fazem festa surpresa para Viola.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222231700 -0300" stop="20260223000600 -0300" channel="GLOOB HD">
+  <programme start="20260222234100 -0300" stop="20260223000600 -0300" channel="GLOOB HD">
     <title lang="pt">Escola De Gênios</title>
-    <sub-title lang="pt">O Segredo De Fídias</sub-title>
-    <desc lang="pt">Depois de descobrir que o projeto do telescópio foi divulgado, Fídias confronta Leo e Otto, sem saber que Maya foi a responsável pela publicação. Guto, Luiza e Drica fazem festa surpresa para Viola.</desc>
-    <length units="minutes">2940</length>
-    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <sub-title lang="pt">Por Um Triz</sub-title>
+    <desc lang="pt">Para evitar que o projeto de Leo seja vendido para uma investidora, Maya esconde o telescópio pela escola. Tesla e Marie dão entrevista para uma renomada revista de Ciências.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260222234100 -0300" stop="20260223000600 -0300" channel="GLOOB HD">
+    <title lang="pt">Escola De Gênios</title>
+    <sub-title lang="pt">Por Um Triz</sub-title>
+    <desc lang="pt">Para evitar que o projeto de Leo seja vendido para uma investidora, Maya esconde o telescópio pela escola. Tesla e Marie dão entrevista para uma renomada revista de Ciências.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -108813,20 +108997,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221235600 -0300" stop="20260222000200 -0300" channel="GLOOBINHO HD">
+  <programme start="20260221235600 -0300" stop="20260221235900 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Little Angel</title>
     <sub-title lang="pt">Joãozinho Viaja no Motorhome</sub-title>
     <desc lang="pt">O bebê Joãozinho e sua família viajam de carro para o Grand Canyon.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">180</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221235600 -0300" stop="20260222000200 -0300" channel="GLOOBINHO HD">
+  <programme start="20260221235900 -0300" stop="20260222000200 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Little Angel</title>
-    <sub-title lang="pt">Joãozinho Viaja no Motorhome</sub-title>
-    <desc lang="pt">O bebê Joãozinho e sua família viajam de carro para o Grand Canyon.</desc>
-    <length units="minutes">360</length>
+    <sub-title lang="pt">Joãozinho Explora a Natureza em Família</sub-title>
+    <desc lang="pt">O bebê Joãozinho e sua família aprendem sobre vários animais diferentes no Grand Canyon.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260221235900 -0300" stop="20260222000200 -0300" channel="GLOOBINHO HD">
+    <title lang="pt">Little Angel</title>
+    <sub-title lang="pt">Joãozinho Explora a Natureza em Família</sub-title>
+    <desc lang="pt">O bebê Joãozinho e sua família aprendem sobre vários animais diferentes no Grand Canyon.</desc>
+    <length units="minutes">180</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -116964,24 +117157,36 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221232100 -0300" stop="20260222011800 -0300" channel="GNT HD">
+  <programme start="20260221232100 -0300" stop="20260221235000 -0300" channel="GNT HD">
     <title lang="pt">Chegadas E Partidas</title>
     <sub-title lang="pt">Sobre Criar Raízes E Se Aventurar</sub-title>
     <desc lang="pt">Astrid acompanha a partida de um jovem casal que vai para Austrália fazer intercâmbio, e a chegada de Mariana, que reencontra a mãe após dois anos no aeroporto de Guarulhos.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">1740</length>
     <episode-num system="xmltv_ns">12.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221232100 -0300" stop="20260222011800 -0300" channel="GNT HD">
-    <title lang="pt">Chegadas E Partidas</title>
-    <sub-title lang="pt">Sobre Criar Raízes E Se Aventurar</sub-title>
-    <desc lang="pt">Astrid acompanha a partida de um jovem casal que vai para Austrália fazer intercâmbio, e a chegada de Mariana, que reencontra a mãe após dois anos no aeroporto de Guarulhos.</desc>
-    <length units="minutes">7020</length>
-    <episode-num system="xmltv_ns">12.4.</episode-num>
+  <programme start="20260221235000 -0300" stop="20260222011800 -0300" channel="GNT HD">
+    <title lang="pt">Angélica - ao vivo</title>
+    <sub-title lang="pt">Luciano Huck + Ana Maria Braga + Victor Stirnimann + Convidado Surpresa</sub-title>
+    <desc lang="pt">Convidados pescam memórias do passado, admitem se já mentiram e fazem uma surpresa de aniversário para Angélica.</desc>
+    <length units="minutes">5280</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221235000 -0300" stop="20260222011800 -0300" channel="GNT HD">
+    <title lang="pt">Angélica - ao vivo</title>
+    <sub-title lang="pt">Luciano Huck + Ana Maria Braga + Victor Stirnimann + Convidado Surpresa</sub-title>
+    <desc lang="pt">Convidados pescam memórias do passado, admitem se já mentiram e fazem uma surpresa de aniversário para Angélica.</desc>
+    <length units="minutes">5280</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260222011800 -0300" stop="20260222021800 -0300" channel="GNT HD">
@@ -117186,11 +117391,12 @@
   </programme>
   <programme start="20260222135800 -0300" stop="20260222143100 -0300" channel="GNT HD">
     <title lang="pt">Diogo Na Cozinha</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <sub-title lang="pt">Xamã e Marvvila</sub-title>
+    <desc lang="pt">Diogo recebe Xamã e Marvvila para um encontro cheio de música e improviso. Enquanto soltam a voz na cozinha, o sambista prepara sua versão de um Carreteiro e um Pudim de Café.</desc>
     <length units="minutes">1980</length>
-    <episode-num system="xmltv_ns">13.53.</episode-num>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260222143100 -0300" stop="20260222150100 -0300" channel="GNT HD">
@@ -117313,21 +117519,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222230700 -0300" stop="20260223002200 -0300" channel="GNT HD">
+  <programme start="20260222230700 -0300" stop="20260222235200 -0300" channel="GNT HD">
     <title lang="pt">Admiráveis Conselheiras</title>
     <sub-title lang="pt">Eliana Pittman</sub-title>
     <desc lang="pt">Astrid encontra Eliana Pittman, primeira cantora a lançar o carimbó no sudeste e que levou a bossa nova, o jazz e o samba para o mundo.</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222230700 -0300" stop="20260223002200 -0300" channel="GNT HD">
-    <title lang="pt">Admiráveis Conselheiras</title>
-    <sub-title lang="pt">Eliana Pittman</sub-title>
-    <desc lang="pt">Astrid encontra Eliana Pittman, primeira cantora a lançar o carimbó no sudeste e que levou a bossa nova, o jazz e o samba para o mundo.</desc>
-    <length units="minutes">4500</length>
+  <programme start="20260222235200 -0300" stop="20260223002200 -0300" channel="GNT HD">
+    <title lang="pt">Diogo Na Cozinha</title>
+    <sub-title lang="pt">Xamã e Marvvila</sub-title>
+    <desc lang="pt">Diogo recebe Xamã e Marvvila para um encontro cheio de música e improviso. Enquanto soltam a voz na cozinha, o sambista prepara sua versão de um Carreteiro e um Pudim de Café.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260222235200 -0300" stop="20260223002200 -0300" channel="GNT HD">
+    <title lang="pt">Diogo Na Cozinha</title>
+    <sub-title lang="pt">Xamã e Marvvila</sub-title>
+    <desc lang="pt">Diogo recebe Xamã e Marvvila para um encontro cheio de música e improviso. Enquanto soltam a voz na cozinha, o sambista prepara sua versão de um Carreteiro e um Pudim de Café.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -118354,19 +118570,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221060300 -0300" stop="20260221070400 -0300" channel="Globoplay Novelas">
+  <programme start="20260221060300 -0300" stop="20260221071200 -0300" channel="Globoplay Novelas">
     <title lang="pt">Fina Estampa</title>
     <desc lang="pt">eodora volta a seduzir Quinzé. Tereza dá a senha do seu cofre para Pereirinha. Dagmar enfrenta Zuleika. Baltazar surta com Solange em público. Daniel grava o clipe de Solange.</desc>
-    <length units="minutes">3660</length>
+    <length units="minutes">4140</length>
     <episode-num system="xmltv_ns">86.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221070400 -0300" stop="20260221081200 -0300" channel="Globoplay Novelas">
+  <programme start="20260221071200 -0300" stop="20260221081200 -0300" channel="Globoplay Novelas">
     <title lang="pt">Salve Jorge</title>
     <desc lang="pt">Helô manda Barros seguir os passos de Berna. Mustafá descobre que seu dinheiro sumiu. Bianca e Zyah se desentendem. Berna desabafa com Lívia.</desc>
-    <length units="minutes">4080</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.52.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -118542,22 +118758,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221224000 -0300" stop="20260222003100 -0300" channel="Globoplay Novelas">
+  <programme start="20260221224000 -0300" stop="20260221233300 -0300" channel="Globoplay Novelas">
     <title lang="pt">Fina Estampa</title>
     <desc lang="pt">O clipe da Sol da Recanto é publicado na internet. Danielle é intimada pela Justiça. Esther é entrevistada por Beto Júnior. Griselda confronta Ferdinand sobre a loira misteriosa.</desc>
-    <length units="minutes">6660</length>
+    <length units="minutes">3180</length>
     <episode-num system="xmltv_ns">82.52.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221224000 -0300" stop="20260222003100 -0300" channel="Globoplay Novelas">
-    <title lang="pt">Fina Estampa</title>
-    <desc lang="pt">O clipe da Sol da Recanto é publicado na internet. Danielle é intimada pela Justiça. Esther é entrevistada por Beto Júnior. Griselda confronta Ferdinand sobre a loira misteriosa.</desc>
-    <length units="minutes">6660</length>
-    <episode-num system="xmltv_ns">82.52.</episode-num>
+  <programme start="20260221233300 -0300" stop="20260222003100 -0300" channel="Globoplay Novelas">
+    <title lang="pt">Salve Jorge</title>
+    <desc lang="pt">Carlos pensa em assumir o caso com Antônia. Berna fala sobre a adoção de Aisha para Lívia. Chega a hora da viagem de Morena e Jéssica, que se despedem de Waleska e Rosângela.</desc>
+    <length units="minutes">3480</length>
+    <episode-num system="xmltv_ns">83.52.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221233300 -0300" stop="20260222003100 -0300" channel="Globoplay Novelas">
+    <title lang="pt">Salve Jorge</title>
+    <desc lang="pt">Carlos pensa em assumir o caso com Antônia. Berna fala sobre a adoção de Aisha para Lívia. Chega a hora da viagem de Morena e Jéssica, que se despedem de Waleska e Rosângela.</desc>
+    <length units="minutes">3480</length>
+    <episode-num system="xmltv_ns">83.52.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260222003100 -0300" stop="20260222012700 -0300" channel="Globoplay Novelas">
@@ -118806,20 +119031,29 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222224600 -0300" stop="20260223002200 -0300" channel="Globoplay Novelas">
+  <programme start="20260222224600 -0300" stop="20260222233100 -0300" channel="Globoplay Novelas">
     <title lang="pt">Fina Estampa</title>
     <desc lang="pt">Esther fica confusa com seus sentimentos por Paulo. Joana e Delegado Paredes tentam derrubar o álibi de Tereza. Zambeze descobre que Álvaro esconde um segredo sobre Tereza.</desc>
-    <length units="minutes">5760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">82.53.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222224600 -0300" stop="20260223002200 -0300" channel="Globoplay Novelas">
+  <programme start="20260222233100 -0300" stop="20260223002200 -0300" channel="Globoplay Novelas">
     <title lang="pt">Fina Estampa</title>
-    <desc lang="pt">Esther fica confusa com seus sentimentos por Paulo. Joana e Delegado Paredes tentam derrubar o álibi de Tereza. Zambeze descobre que Álvaro esconde um segredo sobre Tereza.</desc>
-    <length units="minutes">5760</length>
-    <episode-num system="xmltv_ns">82.53.</episode-num>
+    <desc lang="pt">Beatriz invade a casa de Esther e as duas tem um confronto cara a cara para discutir quem é a mãe verdadeira de Vitória. Beto Júnior localiza Esther. Zuleika ameaça Dagmar.</desc>
+    <length units="minutes">3060</length>
+    <episode-num system="xmltv_ns">83.53.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260222233100 -0300" stop="20260223002200 -0300" channel="Globoplay Novelas">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Beatriz invade a casa de Esther e as duas tem um confronto cara a cara para discutir quem é a mãe verdadeira de Vitória. Beto Júnior localiza Esther. Zuleika ameaça Dagmar.</desc>
+    <length units="minutes">3060</length>
+    <episode-num system="xmltv_ns">83.53.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -138435,18 +138669,26 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222010000 -0300" channel="MEGAPIX HD">
+  <programme start="20260221210000 -0300" stop="20260221230000 -0300" channel="MEGAPIX HD">
     <title lang="pt">Programa Duplo: O Alvo 2</title>
     <desc lang="pt">Wes, um lutador traumatizado pela morte do amigo no ringue, aceita lutar em um torneio. Descobre uma armadilha mortal e vira alvo de uma caçada sádica.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222010000 -0300" channel="MEGAPIX HD">
-    <title lang="pt">Programa Duplo: O Alvo 2</title>
-    <desc lang="pt">Wes, um lutador traumatizado pela morte do amigo no ringue, aceita lutar em um torneio. Descobre uma armadilha mortal e vira alvo de uma caçada sádica.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260221230000 -0300" stop="20260222010000 -0300" channel="MEGAPIX HD">
+    <title lang="pt">Rogue - O Assassino</title>
+    <desc lang="pt">O agente do FBI Jack quer se vingar do assassino Rogue, que supostamente matou seu parceiro e sua família.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221230000 -0300" stop="20260222010000 -0300" channel="MEGAPIX HD">
+    <title lang="pt">Rogue - O Assassino</title>
+    <desc lang="pt">O agente do FBI Jack quer se vingar do assassino Rogue, que supostamente matou seu parceiro e sua família.</desc>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -138531,20 +138773,28 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222210000 -0300" stop="20260223010000 -0300" channel="MEGAPIX HD">
+  <programme start="20260222210000 -0300" stop="20260222225500 -0300" channel="MEGAPIX HD">
     <title lang="pt">Programa Duplo: Gato de Botas 2: O Último Pedido</title>
     <desc lang="pt">De suas nove vidas, Gato de Botas percebe que perdeu oito. Com medo, busca na Estrela do Desejo uma chance de recuperá?las e embarca em uma grande aventura.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222210000 -0300" stop="20260223010000 -0300" channel="MEGAPIX HD">
-    <title lang="pt">Programa Duplo: Gato de Botas 2: O Último Pedido</title>
-    <desc lang="pt">De suas nove vidas, Gato de Botas percebe que perdeu oito. Com medo, busca na Estrela do Desejo uma chance de recuperá?las e embarca em uma grande aventura.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260222225500 -0300" stop="20260223010000 -0300" channel="MEGAPIX HD">
+    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+    <desc lang="pt">O disfarce de Vovó Zona será usado novamente numa missão. Desta vez, Malcom precisa encontrar um importante pen drive. Ele contará com a ajuda do enteado, Trent, que vai se transformar em Charmaine.</desc>
+    <length units="minutes">7500</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260222225500 -0300" stop="20260223010000 -0300" channel="MEGAPIX HD">
+    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+    <desc lang="pt">O disfarce de Vovó Zona será usado novamente numa missão. Desta vez, Malcom precisa encontrar um importante pen drive. Ele contará com a ajuda do enteado, Trent, que vai se transformar em Charmaine.</desc>
+    <length units="minutes">7500</length>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260223010000 -0300" stop="20260223025000 -0300" channel="MEGAPIX HD">
@@ -139759,7 +140009,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">O Senhor Barriga está com um calo muito dolorido no pé direito. E a coisa piora porque, toda hora, alguém lhe acerta justamente no calo.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">20.168.</episode-num>
+    <episode-num system="xmltv_ns">21.168.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139768,7 +140018,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">O terrível Fura-Tripa escapa da cadeia e volta para se vingar de seu ex-patrão. Dr. Chapatin vai visitar um paciente e acaba tendo uma aula de golfe.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">20.169.</episode-num>
+    <episode-num system="xmltv_ns">21.169.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -139777,7 +140027,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">A vila está sem água, o que obriga as crianças a irem até a outra vizinhança para buscar alguns baldes. Só que Dona Florinda e Seu Madruga começam a brigar pela água.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">19.166.</episode-num>
+    <episode-num system="xmltv_ns">21.166.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139786,7 +140036,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Um casal tem que, ao sair de casa, possam ser assaltados por um perigoso bandido. Por isso, pede ajuda ao Chapolin Colorado. Dr. Chapatin leva ao hospital um homem que sofreu um acidente.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">19.167.</episode-num>
+    <episode-num system="xmltv_ns">21.167.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -140106,6 +140356,7 @@
     <title lang="pt">Desfile Das Campeãs</title>
     <desc lang="pt">&quot;Transmissão ao vivo do&quot;&quot; Show das Campeãs do Carnaval 2026&quot;&quot;, diretamente do Sambódromo da Marquês da Sapucaí, no Rio de Janeiro.&quot;</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">21.52.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140132,7 +140383,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">O Senhor Barriga está com um calo muito dolorido no pé direito. E a coisa piora porque, toda hora, alguém lhe acerta justamente no calo.</desc>
     <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">20.168.</episode-num>
+    <episode-num system="xmltv_ns">21.168.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -149119,24 +149370,32 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221231600 -0300" stop="20260222000500 -0300" channel="Modo Viagem">
+  <programme start="20260221231600 -0300" stop="20260221233900 -0300" channel="Modo Viagem">
     <title lang="pt">Hey Ho!</title>
     <sub-title lang="pt">Food Safari Na Catalunha - Parte 2</sub-title>
     <desc lang="pt">Aline está conhecendo a Catalunha de uma maneira muito especial: através da gastronomia. Ela faz um &quot;Food Safari&quot; e caça as famosas - e caríssimas - trufas da estação.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260221231600 -0300" stop="20260222000500 -0300" channel="Modo Viagem">
-    <title lang="pt">Hey Ho!</title>
-    <sub-title lang="pt">Food Safari Na Catalunha - Parte 2</sub-title>
-    <desc lang="pt">Aline está conhecendo a Catalunha de uma maneira muito especial: através da gastronomia. Ela faz um &quot;Food Safari&quot; e caça as famosas - e caríssimas - trufas da estação.</desc>
-    <length units="minutes">2940</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
+  <programme start="20260221233900 -0300" stop="20260222000500 -0300" channel="Modo Viagem">
+    <title lang="pt">Biomas</title>
+    <sub-title lang="pt">Amazônia</sub-title>
+    <desc lang="pt">No Parque Anavilhanas, Flavia encontra o Boto-cor-de-rosa, explora a floresta e conversa com moradores da Amazônia.</desc>
+    <length units="minutes">1560</length>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260221233900 -0300" stop="20260222000500 -0300" channel="Modo Viagem">
+    <title lang="pt">Biomas</title>
+    <sub-title lang="pt">Amazônia</sub-title>
+    <desc lang="pt">No Parque Anavilhanas, Flavia encontra o Boto-cor-de-rosa, explora a floresta e conversa com moradores da Amazônia.</desc>
+    <length units="minutes">1560</length>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260222000500 -0300" stop="20260222002700 -0300" channel="Modo Viagem">
@@ -149607,22 +149866,30 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222230900 -0300" stop="20260223000300 -0300" channel="Modo Viagem">
+  <programme start="20260222230900 -0300" stop="20260222233600 -0300" channel="Modo Viagem">
     <title lang="pt">Restaurantes Inesquecíveis</title>
     <sub-title lang="pt">Viva A Diferença</sub-title>
     <desc lang="pt">Restaurantes que fogem do lugar comum e mostram que, às vezes, o sucesso está onde menos se espera.</desc>
-    <length units="minutes">3240</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">1.24.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222230900 -0300" stop="20260223000300 -0300" channel="Modo Viagem">
-    <title lang="pt">Restaurantes Inesquecíveis</title>
-    <sub-title lang="pt">Viva A Diferença</sub-title>
-    <desc lang="pt">Restaurantes que fogem do lugar comum e mostram que, às vezes, o sucesso está onde menos se espera.</desc>
-    <length units="minutes">3240</length>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
+  <programme start="20260222233600 -0300" stop="20260223000300 -0300" channel="Modo Viagem">
+    <title lang="pt">A Vida É Uma Passagem</title>
+    <sub-title lang="pt">Vietnam 1 - Hanoi</sub-title>
+    <desc lang="pt">&quot;No primeiro episódio do Vietnã, Anne Bueno te leva para conhecer a capital do país, Hanoi, onde visita os principais pontos da cidade e ainda te mostra um hotel feito de ouro!&quot;</desc>
+    <length units="minutes">1620</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260222233600 -0300" stop="20260223000300 -0300" channel="Modo Viagem">
+    <title lang="pt">A Vida É Uma Passagem</title>
+    <sub-title lang="pt">Vietnam 1 - Hanoi</sub-title>
+    <desc lang="pt">&quot;No primeiro episódio do Vietnã, Anne Bueno te leva para conhecer a capital do país, Hanoi, onde visita os principais pontos da cidade e ainda te mostra um hotel feito de ouro!&quot;</desc>
+    <length units="minutes">1620</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151738,10 +152005,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221000102 -0300" stop="20260221004600 -0300" channel="OFF HD">
+  <programme start="20260221000000 -0300" stop="20260221004600 -0300" channel="OFF HD">
     <title lang="pt">Off Docs: João Nas Rodas Da Liberdade</title>
     <desc lang="pt">João Handbike, jovem nascido com mielominingocele, desafia-se a ser o primeiro cadeirante a atravessar os Lençóis Maranhenses.</desc>
-    <length units="minutes">2698</length>
+    <length units="minutes">2760</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151759,7 +152026,7 @@
     <sub-title lang="pt">Novo México</sub-title>
     <desc lang="pt">Marcela e Nelsinho chegam no Novo México, onde recebem amigos no ônibus pela primeira vez.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151769,7 +152036,7 @@
     <sub-title lang="pt">Arizona</sub-title>
     <desc lang="pt">Marcela e Nelsinho estão no Arizona, onde conhecem o famoso Monument Valley, lugar que tem um significado especial para um deles.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">21.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151808,7 +152075,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Tom Pidcock e Jolanda Neff testam a transição do ciclismo de estrada para o mountain bike.</desc>
     <length units="minutes">840</length>
-    <episode-num system="xmltv_ns">20..</episode-num>
+    <episode-num system="xmltv_ns">21..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151817,7 +152084,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Aaron Gwin, Neko Mulally e Seth Alvo mostram como é tocar a própria equipe.</desc>
     <length units="minutes">960</length>
-    <episode-num system="xmltv_ns">20.1.</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151906,7 +152173,7 @@
     <sub-title lang="pt">Liberdade Sob Rodas</sub-title>
     <desc lang="pt">Fernando Araújo, David Curty e Léo Almeida são 3 paraskatistas com deficiência visual. Eles contam sua forte ligação com o esporte enquanto mostram suas rotinas.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.5.</episode-num>
+    <episode-num system="xmltv_ns">21.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151925,7 +152192,7 @@
     <sub-title lang="pt">Desafios na Califórnia</sub-title>
     <desc lang="pt">Em Perris Valley, na Califórnia, Cani vai filmar 4 e 8 atletas. Filmar uma pessoa a mais de 300km/h já é difícil, imagina 4 ou 8? Grande desafio para Luigi!</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151971,7 +152238,7 @@
     <sub-title lang="pt">Bike Para Todes</sub-title>
     <desc lang="pt">Um grupo de ciclistas se encontram para um circuito pelo Parque Nacional da Tijuca,finalizando na Cachoeira do Horto.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151981,7 +152248,7 @@
     <sub-title lang="pt">Novo México</sub-title>
     <desc lang="pt">Marcela e Nelsinho chegam no Novo México, onde recebem amigos no ônibus pela primeira vez.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -151991,7 +152258,7 @@
     <sub-title lang="pt">Arizona</sub-title>
     <desc lang="pt">Marcela e Nelsinho estão no Arizona, onde conhecem o famoso Monument Valley, lugar que tem um significado especial para um deles.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">21.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152075,7 +152342,7 @@
     <sub-title lang="pt">Liberdade Sob Rodas</sub-title>
     <desc lang="pt">Fernando Araújo, David Curty e Léo Almeida são 3 paraskatistas com deficiência visual. Eles contam sua forte ligação com o esporte enquanto mostram suas rotinas.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.5.</episode-num>
+    <episode-num system="xmltv_ns">21.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152133,7 +152400,7 @@
     <sub-title lang="pt">A Costa da Ilha de Mauí</sub-title>
     <desc lang="pt">Sylvestre Campe e Kester Haynes estão em um antigo aeroporto na ilha de Big Island, no Havaí, onde fazem um último voo.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152143,7 +152410,7 @@
     <sub-title lang="pt">O Outro Lado de Mauí</sub-title>
     <desc lang="pt">Buscando lugares para poderem voar na ilha de Maui, Kester consegue levantar voo enquanto Sylvestre é impedido de decolar pelos moradores locais.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152153,7 +152420,7 @@
     <sub-title lang="pt">Novo México</sub-title>
     <desc lang="pt">Marcela e Nelsinho chegam no Novo México, onde recebem amigos no ônibus pela primeira vez.</desc>
     <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152163,7 +152430,7 @@
     <sub-title lang="pt">Arizona</sub-title>
     <desc lang="pt">Marcela e Nelsinho estão no Arizona, onde conhecem o famoso Monument Valley, lugar que tem um significado especial para um deles.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">21.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152177,22 +152444,32 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221231500 -0300" stop="20260222003600 -0300" channel="OFF HD">
+  <programme start="20260221231500 -0300" stop="20260221234100 -0300" channel="OFF HD">
     <title lang="pt">Skate Em Partes</title>
     <sub-title lang="pt">Amizade</sub-title>
     <desc lang="pt">A importância das amizades no universo do skate. Pra quem vive esse estilo de vida, os valores de companheirismo e respeito ao próximo são mais importantes que prêmios e troféus.</desc>
-    <length units="minutes">4860</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221231500 -0300" stop="20260222003600 -0300" channel="OFF HD">
-    <title lang="pt">Skate Em Partes</title>
-    <sub-title lang="pt">Amizade</sub-title>
-    <desc lang="pt">A importância das amizades no universo do skate. Pra quem vive esse estilo de vida, os valores de companheirismo e respeito ao próximo são mais importantes que prêmios e troféus.</desc>
-    <length units="minutes">4860</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20260221234100 -0300" stop="20260222003600 -0300" channel="OFF HD">
+    <title lang="pt">Aventura Em Foco</title>
+    <sub-title lang="pt">Pelas Lentes De Henry Fila</sub-title>
+    <desc lang="pt">O mergulhador e fotógrafo subaquático Henry Fila vai a Fernando de Noronha na busca de um sonho: produzir uma foto noturna, de longa exposição, nunca antes tentada.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260221234100 -0300" stop="20260222003600 -0300" channel="OFF HD">
+    <title lang="pt">Aventura Em Foco</title>
+    <sub-title lang="pt">Pelas Lentes De Henry Fila</sub-title>
+    <desc lang="pt">O mergulhador e fotógrafo subaquático Henry Fila vai a Fernando de Noronha na busca de um sonho: produzir uma foto noturna, de longa exposição, nunca antes tentada.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152211,7 +152488,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Tom Pidcock e Jolanda Neff testam a transição do ciclismo de estrada para o mountain bike.</desc>
     <length units="minutes">840</length>
-    <episode-num system="xmltv_ns">20..</episode-num>
+    <episode-num system="xmltv_ns">21..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152220,7 +152497,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Aaron Gwin, Neko Mulally e Seth Alvo mostram como é tocar a própria equipe.</desc>
     <length units="minutes">960</length>
-    <episode-num system="xmltv_ns">20.1.</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152230,7 +152507,7 @@
     <sub-title lang="pt">Alto Desempenho</sub-title>
     <desc lang="pt">O que está por trás do surfe de alto desempenho? Alguns dos principais shapers e surfistas falam como é possível alcançá-lo e como ele vem impactando a cultura do surfe.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152364,7 +152641,7 @@
     <sub-title lang="pt">A Costa da Ilha de Mauí</sub-title>
     <desc lang="pt">Sylvestre Campe e Kester Haynes estão em um antigo aeroporto na ilha de Big Island, no Havaí, onde fazem um último voo.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152374,7 +152651,7 @@
     <sub-title lang="pt">O Outro Lado de Mauí</sub-title>
     <desc lang="pt">Buscando lugares para poderem voar na ilha de Maui, Kester consegue levantar voo enquanto Sylvestre é impedido de decolar pelos moradores locais.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152487,7 +152764,7 @@
     <sub-title lang="pt">Alto Desempenho</sub-title>
     <desc lang="pt">O que está por trás do surfe de alto desempenho? Alguns dos principais shapers e surfistas falam como é possível alcançá-lo e como ele vem impactando a cultura do surfe.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152515,7 +152792,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Tom Pidcock e Jolanda Neff testam a transição do ciclismo de estrada para o mountain bike.</desc>
     <length units="minutes">840</length>
-    <episode-num system="xmltv_ns">20..</episode-num>
+    <episode-num system="xmltv_ns">21..</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152524,7 +152801,7 @@
     <title lang="pt">Race Tapes</title>
     <desc lang="pt">Aaron Gwin, Neko Mulally e Seth Alvo mostram como é tocar a própria equipe.</desc>
     <length units="minutes">960</length>
-    <episode-num system="xmltv_ns">20.1.</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152542,7 +152819,7 @@
     <sub-title lang="pt">Novo México</sub-title>
     <desc lang="pt">Marcela e Nelsinho chegam no Novo México, onde recebem amigos no ônibus pela primeira vez.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">20.10.</episode-num>
+    <episode-num system="xmltv_ns">21.10.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152552,7 +152829,7 @@
     <sub-title lang="pt">Arizona</sub-title>
     <desc lang="pt">Marcela e Nelsinho estão no Arizona, onde conhecem o famoso Monument Valley, lugar que tem um significado especial para um deles.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">20.11.</episode-num>
+    <episode-num system="xmltv_ns">21.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152571,7 +152848,7 @@
     <sub-title lang="pt">Desafios na Califórnia</sub-title>
     <desc lang="pt">Em Perris Valley, na Califórnia, Cani vai filmar 4 e 8 atletas. Filmar uma pessoa a mais de 300km/h já é difícil, imagina 4 ou 8? Grande desafio para Luigi!</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">19.2.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152609,7 +152886,7 @@
     <sub-title lang="pt">Bike Para Todes</sub-title>
     <desc lang="pt">Um grupo de ciclistas se encontram para um circuito pelo Parque Nacional da Tijuca,finalizando na Cachoeira do Horto.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -152639,25 +152916,36 @@
     <sub-title lang="pt">Alto Desempenho</sub-title>
     <desc lang="pt">O que está por trás do surfe de alto desempenho? Alguns dos principais shapers e surfistas falam como é possível alcançá-lo e como ele vem impactando a cultura do surfe.</desc>
     <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">22.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222231600 -0300" stop="20260223001400 -0300" channel="OFF HD">
+  <programme start="20260222231600 -0300" stop="20260222234500 -0300" channel="OFF HD">
     <title lang="pt">Julietti: O Chamado Do Monte Roraima</title>
     <sub-title lang="pt">Entre Rios E Pedras: Desafios Até O Campo Base</sub-title>
     <desc lang="pt">No segundo dia do trekking, Juliana, Guilherme e Ben enfrentam desafios críticos que colocal a expedição em risco, exigindo decições difícieis e a superação de seus limites.</desc>
-    <length units="minutes">3480</length>
+    <length units="minutes">1740</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222231600 -0300" stop="20260223001400 -0300" channel="OFF HD">
-    <title lang="pt">Julietti: O Chamado Do Monte Roraima</title>
-    <sub-title lang="pt">Entre Rios E Pedras: Desafios Até O Campo Base</sub-title>
-    <desc lang="pt">No segundo dia do trekking, Juliana, Guilherme e Ben enfrentam desafios críticos que colocal a expedição em risco, exigindo decições difícieis e a superação de seus limites.</desc>
-    <length units="minutes">3480</length>
+  <programme start="20260222234500 -0300" stop="20260223001400 -0300" channel="OFF HD">
+    <title lang="pt">Surfe Social Clube</title>
+    <sub-title lang="pt">Escola de Surfe de Paracuru, CE</sub-title>
+    <desc lang="pt">Gilvan Lima apresenta seu projeto, a &quot;Escola Paracuru de Surf&quot;, que além de ensinar o surfe para as crianças da região, incentiva nos estudos e oferece apoio social.</desc>
+    <length units="minutes">1740</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260222234500 -0300" stop="20260223001400 -0300" channel="OFF HD">
+    <title lang="pt">Surfe Social Clube</title>
+    <sub-title lang="pt">Escola de Surfe de Paracuru, CE</sub-title>
+    <desc lang="pt">Gilvan Lima apresenta seu projeto, a &quot;Escola Paracuru de Surf&quot;, que além de ensinar o surfe para as crianças da região, incentiva nos estudos e oferece apoio social.</desc>
+    <length units="minutes">1740</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -173370,11 +173658,17 @@
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221150000 -0300" stop="20260221181000 -0300" channel="SPORTV 2">
+  <programme start="20260221150000 -0300" stop="20260221160000 -0300" channel="SPORTV 2">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Bobsled - ao vivo</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">11400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260221160000 -0300" stop="20260221181000 -0300" channel="SPORTV 2">
+    <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: …</title>
+    <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260221181000 -0300" stop="20260221193000 -0300" channel="SPORTV 2">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Hóquei No …</title>
@@ -173388,17 +173682,23 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260221213000 -0300" stop="20260222013000 -0300" channel="SPORTV 2">
+  <programme start="20260221213000 -0300" stop="20260221233000 -0300" channel="SPORTV 2">
     <title lang="pt">Superliga Masculina De Vôlei: Campinas x Minas - ao vivo</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260221213000 -0300" stop="20260222013000 -0300" channel="SPORTV 2">
-    <title lang="pt">Superliga Masculina De Vôlei: Campinas x Minas - ao vivo</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260221233000 -0300" stop="20260222013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Diário De …</title>
+    <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260221233000 -0300" stop="20260222013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Diário De …</title>
+    <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260222013000 -0300" stop="20260222033000 -0300" channel="SPORTV 2">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Diário De …</title>
@@ -173754,33 +174054,10 @@
     <length units="minutes">21600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260221000000 -0300" stop="20260221023000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Rio Open</title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">tennis/squash</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260221023000 -0300" stop="20260221050000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Rio Open</title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">tennis/squash</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260221050000 -0300" stop="20260221070000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Rio Open</title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">tennis/squash</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260221070000 -0300" stop="20260221093000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Rio Open</title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">tennis/squash</category>
-    <previously-shown/>
+  <programme start="20260221000000 -0300" stop="20260221093000 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">34200</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260221093000 -0300" stop="20260221133000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
@@ -173791,22 +174068,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221133000 -0300" stop="20260221141500 -0300" channel="SPORTV 3">
-    <title lang="pt">Sessão Sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260221133000 -0300" stop="20260221140000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão sportv: A Máfia Do Apito</title>
+    <desc lang="pt">Edílson Pereira de Carvalho, árbitro talentoso, alcança o auge nos anos 2000, mas se envolve em esquema de manipulação de jogos por dinheiro.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20260221141500 -0300" stop="20260221163000 -0300" channel="SPORTV 3">
-    <title lang="pt">RB Leipzig x Borussia Dortmund - ao vivo</title>
-    <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260221163000 -0300" stop="20260221170000 -0300" channel="SPORTV 3">
+  <programme start="20260221140000 -0300" stop="20260221170000 -0300" channel="SPORTV 3">
     <title lang="pt">Rio Open - ao vivo</title>
     <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260221170000 -0300" stop="20260221200000 -0300" channel="SPORTV 3">
@@ -173816,19 +174088,18 @@
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260221200000 -0300" stop="20260221220000 -0300" channel="SPORTV 3">
+  <programme start="20260221200000 -0300" stop="20260221233000 -0300" channel="SPORTV 3">
     <title lang="pt">Rio Open - ao vivo</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">12600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222000000 -0300" channel="SPORTV 3">
-    <title lang="pt">Rio Open Duplas - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260221233000 -0300" stop="20260222000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Vozes: Galvão Bueno - Prata - Jogos Olímpicos Sydney 2000</title>
+    <desc lang="pt">A primeira Olimpíada de Galvão Bueno como narrador foi a de 1984, em Los Angeles, Estados Unidos. Desde então, ele trabalhou em outros sete Jogos Olímpicos.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260222000000 -0300" stop="20260222030000 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Rio Open</title>
@@ -173838,19 +174109,24 @@
     <category lang="en">tennis/squash</category>
     <previously-shown/>
   </programme>
-  <programme start="20260222030000 -0300" stop="20260222050000 -0300" channel="SPORTV 3">
+  <programme start="20260222030000 -0300" stop="20260222060000 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Rio Open</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">10800</length>
     <category lang="en">tennis/squash</category>
     <previously-shown/>
   </programme>
-  <programme start="20260222050000 -0300" stop="20260222070000 -0300" channel="SPORTV 3">
-    <title lang="pt">Rio Open Duplas</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260222060000 -0300" stop="20260222063000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas Maria Esther Bueno</title>
+    <desc lang="pt">Neste episódio do Lendas, do Baú do Esporte, relembre detalhes da incrível carreira da tenista brasileira mais vitoriosa e talentosa de todos os tempos: Maria Esther Bueno.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260222063000 -0300" stop="20260222070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas: Agassi</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260222070000 -0300" stop="20260222073000 -0300" channel="SPORTV 3">
@@ -173860,12 +174136,17 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20260222073000 -0300" stop="20260222093000 -0300" channel="SPORTV 3">
-    <title lang="pt">NBB: Flamengo x Bauru</title>
-    <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260222073000 -0300" stop="20260222085000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">4800</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+  </programme>
+  <programme start="20260222085000 -0300" stop="20260222093000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260222093000 -0300" stop="20260222133000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
@@ -173885,58 +174166,41 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222134000 -0300" stop="20260222140000 -0300" channel="SPORTV 3">
-    <title lang="pt">Sessão Sportv: Ginástica Artística</title>
-    <desc lang="pt">Fome De Medalha - Ginástica Artística</desc>
-    <length units="minutes">1200</length>
-    <category lang="en">sports (general)</category>
+  <programme start="20260222134000 -0300" stop="20260222170000 -0300" channel="SPORTV 3">
+    <title lang="pt">Rio Open - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">12000</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260222140000 -0300" stop="20260222143000 -0300" channel="SPORTV 3">
-    <title lang="pt">Faixa Olímpica: Lendas Olímpicas: Ep04 - Nadia Comaneci</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260222143000 -0300" stop="20260222150000 -0300" channel="SPORTV 3">
-    <title lang="pt">Lendas: Agassi</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260222150000 -0300" stop="20260222170000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Rio Open</title>
-    <sub-title lang="pt">Semifinal</sub-title>
+  <programme start="20260222170000 -0300" stop="20260222200000 -0300" channel="SPORTV 3">
+    <title lang="pt">Rio Open - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222200000 -0300" stop="20260222220000 -0300" channel="SPORTV 3">
+    <title lang="pt">Brasil x Argentina- Fase - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Acompanhe aqui no sportv o Campeonato Sul-Americano Feminino de Futebol Sub-20. As maiores seleções em busca da classificação para a Copa do Mundo de Futebol Feminino Sub-20.</desc>
     <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222220000 -0300" stop="20260223010000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Rio Open</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">tennis/squash</category>
     <previously-shown/>
   </programme>
-  <programme start="20260222170000 -0300" stop="20260222173000 -0300" channel="SPORTV 3">
-    <title lang="pt">Rio Open - ao vivo</title>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260222173000 -0300" stop="20260222200000 -0300" channel="SPORTV 3">
-    <title lang="pt">Rio Open - ao vivo</title>
+  <programme start="20260222220000 -0300" stop="20260223010000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Rio Open</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260222200000 -0300" stop="20260223010000 -0300" channel="SPORTV 3">
-    <title lang="pt">Brasil x Argentina- Fase - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Acompanhe aqui no sportv o Campeonato Sul-Americano Feminino de Futebol Sub-20. As maiores seleções em busca da classificação para a Copa do Mundo de Futebol Feminino Sub-20.</desc>
-    <length units="minutes">18000</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260222200000 -0300" stop="20260223010000 -0300" channel="SPORTV 3">
-    <title lang="pt">Brasil x Argentina- Fase - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Acompanhe aqui no sportv o Campeonato Sul-Americano Feminino de Futebol Sub-20. As maiores seleções em busca da classificação para a Copa do Mundo de Futebol Feminino Sub-20.</desc>
-    <length units="minutes">18000</length>
-    <category lang="en">live broadcast</category>
+    <length units="minutes">10800</length>
+    <category lang="en">tennis/squash</category>
+    <previously-shown/>
   </programme>
   <programme start="20260223010000 -0300" stop="20260223030000 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Rio Open</title>
@@ -174221,20 +174485,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222021500 -0300" channel="STUDIO UNIVERSAL HD">
+  <programme start="20260221210000 -0300" stop="20260221234000 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Batman: O Cavaleiro das Trevas</title>
     <desc lang="pt">Quando o Coringa mergulha Gotham no caos, Batman enfrenta seu maior dilema: até onde ir para deter o mal sem se tornar parte dele?</desc>
-    <length units="minutes">18900</length>
+    <length units="minutes">9600</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222021500 -0300" channel="STUDIO UNIVERSAL HD">
-    <title lang="pt">Batman: O Cavaleiro das Trevas</title>
-    <desc lang="pt">Quando o Coringa mergulha Gotham no caos, Batman enfrenta seu maior dilema: até onde ir para deter o mal sem se tornar parte dele?</desc>
-    <length units="minutes">18900</length>
+  <programme start="20260221234000 -0300" stop="20260222021500 -0300" channel="STUDIO UNIVERSAL HD">
+    <title lang="pt">A Origem</title>
+    <desc lang="pt">Em um mundo onde a tecnologia é usada para vasculhar a mente humana através da invasão dos sonhos, um ladrão altamente qualificado tem sua chance final de redenção.</desc>
+    <length units="minutes">9300</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221234000 -0300" stop="20260222021500 -0300" channel="STUDIO UNIVERSAL HD">
+    <title lang="pt">A Origem</title>
+    <desc lang="pt">Em um mundo onde a tecnologia é usada para vasculhar a mente humana através da invasão dos sonhos, um ladrão altamente qualificado tem sua chance final de redenção.</desc>
+    <length units="minutes">9300</length>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260222021500 -0300" stop="20260222050000 -0300" channel="STUDIO UNIVERSAL HD">
@@ -174306,20 +174578,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222182000 -0300" stop="20260223001000 -0300" channel="STUDIO UNIVERSAL HD">
+  <programme start="20260222182000 -0300" stop="20260222210000 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Tenet</title>
     <desc lang="pt">Armado com apenas uma palavra - Tenet - e lutando pela sobrevivência de todo o mundo, o protagonista viaja por um mundo crepuscular de espionagem internacional em uma missão que se desdobra em algo</desc>
-    <length units="minutes">21000</length>
+    <length units="minutes">9600</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222182000 -0300" stop="20260223001000 -0300" channel="STUDIO UNIVERSAL HD">
-    <title lang="pt">Tenet</title>
-    <desc lang="pt">Armado com apenas uma palavra - Tenet - e lutando pela sobrevivência de todo o mundo, o protagonista viaja por um mundo crepuscular de espionagem internacional em uma missão que se desdobra em algo</desc>
-    <length units="minutes">21000</length>
+  <programme start="20260222210000 -0300" stop="20260223001000 -0300" channel="STUDIO UNIVERSAL HD">
+    <title lang="pt">Oppenheimer</title>
+    <desc lang="pt">A história do cientista americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.</desc>
+    <length units="minutes">11400</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260222210000 -0300" stop="20260223001000 -0300" channel="STUDIO UNIVERSAL HD">
+    <title lang="pt">Oppenheimer</title>
+    <desc lang="pt">A história do cientista americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.</desc>
+    <length units="minutes">11400</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260223001000 -0300" stop="20260223021000 -0300" channel="STUDIO UNIVERSAL HD">
@@ -178801,20 +179081,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222015000 -0300" channel="TELECINE ACTION">
+  <programme start="20260221220000 -0300" stop="20260221235500 -0300" channel="TELECINE ACTION">
     <title lang="pt">Halloween Kills: O Terror Continua</title>
     <desc lang="pt">As vítimas sobreviventes de Michael Myers formam uma multidão de vigilantes e prometem acabar com seu reinado de terror depois que descobrem que ele ainda está vivo.</desc>
-    <length units="minutes">13800</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222015000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Halloween Kills: O Terror Continua</title>
-    <desc lang="pt">As vítimas sobreviventes de Michael Myers formam uma multidão de vigilantes e prometem acabar com seu reinado de terror depois que descobrem que ele ainda está vivo.</desc>
-    <length units="minutes">13800</length>
+  <programme start="20260221235500 -0300" stop="20260222015000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">A Profissional</title>
+    <desc lang="pt">Resgatada na infância, Anna foi treinada por um sujeito para ser a assassina profissional mais habilidosa do mundo. Quando o homem é assassinado, ela busca vingança.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221235500 -0300" stop="20260222015000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">A Profissional</title>
+    <desc lang="pt">Resgatada na infância, Anna foi treinada por um sujeito para ser a assassina profissional mais habilidosa do mundo. Quando o homem é assassinado, ela busca vingança.</desc>
+    <length units="minutes">6900</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260222015000 -0300" stop="20260222035500 -0300" channel="TELECINE ACTION">
@@ -178897,18 +179185,26 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223014000 -0300" channel="TELECINE ACTION">
+  <programme start="20260222220000 -0300" stop="20260222235000 -0300" channel="TELECINE ACTION">
     <title lang="pt">Programa Duplo: A Força Em Alerta 2</title>
     <desc lang="pt">Durante uma viagem com a sobrinha, terroristas sequestram o trem em que está o militar Casey Ryback. Agora, ele deve lutar sozinho para evitar que um atentado destrua a Costa Leste do país.</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223014000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Programa Duplo: A Força Em Alerta 2</title>
-    <desc lang="pt">Durante uma viagem com a sobrinha, terroristas sequestram o trem em que está o militar Casey Ryback. Agora, ele deve lutar sozinho para evitar que um atentado destrua a Costa Leste do país.</desc>
-    <length units="minutes">13200</length>
+  <programme start="20260222235000 -0300" stop="20260223014000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Até O Limite</title>
+    <desc lang="pt">Num dia normal de trabalho, o locutor de rádio Elvis Cooney recebe a ligação de um homem que promete matar sua família. Para salvá-los, Elvis inicia uma busca frenética para impedir o criminoso.</desc>
+    <length units="minutes">6600</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222235000 -0300" stop="20260223014000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Até O Limite</title>
+    <desc lang="pt">Num dia normal de trabalho, o locutor de rádio Elvis Cooney recebe a ligação de um homem que promete matar sua família. Para salvá-los, Elvis inicia uma busca frenética para impedir o criminoso.</desc>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -179289,20 +179585,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221202000 -0300" stop="20260222002500 -0300" channel="TELECINE CULT">
+  <programme start="20260221202000 -0300" stop="20260221220000 -0300" channel="TELECINE CULT">
     <title lang="pt">O Estranho</title>
     <desc lang="pt">O detetive Wilson viaja para Connecticut atrás de um criminoso nazista. Lá, Charles Rankin e sua esposa vivem uma vida perfeita, mas a chegada do detetive pode trazer um passado sombrio à tona.</desc>
-    <length units="minutes">14700</length>
+    <length units="minutes">6000</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260221202000 -0300" stop="20260222002500 -0300" channel="TELECINE CULT">
-    <title lang="pt">O Estranho</title>
-    <desc lang="pt">O detetive Wilson viaja para Connecticut atrás de um criminoso nazista. Lá, Charles Rankin e sua esposa vivem uma vida perfeita, mas a chegada do detetive pode trazer um passado sombrio à tona.</desc>
-    <length units="minutes">14700</length>
+  <programme start="20260221220000 -0300" stop="20260222002500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Laranja Mecânica</title>
+    <desc lang="pt">Após noites de ultraviolência com sua gangue, o jovem Alexander DeLarge é capturado e submetido a um controverso experimento de reabilitação pelo Estado.</desc>
+    <length units="minutes">8700</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221220000 -0300" stop="20260222002500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Laranja Mecânica</title>
+    <desc lang="pt">Após noites de ultraviolência com sua gangue, o jovem Alexander DeLarge é capturado e submetido a um controverso experimento de reabilitação pelo Estado.</desc>
+    <length units="minutes">8700</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260222002500 -0300" stop="20260222022500 -0300" channel="TELECINE CULT">
@@ -179396,20 +179700,28 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260222200500 -0300" stop="20260223004500 -0300" channel="TELECINE CULT">
+  <programme start="20260222200500 -0300" stop="20260222220000 -0300" channel="TELECINE CULT">
     <title lang="pt">M, o Vampiro de Dusseldorf</title>
     <desc lang="pt">Um serial killer de crianças deixa a população de Dusseldorf em alerta. Quando a polícia não consegue encontrá-lo, outros criminosos decidem ajudar na busca do assassino.</desc>
-    <length units="minutes">16800</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222200500 -0300" stop="20260223004500 -0300" channel="TELECINE CULT">
-    <title lang="pt">M, o Vampiro de Dusseldorf</title>
-    <desc lang="pt">Um serial killer de crianças deixa a população de Dusseldorf em alerta. Quando a polícia não consegue encontrá-lo, outros criminosos decidem ajudar na busca do assassino.</desc>
-    <length units="minutes">16800</length>
+  <programme start="20260222220000 -0300" stop="20260223004500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Zodíaco</title>
+    <desc lang="pt">Nos anos 60 e 70, o terror toma conta de São Francisco quando um assassino infame chamado Zodíaco desafia autoridades com crimes brutais e mensagens enigmáticas.</desc>
+    <length units="minutes">9900</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260222220000 -0300" stop="20260223004500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Zodíaco</title>
+    <desc lang="pt">Nos anos 60 e 70, o terror toma conta de São Francisco quando um assassino infame chamado Zodíaco desafia autoridades com crimes brutais e mensagens enigmáticas.</desc>
+    <length units="minutes">9900</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260223004500 -0300" stop="20260223030000 -0300" channel="TELECINE CULT">
@@ -179789,20 +180101,28 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222014000 -0300" channel="TELECINE FUN">
+  <programme start="20260221220000 -0300" stop="20260221234500 -0300" channel="TELECINE FUN">
     <title lang="pt">O Professor Aloprado</title>
     <desc lang="pt">Sherman é um professor de genética que descobre uma maneira de reduzir o peso. Quando se apaixona pela nova professora, testa a fórmula e cria uma nova personalidade.</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222014000 -0300" channel="TELECINE FUN">
-    <title lang="pt">O Professor Aloprado</title>
-    <desc lang="pt">Sherman é um professor de genética que descobre uma maneira de reduzir o peso. Quando se apaixona pela nova professora, testa a fórmula e cria uma nova personalidade.</desc>
-    <length units="minutes">13200</length>
+  <programme start="20260221234500 -0300" stop="20260222014000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Os Farofeiros</title>
+    <desc lang="pt">Quatro colegas de trabalho decidem passar o feriado numa casa de praia. Lá, eles descobrem que o lugar está caindo aos pedaços e o momento de descanso traz muitas confusões.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260221234500 -0300" stop="20260222014000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Os Farofeiros</title>
+    <desc lang="pt">Quatro colegas de trabalho decidem passar o feriado numa casa de praia. Lá, eles descobrem que o lugar está caindo aos pedaços e o momento de descanso traz muitas confusões.</desc>
+    <length units="minutes">6900</length>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260222014000 -0300" stop="20260222031500 -0300" channel="TELECINE FUN">
@@ -179909,18 +180229,26 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223013000 -0300" channel="TELECINE FUN">
+  <programme start="20260222220000 -0300" stop="20260222234500 -0300" channel="TELECINE FUN">
     <title lang="pt">Dolittle</title>
     <desc lang="pt">Dr. Dolittle vive cercado por animais com os quais consegue se comunicar. Ao visitar a rainha Vitória doente, embarca numa aventura pelos mares para encontrar a cura.</desc>
-    <length units="minutes">12600</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223013000 -0300" channel="TELECINE FUN">
-    <title lang="pt">Dolittle</title>
-    <desc lang="pt">Dr. Dolittle vive cercado por animais com os quais consegue se comunicar. Ao visitar a rainha Vitória doente, embarca numa aventura pelos mares para encontrar a cura.</desc>
-    <length units="minutes">12600</length>
+  <programme start="20260222234500 -0300" stop="20260223013000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Dennis, o Pimentinha</title>
+    <desc lang="pt">Dennis vive irritando o Sr. Wilson, mas quando moedas somem e um andarilho suspeito aparece, só suas travessuras podem salvar o dia.</desc>
+    <length units="minutes">6300</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260222234500 -0300" stop="20260223013000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Dennis, o Pimentinha</title>
+    <desc lang="pt">Dennis vive irritando o Sr. Wilson, mas quando moedas somem e um andarilho suspeito aparece, só suas travessuras podem salvar o dia.</desc>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -180359,22 +180687,29 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222012500 -0300" channel="TELECINE PIPOCA">
+  <programme start="20260221220000 -0300" stop="20260221235000 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">John Wick - De Ao Jogo</title>
     <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">John Wick é um ex-assassino profissional que está lidando com o luto após perder sua esposa. Mas, quando invadem sua casa e matam seu cachorro, ele se vê obrigado a voltar à ativa para se vingar.</desc>
-    <length units="minutes">12300</length>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222012500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">John Wick - De Ao Jogo</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">John Wick é um ex-assassino profissional que está lidando com o luto após perder sua esposa. Mas, quando invadem sua casa e matam seu cachorro, ele se vê obrigado a voltar à ativa para se vingar.</desc>
-    <length units="minutes">12300</length>
+  <programme start="20260221235000 -0300" stop="20260222012500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Meu Pai é um Perigo</title>
+    <desc lang="pt">Sebastian e seu pai, Salvo, um imigrante italiano, vão passar um tempo com a família de Ellie, sua namorada americana.</desc>
+    <length units="minutes">5700</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260221235000 -0300" stop="20260222012500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Meu Pai é um Perigo</title>
+    <desc lang="pt">Sebastian e seu pai, Salvo, um imigrante italiano, vão passar um tempo com a família de Ellie, sua namorada americana.</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260222012500 -0300" stop="20260222030500 -0300" channel="TELECINE PIPOCA">
@@ -180457,20 +180792,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222214500 -0300" stop="20260223012500 -0300" channel="TELECINE PIPOCA">
+  <programme start="20260222214500 -0300" stop="20260222233500 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">O Corvo</title>
     <desc lang="pt">Eric e Shelly se conhecem em uma clínica de reabilitação e se apaixonam.</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260222214500 -0300" stop="20260223012500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">O Corvo</title>
-    <desc lang="pt">Eric e Shelly se conhecem em uma clínica de reabilitação e se apaixonam.</desc>
-    <length units="minutes">13200</length>
+  <programme start="20260222233500 -0300" stop="20260223012500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <desc lang="pt">Milton retorna do Inferno para resgatar sua neta da mesma seita que matou sua filha. Desesperado, ele tem até a noite de lua cheia para impedir o ritual.</desc>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260222233500 -0300" stop="20260223012500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <desc lang="pt">Milton retorna do Inferno para resgatar sua neta da mesma seita que matou sua filha. Desesperado, ele tem até a noite de lua cheia para impedir o ritual.</desc>
+    <length units="minutes">6600</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260223012500 -0300" stop="20260223031000 -0300" channel="TELECINE PIPOCA">
@@ -180874,20 +181217,28 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222013500 -0300" channel="TELECINE PREMIUM">
+  <programme start="20260221220000 -0300" stop="20260221234500 -0300" channel="TELECINE PREMIUM">
     <title lang="pt">Sessão Superestreia: O Ritual</title>
     <desc lang="pt">Dois padres, um em crise de fé e outro assombrado pelo passado, precisam unir forças para realizar um exorcismo arriscado.</desc>
-    <length units="minutes">12900</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222013500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Sessão Superestreia: O Ritual</title>
-    <desc lang="pt">Dois padres, um em crise de fé e outro assombrado pelo passado, precisam unir forças para realizar um exorcismo arriscado.</desc>
-    <length units="minutes">12900</length>
+  <programme start="20260221234500 -0300" stop="20260222013500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Silêncio da Vingança</title>
+    <desc lang="pt">Na véspera de Natal, um pai perde o filho em um tiroteio. Ferido e sem voz, ele transforma sua dor em força e busca vingança a qualquer custo.</desc>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260221234500 -0300" stop="20260222013500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Silêncio da Vingança</title>
+    <desc lang="pt">Na véspera de Natal, um pai perde o filho em um tiroteio. Ferido e sem voz, ele transforma sua dor em força e busca vingança a qualquer custo.</desc>
+    <length units="minutes">6600</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260222013500 -0300" stop="20260222033500 -0300" channel="TELECINE PREMIUM">
@@ -180986,20 +181337,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223015500 -0300" channel="TELECINE PREMIUM">
+  <programme start="20260222220000 -0300" stop="20260222234500 -0300" channel="TELECINE PREMIUM">
     <title lang="pt">Quarto do Pânico</title>
     <desc lang="pt">Adaptação brasileira de Panic Room: mãe e filha se trancam no quarto secreto ao terem a casa invadida por criminosos que procuram algo guardado ali.</desc>
-    <length units="minutes">14100</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260222220000 -0300" stop="20260223015500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Quarto do Pânico</title>
-    <desc lang="pt">Adaptação brasileira de Panic Room: mãe e filha se trancam no quarto secreto ao terem a casa invadida por criminosos que procuram algo guardado ali.</desc>
-    <length units="minutes">14100</length>
+  <programme start="20260222234500 -0300" stop="20260223015500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Os Enforcados</title>
+    <desc lang="pt">Em um Rio de Janeiro dominado pelo crime, Valério e Regina executam um plano arriscado e acabam presos numa teia de dívidas, traições e violência crescente.</desc>
+    <length units="minutes">7800</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[18]</value>
+    </rating>
+  </programme>
+  <programme start="20260222234500 -0300" stop="20260223015500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Os Enforcados</title>
+    <desc lang="pt">Em um Rio de Janeiro dominado pelo crime, Valério e Regina executam um plano arriscado e acabam presos numa teia de dívidas, traições e violência crescente.</desc>
+    <length units="minutes">7800</length>
+    <rating system="Brazil">
+      <value>[18]</value>
     </rating>
   </programme>
   <programme start="20260223015500 -0300" stop="20260223041000 -0300" channel="TELECINE PREMIUM">
@@ -181491,20 +181850,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222194500 -0300" stop="20260223004000 -0300" channel="TELECINE TOUCH">
+  <programme start="20260222194500 -0300" stop="20260222220000 -0300" channel="TELECINE TOUCH">
     <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
     <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
-    <length units="minutes">17700</length>
+    <length units="minutes">8100</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260222194500 -0300" stop="20260223004000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
-    <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
-    <length units="minutes">17700</length>
+  <programme start="20260222220000 -0300" stop="20260223004000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Regresso</title>
+    <desc lang="pt">Em 1822, durante uma expedição, Hugh Glass e seu filho são atacados por um urso e abandonados por seus colegas. Ele consegue sobreviver e inicia uma intensa e desafiadora busca por vingança.</desc>
+    <length units="minutes">9600</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260222220000 -0300" stop="20260223004000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Regresso</title>
+    <desc lang="pt">Em 1822, durante uma expedição, Hugh Glass e seu filho são atacados por um urso e abandonados por seus colegas. Ele consegue sobreviver e inicia uma intensa e desafiadora busca por vingança.</desc>
+    <length units="minutes">9600</length>
+    <rating system="Brazil">
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260223004000 -0300" stop="20260223024500 -0300" channel="TELECINE TOUCH">
@@ -213865,7 +214232,7 @@
     <sub-title lang="pt">Não posso fazê-lo</sub-title>
     <desc lang="pt">Harvey sai da sua especialidade para aceitar o caso de uma cliente com uma ligação especial à firma. Mike e Zane trabalham juntos, mas discordam sobre o que é uma vitória.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213875,7 +214242,7 @@
     <sub-title lang="pt">Frente a frente</sub-title>
     <desc lang="pt">Quando o rival de Harvey, Travis Tanner, aparece do outro lado de um caso afirmando ser um homem mudado, Harvey e Mike devem decidir se acreditam nele - ou se vão acabar com ele.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">19.5.</episode-num>
+    <episode-num system="xmltv_ns">21.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213885,7 +214252,7 @@
     <sub-title lang="pt">Privilégio</sub-title>
     <desc lang="pt">Harvey, abalado pela revelação de Dr. Agard sobre suas crises de pânico, precisa tomar uma decisão pessoal difícil em um caso que o afeta profundamente.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="xmltv_ns">21.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213895,7 +214262,7 @@
     <sub-title lang="pt">Sensação Familiar</sub-title>
     <desc lang="pt">Donna e Harvey tentam fazer sua amizade voltar ao normal. Esther Litt volta para resolver um problema discretamente, mas Louis raramente resolve as coisas discretamente.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">19.7.</episode-num>
+    <episode-num system="xmltv_ns">21.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213905,7 +214272,7 @@
     <sub-title lang="pt">Mea Culpa</sub-title>
     <desc lang="pt">Jessica tenta controlar os danos depois que Harvey dá um soco em Louis, enquanto Jack Soloff e Daniel Hardman procuram uma fraqueza para explorar.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">20.8.</episode-num>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213915,7 +214282,7 @@
     <sub-title lang="pt">Visitantes não Convidados</sub-title>
     <desc lang="pt">Rachel e sua mãe planejam o casamento dos sonhos de Rachel, mas ela teme que o evento possa fazer com que o segredo de Mike seja revelado.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">20.9.</episode-num>
+    <episode-num system="xmltv_ns">21.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
