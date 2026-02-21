@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-21 14:31:07" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-21 17:31:12" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11848,14 +11848,26 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260223230000 -0300" stop="20260224020000 -0300" channel="BAND HD">
-    <title lang="pt">Band Folia</title>
-    <desc lang="pt">A cobertura mais animada do carnaval brasileiro.</desc>
-    <length units="minutes">10800</length>
+  <programme start="20260223233000 -0300" stop="20260224003000 -0300" channel="BAND HD">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">O programa que acompanha a rotina dos homens e mulheres que dedicam suas vidas para defender a população.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">23.54.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260224003000 -0300" stop="20260224011500 -0300" channel="BAND HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">80.55.</episode-num>
+  </programme>
+  <programme start="20260224011500 -0300" stop="20260224020000 -0300" channel="BAND HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">81.55.</episode-num>
   </programme>
   <programme start="20260224020000 -0300" stop="20260224040000 -0300" channel="BAND HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
@@ -11946,7 +11958,7 @@
   </programme>
   <programme start="20260224203000 -0300" stop="20260224212500 -0300" channel="BAND HD">
     <title lang="pt">Cruel Istambul</title>
-    <desc lang="pt">Nedim conta para Agah que sabe que ele não é culpado. Nedim manda Ceren ficar longe dele. Damla implora pela presença de Agah. Nurtem convence a filha a ficar na mansão. Civan cuida de Damla.</desc>
+    <desc lang="pt">Seher vive em Istambul com três filhos. A reunião de Seher e Agah afetará a vida de todos.</desc>
     <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">80.55.</episode-num>
     <rating system="Brazil">
@@ -11962,29 +11974,44 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260224222000 -0300" stop="20260224230000 -0300" channel="BAND HD">
+  <programme start="20260224222000 -0300" stop="20260224223000 -0300" channel="BAND HD">
+    <title lang="pt">A Prévia</title>
+    <desc lang="pt">Os preparativos para o programa MasterChef, que descobre novos talentos da culinária brasileira.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">22.55.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260224223000 -0300" stop="20260225000500 -0300" channel="BAND HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <desc lang="pt">O exigente chef Erick Jaquin comanda o reality que dá consultoria aos restaurantes participantes. Com orientação ou broncas.</desc>
+    <length units="minutes">5700</length>
+    <episode-num system="xmltv_ns">22.55.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260224223000 -0300" stop="20260225000500 -0300" channel="BAND HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <desc lang="pt">O exigente chef Erick Jaquin comanda o reality que dá consultoria aos restaurantes participantes. Com orientação ou broncas.</desc>
+    <length units="minutes">5700</length>
+    <episode-num system="xmltv_ns">22.55.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260225000500 -0300" stop="20260225010000 -0300" channel="BAND HD">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">82.55.</episode-num>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">80.56.</episode-num>
   </programme>
-  <programme start="20260224230000 -0300" stop="20260225020000 -0300" channel="BAND HD">
-    <title lang="pt">Band Folia</title>
-    <desc lang="pt">A cobertura mais animada do carnaval brasileiro.</desc>
-    <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">23.55.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260224230000 -0300" stop="20260225020000 -0300" channel="BAND HD">
-    <title lang="pt">Band Folia</title>
-    <desc lang="pt">A cobertura mais animada do carnaval brasileiro.</desc>
-    <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">23.55.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
+  <programme start="20260225010000 -0300" stop="20260225020000 -0300" channel="BAND HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.56.</episode-num>
   </programme>
   <programme start="20260225020000 -0300" stop="20260225040000 -0300" channel="BAND HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
@@ -12075,7 +12102,7 @@
   </programme>
   <programme start="20260225203000 -0300" stop="20260225212500 -0300" channel="BAND HD">
     <title lang="pt">Cruel Istambul</title>
-    <desc lang="pt">Cenk briga com Nedim. Nedim vai terminar seus negócios. Seher se preocupa com Civan. Cemre e Ceren discutem sobre segredos de família e Damla ouve. Damla conta para Civan sobre a conversa com Seher.</desc>
+    <desc lang="pt">Seher vive em Istambul com três filhos. A reunião de Seher e Agah afetará a vida de todos.</desc>
     <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">80.56.</episode-num>
     <rating system="Brazil">
@@ -12091,16 +12118,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260225222000 -0300" stop="20260225224500 -0300" channel="BAND HD">
+  <programme start="20260225222000 -0300" stop="20260225223000 -0300" channel="BAND HD">
     <title lang="pt">Perrengue do Dia</title>
     <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">600</length>
     <episode-num system="xmltv_ns">22.56.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260225224500 -0300" stop="20260226000000 -0300" channel="BAND HD">
+  <programme start="20260225223000 -0300" stop="20260225234500 -0300" channel="BAND HD">
     <title lang="pt">Melhor da Noite</title>
     <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
     <length units="minutes">4500</length>
@@ -12108,6 +12135,12 @@
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20260225234500 -0300" stop="20260226005000 -0300" channel="BAND HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">83.56.</episode-num>
   </programme>
   <programme start="20260221000000 -0300" stop="20260221020000 -0300" channel="BAND NEWS">
     <title lang="pt">Jornal da Noite</title>
@@ -101566,16 +101599,13 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260221190000 -0300" stop="20260221193000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260221193000 -0300" stop="20260221200000 -0300" channel="GE TV HD">
-    <title lang="pt">Rio Open - ao vivo</title>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260221190000 -0300" stop="20260221200000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação GE TV</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260221200000 -0300" stop="20260221220000 -0300" channel="GE TV HD">
     <title lang="pt">Rio Open - ao vivo</title>
@@ -101584,25 +101614,35 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222003500 -0300" channel="GE TV HD">
+  <programme start="20260221220000 -0300" stop="20260221225500 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Esqui Alpino …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">9300</length>
+    <length units="minutes">3300</length>
   </programme>
-  <programme start="20260221220000 -0300" stop="20260222003500 -0300" channel="GE TV HD">
+  <programme start="20260221225500 -0300" stop="20260222003500 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Esqui Alpino …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">9300</length>
+    <length units="minutes">6000</length>
+  </programme>
+  <programme start="20260221225500 -0300" stop="20260222003500 -0300" channel="GE TV HD">
+    <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Esqui Alpino …</title>
+    <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
+    <length units="minutes">6000</length>
   </programme>
   <programme start="20260222003500 -0300" stop="20260222021500 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Snowboard - …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
     <length units="minutes">6000</length>
   </programme>
-  <programme start="20260222021500 -0300" stop="20260222040000 -0300" channel="GE TV HD">
+  <programme start="20260222021500 -0300" stop="20260222031000 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Esqui Alpino …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">3300</length>
+  </programme>
+  <programme start="20260222031000 -0300" stop="20260222040000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 8</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3000</length>
   </programme>
   <programme start="20260222040000 -0300" stop="20260222043500 -0300" channel="GE TV HD">
     <title lang="pt">Sem Bloqueio</title>
@@ -101631,21 +101671,39 @@
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
     <length units="minutes">8100</length>
   </programme>
-  <programme start="20260222091500 -0300" stop="20260222104000 -0300" channel="GE TV HD">
+  <programme start="20260222091500 -0300" stop="20260222101500 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <sub-title lang="pt">2ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">5100</length>
+    <length units="minutes">3600</length>
   </programme>
-  <programme start="20260222104000 -0300" stop="20260222132000 -0300" channel="GE TV HD">
+  <programme start="20260222101500 -0300" stop="20260222104000 -0300" channel="GE TV HD">
+    <title lang="pt">Hóquei No Gelo - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">1500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222104000 -0300" stop="20260222131000 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Hóquei No …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">9600</length>
+    <length units="minutes">9000</length>
   </programme>
-  <programme start="20260222132000 -0300" stop="20260222170000 -0300" channel="GE TV HD">
+  <programme start="20260222131000 -0300" stop="20260222132000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Hóquei No Gelo - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222132000 -0300" stop="20260222150000 -0300" channel="GE TV HD">
     <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Esqui Alpino …</title>
     <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">6000</length>
+  </programme>
+  <programme start="20260222150000 -0300" stop="20260222170000 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Libertadores De Futebol: Nacional Potosí(BOL) x Botafogo-Rj</title>
+    <desc lang="pt">LibertadoresClubes da América do Sul entram em campo em busca da glória eterna. É a emoção da Libertadores, no sportv</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260222170000 -0300" stop="20260222173000 -0300" channel="GE TV HD">
     <title lang="pt">Rio Open - ao vivo</title>
@@ -101653,11 +101711,22 @@
     <length units="minutes">1800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260222173000 -0300" stop="20260222203000 -0300" channel="GE TV HD">
+  <programme start="20260222173000 -0300" stop="20260222193000 -0300" channel="GE TV HD">
     <title lang="pt">Rio Open - ao vivo</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui na tela do seu Canal Campeão.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222193000 -0300" stop="20260222203000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260222203000 -0300" stop="20260222223000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Madureira - ao vivo</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260222203000 -0300" stop="20260223010000 -0300" channel="GE TV HD">
@@ -101666,11 +101735,17 @@
     <length units="minutes">16200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260222203000 -0300" stop="20260223010000 -0300" channel="GE TV HD">
-    <title lang="pt">Flamengo x Madureira - ao vivo</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">16200</length>
+  <programme start="20260222223000 -0300" stop="20260222230000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Carioca - Flamengo x Madureira - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260222230000 -0300" stop="20260223010000 -0300" channel="GE TV HD">
+    <title lang="pt">Botafogo x Flamengo</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260223010000 -0300" stop="20260223060000 -0300" channel="GE TV HD">
     <title lang="pt">Sem Bloqueio</title>
@@ -101734,10 +101809,10 @@
     <length units="minutes">14400</length>
     <previously-shown/>
   </programme>
-  <programme start="20260223213500 -0300" stop="20260224013500 -0300" channel="GE TV HD">
-    <title lang="pt">Flamengo x Vasco</title>
+  <programme start="20260223233500 -0300" stop="20260224013500 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Flamengo</title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260224013500 -0300" stop="20260224021000 -0300" channel="GE TV HD">
@@ -161738,20 +161813,20 @@
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
-  <programme start="20260221150000 -0300" stop="20260221180000 -0300" channel="Paramount+ 3">
+  <programme start="20260221150000 -0300" stop="20260221190000 -0300" channel="Paramount+ 3">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+    <length units="minutes">14400</length>
+  </programme>
+  <programme start="20260221190000 -0300" stop="20260221220000 -0300" channel="Paramount+ 3">
+    <title lang="pt">UFC Houston - Strickland x Hernandez - Card Preliminar</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
-  <programme start="20260221180000 -0300" stop="20260221210000 -0300" channel="Paramount+ 3">
+  <programme start="20260221220000 -0300" stop="20260222000000 -0300" channel="Paramount+ 3">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
-  </programme>
-  <programme start="20260221210000 -0300" stop="20260222000000 -0300" channel="Paramount+ 3">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">7200</length>
   </programme>
   <programme start="20260222000000 -0300" stop="20260222030000 -0300" channel="Paramount+ 3">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
@@ -161943,20 +162018,20 @@
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
-  <programme start="20260221180000 -0300" stop="20260221210000 -0300" channel="Paramount+ 4">
+  <programme start="20260221180000 -0300" stop="20260221220000 -0300" channel="Paramount+ 4">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">14400</length>
   </programme>
-  <programme start="20260221210000 -0300" stop="20260222000000 -0300" channel="Paramount+ 4">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+  <programme start="20260221220000 -0300" stop="20260222030000 -0300" channel="Paramount+ 4">
+    <title lang="pt">UFC Houston - Strickland x Hernandez - Card Principal</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">18000</length>
   </programme>
-  <programme start="20260222000000 -0300" stop="20260222030000 -0300" channel="Paramount+ 4">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
+  <programme start="20260221220000 -0300" stop="20260222030000 -0300" channel="Paramount+ 4">
+    <title lang="pt">UFC Houston - Strickland x Hernandez - Card Principal</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">18000</length>
   </programme>
   <programme start="20260222030000 -0300" stop="20260222060000 -0300" channel="Paramount+ 4">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
@@ -173848,10 +173923,10 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260223203000 -0300" stop="20260224003000 -0300" channel="SPORTV 2">
-    <title lang="pt">Superliga Masculina De Vôlei: Goiás x Guarulhos</title>
+  <programme start="20260223223000 -0300" stop="20260224003000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Masculina De Vôlei: Monte Carmelo x Joinville</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -174268,10 +174343,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260223170000 -0300" stop="20260224010000 -0300" channel="SPORTV 3">
+  <programme start="20260223210000 -0300" stop="20260224010000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">28800</length>
+    <length units="minutes">14400</length>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
@@ -188071,11 +188146,11 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260223235600 -0300" stop="20260224004000 -0300" channel="TNT SERIES HD">
+  <programme start="20260223231500 -0300" stop="20260224000100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
-    <desc lang="pt">A CBI investiga a morte de uma mulher casada, que foi assassinada enquanto estava na cama com seu amante.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <desc lang="pt">O genro de um empresário é encontrado morto no escritório de seu sogro. Jane e o CBI tentam descobrir como ele pode estar envolvido no caso e quem mais é responsável pela morte.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -188089,45 +188164,54 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224004000 -0300" stop="20260224012400 -0300" channel="TNT SERIES HD">
+  <programme start="20260224000100 -0300" stop="20260224004800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">A CBI investiga a morte de uma mulher casada, que foi assassinada enquanto estava na cama com seu amante.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224004800 -0300" stop="20260224013400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma investigação de assassinato se torna algo pessoal para Lisbon quando ela descobre que seu irmão mais novo, Jimmy (Rob Belushi), está sendo procurado por ser a principal testemunha.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224012400 -0300" stop="20260224020500 -0300" channel="TNT SERIES HD">
+  <programme start="20260224013400 -0300" stop="20260224021800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane se preocupa com a segurança de Lisbon quando o FBI fica no meio de assassino habilidoso e seu alvo: uma testemunha numa investigação de assassinato.</desc>
-    <length units="minutes">2460</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">7.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224020500 -0300" stop="20260224025500 -0300" channel="TNT SERIES HD">
+  <programme start="20260224021800 -0300" stop="20260224030000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Liberdades</sub-title>
     <desc lang="pt">Os detetives lidam com uma mulher que acusa um homem de tê-la estuprado. No entanto, a credibilidade dela fica em risco quando pornografia infantil é descoberta em seu computador.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2520</length>
     <episode-num system="xmltv_ns">10.21.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260224025500 -0300" stop="20260224034500 -0300" channel="TNT SERIES HD">
+  <programme start="20260224030000 -0300" stop="20260224034100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Zebras</sub-title>
     <desc lang="pt">Uma mulher é encontrada morta e os detetives presumem que se trata de um estupro seguido de morte. Quando descobrem que ela estava grávida e que o crime envolve o bebê, percebem que não foi um assassinato comum.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2460</length>
     <episode-num system="xmltv_ns">10.22.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260224034500 -0300" stop="20260224042800 -0300" channel="TNT SERIES HD">
+  <programme start="20260224034100 -0300" stop="20260224042400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Aparências</sub-title>
     <desc lang="pt">O corpo de um vistoso menino de oito anos de idade é achado em um ônibus, levando os detetives a um criminoso sexual em liberdade condicional na Flórida.</desc>
@@ -188137,24 +188221,33 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224042800 -0300" stop="20260224051800 -0300" channel="TNT SERIES HD">
+  <programme start="20260224042400 -0300" stop="20260224050700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Desperdício</sub-title>
     <desc lang="pt">Os detetives são chamados para investigar o estupro de uma vítima, em coma por mais de um ano, do qual seu noivo se torna suspeito por ser considerado necrófilo.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224051800 -0300" stop="20260224060000 -0300" channel="TNT SERIES HD">
+  <programme start="20260224050700 -0300" stop="20260224055000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Desesperado</sub-title>
     <desc lang="pt">Um jovem testemunha o abuso sexual brutal e o assassinato de sua mãe.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">4.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224055000 -0300" stop="20260224060000 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">5.81.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260224060000 -0300" stop="20260224064000 -0300" channel="TNT SERIES HD">
