@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-27 14:31:01" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-27 17:30:55" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -314,9 +314,6 @@
   </channel>
   <channel id="RECORD NEWS">
     <display-name lang="pt">RECORD NEWS</display-name>
-  </channel>
-  <channel id="RECORD Paulista">
-    <display-name lang="pt">RECORD Paulista</display-name>
   </channel>
   <channel id="RECORD São Paulo">
     <display-name lang="pt">RECORD São Paulo</display-name>
@@ -160123,20 +160120,28 @@
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
     <length units="minutes">10800</length>
   </programme>
-  <programme start="20260228150000 -0300" stop="20260228180000 -0300" channel="Paramount+ 4">
+  <programme start="20260228150000 -0300" stop="20260228190000 -0300" channel="Paramount+ 4">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">14400</length>
   </programme>
-  <programme start="20260228180000 -0300" stop="20260228210000 -0300" channel="Paramount+ 4">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+  <programme start="20260228190000 -0300" stop="20260228220000 -0300" channel="Paramount+ 4">
+    <title lang="pt">UFC México - Moreno x Kavanagh - Card Preliminar - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260228210000 -0300" stop="20260301000000 -0300" channel="Paramount+ 4">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
-    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
-    <length units="minutes">10800</length>
+  <programme start="20260228220000 -0300" stop="20260301030000 -0300" channel="Paramount+ 4">
+    <title lang="pt">UFC México - Moreno x Kavanagh - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">18000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260228220000 -0300" stop="20260301030000 -0300" channel="Paramount+ 4">
+    <title lang="pt">UFC México - Moreno x Kavanagh - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">18000</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260301000000 -0300" stop="20260301030000 -0300" channel="Paramount+ 4">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana</title>
@@ -162465,365 +162470,6 @@
     <length units="minutes">4500</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.62.</episode-num>
-  </programme>
-  <programme start="20260301234500 -0300" stop="20260302003000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.60.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260302003000 -0300" stop="20260302011500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
-    <length units="minutes">2700</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260302011500 -0300" stop="20260302063000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-    <length units="minutes">18900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260302063000 -0300" stop="20260302070000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">86.61.</episode-num>
-  </programme>
-  <programme start="20260302070000 -0300" stop="20260302070500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302070500 -0300" stop="20260302073000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302073000 -0300" stop="20260302083000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã - SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302083000 -0300" stop="20260302093000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.61.</episode-num>
-  </programme>
-  <programme start="20260302093000 -0300" stop="20260302113000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">89.61.</episode-num>
-  </programme>
-  <programme start="20260302113000 -0300" stop="20260302145500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral - SP Interior</title>
-    <desc lang="pt">O Balanço Geral é um grande sucesso do telejornalismo regional.</desc>
-    <length units="minutes">12300</length>
-    <episode-num system="xmltv_ns">81.61.</episode-num>
-  </programme>
-  <programme start="20260302145500 -0300" stop="20260302153000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-    <length units="minutes">2100</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260302153000 -0300" stop="20260302163000 -0300" channel="RECORD Paulista">
-    <title lang="pt">A Escrava Isaura</title>
-    <desc lang="pt">Campos, 1835. Uma escrava de pele branca e excelente educação precisa sobreviver à violência da escravidão e ao poder extremo de um rico fazendeiro, de quem é propriedade.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">85.61.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260302163000 -0300" stop="20260302171000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">86.61.</episode-num>
-  </programme>
-  <programme start="20260302171000 -0300" stop="20260302171500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302171500 -0300" stop="20260302174000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302174000 -0300" stop="20260302174500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302174500 -0300" stop="20260302180000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">87.61.</episode-num>
-  </programme>
-  <programme start="20260302180000 -0300" stop="20260302185000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">88.61.</episode-num>
-  </programme>
-  <programme start="20260302185000 -0300" stop="20260302195500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">88.61.</episode-num>
-  </programme>
-  <programme start="20260302195500 -0300" stop="20260302210000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">89.61.</episode-num>
-  </programme>
-  <programme start="20260302210000 -0300" stop="20260302220000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Coração de Mãe</title>
-    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.61.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260302220000 -0300" stop="20260302223000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Reis - A Consequência</title>
-    <desc lang="pt">Reis - A Consequência retorna à história de Davi anos depois do terrível e lamentável pecado cometido pelo rei de Israel.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.61.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260302223000 -0300" stop="20260302233000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chamas do Destino</title>
-    <desc lang="pt">Sucesso mundial, Chamas do Destino tem como tema principal a libertação e união feminina diante da violência doméstica e das injustiças sociais.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.61.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260302233000 -0300" stop="20260303001500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.61.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260302233000 -0300" stop="20260303001500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.61.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260303001500 -0300" stop="20260303004500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">80.62.</episode-num>
-  </programme>
-  <programme start="20260303004500 -0300" stop="20260303020000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD - Entrelinhas</title>
-    <desc lang="pt">Programa Entrelinhas com Bispo Renato Cardoso.</desc>
-    <length units="minutes">4500</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260303020000 -0300" stop="20260303023000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Dicas de Amor</title>
-    <desc lang="pt">Uma palestra focada no sucesso da vida amorosa. Nela, Renato e Cristiane Cardoso conversam, aconselham e dão dicas sobre como você pode se relacionar com a pessoa amada.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260303023000 -0300" stop="20260303033000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD - Palavra Amiga</title>
-    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">2.62.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260303033000 -0300" stop="20260303063000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-    <length units="minutes">10800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260303063000 -0300" stop="20260303070000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">86.62.</episode-num>
-  </programme>
-  <programme start="20260303070000 -0300" stop="20260303070500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303070500 -0300" stop="20260303073000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303073000 -0300" stop="20260303083000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral Manhã - SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303083000 -0300" stop="20260303093000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.62.</episode-num>
-  </programme>
-  <programme start="20260303093000 -0300" stop="20260303113000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">89.62.</episode-num>
-  </programme>
-  <programme start="20260303113000 -0300" stop="20260303145500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Balanço Geral - SP Interior</title>
-    <desc lang="pt">O Balanço Geral é um grande sucesso do telejornalismo regional.</desc>
-    <length units="minutes">12300</length>
-    <episode-num system="xmltv_ns">81.62.</episode-num>
-  </programme>
-  <programme start="20260303145500 -0300" stop="20260303153000 -0300" channel="RECORD Paulista">
-    <title lang="pt">IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-    <length units="minutes">2100</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260303153000 -0300" stop="20260303163000 -0300" channel="RECORD Paulista">
-    <title lang="pt">A Escrava Isaura</title>
-    <desc lang="pt">Leôncio é colocado na cela. Malvina leva água e frutas para Isaura e André. Neste momento, aproveita para dizer que Álvaro está vivo e que Leôncio está preso. Rosa conta a Malvina que Leôncio queria mat...</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">85.62.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260303163000 -0300" stop="20260303171000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">86.62.</episode-num>
-  </programme>
-  <programme start="20260303171000 -0300" stop="20260303171500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303171500 -0300" stop="20260303174000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303174000 -0300" stop="20260303174500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303174500 -0300" stop="20260303180000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">87.62.</episode-num>
-  </programme>
-  <programme start="20260303180000 -0300" stop="20260303185000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">88.62.</episode-num>
-  </programme>
-  <programme start="20260303185000 -0300" stop="20260303195500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">88.62.</episode-num>
-  </programme>
-  <programme start="20260303195500 -0300" stop="20260303210000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">89.62.</episode-num>
-  </programme>
-  <programme start="20260303210000 -0300" stop="20260303220000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Coração de Mãe</title>
-    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.62.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260303220000 -0300" stop="20260303223000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Reis - A Consequência</title>
-    <desc lang="pt">Reis - A Consequência retorna à história de Davi anos depois do terrível e lamentável pecado cometido pelo rei de Israel.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.62.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260303223000 -0300" stop="20260303233000 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chamas do Destino</title>
-    <desc lang="pt">Sucesso mundial, Chamas do Destino tem como tema principal a libertação e união feminina diante da violência doméstica e das injustiças sociais.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.62.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260303233000 -0300" stop="20260304001500 -0300" channel="RECORD Paulista">
-    <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">23.62.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
   </programme>
   <programme start="20260227000000 -0300" stop="20260227003000 -0300" channel="RECORD São Paulo">
     <title lang="pt">Chicago P.D.</title>
@@ -181278,7 +180924,7 @@
   </programme>
   <programme start="20260228140000 -0300" stop="20260228141000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228141000 -0300" stop="20260228151000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -181291,7 +180937,7 @@
   </programme>
   <programme start="20260228151000 -0300" stop="20260228152000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228152000 -0300" stop="20260228162000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -181304,7 +180950,7 @@
   </programme>
   <programme start="20260228162000 -0300" stop="20260228163000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228163000 -0300" stop="20260228173000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -181317,7 +180963,7 @@
   </programme>
   <programme start="20260228173000 -0300" stop="20260228174000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228174000 -0300" stop="20260228184000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -181330,7 +180976,7 @@
   </programme>
   <programme start="20260228184000 -0300" stop="20260228185000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228185000 -0300" stop="20260228195000 -0300" channel="TIMES | Exclusivo CNBC">
@@ -181343,7 +180989,7 @@
   </programme>
   <programme start="20260228195000 -0300" stop="20260228200000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Plantão Times Brasil | Exclusivo CNBC</title>
-    <desc lang="pt">Notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo da CNBC.</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, ao vivo da redação do Times Brasil, licenciado exclusivo CNBC.</desc>
     <length units="minutes">600</length>
   </programme>
   <programme start="20260228200000 -0300" stop="20260301010000 -0300" channel="TIMES | Exclusivo CNBC">
