@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-02-27 11:30:58" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-02-27 14:31:01" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -314,6 +314,9 @@
   </channel>
   <channel id="RECORD NEWS">
     <display-name lang="pt">RECORD NEWS</display-name>
+  </channel>
+  <channel id="RECORD Paulista">
+    <display-name lang="pt">RECORD Paulista</display-name>
   </channel>
   <channel id="RECORD São Paulo">
     <display-name lang="pt">RECORD São Paulo</display-name>
@@ -119566,11 +119569,11 @@
     </rating>
   </programme>
   <programme start="20260228220000 -0300" stop="20260228233500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Sisu: Estrada da Vingança</title>
+    <desc lang="pt">Um homem retorna para desmontar a casa de sua família, onde foram assassinados na guerra, para reconstruí-la em outro lugar. Quando o assassino, um comandante do Exército Vermelho, o encontra, inicia-se uma brutal perseguiç...</desc>
     <length units="minutes">5700</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260228233500 -0300" stop="20260301013000 -0300" channel="HBO">
@@ -120123,15 +120126,23 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228060000 -0300" stop="20260228085700 -0300" channel="HBO Family">
+  <programme start="20260228060000 -0300" stop="20260228072700 -0300" channel="HBO Family">
     <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
     <desc lang="pt">Nova York. A vida de Max e Duke muda bastante quando sua dona tem um filho. De início eles não gostam nem um pouco deste pequeno ser que divide a atenção, mas aos poucos ele os conquista.</desc>
-    <length units="minutes">10620</length>
+    <length units="minutes">5220</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228085700 -0300" stop="20260228103200 -0300" channel="HBO Family">
+  <programme start="20260228072700 -0300" stop="20260228090200 -0300" channel="HBO Family">
+    <title lang="pt">Shrek para Sempre</title>
+    <desc lang="pt">Shrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma terra onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontram.</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260228090200 -0300" stop="20260228103700 -0300" channel="HBO Family">
     <title lang="pt">Hotel Transilvânia</title>
     <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.</desc>
     <length units="minutes">5700</length>
@@ -120139,31 +120150,31 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228103200 -0300" stop="20260228122000 -0300" channel="HBO Family">
+  <programme start="20260228103700 -0300" stop="20260228122400 -0300" channel="HBO Family">
     <title lang="pt">DC Liga dos Superpets</title>
     <desc lang="pt">Krypto, o Supercão, precisa convencer um grupo excêntrico de animais a dominar seus novos poderes para ajudá-lo no resgate da Liga da Justiça.</desc>
-    <length units="minutes">6480</length>
+    <length units="minutes">6420</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228122000 -0300" stop="20260228135100 -0300" channel="HBO Family">
+  <programme start="20260228122400 -0300" stop="20260228135400 -0300" channel="HBO Family">
     <title lang="pt">As Múmias e o Anel Perdido</title>
     <desc lang="pt">Três antigas múmias acabam na Londres atual e embarcam em uma jornada em busca de um velho anel pertencente à Família Real, roubado pelo ambicioso arqueólogo Lord Carnaby.</desc>
-    <length units="minutes">5460</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228135100 -0300" stop="20260228152700 -0300" channel="HBO Family">
+  <programme start="20260228135400 -0300" stop="20260228152900 -0300" channel="HBO Family">
     <title lang="pt">Shrek Para Sempre</title>
     <desc lang="pt">Shrek está desanimado com sua vida. Ele faz um acordo com o duende Rumpelstiltskin, mas tudo não passa de um plano secreto. Agora, ele precisa lutar pelo que ama.</desc>
-    <length units="minutes">5760</length>
+    <length units="minutes">5700</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228152700 -0300" stop="20260228165600 -0300" channel="HBO Family">
+  <programme start="20260228152900 -0300" stop="20260228165800 -0300" channel="HBO Family">
     <title lang="pt">Pets - A Vida Secreta dos Bichos</title>
     <desc lang="pt">Max é um pequeno cão que mora com sua dona, Katie, por quem tem verdadeira adoração. Quando um dia ela volta para casa com Duke, um outro cachorro, Max se sente ameaçado.</desc>
     <length units="minutes">5340</length>
@@ -120171,18 +120182,18 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228165600 -0300" stop="20260228182500 -0300" channel="HBO Family">
+  <programme start="20260228165800 -0300" stop="20260228182600 -0300" channel="HBO Family">
     <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
     <desc lang="pt">Nova York. A vida de Max e Duke muda bastante quando sua dona tem um filho. De início eles não gostam nem um pouco deste pequeno ser que divide a atenção, mas aos poucos ele os conquista.</desc>
-    <length units="minutes">5340</length>
+    <length units="minutes">5280</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228182500 -0300" stop="20260228200000 -0300" channel="HBO Family">
+  <programme start="20260228182600 -0300" stop="20260228200000 -0300" channel="HBO Family">
     <title lang="pt">Hotel Transilvânia</title>
     <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.</desc>
-    <length units="minutes">5700</length>
+    <length units="minutes">5640</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -120195,21 +120206,25 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228214900 -0300" stop="20260301043100 -0300" channel="HBO Family">
-    <title lang="pt">Besouro Azul</title>
-    <desc lang="pt">O adolescente Jaime Reyes ganha superpoderes quando um misterioso escaravelho se prende à sua coluna e lhe fornece uma poderosa armadura alienígena azul.</desc>
-    <length units="minutes">24120</length>
+  <programme start="20260228214900 -0300" stop="20260301002300 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+    <desc lang="pt">Em seu sexto ano em Hogwarts, Harry Potter encara a atmosfera de incerteza que toma conta da escola de bruxaria com a notícia de que Voldermort está vivo. Harry começa a descobrir informações sobre o passado de seu inimigo.</desc>
+    <length units="minutes">9240</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260228214900 -0300" stop="20260301043100 -0300" channel="HBO Family">
-    <title lang="pt">Besouro Azul</title>
-    <desc lang="pt">O adolescente Jaime Reyes ganha superpoderes quando um misterioso escaravelho se prende à sua coluna e lhe fornece uma poderosa armadura alienígena azul.</desc>
-    <length units="minutes">24120</length>
+  <programme start="20260228214900 -0300" stop="20260301002300 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+    <desc lang="pt">Em seu sexto ano em Hogwarts, Harry Potter encara a atmosfera de incerteza que toma conta da escola de bruxaria com a notícia de que Voldermort está vivo. Harry começa a descobrir informações sobre o passado de seu inimigo.</desc>
+    <length units="minutes">9240</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20260301002300 -0300" stop="20260301043100 -0300" channel="HBO Family">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">14880</length>
   </programme>
   <programme start="20260301043100 -0300" stop="20260301060000 -0300" channel="HBO Family">
     <title lang="pt">Pets - A Vida Secreta dos Bichos</title>
@@ -123632,28 +123647,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227134000 -0300" stop="20260227152000 -0300" channel="HBO2">
+  <programme start="20260227134000 -0300" stop="20260227151100 -0300" channel="HBO2">
     <title lang="pt">Entrevista com o Demônio</title>
     <desc lang="pt">Em 1977, uma transmissão televisiva liberta o mal nas salas de estar dos que assistem.</desc>
-    <length units="minutes">6000</length>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260227152000 -0300" stop="20260227172000 -0300" channel="HBO2">
+  <programme start="20260227151100 -0300" stop="20260227171200 -0300" channel="HBO2">
     <title lang="pt">Tropa de Elite</title>
     <desc lang="pt">Um capitão do BOPE quer deixar o posto e busca um substituto, ao mesmo tempo em que 2 amigos se destacam por sua honestidade como policiais.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7260</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260227172000 -0300" stop="20260227181500 -0300" channel="HBO2">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260227171200 -0300" stop="20260227181500 -0300" channel="HBO2">
+    <title lang="pt">Como Água Para Chocolate</title>
+    <sub-title lang="pt">Caldo de Caudinha de Rês</sub-title>
+    <desc lang="pt">Devido às tradições familiares arraigadas, Tita e Pedro, duas almas profundamente apaixonadas, não podem ficar juntos. Tita deve escolher entre lutar pelo amor ou seguir o caminho predeterminado de sua família.</desc>
+    <length units="minutes">3780</length>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260227181500 -0300" stop="20260227185000 -0300" channel="HBO2">
@@ -123754,15 +123771,17 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260228131500 -0300" stop="20260228141000 -0300" channel="HBO2">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260228131500 -0300" stop="20260228141500 -0300" channel="HBO2">
+    <title lang="pt">Como Água Para Chocolate</title>
+    <sub-title lang="pt">Caldo de Caudinha de Rês</sub-title>
+    <desc lang="pt">Devido às tradições familiares arraigadas, Tita e Pedro, duas almas profundamente apaixonadas, não podem ficar juntos. Tita deve escolher entre lutar pelo amor ou seguir o caminho predeterminado de sua família.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260228141000 -0300" stop="20260228163500 -0300" channel="HBO2">
+  <programme start="20260228141500 -0300" stop="20260228164000 -0300" channel="HBO2">
     <title lang="pt">Mulher-Maravilha</title>
     <desc lang="pt">Antes de se transformar na Mulher Maravilha, ela era Diana, a princesa das Amazonas, treinada para ser uma guerreira invencível.</desc>
     <length units="minutes">8700</length>
@@ -123770,7 +123789,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260228163500 -0300" stop="20260228181000 -0300" channel="HBO2">
+  <programme start="20260228164000 -0300" stop="20260228181500 -0300" channel="HBO2">
     <title lang="pt">Kung Fu Panda</title>
     <desc lang="pt">Entusiasmado, grande e um pouco desajeitado, o panda Po é o maior fã de kung fu da região. Mas isso não ajuda muito no emprego que tem no restaurante de macarrão da família.</desc>
     <length units="minutes">5700</length>
@@ -123778,7 +123797,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228181000 -0300" stop="20260228202500 -0300" channel="HBO2">
+  <programme start="20260228181500 -0300" stop="20260228203000 -0300" channel="HBO2">
     <title lang="pt">Superman</title>
     <desc lang="pt">Superman embarca em uma jornada para reconciliar sua herança kryptoniana com sua criação humana.</desc>
     <length units="minutes">8100</length>
@@ -123786,7 +123805,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228202500 -0300" stop="20260228220000 -0300" channel="HBO2">
+  <programme start="20260228203000 -0300" stop="20260228220500 -0300" channel="HBO2">
     <title lang="pt">Minions</title>
     <desc lang="pt">Minions são seres amarelos multicelulares que existem desde o início dos tempos e evoluíram de organismos unicelulares a seres bizarros que têm apenas um propósito: Servir aos vilões mais malvados da história.</desc>
     <length units="minutes">5700</length>
@@ -123794,7 +123813,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260228220000 -0300" stop="20260301000000 -0300" channel="HBO2">
+  <programme start="20260228220500 -0300" stop="20260301000500 -0300" channel="HBO2">
+    <title lang="pt">Wonka</title>
+    <desc lang="pt">Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260228220500 -0300" stop="20260301000500 -0300" channel="HBO2">
     <title lang="pt">Wonka</title>
     <desc lang="pt">Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho.</desc>
     <length units="minutes">7200</length>
@@ -156645,79 +156672,59 @@
     <previously-shown/>
   </programme>
   <programme start="20260228080000 -0300" stop="20260228090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Atlético-MG</title>
+    <title lang="pt">Cruzeiro x Corinthians</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260228090000 -0300" stop="20260228100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Corinthians</title>
+    <title lang="pt">Grêmio x Atlético-MG</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260228100000 -0300" stop="20260228103000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Internacional</title>
-    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260228100000 -0300" stop="20260228110000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260228103000 -0300" stop="20260228110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vasco</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260228110000 -0300" stop="20260228120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260228110000 -0300" stop="20260228113000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">América-MG x Atlético-MG</title>
-    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260228113000 -0300" stop="20260228123000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Fluminense</title>
+  <programme start="20260228120000 -0300" stop="20260228130000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Botafogo x Flamengo</title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260228123000 -0300" stop="20260228133000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Madureira</title>
+  <programme start="20260228130000 -0300" stop="20260228140000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Redonda</title>
+    <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260228133000 -0300" stop="20260228140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vasco</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260228140000 -0300" stop="20260228150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Corinthians</title>
+    <title lang="pt">Grêmio x Atlético-MG</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260228150000 -0300" stop="20260228153000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Internacional</title>
-    <desc lang="pt">O Gauchão começou, assista mais um jogão aqui no sportv!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260228153000 -0300" stop="20260228160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">América-MG x Atlético-MG</title>
-    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260228150000 -0300" stop="20260228160000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -156729,18 +156736,20 @@
     <previously-shown/>
   </programme>
   <programme start="20260228170000 -0300" stop="20260228180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Athletico-PR</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260228180000 -0300" stop="20260228190000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Palmeiras x Botafogo</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <title lang="pt">Abre Aspas: Sampaoli Critica Futebol Atual, Fala Em Robotização</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260228190000 -0300" stop="20260228214000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Botafogo x Boavista - ao vivo</title>
@@ -156748,26 +156757,34 @@
     <length units="minutes">9600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260228214000 -0300" stop="20260228231000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.59.</episode-num>
-  </programme>
-  <programme start="20260228231000 -0300" stop="20260301001000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+  <programme start="20260228214000 -0300" stop="20260228224000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Redonda</title>
+    <sub-title lang="pt">Jogo de Volta</sub-title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.59.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260228231000 -0300" stop="20260301001000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+  <programme start="20260228224000 -0300" stop="20260228234000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Madureira</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.59.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260228234000 -0300" stop="20260301004000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Fluminense</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260228234000 -0300" stop="20260301004000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Fluminense</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260301001000 -0300" stop="20260301011000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Palmeiras x Fluminense</title>
@@ -162448,6 +162465,365 @@
     <length units="minutes">4500</length>
     <category lang="en">news/current affairs (general)</category>
     <episode-num system="xmltv_ns">83.62.</episode-num>
+  </programme>
+  <programme start="20260301234500 -0300" stop="20260302003000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">23.60.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260302003000 -0300" stop="20260302011500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
+    <length units="minutes">2700</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260302011500 -0300" stop="20260302063000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">18900</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260302063000 -0300" stop="20260302070000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">86.61.</episode-num>
+  </programme>
+  <programme start="20260302070000 -0300" stop="20260302070500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302070500 -0300" stop="20260302073000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302073000 -0300" stop="20260302083000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302083000 -0300" stop="20260302093000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">88.61.</episode-num>
+  </programme>
+  <programme start="20260302093000 -0300" stop="20260302113000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">89.61.</episode-num>
+  </programme>
+  <programme start="20260302113000 -0300" stop="20260302145500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral - SP Interior</title>
+    <desc lang="pt">O Balanço Geral é um grande sucesso do telejornalismo regional.</desc>
+    <length units="minutes">12300</length>
+    <episode-num system="xmltv_ns">81.61.</episode-num>
+  </programme>
+  <programme start="20260302145500 -0300" stop="20260302153000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">2100</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260302153000 -0300" stop="20260302163000 -0300" channel="RECORD Paulista">
+    <title lang="pt">A Escrava Isaura</title>
+    <desc lang="pt">Campos, 1835. Uma escrava de pele branca e excelente educação precisa sobreviver à violência da escravidão e ao poder extremo de um rico fazendeiro, de quem é propriedade.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">85.61.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260302163000 -0300" stop="20260302171000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">86.61.</episode-num>
+  </programme>
+  <programme start="20260302171000 -0300" stop="20260302171500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302171500 -0300" stop="20260302174000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302174000 -0300" stop="20260302174500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302174500 -0300" stop="20260302180000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">87.61.</episode-num>
+  </programme>
+  <programme start="20260302180000 -0300" stop="20260302185000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">88.61.</episode-num>
+  </programme>
+  <programme start="20260302185000 -0300" stop="20260302195500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">88.61.</episode-num>
+  </programme>
+  <programme start="20260302195500 -0300" stop="20260302210000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">89.61.</episode-num>
+  </programme>
+  <programme start="20260302210000 -0300" stop="20260302220000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Coração de Mãe</title>
+    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.61.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302220000 -0300" stop="20260302223000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Reis - A Consequência</title>
+    <desc lang="pt">Reis - A Consequência retorna à história de Davi anos depois do terrível e lamentável pecado cometido pelo rei de Israel.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.61.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302223000 -0300" stop="20260302233000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chamas do Destino</title>
+    <desc lang="pt">Sucesso mundial, Chamas do Destino tem como tema principal a libertação e união feminina diante da violência doméstica e das injustiças sociais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.61.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302233000 -0300" stop="20260303001500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">23.61.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260302233000 -0300" stop="20260303001500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">23.61.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260303001500 -0300" stop="20260303004500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.62.</episode-num>
+  </programme>
+  <programme start="20260303004500 -0300" stop="20260303020000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD - Entrelinhas</title>
+    <desc lang="pt">Programa Entrelinhas com Bispo Renato Cardoso.</desc>
+    <length units="minutes">4500</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303020000 -0300" stop="20260303023000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Dicas de Amor</title>
+    <desc lang="pt">Uma palestra focada no sucesso da vida amorosa. Nela, Renato e Cristiane Cardoso conversam, aconselham e dão dicas sobre como você pode se relacionar com a pessoa amada.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303023000 -0300" stop="20260303033000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD - Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">2.62.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303033000 -0300" stop="20260303063000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">10800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303063000 -0300" stop="20260303070000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">86.62.</episode-num>
+  </programme>
+  <programme start="20260303070000 -0300" stop="20260303070500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303070500 -0300" stop="20260303073000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303073000 -0300" stop="20260303083000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303083000 -0300" stop="20260303093000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">88.62.</episode-num>
+  </programme>
+  <programme start="20260303093000 -0300" stop="20260303113000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">89.62.</episode-num>
+  </programme>
+  <programme start="20260303113000 -0300" stop="20260303145500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Balanço Geral - SP Interior</title>
+    <desc lang="pt">O Balanço Geral é um grande sucesso do telejornalismo regional.</desc>
+    <length units="minutes">12300</length>
+    <episode-num system="xmltv_ns">81.62.</episode-num>
+  </programme>
+  <programme start="20260303145500 -0300" stop="20260303153000 -0300" channel="RECORD Paulista">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+    <length units="minutes">2100</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303153000 -0300" stop="20260303163000 -0300" channel="RECORD Paulista">
+    <title lang="pt">A Escrava Isaura</title>
+    <desc lang="pt">Leôncio é colocado na cela. Malvina leva água e frutas para Isaura e André. Neste momento, aproveita para dizer que Álvaro está vivo e que Leôncio está preso. Rosa conta a Malvina que Leôncio queria mat...</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">85.62.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260303163000 -0300" stop="20260303171000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">86.62.</episode-num>
+  </programme>
+  <programme start="20260303171000 -0300" stop="20260303171500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303171500 -0300" stop="20260303174000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303174000 -0300" stop="20260303174500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303174500 -0300" stop="20260303180000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">87.62.</episode-num>
+  </programme>
+  <programme start="20260303180000 -0300" stop="20260303185000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">88.62.</episode-num>
+  </programme>
+  <programme start="20260303185000 -0300" stop="20260303195500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">88.62.</episode-num>
+  </programme>
+  <programme start="20260303195500 -0300" stop="20260303210000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">89.62.</episode-num>
+  </programme>
+  <programme start="20260303210000 -0300" stop="20260303220000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Coração de Mãe</title>
+    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.62.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303220000 -0300" stop="20260303223000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Reis - A Consequência</title>
+    <desc lang="pt">Reis - A Consequência retorna à história de Davi anos depois do terrível e lamentável pecado cometido pelo rei de Israel.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.62.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303223000 -0300" stop="20260303233000 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chamas do Destino</title>
+    <desc lang="pt">Sucesso mundial, Chamas do Destino tem como tema principal a libertação e união feminina diante da violência doméstica e das injustiças sociais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.62.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303233000 -0300" stop="20260304001500 -0300" channel="RECORD Paulista">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">23.62.</episode-num>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
   </programme>
   <programme start="20260227000000 -0300" stop="20260227003000 -0300" channel="RECORD São Paulo">
     <title lang="pt">Chicago P.D.</title>
@@ -218867,10 +219243,10 @@
     <length units="minutes">6300</length>
   </programme>
   <programme start="20260227141500 -0300" stop="20260227144500 -0300" channel="Xsports HD">
-    <title lang="pt">The Inside Line</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Bayern De Munique x Borussia Dortmund</title>
+    <desc lang="pt">Futebol Alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">14.58.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260227144500 -0300" stop="20260227163000 -0300" channel="Xsports HD">
     <title lang="pt">Boca Juniors x Gimnasia de Chivilcoy</title>
@@ -218912,42 +219288,35 @@
     <previously-shown/>
   </programme>
   <programme start="20260227234500 -0300" stop="20260228001500 -0300" channel="Xsports HD">
-    <title lang="pt">Total Combat</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Bayern De Munique x Borussia Dortmund</title>
+    <desc lang="pt">Futebol Alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">23.58.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+    <previously-shown/>
   </programme>
   <programme start="20260227234500 -0300" stop="20260228001500 -0300" channel="Xsports HD">
+    <title lang="pt">Bayern De Munique x Borussia Dortmund</title>
+    <desc lang="pt">Futebol Alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
+    <length units="minutes">1800</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260228001500 -0300" stop="20260228004500 -0300" channel="Xsports HD">
     <title lang="pt">Total Combat</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">23.58.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260228001500 -0300" stop="20260228020000 -0300" channel="Xsports HD">
+  <programme start="20260228004500 -0300" stop="20260228023000 -0300" channel="Xsports HD">
     <title lang="pt">Wolverhampton x Aston Villa</title>
     <desc lang="pt">Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260228020000 -0300" stop="20260228033000 -0300" channel="Xsports HD">
+  <programme start="20260228023000 -0300" stop="20260228040000 -0300" channel="Xsports HD">
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-  </programme>
-  <programme start="20260228033000 -0300" stop="20260228040000 -0300" channel="Xsports HD">
-    <title lang="pt">Total Combat</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.59.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
   </programme>
   <programme start="20260228040000 -0300" stop="20260228051500 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
