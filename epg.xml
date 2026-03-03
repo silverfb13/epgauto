@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-03 14:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-03 20:31:22" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -98699,13 +98699,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304152500 -0300" stop="20260304171500 -0300" channel="GLOBO SÃO PAULO">
+  <programme start="20260304152500 -0300" stop="20260304170500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
     <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6000</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260304170500 -0300" stop="20260304171500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt">Boletim com as principais notícias de São Paulo.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">87.63.</episode-num>
   </programme>
   <programme start="20260304171500 -0300" stop="20260304182500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata: None</title>
@@ -185500,17 +185506,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303160100 -0300" stop="20260303165100 -0300" channel="TNT SERIES HD">
+  <programme start="20260303160100 -0300" stop="20260303165000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Vocação</sub-title>
     <desc lang="pt">Quando um corpo é encontrado em um depósito de lixo, a equipe reabre um caso de 1984, em que um adolescente que queria ser dançarino contra a vontade de seu pai foi assassinado.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">4.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303165100 -0300" stop="20260303173900 -0300" channel="TNT SERIES HD">
+  <programme start="20260303165000 -0300" stop="20260303173800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Lisbon e sua equipe trabalham no caso do assassinato de um estagiário do senador, enquanto Jane tenta, ao mesmo tempo, descobrir que novas informações Bosco encontrou sobre o caso de Red John.</desc>
     <length units="minutes">2880</length>
@@ -185519,7 +185525,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303173900 -0300" stop="20260303182600 -0300" channel="TNT SERIES HD">
+  <programme start="20260303173800 -0300" stop="20260303182500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
     <length units="minutes">2820</length>
@@ -185528,7 +185534,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303182600 -0300" stop="20260303191500 -0300" channel="TNT SERIES HD">
+  <programme start="20260303182500 -0300" stop="20260303191400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A investigação da morte do dono de um cassino faz Jane usar todas as suas habilidades nas mesas de jogo para tentar resolver o caso - e ganhar algum dinheiro.</desc>
     <length units="minutes">2940</length>
@@ -185537,7 +185543,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303191500 -0300" stop="20260303200500 -0300" channel="TNT SERIES HD">
+  <programme start="20260303191400 -0300" stop="20260303200400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Rosemary Tennant foi vítima de um atropelamento, e o motorista que a atingiu fugiu. Patrick Jane investiga a &quot;guia espiritual&quot; da vítima, que afirma ter previsto a morte da cliente. Para o detetive, a guru é uma fraude.</desc>
     <length units="minutes">3000</length>
@@ -185546,25 +185552,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303200500 -0300" stop="20260303205300 -0300" channel="TNT SERIES HD">
+  <programme start="20260303200400 -0300" stop="20260303205100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Lisbon e sua equipe trabalham no caso do assassinato de um estagiário do senador, enquanto Jane tenta, ao mesmo tempo, descobrir que novas informações Bosco encontrou sobre o caso de Red John.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303205300 -0300" stop="20260303214000 -0300" channel="TNT SERIES HD">
+  <programme start="20260303205100 -0300" stop="20260303213900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303214000 -0300" stop="20260303223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260303213900 -0300" stop="20260303222900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A investigação da morte do dono de um cassino faz Jane usar todas as suas habilidades nas mesas de jogo para tentar resolver o caso - e ganhar algum dinheiro.</desc>
     <length units="minutes">3000</length>
@@ -185573,10 +185579,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303223000 -0300" stop="20260303231800 -0300" channel="TNT SERIES HD">
+  <programme start="20260303222900 -0300" stop="20260303231800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Rosemary Tennant foi vítima de um atropelamento, e o motorista que a atingiu fugiu. Patrick Jane investiga a &quot;guia espiritual&quot; da vítima, que afirma ter previsto a morte da cliente. Para o detetive, a guru é uma fraude.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -185674,248 +185680,250 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304060000 -0300" stop="20260304065300 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <sub-title lang="pt">Fraternidade</sub-title>
-    <desc lang="pt">Um jovem morto é encontrado em uma estação de tratamento de água. Examinadores descobrem que o arco de um violino muito caro foi inserido no corpo do rapaz.</desc>
-    <length units="minutes">3180</length>
-    <episode-num system="xmltv_ns">5.10.</episode-num>
+  <programme start="20260304060000 -0300" stop="20260304061300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">6.92.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304065300 -0300" stop="20260304073800 -0300" channel="TNT SERIES HD">
+  <programme start="20260304061300 -0300" stop="20260304061400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">60</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260304061400 -0300" stop="20260304070100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Um Dólar Um Sonho</sub-title>
     <desc lang="pt">Em 1999, morre uma mulher indigente e anos depois a equipe de detetives reabre o caso quando um corpo é encontrado nas profundezas de um rio dentro de uma perua familiar.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304073800 -0300" stop="20260304082300 -0300" channel="TNT SERIES HD">
+  <programme start="20260304070100 -0300" stop="20260304074800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Agressor</sub-title>
     <desc lang="pt">Um pai desesperado se torna um serial killer e obriga a equipe a dar uma olhada no caso de assassinato de seu filho, em 1987.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304082300 -0300" stop="20260304090600 -0300" channel="TNT SERIES HD">
+  <programme start="20260304074800 -0300" stop="20260304083300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Atitude</sub-title>
     <desc lang="pt">Uma confissão anônima do assassinato de uma garota de 16 anos é encontrada numa exibição de arte moderna.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.20.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304090600 -0300" stop="20260304095000 -0300" channel="TNT SERIES HD">
+  <programme start="20260304083300 -0300" stop="20260304091800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">Uma condenação anterior de Tao é anulada definitivamente, e Rusty janta com o pai biológico.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304095000 -0300" stop="20260304103300 -0300" channel="TNT SERIES HD">
+  <programme start="20260304091800 -0300" stop="20260304100300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <desc lang="pt">Um detetive de Las Vegas é encontrado sem vida devido a uma suposta overdose. No entanto a investigação posterior revela que foi envenenado.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304103300 -0300" stop="20260304111900 -0300" channel="TNT SERIES HD">
+  <programme start="20260304100300 -0300" stop="20260304105100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">No 100º episódio, o número de Finch é escolhido.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304111900 -0300" stop="20260304120300 -0300" channel="TNT SERIES HD">
+  <programme start="20260304105100 -0300" stop="20260304113700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <desc lang="pt">A equipe deverá desvendar uma conspiração e sair na frente do Serviço Secreto quando o presidente dos Estados Unidos é escolhido pela Máquina.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304120300 -0300" stop="20260304124900 -0300" channel="TNT SERIES HD">
+  <programme start="20260304113700 -0300" stop="20260304122400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Quando o cadáver de uma imigrante romena é encontrado enterrado no quintal de um apartamento, Stabler e Benson descobrem que a mulher havia deixado seu marido abusivo e costumava tirar vantagem de ricos pretendentes.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304124900 -0300" stop="20260304133400 -0300" channel="TNT SERIES HD">
+  <programme start="20260304122400 -0300" stop="20260304131100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">O espancamento de uma mulher está ligado a uma rede de prostituição na qual o chefe manda as prostitutas para encontros perigosos.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304133400 -0300" stop="20260304142000 -0300" channel="TNT SERIES HD">
+  <programme start="20260304131100 -0300" stop="20260304135900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Inato</sub-title>
     <desc lang="pt">Os detetives prendem um homem que molestou o enteado e negociam com ele para obter informações que levem ao líder de um grupo de pedofilia. A mãe da vítima, no entanto, pode pôr a investigação em risco.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">11.5.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260304142000 -0300" stop="20260304150200 -0300" channel="TNT SERIES HD">
+  <programme start="20260304135900 -0300" stop="20260304144400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Assustado</sub-title>
     <desc lang="pt">Os detetives lidam com o assassinato de um casal envolvido com o mercado de drogas. Porém, quando o FBI assume a investigação, Olivia e Elliot buscam novos caminhos para desvendar o homicídio.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">11.6.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260304150200 -0300" stop="20260304155000 -0300" channel="TNT SERIES HD">
+  <programme start="20260304144400 -0300" stop="20260304153300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Um Dólar Um Sonho</sub-title>
     <desc lang="pt">Em 1999, morre uma mulher indigente e anos depois a equipe de detetives reabre o caso quando um corpo é encontrado nas profundezas de um rio dentro de uma perua familiar.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">4.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304155000 -0300" stop="20260304163400 -0300" channel="TNT SERIES HD">
+  <programme start="20260304153300 -0300" stop="20260304161900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Agressor</sub-title>
     <desc lang="pt">Um pai desesperado se torna um serial killer e obriga a equipe a dar uma olhada no caso de assassinato de seu filho, em 1987.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">4.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304163400 -0300" stop="20260304171800 -0300" channel="TNT SERIES HD">
+  <programme start="20260304161900 -0300" stop="20260304170400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Atitude</sub-title>
     <desc lang="pt">Uma confissão anônima do assassinato de uma garota de 16 anos é encontrada numa exibição de arte moderna.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.20.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304171800 -0300" stop="20260304180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260304170400 -0300" stop="20260304174900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304180100 -0300" stop="20260304184600 -0300" channel="TNT SERIES HD">
+  <programme start="20260304174900 -0300" stop="20260304183600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e a CBI se deparam com um fantasma e uma mansão assombrada, quando investigam a morte misteriosa de um homem rico. A única testemunha do crime diz que ele foi morto por um fantasma em sua mansão.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304184600 -0300" stop="20260304193000 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Uma testemunha em um caso de narcóticos é assassinada junto com sua namorada. Todos os olhos se voltam para o traficante contra quem a vítima deveria testemunhar, mas Jane percebe um motivo e um suspeito diferentes.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304193000 -0300" stop="20260304201700 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
     <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304201700 -0300" stop="20260304210100 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304210100 -0300" stop="20260304214500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Jane e a CBI se deparam com um fantasma e uma mansão assombrada, quando investigam a morte misteriosa de um homem rico. A única testemunha do crime diz que ele foi morto por um fantasma em sua mansão.</desc>
-    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304214500 -0300" stop="20260304223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260304183600 -0300" stop="20260304192200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Uma testemunha em um caso de narcóticos é assassinada junto com sua namorada. Todos os olhos se voltam para o traficante contra quem a vítima deveria testemunhar, mas Jane percebe um motivo e um suspeito diferentes.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304223000 -0300" stop="20260304231500 -0300" channel="TNT SERIES HD">
+  <programme start="20260304192200 -0300" stop="20260304201000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304231500 -0300" stop="20260304235900 -0300" channel="TNT SERIES HD">
+  <programme start="20260304201000 -0300" stop="20260304205600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304235900 -0300" stop="20260305004300 -0300" channel="TNT SERIES HD">
+  <programme start="20260304205600 -0300" stop="20260304214300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Jane e a CBI se deparam com um fantasma e uma mansão assombrada, quando investigam a morte misteriosa de um homem rico. A única testemunha do crime diz que ele foi morto por um fantasma em sua mansão.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304235900 -0300" stop="20260305004300 -0300" channel="TNT SERIES HD">
+  <programme start="20260304214300 -0300" stop="20260304223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
-    <desc lang="pt">Jane e a CBI se deparam com um fantasma e uma mansão assombrada, quando investigam a morte misteriosa de um homem rico. A única testemunha do crime diz que ele foi morto por um fantasma em sua mansão.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <desc lang="pt">Uma testemunha em um caso de narcóticos é assassinada junto com sua namorada. Todos os olhos se voltam para o traficante contra quem a vítima deveria testemunhar, mas Jane percebe um motivo e um suspeito diferentes.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260304223000 -0300" stop="20260304231800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">Um assassinato em uma cidade pequena é investigado e logo descobre-se que se trata de um caso de vingança.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304231800 -0300" stop="20260305000400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304231800 -0300" stop="20260305000400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305000400 -0300" stop="20260305004300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">2340</length>
   </programme>
   <programme start="20260305004300 -0300" stop="20260305012700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
@@ -214099,23 +214107,23 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260303223000 -0300" stop="20260304005800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260303223000 -0300" stop="20260304005900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Aquaman</title>
     <desc lang="pt">Aquaman revela a história de origem do meio-humano/meio-atlante Arthur Curry e o acompanha em sua trajetória.</desc>
-    <length units="minutes">8880</length>
+    <length units="minutes">8940</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260303223000 -0300" stop="20260304005800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260303223000 -0300" stop="20260304005900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Aquaman</title>
     <desc lang="pt">Aquaman revela a história de origem do meio-humano/meio-atlante Arthur Curry e o acompanha em sua trajetória.</desc>
-    <length units="minutes">8880</length>
+    <length units="minutes">8940</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304005800 -0300" stop="20260304012300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304005900 -0300" stop="20260304012400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie e Mia começam os preparativos para o casamento. As coisas começam a desmoronar quando as duas famílias se encontram. Eles acabam optando por uma cerimônia menor em Las Vegas.</desc>
     <length units="minutes">1500</length>
@@ -214124,7 +214132,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304012300 -0300" stop="20260304014700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304012400 -0300" stop="20260304014800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie enfrenta as consequências do cancelamento do seu casamento e da impulsiva decisão de Alan em se casar com Kandi. Em Las Vegas, Alan e sua materialista esposa descobrem que a onda de sorte de Ala ainda não acabou.</desc>
     <length units="minutes">1440</length>
@@ -214133,7 +214141,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304014700 -0300" stop="20260304021000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304014800 -0300" stop="20260304021100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
     <length units="minutes">1380</length>
@@ -214142,7 +214150,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304021000 -0300" stop="20260304023300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304021100 -0300" stop="20260304023400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer, mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
     <length units="minutes">1380</length>
@@ -214151,7 +214159,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304023300 -0300" stop="20260304025500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304023400 -0300" stop="20260304025600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan e Kandi se envolvem em uma batalha de custódia nada convencional. Alan está decidido a manter a custódia do cachorro, dele e de Kandi, depois dela ficar com o apartamento e o carro na separação.</desc>
     <length units="minutes">1320</length>
@@ -214160,7 +214168,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304025500 -0300" stop="20260304031700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304025600 -0300" stop="20260304031800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Alan está encantado porque não terá que pagar pensão alimentícia para Judith quando ela se casar com seu namorado, Herb. Entretanto, os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake...</desc>
     <length units="minutes">1320</length>
@@ -214169,7 +214177,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304031700 -0300" stop="20260304033800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304031800 -0300" stop="20260304033900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon ensina Leonard a jogar futebol e uma briga boba coloca em risco a amizade entre Howard e Raj.</desc>
     <length units="minutes">1260</length>
@@ -214178,7 +214186,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304033800 -0300" stop="20260304035900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304033900 -0300" stop="20260304040000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">A primeira briga de Penny e Leonard faz Sheldon tentar mediar a situação devido a um grande trauma de infância que o fez incapaz de ficar próximo de gritarias.</desc>
     <length units="minutes">1260</length>
@@ -214187,7 +214195,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304035900 -0300" stop="20260304042100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304040000 -0300" stop="20260304042200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Com o resto da turma acampando em um deserto para ver uma tempestade de cometas, Sheldon deve bancar o herói depois que Penny escorrega no banho e machuca o ombro.</desc>
     <length units="minutes">1320</length>
@@ -214196,7 +214204,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304042100 -0300" stop="20260304044200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304042200 -0300" stop="20260304044300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Barry Kripke envergonha Sheldon, e seus amigos o ajudam a se vingar. Wolowitz, desesperado para manter vivo seu romance com Bernadette, recebe conselhos de uma versão fantasiosa de Katee Sackhoff.</desc>
     <length units="minutes">1260</length>
@@ -214205,7 +214213,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304044200 -0300" stop="20260304050200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304044300 -0300" stop="20260304050300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Penny pede ajuda a Sheldon para entender melhor o trabalho de Leonard. Wolowitz tem planos quando Leonard e Bernadette ficam amigos.</desc>
     <length units="minutes">1200</length>
@@ -214214,7 +214222,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304050200 -0300" stop="20260304052300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304050300 -0300" stop="20260304052400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Uma visita de natal de sua mãe faz Leonard descobrir que ela escondeu várias novidades do próprio filho, mas dividiu com Sheldon. Além disso, será que ela vai aprovar o romance de Penny e Leonard?</desc>
     <length units="minutes">1260</length>
@@ -214223,11 +214231,11 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304052300 -0300" stop="20260304054800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304052400 -0300" stop="20260304054800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Search Party</title>
     <sub-title lang="pt">O Segredo da Cerimônia Sinistra</sub-title>
     <desc lang="pt">O grupo comparece a uma reunião de uma seita sinistra relacionada ao desaparecimento de Chantal, mas talvez eles tenham ido longe demais, porque, ao chegarem em casa, Dory e Drew encontram uma mensagem ameaçadora.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -214242,26 +214250,42 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304060000 -0300" stop="20260304064700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">All American: Homecoming</title>
-    <sub-title lang="pt">Levante-Me</sub-title>
-    <desc lang="pt">Nate insiste para que Simone deixe Amara saber o que está acontecendo com sua saúde.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
+  <programme start="20260304060000 -0300" stop="20260304060200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304064700 -0300" stop="20260304073100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304060200 -0300" stop="20260304060400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260304060400 -0300" stop="20260304063000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Search Party</title>
+    <sub-title lang="pt">O Enigma no Lixo</sub-title>
+    <desc lang="pt">Dory faz um grande avanço no caso, enquanto Drew é tentado pelos frutos de outra história.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304063000 -0300" stop="20260304071600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Damon faz uma viagem para Georgia, chegando de surpresa para uma antiga paixão, Bree. Ele pede a ajuda dela para descobrir como abrir o túmulo.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304073100 -0300" stop="20260304081700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304071600 -0300" stop="20260304080200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Vampire Diaries</title>
     <desc lang="pt">Enquanto Stefan e Damon tentam descobrir a identidade do novo vampiro na cidade, Stefan dá a Elena uma joia com vervain para proteger a família e os amigos dela.</desc>
     <length units="minutes">2760</length>
@@ -214270,25 +214294,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304081700 -0300" stop="20260304083700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304080200 -0300" stop="20260304082400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304083700 -0300" stop="20260304090100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304082400 -0300" stop="20260304084700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304090100 -0300" stop="20260304092500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304084700 -0300" stop="20260304091100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Incapaz de dormir, Alan aceita a sugestão de Charlie e vai cavalgar na praia. Depois de sua carreira dar um guinada desastrosa, Alan se consulta com um psiquiatra na esperança de descobrir a origem de sua insônia.</desc>
     <length units="minutes">1440</length>
@@ -214297,34 +214321,34 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304092500 -0300" stop="20260304094900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304091100 -0300" stop="20260304093400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304094900 -0300" stop="20260304101000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304093400 -0300" stop="20260304095800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tem que escolher entre sua namorada, Lydia, e Berta, quando cada uma delas, pensando que a outra ultrapassou seus limites, luta para que ele fique do seu lado.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304101000 -0300" stop="20260304103400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304095800 -0300" stop="20260304102300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304103400 -0300" stop="20260304105400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304102300 -0300" stop="20260304104300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon e seu pai jantam com a presidente Hagemeyer e um benfeitor da universidade. Dale e sua ex-mulher convidam Meemaw para o casamento de seu filho.</desc>
     <length units="minutes">1200</length>
@@ -214333,7 +214357,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304105400 -0300" stop="20260304111500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304104300 -0300" stop="20260304110400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon faz campanha para se tornar o assistente de laboratório do Dr. Linkletter. Enquanto isso, Georgie pede ajuda a Mr. Lundy, o professor de teatro, para uma nova ideia surpreendente de negócio.</desc>
     <length units="minutes">1260</length>
@@ -214342,16 +214366,16 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304111500 -0300" stop="20260304113500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304110400 -0300" stop="20260304112500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Dr. Linkletter insiste que Sheldon faça amizade na sala de aula. Georgie compra um pager.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304113500 -0300" stop="20260304115600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304112500 -0300" stop="20260304114600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon, Dr. Linkletter e Meemaw se unem em um experimento científico.</desc>
     <length units="minutes">1260</length>
@@ -214360,7 +214384,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304115600 -0300" stop="20260304121800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304114600 -0300" stop="20260304120800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard descobre um segredo de Penny: ela acredita em videntes. Sheldon tenta ajudar Raj a escolher uma garota numa festa da universidade.</desc>
     <length units="minutes">1320</length>
@@ -214369,25 +214393,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304121800 -0300" stop="20260304123800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304120800 -0300" stop="20260304123100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Um roubo no apartamento de Sheldon e Leonard faz com que os nerds peçam ajuda aos amigos para bolar um novo sistema de segurança.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304123800 -0300" stop="20260304125900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304123100 -0300" stop="20260304125300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Obcecado por solucionar uma equação, Sheldon procura métodos alternativos para abordar a questão e desbloquear o raciocínio - o que inclui trabalhar com Penny no The Cheesecake Factory.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304125900 -0300" stop="20260304132300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304125300 -0300" stop="20260304131700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard enfrenta um dilema: ele deve escolher se é Penny ou Sheldon quem vai lhe acompanhar em uma viagem para a Suíça para conferir um acelerador de partículas em pleno dia dos namorados.</desc>
     <length units="minutes">1440</length>
@@ -214396,34 +214420,34 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304132300 -0300" stop="20260304134500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304131700 -0300" stop="20260304134000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon perde a oportunidade de conhecer a lenda das histórias em quadrinho Stan Lee, quando precisa comparecer a um julgamento depois de receber uma multa de trânsito por causa de Penny.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304134500 -0300" stop="20260304140600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304134000 -0300" stop="20260304140200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Os rapazes concordam em ir a uma feira de artigos usados para encontrar o anel do filme Senhor dos Anéis. O achado termina colocando a amizade deles em risco.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304140600 -0300" stop="20260304143000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304140200 -0300" stop="20260304142500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304143000 -0300" stop="20260304145400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304142500 -0300" stop="20260304144900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
     <length units="minutes">1440</length>
@@ -214432,43 +214456,43 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304145400 -0300" stop="20260304151800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304144900 -0300" stop="20260304151200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Incapaz de dormir, Alan aceita a sugestão de Charlie e vai cavalgar na praia. Depois de sua carreira dar um guinada desastrosa, Alan se consulta com um psiquiatra na esperança de descobrir a origem de sua insônia.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304151800 -0300" stop="20260304153900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304151200 -0300" stop="20260304153600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Durante um encontro duplo, Charlie se aborrece com Alan por ele estar constantemente lhe pedindo dinheiro emprestado e prometendo pagar a conta na próxima vez.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304153900 -0300" stop="20260304160400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304153600 -0300" stop="20260304155900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie tem que escolher entre sua namorada, Lydia, e Berta, quando cada uma delas, pensando que a outra ultrapassou seus limites, luta para que ele fique do seu lado.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304160400 -0300" stop="20260304162700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304155900 -0300" stop="20260304162300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304162700 -0300" stop="20260304164700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304162300 -0300" stop="20260304164300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon e seu pai jantam com a presidente Hagemeyer e um benfeitor da universidade. Dale e sua ex-mulher convidam Meemaw para o casamento de seu filho.</desc>
     <length units="minutes">1200</length>
@@ -214477,60 +214501,60 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304164700 -0300" stop="20260304170600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304164300 -0300" stop="20260304170300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon faz campanha para se tornar o assistente de laboratório do Dr. Linkletter. Enquanto isso, Georgie pede ajuda a Mr. Lundy, o professor de teatro, para uma nova ideia surpreendente de negócio.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304170600 -0300" stop="20260304172700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304170300 -0300" stop="20260304172500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Dr. Linkletter insiste que Sheldon faça amizade na sala de aula. Georgie compra um pager.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304172700 -0300" stop="20260304174700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304172500 -0300" stop="20260304174600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <desc lang="pt">Sheldon, Dr. Linkletter e Meemaw se unem em um experimento científico.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304174700 -0300" stop="20260304201900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304174600 -0300" stop="20260304201400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Aquaman</title>
     <desc lang="pt">Aquaman revela a história de origem do meio-humano/meio-atlante Arthur Curry e o acompanha em sua trajetória.</desc>
-    <length units="minutes">9120</length>
+    <length units="minutes">8880</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304201900 -0300" stop="20260304203800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304201400 -0300" stop="20260304203500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard descobre um segredo de Penny: ela acredita em videntes. Sheldon tenta ajudar Raj a escolher uma garota numa festa da universidade.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">3.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304203800 -0300" stop="20260304210100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304203500 -0300" stop="20260304205900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Um roubo no apartamento de Sheldon e Leonard faz com que os nerds peçam ajuda aos amigos para bolar um novo sistema de segurança.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304210100 -0300" stop="20260304212200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304205900 -0300" stop="20260304212000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Obcecado por solucionar uma equação, Sheldon procura métodos alternativos para abordar a questão e desbloquear o raciocínio - o que inclui trabalhar com Penny no The Cheesecake Factory.</desc>
     <length units="minutes">1260</length>
@@ -214539,19 +214563,19 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304212200 -0300" stop="20260304214500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304212000 -0300" stop="20260304214400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard enfrenta um dilema: ele deve escolher se é Penny ou Sheldon quem vai lhe acompanhar em uma viagem para a Suíça para conferir um acelerador de partículas em pleno dia dos namorados.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304214500 -0300" stop="20260304220700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260304214400 -0300" stop="20260304220700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon perde a oportunidade de conhecer a lenda das histórias em quadrinho Stan Lee, quando precisa comparecer a um julgamento depois de receber uma multa de trânsito por causa de Penny.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
