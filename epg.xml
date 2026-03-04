@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-04 14:31:01" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-04 17:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -46223,7 +46223,14 @@
     <length units="minutes">7500</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260304042000 -0300" stop="20260304082000 -0300" channel="COMBATE HD">
+  <programme start="20260304042000 -0300" stop="20260304045000 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: De Corpo E Alma - Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20260304045000 -0300" stop="20260304085000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46232,7 +46239,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304082000 -0300" stop="20260304122000 -0300" channel="COMBATE HD">
+  <programme start="20260304085000 -0300" stop="20260304125000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46241,7 +46248,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304122000 -0300" stop="20260304162000 -0300" channel="COMBATE HD">
+  <programme start="20260304125000 -0300" stop="20260304165000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46250,7 +46257,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304162000 -0300" stop="20260304202000 -0300" channel="COMBATE HD">
+  <programme start="20260304165000 -0300" stop="20260304205000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46259,16 +46266,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304202000 -0300" stop="20260305000000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">13200</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="COMBATE HD">
+  <programme start="20260304205000 -0300" stop="20260305005000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46277,7 +46275,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="COMBATE HD">
+  <programme start="20260304205000 -0300" stop="20260305005000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46286,7 +46284,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="COMBATE HD">
+  <programme start="20260305005000 -0300" stop="20260305045000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46295,7 +46293,109 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="COMBATE HD">
+  <programme start="20260305045000 -0300" stop="20260305070000 -0300" channel="COMBATE HD">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260305070000 -0300" stop="20260305073500 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: De Corpo E Alma - Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">..</episode-num>
+  </programme>
+  <programme start="20260305073500 -0300" stop="20260305080500 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: Cine Marcial: Nico Acima Da Lei</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20260305080500 -0300" stop="20260305102000 -0300" channel="COMBATE HD">
+    <title lang="pt">FMS Fight Night: FMS Fight Night 9</title>
+    <desc lang="pt">FMS possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305102000 -0300" stop="20260305130000 -0300" channel="COMBATE HD">
+    <title lang="pt">Muay Thai Reprise: Attack Fight 35</title>
+    <desc lang="pt">O ATTACK FIGHT é uma organização de esportes de contato fundada por Adriano Souza em 2015, é um dos maiores eventos de Muay Thai profissional do Brasil.</desc>
+    <length units="minutes">9600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305130000 -0300" stop="20260305144000 -0300" channel="COMBATE HD">
+    <title lang="pt">VT - Grand Slam de Judô: Tashkent, Uzbequistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">6000</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260305144000 -0300" stop="20260305181000 -0300" channel="COMBATE HD">
+    <title lang="pt">UFC BJJ: Ufc Bjj</title>
+    <desc lang="pt">UFC BJJ marca o retorno de um evento do UFC ao Canal Combate, trazendo o Jiu-jitsu para o centro das atenções.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305181000 -0300" stop="20260305184500 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: Nascidos Para O Combate: Fabricio Andrade Ep1</title>
+    <desc lang="pt">Fique sabendo como foi a vida e carreira de grandes atletas de MMA.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">5..</episode-num>
+  </programme>
+  <programme start="20260305184500 -0300" stop="20260305190000 -0300" channel="COMBATE HD">
+    <title lang="pt">Baú Do Combate: Baú Do Combate: Ernane Pimenta</title>
+    <desc lang="pt">Baú Do Combate - Ernane Pimenta</desc>
+    <length units="minutes">900</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305190000 -0300" stop="20260305193000 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: De Corpo E Alma - Equilíbrio Emocional</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260305193000 -0300" stop="20260305200000 -0300" channel="COMBATE HD">
+    <title lang="pt">Sessão Combate: De Corpo E Alma - Equilíbrio Físico</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260305200000 -0300" stop="20260305221500 -0300" channel="COMBATE HD">
+    <title lang="pt">FMS Fight Night: FMS Fight Night 9</title>
+    <desc lang="pt">FMS possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305221500 -0300" stop="20260306014500 -0300" channel="COMBATE HD">
+    <title lang="pt">UFC BJJ: Ufc Bjj</title>
+    <desc lang="pt">UFC BJJ marca o retorno de um evento do UFC ao Canal Combate, trazendo o Jiu-jitsu para o centro das atenções.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305221500 -0300" stop="20260306014500 -0300" channel="COMBATE HD">
+    <title lang="pt">UFC BJJ: Ufc Bjj</title>
+    <desc lang="pt">UFC BJJ marca o retorno de um evento do UFC ao Canal Combate, trazendo o Jiu-jitsu para o centro das atenções.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306014500 -0300" stop="20260306042500 -0300" channel="COMBATE HD">
+    <title lang="pt">VT - Grand Slam de Judô: Paris, França</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">9600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260306042500 -0300" stop="20260306082500 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46304,7 +46404,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="COMBATE HD">
+  <programme start="20260306082500 -0300" stop="20260306122500 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46313,7 +46413,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="COMBATE HD">
+  <programme start="20260306122500 -0300" stop="20260306162500 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46322,7 +46422,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="COMBATE HD">
+  <programme start="20260306162500 -0300" stop="20260306202500 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <length units="minutes">14400</length>
@@ -46331,46 +46431,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="COMBATE HD">
+  <programme start="20260306202500 -0300" stop="20260307000000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="COMBATE HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">12900</length>
     <category lang="en">sports (general)</category>
     <rating system="Brazil">
       <value>[L]</value>
@@ -172666,59 +172730,59 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304055200 -0300" stop="20260304060000 -0300" channel="SPACE HD">
+  <programme start="20260304055200 -0300" stop="20260304060300 -0300" channel="SPACE HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">480</length>
+    <length units="minutes">660</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260304060000 -0300" stop="20260304062400 -0300" channel="SPACE HD">
+  <programme start="20260304060300 -0300" stop="20260304061200 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">6.63.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260304061200 -0300" stop="20260304063800 -0300" channel="SPACE HD">
     <title lang="pt">Olhos Da Lei</title>
-    <sub-title lang="pt">Ajuda e Resgate</sub-title>
-    <desc lang="pt">O COPOM lida com um caso de roubo e dois resgates na metrópole de SP</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <sub-title lang="pt">O COPOM em Dia de Jogo da Seleção</sub-title>
+    <desc lang="pt">O COPOM, centro de operações da Polícia Militar de São Paulo, atende a mais de 30 mil chamados.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304062400 -0300" stop="20260304070900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Eric Delko está no banco, quando três assaltantes usando máscaras invadem o local. Delko sabe que ele não pode lutar contra três bandidos, mas quando um deles tenta sequestrar uma garota, começa um tiroteio.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304070900 -0300" stop="20260304085800 -0300" channel="SPACE HD">
+  <programme start="20260304063800 -0300" stop="20260304083100 -0300" channel="SPACE HD">
     <title lang="pt">Jogo Bruto</title>
     <desc lang="pt">Um xerife de uma pequena cidade, afastado dos principais serviços da polícia devido a um incidente do passado, tem a chance de retornar à ativa ao se infiltrar no mundo da máfia de Chicago.</desc>
-    <length units="minutes">6540</length>
+    <length units="minutes">6780</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304085800 -0300" stop="20260304111200 -0300" channel="SPACE HD">
+  <programme start="20260304083100 -0300" stop="20260304110200 -0300" channel="SPACE HD">
     <title lang="pt">O Ataque</title>
     <desc lang="pt">Enquanto faz um tour da Casa Branca com sua filha, um policial é surpreendido com um ataque armado de um grupo de invasores, e vai fazer de tudo para salvar sua filha e proteger o presidente.</desc>
-    <length units="minutes">8040</length>
+    <length units="minutes">9060</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304111200 -0300" stop="20260304115900 -0300" channel="SPACE HD">
+  <programme start="20260304110200 -0300" stop="20260304115100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Quando Terry Rivers corre em grande velocidade em direção ao goleiro do time adversário, eles iniciam um briga e Terry é cercado por vários jogadores.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304115900 -0300" stop="20260304130600 -0300" channel="SPACE HD">
+  <programme start="20260304115100 -0300" stop="20260304125800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Grissom reencontra novamente a &quot;dominatrix&quot; Lady Heather quando ele segue as pistas de dois garotos de programa que foram mortos em uma rave em Las Vegas, e que trabalhavam para ela.</desc>
     <length units="minutes">4020</length>
@@ -172727,25 +172791,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304130600 -0300" stop="20260304135300 -0300" channel="SPACE HD">
+  <programme start="20260304125800 -0300" stop="20260304134600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um assalto em uma mercearia acaba em tiroteio e 5 pessoas são mortas. O policial que estava na cena do crime acredita que Grissom tem alguma coisa contra ele e a equipe inteira trabalha para coletar mais evidências.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304135300 -0300" stop="20260304143800 -0300" channel="SPACE HD">
+  <programme start="20260304134600 -0300" stop="20260304143300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Os estilos de vida dos ricos e famosos ficam sob o microscópio dos CSIs, quando a babá de uma família abastada é morta.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304143800 -0300" stop="20260304152500 -0300" channel="SPACE HD">
+  <programme start="20260304143300 -0300" stop="20260304152000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Muitas surpresas surgem na investigação do aparente assassinato de um funcionário do censo.</desc>
     <length units="minutes">2820</length>
@@ -172754,25 +172818,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304152500 -0300" stop="20260304160900 -0300" channel="SPACE HD">
+  <programme start="20260304152000 -0300" stop="20260304160600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304160900 -0300" stop="20260304165600 -0300" channel="SPACE HD">
+  <programme start="20260304160600 -0300" stop="20260304165400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Os CSIs investigam o esfaqueamento de um piloto de motocross que estava prestes a deixar a cidade com uma mulher que vivia.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304165600 -0300" stop="20260304174300 -0300" channel="SPACE HD">
+  <programme start="20260304165400 -0300" stop="20260304174100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Grissom investiga quando o funcionário de uma granja é encontrado morto na banheira usada para eletrocutar galinhas antes de serem abatidas.</desc>
     <length units="minutes">2820</length>
@@ -172781,16 +172845,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304174300 -0300" stop="20260304182800 -0300" channel="SPACE HD">
+  <programme start="20260304174100 -0300" stop="20260304182700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">A equipe investiga o assassinato de assassinos condenados após a sua libertação da prisão.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.9.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260304182800 -0300" stop="20260304191300 -0300" channel="SPACE HD">
+  <programme start="20260304182700 -0300" stop="20260304191200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Após o médico anestesista de uma clínica de cirurgia plástica ser encontrado morto em um aparente suicídio, Horatio acredita que esse pode ser um caso de assassinato.</desc>
     <length units="minutes">2700</length>
@@ -172799,25 +172863,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304191300 -0300" stop="20260304195900 -0300" channel="SPACE HD">
+  <programme start="20260304191200 -0300" stop="20260304195700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Hodges representa assassinatos hipotéticos no laboratório para dar aos seus colegas de trabalho uma chance de brincarem de CSI, mas, sem que saibam, ele tem outros motivos por trás de suas ações.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">8.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304195900 -0300" stop="20260304204200 -0300" channel="SPACE HD">
+  <programme start="20260304195700 -0300" stop="20260304204100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">A investigação gira em torno de um corpo encontrado em uma chaminé, e os CSIs precisar reabrir o caso de homicídio de uma adolescente que não havia sido solucionado.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304204200 -0300" stop="20260304212800 -0300" channel="SPACE HD">
+  <programme start="20260304204100 -0300" stop="20260304212700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Os CSIs descobrem que dois crimes que aparentemente não têm nenhuma relação são, na verdade, parte de um estranho plano de vingança.</desc>
     <length units="minutes">2760</length>
@@ -172826,10 +172890,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304212800 -0300" stop="20260304221400 -0300" channel="SPACE HD">
+  <programme start="20260304212700 -0300" stop="20260304221400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Eric Delko está no banco, quando três assaltantes usando máscaras invadem o local. Delko sabe que ele não pode lutar contra três bandidos, mas quando um deles tenta sequestrar uma garota, começa um tiroteio.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -172846,37 +172910,37 @@
   </programme>
   <programme start="20260304230000 -0300" stop="20260304232600 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
-    <sub-title lang="pt">Flagrante no Posto</sub-title>
-    <desc lang="pt">Crimes ambientais, de trânsito e tráfico de drogas na fronteira brasileira.</desc>
+    <sub-title lang="pt">Mulas do Tráfico</sub-title>
+    <desc lang="pt">PRF evita contrabando de receptores ilegais de TV do Paraguai.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304232600 -0300" stop="20260304235300 -0300" channel="SPACE HD">
+  <programme start="20260304232600 -0300" stop="20260304235200 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Dívidas do Passado</sub-title>
     <desc lang="pt">Apreensão dramática de mulheres envolvidas no tráfico na fronteira.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304235300 -0300" stop="20260305003800 -0300" channel="SPACE HD">
+  <programme start="20260304235200 -0300" stop="20260305003800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Quando Terry Rivers corre em grande velocidade em direção ao goleiro do time adversário, eles iniciam um briga e Terry é cercado por vários jogadores.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304235300 -0300" stop="20260305003800 -0300" channel="SPACE HD">
+  <programme start="20260304235200 -0300" stop="20260305003800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Quando Terry Rivers corre em grande velocidade em direção ao goleiro do time adversário, eles iniciam um briga e Terry é cercado por vários jogadores.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -172891,16 +172955,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305014400 -0300" stop="20260305022900 -0300" channel="SPACE HD">
+  <programme start="20260305014400 -0300" stop="20260305022800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Os estilos de vida dos ricos e famosos ficam sob o microscópio dos CSIs, quando a babá de uma família abastada é morta.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">6.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305022900 -0300" stop="20260305031200 -0300" channel="SPACE HD">
+  <programme start="20260305022800 -0300" stop="20260305031100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">Muitas surpresas surgem na investigação do aparente assassinato de um funcionário do censo.</desc>
     <length units="minutes">2580</length>
@@ -172909,25 +172973,25 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305031200 -0300" stop="20260305035600 -0300" channel="SPACE HD">
+  <programme start="20260305031100 -0300" stop="20260305035600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um assalto em uma mercearia acaba em tiroteio e 5 pessoas são mortas. O policial que estava na cena do crime acredita que Grissom tem alguma coisa contra ele e a equipe inteira trabalha para coletar mais evidências.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305035600 -0300" stop="20260305043800 -0300" channel="SPACE HD">
+  <programme start="20260305035600 -0300" stop="20260305043900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">5.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305043800 -0300" stop="20260305052200 -0300" channel="SPACE HD">
+  <programme start="20260305043900 -0300" stop="20260305052300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <desc lang="pt">A equipe investiga o assassinato de assassinos condenados após a sua libertação da prisão.</desc>
     <length units="minutes">2640</length>
@@ -172936,211 +173000,215 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260305052200 -0300" stop="20260305060300 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Após o médico anestesista de uma clínica de cirurgia plástica ser encontrado morto em um aparente suicídio, Horatio acredita que esse pode ser um caso de assassinato.</desc>
-    <length units="minutes">2460</length>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
+  <programme start="20260305052300 -0300" stop="20260305061300 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">5.64.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260305061300 -0300" stop="20260305081000 -0300" channel="SPACE HD">
+    <title lang="pt">Impacto Profundo</title>
+    <desc lang="pt">Um jovem descobre um perigoso cometa em rota de colisão com a terra. O presidente dos EUA envia astrônomos ao espaço para evitar o desastre, mas nem tudo sai como o planejado e o caos se espalha pelo planeta.</desc>
+    <length units="minutes">7020</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260305081000 -0300" stop="20260305093900 -0300" channel="SPACE HD">
+    <title lang="pt">No Olho do Tornado</title>
+    <desc lang="pt">Na trama, em um único dia, a cidade de Silverton é devastada por uma ocorrência sem precedentes de tornados.</desc>
+    <length units="minutes">5340</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260305093900 -0300" stop="20260305113000 -0300" channel="SPACE HD">
+    <title lang="pt">O Impossível</title>
+    <desc lang="pt">De férias na Tailândia, uma família é separada quando um feroz tsunami choca contra o hotel. Começa assim um frenético e desesperado périplo para reencontrar-se e sobreviver.</desc>
+    <length units="minutes">6660</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260305113000 -0300" stop="20260305121400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um ônibus com 23 passageiros vindo de Los Angeles para Las Vegas bate a menos de 65 quilômetros de seu destino, matando nove pessoas.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305060300 -0300" stop="20260305074400 -0300" channel="SPACE HD">
-    <title lang="pt">Contra o Relógio</title>
-    <desc lang="pt">Nove amigos, todos guardando um segredo sombrio, vão acampar na floresta. Depois de uma noite selvagem de festa, eles acordam com BOMBAS SUICIDAS amarradas ao peito todas com tempos variados em seus relógios de contagem regressiva</desc>
-    <length units="minutes">6060</length>
+  <programme start="20260305121400 -0300" stop="20260305125700 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">O filho de cinco anos de um astro da NBA é sequestrado enquanto seu pai estava num cassino, e Warrick e Catherine assumem o caso após um pedido de resgate de US$ 5 milhões ser feito.</desc>
+    <length units="minutes">2580</length>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305125700 -0300" stop="20260305134400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Toda a equipe deverá investigar um crime onde um marido e sua esposa que é uma estrela dos filmes pornôs são assassinados.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">4.15.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305134400 -0300" stop="20260305143200 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma metralhadora rara e ilegal, que &quot;vaporiza&quot; suas vítimas, é encontrada nas ruas de Miami.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305143200 -0300" stop="20260305152000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Delko deve depor contra sua antiga equipe quando é convocado para um júri.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">8.11.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305152000 -0300" stop="20260305160500 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um urso é encontrado morto com sua bexiga cuidadosamente removida e o corpo de seu caçador também é encontrado na região, levando a equipe de CSI a analisar as evidências que sugerem que outra pessoa esteja envolvida ...</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305160500 -0300" stop="20260305165400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Os CSIs vão para uma elegante festa feita para a nata da sociedade, com o intuito de descobrir quem matou um jovem rapaz. O caso se torna pessoal para Catherine quando seu pai, Sam Braun, se torna um dos suspeitos.</desc>
+    <length units="minutes">2940</length>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305165400 -0300" stop="20260305174000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Catherine é testemunha no julgamento em que um homem é acusado de matar sua própria mãe há 3 anos atrás, mas o suspeito é declarado inocente.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305174000 -0300" stop="20260305182500 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Horatio procura por uma família que desapareceu sem deixar vestígios.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">10.10.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260305074400 -0300" stop="20260305093300 -0300" channel="SPACE HD">
-    <title lang="pt">Um Tira da Pesada 2</title>
-    <desc lang="pt">Esta é a segunda aventura de Detroit Axel Foley, que volta para ajudar o amigo Andrew em perigosa investigação de contrabando internacional de armas.</desc>
-    <length units="minutes">6540</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305093300 -0300" stop="20260305113200 -0300" channel="SPACE HD">
-    <title lang="pt">Um Tira da Pesada 3</title>
-    <desc lang="pt">Após testemunhar o assassinato de seu chefe, o detetive Axel Foley busca encontrar o culpado. Ao seguir as pistas, ele chega a um parque de diversões, dando início a uma louca perseguição policial.</desc>
-    <length units="minutes">7140</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305113200 -0300" stop="20260305121900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">14.6.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305121900 -0300" stop="20260305130400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">A equipe CSI investiga a morte de um desconhecido encontrado durante as chuvas torrenciais que castigaram Vegas.</desc>
+  <programme start="20260305182500 -0300" stop="20260305191000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Um vendedor de diamantes que carregava consigo dois milhões de dólares é assassinado depois que ele briga com o motorista do carro que acerto o carro dele.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.7.</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305130400 -0300" stop="20260305134700 -0300" channel="SPACE HD">
+  <programme start="20260305191000 -0300" stop="20260305195700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">Quando um homem é encontrado morto dentro de uma bola para hamster em tamanho humano, a equipe CSI é trazida para investigar.</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">14.8.</episode-num>
+    <desc lang="pt">A equipe investiga uma quadrilha de crime organizado underground. Warrick termina se tornando o suspeito principal em um assassinato e o seu vício em medicamentos começa ter um grande impacto em seu trabalho.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">8.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305134700 -0300" stop="20260305143300 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Filho de Horatio pode ser principal suspeito em investigação. Enquanto a equipe está investigando um assassinato em uma situação em que havia reféns, Horatio descobre que o principal suspeito.</desc>
+  <programme start="20260305195700 -0300" stop="20260305204300 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">A equipe é chamada para resolver um caso de triplo homicídio. Os corpos estão cortados em pedaços e tem um machado na mesma cena do crime.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <episode-num system="xmltv_ns">9.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305143300 -0300" stop="20260305152100 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Enquanto Horatio investiga um caso de vingança contra uma de suas antigas paixões, os problemas pessoais de um CSI ameaça a investigação e Horatio é forçado a demitir um membro de sua equipe.</desc>
-    <length units="minutes">2880</length>
-    <episode-num system="xmltv_ns">5.22.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305152100 -0300" stop="20260305160600 -0300" channel="SPACE HD">
+  <programme start="20260305204300 -0300" stop="20260305212900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências.</desc>
+    <desc lang="pt">A investigação sobre traficantes de órgãos humanos continua, mas agora, é uma corrida contra o relógio.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">10.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305212900 -0300" stop="20260305221400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Um traficante é baleado em sua mansão e um suspeito preso na cena do crime diz que vende maconha para Delko. Stetler, que investiga casos internos, assume o caso e descobre que Horatio também está envolvido.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.9.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305160600 -0300" stop="20260305165200 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">14.15.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305165200 -0300" stop="20260305173900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">14.2.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305173900 -0300" stop="20260305182400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Após o suspeito de cometer um acidente de carro ser assassinado, os CSIs descobrem que a vítima talvez estivesse envolvida na venda de drogas nas praias de Miami com um perigoso traficante.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">5.23.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305182400 -0300" stop="20260305191100 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Quando um serial killer suspeito de matar jovens mulheres e marcá-las como a letra &quot;y&quot; é preso e também é identificado como tendo um cromossomo Y extra, o &quot;gene criminoso&quot;, a equipe acredita que eles conclu...</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">5.24.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305191100 -0300" stop="20260305195700 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">Finlay deve liar com uma bomba colocada em seu carro, enquanto Russell recebe uma ligação de alguém que afirma ser o assassino de Gig Harbor.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">15.1.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305195700 -0300" stop="20260305204100 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">14.15.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305204100 -0300" stop="20260305212700 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">14.2.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260305212700 -0300" stop="20260305221400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Quando o corpo da amante envolvida na mais feia batalha judicial de divórcio de Miami é encontrado, a batalha se intensifica ainda mais e a contagem de corpos aumenta.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">5.21.</episode-num>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260305221400 -0300" stop="20260305230000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <desc lang="pt">Filho de Horatio pode ser principal suspeito em investigação. Enquanto a equipe está investigando um assassinato em uma situação em que havia reféns, Horatio descobre que o principal suspeito.</desc>
+    <desc lang="pt">Eventos estranhos começam a acontecer, quando a esquipe CSI localiza um serial killer que mata durante o eclipse solar.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305230000 -0300" stop="20260305232500 -0300" channel="SPACE HD">
+  <programme start="20260305230000 -0300" stop="20260305232600 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
-    <sub-title lang="pt">Perseguição A Carro Roubado</sub-title>
-    <desc lang="pt">Perseguição, arma em mala de bebê, na fronteira com Paraguai e Bolívia.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <sub-title lang="pt">Garimpo Abandonado</sub-title>
+    <desc lang="pt">PRF combate garimpo ilegal e tráfico de drogas nas fronteiras brasileiras.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305232500 -0300" stop="20260305235200 -0300" channel="SPACE HD">
+  <programme start="20260305232600 -0300" stop="20260305235300 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
-    <sub-title lang="pt">Comboio</sub-title>
-    <desc lang="pt">Veja o trabalho incansável da Polícia Rodoviária Federal no combate ao contrabando e ao crime organizado. Em um país de dimensão continental, acompanhe os desafios dos agentes em defesa das fronteiras, de norte a sul.</desc>
+    <sub-title lang="pt">Máquinas de Desmatamento</sub-title>
+    <desc lang="pt">PRF em ação contra tráfico, garimpo ilegal e porte irregular de armas.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305235200 -0300" stop="20260306003700 -0300" channel="SPACE HD">
+  <programme start="20260305235300 -0300" stop="20260306003600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.6.</episode-num>
+    <desc lang="pt">Um ônibus com 23 passageiros vindo de Los Angeles para Las Vegas bate a menos de 65 quilômetros de seu destino, matando nove pessoas.</desc>
+    <length units="minutes">2580</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305235200 -0300" stop="20260306003700 -0300" channel="SPACE HD">
+  <programme start="20260305235300 -0300" stop="20260306003600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.6.</episode-num>
+    <desc lang="pt">Um ônibus com 23 passageiros vindo de Los Angeles para Las Vegas bate a menos de 65 quilômetros de seu destino, matando nove pessoas.</desc>
+    <length units="minutes">2580</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260306003600 -0300" stop="20260306003700 -0300" channel="SPACE HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260306003700 -0300" stop="20260306012200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
@@ -174839,22 +174907,37 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304030000 -0300" stop="20260304070000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260304030000 -0300" stop="20260304040000 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260304070000 -0300" stop="20260304100500 -0300" channel="SPORTV 3">
+  <programme start="20260304040000 -0300" stop="20260304070000 -0300" channel="SPORTV 3">
     <title lang="pt">Faixa Combate: FMS Fight Night 8</title>
     <desc lang="pt">O maior evento de influenciadores da América Latina, traz em mais uma edição, uma luta histórica no Paraná! São 10 lutas de MMA e 3 lutas de Boxe que prometem muito!</desc>
-    <length units="minutes">11100</length>
+    <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260304100500 -0300" stop="20260304140500 -0300" channel="SPORTV 3">
+  <programme start="20260304070000 -0300" stop="20260304093000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Combate: Acelino &quot;Popó&quot; Freitas x José …</title>
+    <desc lang="pt">A organização possui destaque no cenário mundial das lutas ao promover duelo de boxe entre influenciadores, com grandes shows de música no evento.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260304093000 -0300" stop="20260304103000 -0300" channel="SPORTV 3">
+    <title lang="pt">Felipe Drugovich</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260304103000 -0300" stop="20260304143000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260304143000 -0300" stop="20260304183000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">14400</length>
@@ -174863,7 +174946,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304140500 -0300" stop="20260304180500 -0300" channel="SPORTV 3">
+  <programme start="20260304183000 -0300" stop="20260304223000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">14400</length>
@@ -174872,7 +174955,232 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304180500 -0300" stop="20260304220500 -0300" channel="SPORTV 3">
+  <programme start="20260304223000 -0300" stop="20260304233000 -0300" channel="SPORTV 3">
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+  </programme>
+  <programme start="20260304233000 -0300" stop="20260305000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Experiência De Mestre: Raul Gazolla</title>
+    <desc lang="pt">Raul Gazolla</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305000000 -0300" stop="20260305003000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Experiência De Mestre: Duda Nagle</title>
+    <desc lang="pt">Experiência De Mestre Duda Nagle_ep 4</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305003000 -0300" stop="20260305010000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Experiência De Mestre: Daiane Dos Santos</title>
+    <desc lang="pt">Experiência De Mestre : Daiane Dos Santos</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305010000 -0300" stop="20260305034000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Paris, França</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">9600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260305034000 -0300" stop="20260305052000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Tashkent,Uzbequistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">6000</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260305052000 -0300" stop="20260305071500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Tashkent,Uzbequistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">6900</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260305071500 -0300" stop="20260305082000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Road To Glory: Ginástica</title>
+    <desc lang="pt">Momentos gloriosos da ginástica ao longo da história das Olimpíadas, incluindo Olga Korbut, Nadia Comaneci e Yukio Endo.</desc>
+    <length units="minutes">3900</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260305082000 -0300" stop="20260305090000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Cine Marcial: Força Destruidora</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260305090000 -0300" stop="20260305093000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Against All Odds: Ep06 - Santiago Lange</title>
+    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial de competições!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305093000 -0300" stop="20260305110000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sail GP: 2ª Etapa: Dia 2 - Auckland,Nova Zelândia</title>
+    <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305110000 -0300" stop="20260305123000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sail GP: 3ª Etapa: Dia 1 - Sydney,Austrália</title>
+    <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305123000 -0300" stop="20260305140000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sail GP: 1ª Etapa: Dia 1 - Perth, Austrália</title>
+    <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305140000 -0300" stop="20260305150000 -0300" channel="SPORTV 3">
+    <title lang="pt">Felipe Nasr</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305150000 -0300" stop="20260305155500 -0300" channel="SPORTV 3">
+    <title lang="pt">Felipe Drugovich</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3300</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305155500 -0300" stop="20260305170000 -0300" channel="SPORTV 3">
+    <title lang="pt">Emerson Fittipaldi</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3900</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305170000 -0300" stop="20260305182000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">4800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305182000 -0300" stop="20260305195000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305195000 -0300" stop="20260305210000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Treino Livre: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">4200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260305210000 -0300" stop="20260305220000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sakhir, Bahrein</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305220000 -0300" stop="20260305233000 -0300" channel="SPORTV 3">
+    <title lang="pt">1º Treino Livre: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260305233000 -0300" stop="20260306004500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">4500</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260305233000 -0300" stop="20260306004500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">4500</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306004500 -0300" stop="20260306014500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Treino Classificatório: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260306014500 -0300" stop="20260306030000 -0300" channel="SPORTV 3">
+    <title lang="pt">2º Treino Livre: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">4500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260306030000 -0300" stop="20260306040000 -0300" channel="SPORTV 3">
+    <title lang="pt">1º Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306040000 -0300" stop="20260306054500 -0300" channel="SPORTV 3">
+    <title lang="pt">Mgm Slam: Mgm Slam: Las Vegas,EUA</title>
+    <desc lang="pt">Estrelas do tênis entram em quadra para grandes confrontos. Tá no MGM, ta no sportv!</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306054500 -0300" stop="20260306062500 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Cine Marcial: Rocky, Um Lutador</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20260306062500 -0300" stop="20260306070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sessão Combate: Cine Marcial: Força Destruidora</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260306070000 -0300" stop="20260306080000 -0300" channel="SPORTV 3">
+    <title lang="pt">1º Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306080000 -0300" stop="20260306090000 -0300" channel="SPORTV 3">
+    <title lang="pt">2º Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306090000 -0300" stop="20260306100000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306100000 -0300" stop="20260306103000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Land Of Legends: Supremacia No Esporte #2 - Judô …</title>
+    <desc lang="pt">Descubra por que alguns países são tão hegemônicos em determinados esportes. Neste episódio, os segredos do domínio do Japão no judô.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306103000 -0300" stop="20260306125500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Tashkent,Uzbequistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">8700</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260306125500 -0300" stop="20260306153000 -0300" channel="SPORTV 3">
+    <title lang="pt">Grand Prix de Judô - ao vivo</title>
+    <desc lang="pt">As grandes estrelas do Judô estão aqui no sportv! Acompanhe o Grand Prix de Judô</desc>
+    <length units="minutes">9300</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260306153000 -0300" stop="20260306193000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">14400</length>
@@ -174881,7 +175189,64 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304220500 -0300" stop="20260305020500 -0300" channel="SPORTV 3">
+  <programme start="20260306193000 -0300" stop="20260306220000 -0300" channel="SPORTV 3">
+    <title lang="pt">Jogos Olímpicos De Inverno Milano Cortina 2026™: Diário De …</title>
+    <desc lang="pt">Grandes atletas, provas decisivas e emoção olímpica. Acompanhe os Jogos Olímpicos de Inverno aqui no sportv!</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260306220000 -0300" stop="20260306233000 -0300" channel="SPORTV 3">
+    <title lang="pt">3º Treino Livre: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260306233000 -0300" stop="20260307010000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Corrida Sprint: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260306233000 -0300" stop="20260307010000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: Corrida Sprint: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260307010000 -0300" stop="20260307020000 -0300" channel="SPORTV 3">
+    <title lang="pt">Aquecimento sportv</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">1.66.</episode-num>
+  </programme>
+  <programme start="20260307020000 -0300" stop="20260307030000 -0300" channel="SPORTV 3">
+    <title lang="pt">Treino Classificatório: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260307030000 -0300" stop="20260307040000 -0300" channel="SPORTV 3">
+    <title lang="pt">2º Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260307040000 -0300" stop="20260307044500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Ep07: The Bryony Page Story - Extended Version</title>
+    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial de competições!</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260307044500 -0300" stop="20260307080000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Copa do Mundo Ginástica Artística: …</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
+    <length units="minutes">11700</length>
+    <category lang="en">team sports</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">14400</length>
@@ -174890,257 +175255,130 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260304220500 -0300" stop="20260305020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260307120000 -0300" stop="20260307125500 -0300" channel="SPORTV 3">
+    <title lang="pt">Treino Classificatório: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">3300</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260305020500 -0300" stop="20260305060500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260307125500 -0300" stop="20260307150000 -0300" channel="SPORTV 3">
+    <title lang="pt">Grand Prix de Judô - ao vivo</title>
+    <desc lang="pt">As grandes estrelas do Judô estão aqui no sportv! Acompanhe o Grand Prix de Judô</desc>
+    <length units="minutes">7500</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260305060500 -0300" stop="20260305100500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260307150000 -0300" stop="20260307165500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Tashkent,Uzbequistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20260305100500 -0300" stop="20260305140500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260307165500 -0300" stop="20260307190000 -0300" channel="SPORTV 3">
+    <title lang="pt">Mundial De Skate Park Masculino: São Paulo - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
+    <length units="minutes">7500</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260305140500 -0300" stop="20260305180500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260307190000 -0300" stop="20260307212000 -0300" channel="SPORTV 3">
+    <title lang="pt">Mundial De Skate Park Feminino: São Paulo - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
+    <length units="minutes">8400</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260305180500 -0300" stop="20260305220500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260307212000 -0300" stop="20260307223000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 2: GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv</desc>
+    <length units="minutes">4200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260305220500 -0300" stop="20260306020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260307223000 -0300" stop="20260308000000 -0300" channel="SPORTV 3">
+    <title lang="pt">3º Treino Livre: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">5400</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260305220500 -0300" stop="20260306020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308000000 -0300" stop="20260308010000 -0300" channel="SPORTV 3">
+    <title lang="pt">Aquecimento sportv</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260306020500 -0300" stop="20260306060500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308010000 -0300" stop="20260308030000 -0300" channel="SPORTV 3">
+    <title lang="pt">GP Da Austrália - ao vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260306060500 -0300" stop="20260306100500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308030000 -0300" stop="20260308033000 -0300" channel="SPORTV 3">
+    <title lang="pt">Especial Sportv Especial Gabriel Bortoleto</title>
+    <desc lang="pt">Os bastidores e os desafios do piloto Gabriel Bortoleto para a temporada 2026 da Fórmula 1.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260306100500 -0300" stop="20260306140500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308033000 -0300" stop="20260308044500 -0300" channel="SPORTV 3">
+    <title lang="pt">Treino Classificatório: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">4500</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260306140500 -0300" stop="20260306180500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308044500 -0300" stop="20260308080000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Copa do Mundo Ginástica Artística: …</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
+    <length units="minutes">11700</length>
+    <category lang="en">team sports</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260306180500 -0300" stop="20260306220500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308080000 -0300" stop="20260308113000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Copa do Mundo Ginástica Artística: Baku,Azerbaijão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">team sports</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260306220500 -0300" stop="20260307020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308113000 -0300" stop="20260308133000 -0300" channel="SPORTV 3">
+    <title lang="pt">GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260306220500 -0300" stop="20260307020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308133000 -0300" stop="20260308153000 -0300" channel="SPORTV 3">
+    <title lang="pt">Treino Classificatório: GP Da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260307020500 -0300" stop="20260307060500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308153000 -0300" stop="20260308170000 -0300" channel="SPORTV 3">
+    <title lang="pt">Mundial De Skate Park Masculino: São Paulo - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260307060500 -0300" stop="20260307100500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308170000 -0300" stop="20260308190000 -0300" channel="SPORTV 3">
+    <title lang="pt">Mundial De Skate Park Feminino: São Paulo - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260307100500 -0300" stop="20260307140500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260308190000 -0300" stop="20260308204500 -0300" channel="SPORTV 3">
+    <title lang="pt">Mundial De Skate Park Feminino: São Paulo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
+    <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
-  <programme start="20260307140500 -0300" stop="20260307180500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260307180500 -0300" stop="20260307220500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260307220500 -0300" stop="20260308020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260307220500 -0300" stop="20260308020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308020500 -0300" stop="20260308060500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308060500 -0300" stop="20260308100500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308100500 -0300" stop="20260308140500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308140500 -0300" stop="20260308180500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308180500 -0300" stop="20260308220500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308220500 -0300" stop="20260309020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260308204500 -0300" stop="20260309000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Palmeiras x Univ. Católica (Equ) - ao vivo</title>
+    <desc lang="pt">Os maiores atletas do futebol sub-20, disputam a taça da libertadores  Sub-20. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">11700</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260303232000 -0300" stop="20260304011500 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">No Limite do Amanhã</title>
