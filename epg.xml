@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-03 20:31:22" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-03 23:30:56" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -40380,22 +40380,36 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260303000000 -0300" stop="20260303020000 -0300" channel="CNN BRASIL">
+  <programme start="20260303000000 -0300" stop="20260303003500 -0300" channel="CNN BRASIL">
+    <title lang="pt">É Negócio</title>
+    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <length units="minutes">2100</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260303003500 -0300" stop="20260303024500 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time</title>
     <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7800</length>
     <episode-num system="xmltv_ns">80.62.</episode-num>
   </programme>
-  <programme start="20260303020000 -0300" stop="20260303040000 -0300" channel="CNN BRASIL">
-    <title lang="pt">Hora H</title>
-    <desc lang="pt">O Hora H tem a missão de abordar temas relevantes e responder às questões do telespectador, com o aprofundamento necessário para entender os impactos sobre a sociedade.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260303024500 -0300" stop="20260303035000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">82.62.</episode-num>
   </programme>
-  <programme start="20260303040000 -0300" stop="20260303055500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Prime Time</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260303035000 -0300" stop="20260303045500 -0300" channel="CNN BRASIL">
+    <title lang="pt">WW</title>
+    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">83.62.</episode-num>
+  </programme>
+  <programme start="20260303045500 -0300" stop="20260303055500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">84.62.</episode-num>
   </programme>
   <programme start="20260303055500 -0300" stop="20260303060000 -0300" channel="CNN BRASIL">
@@ -40508,40 +40522,42 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.62.</episode-num>
   </programme>
-  <programme start="20260303230000 -0300" stop="20260303233000 -0300" channel="CNN BRASIL">
-    <title lang="pt">O Grande Debate</title>
-    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260303230000 -0300" stop="20260304001000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio - ao vivo</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">4200</length>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.62.</episode-num>
   </programme>
-  <programme start="20260303233000 -0300" stop="20260304013000 -0300" channel="CNN BRASIL">
+  <programme start="20260303230000 -0300" stop="20260304001000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio - ao vivo</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">4200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.62.</episode-num>
+  </programme>
+  <programme start="20260304001000 -0300" stop="20260304022300 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time</title>
     <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">83.62.</episode-num>
+    <length units="minutes">7980</length>
+    <episode-num system="xmltv_ns">80.63.</episode-num>
   </programme>
-  <programme start="20260303233000 -0300" stop="20260304013000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Prime Time</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">83.62.</episode-num>
+  <programme start="20260304022300 -0300" stop="20260304033900 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">4560</length>
+    <episode-num system="xmltv_ns">82.63.</episode-num>
   </programme>
-  <programme start="20260304013000 -0300" stop="20260304033000 -0300" channel="CNN BRASIL">
-    <title lang="pt">Hora H</title>
-    <desc lang="pt">O Hora H tem a missão de abordar temas relevantes e responder às questões do telespectador, com o aprofundamento necessário para entender os impactos sobre a sociedade.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">81.63.</episode-num>
-  </programme>
-  <programme start="20260304033000 -0300" stop="20260304040000 -0300" channel="CNN BRASIL">
-    <title lang="pt">O Grande Debate</title>
-    <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260304033900 -0300" stop="20260304044500 -0300" channel="CNN BRASIL">
+    <title lang="pt">WW</title>
+    <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
+    <length units="minutes">3960</length>
     <episode-num system="xmltv_ns">83.63.</episode-num>
   </programme>
-  <programme start="20260304040000 -0300" stop="20260304055500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Prime Time</title>
-    <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260304044500 -0300" stop="20260304055500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Especial da Guerra no Oriente Médio</title>
+    <desc lang="pt">A CNN Brasil está em Breaking News. Acompanhe ao vivo as últimas informações.</desc>
+    <length units="minutes">4200</length>
     <episode-num system="xmltv_ns">84.63.</episode-num>
   </programme>
   <programme start="20260304055500 -0300" stop="20260304060000 -0300" channel="CNN BRASIL">
