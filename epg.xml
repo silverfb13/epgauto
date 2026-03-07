@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-07 11:30:59" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-07 14:30:57" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -24776,10 +24776,12 @@
     </rating>
   </programme>
   <programme start="20260308020000 -0300" stop="20260308022400 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Terra Santa News</title>
-    <desc lang="pt">As principais notícias do Oriente Médio, com destaque para as ações da Igreja Católica.</desc>
+    <title lang="pt">Lugares Sagrados</title>
+    <desc lang="pt">Você será convidado a fazer uma peregrinação pelos locais mais importantes da Terra Santa, por onde Nosso Senhor Jesus Cristo e os discípulos d'Ele passaram e viveram,</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">82.67.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260308022400 -0300" stop="20260308023000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Ajuda à Igreja que Sofre</title>
@@ -24826,10 +24828,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308040000 -0300" stop="20260308050000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">O Tempo É Breve</title>
-    <desc lang="pt">O monsenhor Jonas Abib compartilha ensinamentos e meditações sobre a palavra divina.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260308040000 -0300" stop="20260308044700 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Catequese</title>
+    <desc lang="pt">Transmissão semanal, direto de Roma, da Audiência Geral com o Papa Francisco. O Sumo Pontífice realiza ciclos de catequeses com mensagens direcionadas aos fiéis de várias localidades, inclusive os de língua portuguesa.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">4.67.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260308044700 -0300" stop="20260308050000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Discípulos e Missionários</title>
+    <desc lang="pt">Temas voltados à liderança, comprometimento e adesão.</desc>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">4.67.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -24903,15 +24914,16 @@
     <length units="minutes">300</length>
     <episode-num system="xmltv_ns">88.67.</episode-num>
   </programme>
-  <programme start="20260308082000 -0300" stop="20260308095000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Acampamento Sara-nos Senhor</title>
-    <desc lang="pt">A Comunidade Canção Nova realiza, pela primeira vez, o Acampamento 'Sara-nos, Senhor'. Inspirado no tema retirado de Jeremias 17,14: &quot;Cura-me, Senhor, e serei curado; salva-me, e serei salvo, porque tu és a minha glóri...</desc>
-    <length units="minutes">5400</length>
+  <programme start="20260308082000 -0300" stop="20260308093000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Acampamento Para Mulheres</title>
+    <desc lang="pt">O acampamento celebra o dom de ser mulher à luz da fé católica, um tempo de renovação.</desc>
+    <length units="minutes">4200</length>
+    <episode-num system="xmltv_ns">8.67.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308095000 -0300" stop="20260308100500 -0300" channel="CANÇÃO NOVA HD">
+  <programme start="20260308093000 -0300" stop="20260308094500 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Vitrine Canção Nova</title>
     <desc lang="pt">O programa tem a missão de divulgar o conteúdo de evangelização dos produtos Canção Nova, ou seja, os livros, CD's de música e palestras, vestuário e os conteúdos digitais que disponibilizaremos fut...</desc>
     <length units="minutes">900</length>
@@ -24919,7 +24931,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308100500 -0300" stop="20260308102000 -0300" channel="CANÇÃO NOVA HD">
+  <programme start="20260308094500 -0300" stop="20260308100000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Minuto Deus Proverá</title>
     <desc lang="pt">Institucional com prestação de contas da Obra Canção Nova com seu público. Os quadros demonstram os investimentos realizados: as construções e eventos promovidos, reformas e ações sociais.</desc>
     <length units="minutes">900</length>
@@ -24927,60 +24939,52 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308102000 -0300" stop="20260308113000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Acampamento Sara-nos Senhor</title>
-    <desc lang="pt">A Comunidade Canção Nova realiza, pela primeira vez, o Acampamento 'Sara-nos, Senhor'. Inspirado no tema retirado de Jeremias 17,14: &quot;Cura-me, Senhor, e serei curado; salva-me, e serei salvo, porque tu és a minha glóri...</desc>
-    <length units="minutes">4200</length>
+  <programme start="20260308100000 -0300" stop="20260308113000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Acampamento Para Mulheres</title>
+    <desc lang="pt">O acampamento celebra o dom de ser mulher à luz da fé católica, um tempo de renovação.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">10.67.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308113000 -0300" stop="20260308123000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santa Missa: Rito Maronita</title>
-    <desc lang="pt">Missas transmitidas diretamente da comunidade local.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260308113000 -0300" stop="20260308114500 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Ângelus Com O Papa Leão XIV</title>
+    <desc lang="pt">Transmissão, direto de Roma, da mensagem dominical do Papa.</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">11.67.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308123000 -0300" stop="20260308124500 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Ângelus Com O Papa Leão XIV</title>
-    <desc lang="pt">Transmissão, direto de Roma, da mensagem dominical do Papa.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">12.67.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308124500 -0300" stop="20260308130000 -0300" channel="CANÇÃO NOVA HD">
+  <programme start="20260308114500 -0300" stop="20260308120000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Discípulos e Missionários</title>
     <desc lang="pt">Temas voltados à liderança, comprometimento e adesão.</desc>
     <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">11.67.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260308120000 -0300" stop="20260308140000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Acampamento Para Mulheres</title>
+    <desc lang="pt">O acampamento celebra o dom de ser mulher à luz da fé católica, um tempo de renovação.</desc>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">12.67.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308130000 -0300" stop="20260308133000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Shows Canção Nova</title>
-    <desc lang="pt">Momento de louvor, oração e animação com canções ministradas por músicos católicos. Os shows são televisionados e transmitidos diretamente da Comunidade Canção Nova, em Cachoeira Paulista.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">13.67.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308133000 -0300" stop="20260308140000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Circulando</title>
-    <desc lang="pt">Um programa cheio de dinamismo, cultura e religiosidade. Cada semana de um Estado, Aracaju, São Paulo, Belo Horizonte. Leva a arte na música, na culinária, na religiosidade e história do povo brasileiro.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">13.67.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260308140000 -0300" stop="20260308143000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Circulando</title>
+    <desc lang="pt">Um programa cheio de dinamismo, cultura e religiosidade. Cada semana de um Estado, Aracaju, São Paulo, Belo Horizonte. Leva a arte na música, na culinária, na religiosidade e história do povo brasileiro.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">14.67.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260308143000 -0300" stop="20260308150000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Preservação Ambiental</title>
     <desc lang="pt">Com uma abordagem séria e comprometida, Marcelo Chaves promove a educação ambiental e a divulgação da fauna e flora brasileira, além do ecoturismo e da proteção da natureza.</desc>
     <length units="minutes">1800</length>
@@ -24989,19 +24993,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260308143000 -0300" stop="20260308153000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santa Faustina</title>
-    <desc lang="pt">O filme conta a história de uma vida curta, mas intensa da Beata Irmã Maria Faustina Kowalska. Ela viveu apenas 33 anos, mas a sua piedade, modéstia e humildade ganhou a admiração e reverência dos fiéis e do clero.</desc>
-    <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260308153000 -0300" stop="20260308163000 -0300" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Revolução Jesus</title>
-    <desc lang="pt">O programa Revolução Jesus tem uma abordagem totalmente atual, criativa e interativa dos principais dilemas, sonhos, vivência e comportamento dos jovens com o objetivo de conduzi-los a serem os protagonistas de uma revolução.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">15.67.</episode-num>
+  <programme start="20260308150000 -0300" stop="20260308163000 -0300" channel="CANÇÃO NOVA HD">
+    <title lang="pt">O Sim de Maria</title>
+    <desc lang="pt">Cinco mulheres comentam seu relacionamento com a fé e como enfrentam as dificuldades da vida.</desc>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
