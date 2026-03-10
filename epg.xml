@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-09 20:31:14" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-09 23:30:53" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -16855,6 +16855,12 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260309000000 -0300" stop="20260309010000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Insight with Haslinda Amin</title>
+    <desc lang="pt">Em um mundo volátil e imprevisível, o programa será o guia definitivo para que o público global de notícias obtenha o quadro completo da maior história do dia.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.68.</episode-num>
+  </programme>
   <programme start="20260309010000 -0300" stop="20260309020000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Insight with Haslinda Amin</title>
     <desc lang="pt">Em um mundo volátil e imprevisível, o programa será o guia definitivo para que o público global de notícias obtenha o quadro completo da maior história do dia.</desc>
@@ -16862,12 +16868,6 @@
     <episode-num system="xmltv_ns">81.68.</episode-num>
   </programme>
   <programme start="20260309020000 -0300" stop="20260309030000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Insight with Haslinda Amin</title>
-    <desc lang="pt">Em um mundo volátil e imprevisível, o programa será o guia definitivo para que o público global de notícias obtenha o quadro completo da maior história do dia.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.68.</episode-num>
-  </programme>
-  <programme start="20260309030000 -0300" stop="20260309040000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="pt">Um destaque para o crescimento acelerado e os principais negócios que acontecem no Oriente Médio e na África. Análises profundas dos principais negócios que moldam as decisões no Oriente Médio e na África.</desc>
     <length units="minutes">3600</length>
@@ -16875,13 +16875,13 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309040000 -0300" stop="20260309050000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309030000 -0300" stop="20260309040000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Daybreak Europe</title>
     <desc lang="pt">Bloomberg Daybreak: Europa. Ao vivo em Londres, acompanhe as principais e mais importantes notícias de negócios antes da abertura dos mercados europeus.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.68.</episode-num>
+    <episode-num system="xmltv_ns">83.68.</episode-num>
   </programme>
-  <programme start="20260309050000 -0300" stop="20260309070000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309040000 -0300" stop="20260309060000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Opening Trade</title>
     <desc lang="pt">Tudo o que você precisa saber sobre a abertura dos mercados na Europa. Com análises sobre as maiores histórias do dia e conversamos com os principais convidados que estão envolvidos no ramo.</desc>
     <length units="minutes">7200</length>
@@ -16889,22 +16889,22 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309070000 -0300" stop="20260309080000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309060000 -0300" stop="20260309070000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Brief</title>
     <desc lang="pt">O Bloomberg Brief oferece notícias, dados e análises de mercado que você precisa para definir sua agenda.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">7.68.</episode-num>
+    <episode-num system="xmltv_ns">6.68.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309080000 -0300" stop="20260309110000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309070000 -0300" stop="20260309100000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Surveillance</title>
     <desc lang="pt">Vigilância da Bloomberg. Ao vivo de Londres e Nova York, trazendo informações sobre os mercados globais e as principais histórias de negócios do dia.</desc>
     <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">88.68.</episode-num>
+    <episode-num system="xmltv_ns">87.68.</episode-num>
   </programme>
-  <programme start="20260309110000 -0300" stop="20260309130000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309100000 -0300" stop="20260309120000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Open Interest</title>
     <desc lang="pt">Bloomberg Open Interest fornece as notícias que movimentam o mercado que você precisa saber para começar bem o dia de negociações nos EUA.</desc>
     <length units="minutes">7200</length>
@@ -16912,34 +16912,34 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309130000 -0300" stop="20260309140000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309120000 -0300" stop="20260309130000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Tech</title>
     <desc lang="pt">Programa com foco em atualidades, reportagens que movimentam o mercado e análises de empresas e histórias globais de tecnologia. Entrevistas com os maiores nomes do setor, análises aprofundadas e percepções críticas.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.68.</episode-num>
+  </programme>
+  <programme start="20260309130000 -0300" stop="20260309140000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg ETF IQ</title>
+    <desc lang="pt">O programa concentra-se nas oportunidades, riscos e tendências atuais vinculadas aos trilhões de dólares na indústria global de fundos negociados em bolsa.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.68.</episode-num>
   </programme>
   <programme start="20260309140000 -0300" stop="20260309150000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg ETF IQ</title>
-    <desc lang="pt">O programa concentra-se nas oportunidades, riscos e tendências atuais vinculadas aos trilhões de dólares na indústria global de fundos negociados em bolsa.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.68.</episode-num>
-  </programme>
-  <programme start="20260309150000 -0300" stop="20260309160000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Balance of Power</title>
     <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">15.68.</episode-num>
+    <episode-num system="xmltv_ns">14.68.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309160000 -0300" stop="20260309170000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309150000 -0300" stop="20260309160000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Businessweek Daily</title>
     <desc lang="pt">Carol Massar e Tim Stenovec trazem a você as reportagens da revista que ajuda os líderes globais a se manterem à frente, além de insights sobre pessoas, empresas e tendências que moldam a complexa economia atual.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">86.68.</episode-num>
+    <episode-num system="xmltv_ns">85.68.</episode-num>
   </programme>
-  <programme start="20260309170000 -0300" stop="20260309190000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309160000 -0300" stop="20260309180000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Close</title>
     <desc lang="pt">Sintetiza as principais notícias nas horas críticas do dia de negociação - com as principais percepções de investidores, estrategistas e empresas de hoje e de amanhã.</desc>
     <length units="minutes">7200</length>
@@ -16947,16 +16947,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309190000 -0300" stop="20260309200000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309180000 -0300" stop="20260309190000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Balance of Power</title>
     <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">19.68.</episode-num>
+    <episode-num system="xmltv_ns">18.68.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309200000 -0300" stop="20260309210000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309190000 -0300" stop="20260309200000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">The Circuit: Sitting Down With The Newsoms</title>
     <desc lang="pt">Emily Chang encontra Gavin Newsom e Jennifer Siebel Newsom. Embora faltem mais de dois anos para a próxima eleição presidencial, o governador da Califórnia é considerado o favorito para a indicação democrata.</desc>
     <length units="minutes">3600</length>
@@ -16965,7 +16965,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309210000 -0300" stop="20260309230000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309200000 -0300" stop="20260309220000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Asia Trade</title>
     <desc lang="pt">Tazendo aos investidores globais tudo o que precisam de saber no início do dia de negociação na Ásia.</desc>
     <length units="minutes">7200</length>
@@ -16973,7 +16973,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309230000 -0300" stop="20260310010000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260309220000 -0300" stop="20260310000000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg: The China Show</title>
     <desc lang="pt">A sua fonte definitiva de notícias e análises sobre a segunda maior economia do mundo. Das políticas à tecnologia e tendências. Oferece aos investidores globais uma visão única, proporcionando discussões apr...</desc>
     <length units="minutes">7200</length>
@@ -16981,13 +16981,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260309230000 -0300" stop="20260310010000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg: The China Show</title>
-    <desc lang="pt">A sua fonte definitiva de notícias e análises sobre a segunda maior economia do mundo. Das políticas à tecnologia e tendências. Oferece aos investidores globais uma visão única, proporcionando discussões apr...</desc>
-    <length units="minutes">7200</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260310000000 -0300" stop="20260310010000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Insight with Haslinda Amin</title>
+    <desc lang="pt">Em um mundo volátil e imprevisível, o programa será o guia definitivo para que o público global de notícias obtenha o quadro completo da maior história do dia.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.69.</episode-num>
   </programme>
   <programme start="20260310010000 -0300" stop="20260310020000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Insight with Haslinda Amin</title>
@@ -16996,12 +16994,6 @@
     <episode-num system="xmltv_ns">81.69.</episode-num>
   </programme>
   <programme start="20260310020000 -0300" stop="20260310030000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Insight with Haslinda Amin</title>
-    <desc lang="pt">Em um mundo volátil e imprevisível, o programa será o guia definitivo para que o público global de notícias obtenha o quadro completo da maior história do dia.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.69.</episode-num>
-  </programme>
-  <programme start="20260310030000 -0300" stop="20260310040000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="pt">Um destaque para o crescimento acelerado e os principais negócios que acontecem no Oriente Médio e na África. Análises profundas dos principais negócios que moldam as decisões no Oriente Médio e na África.</desc>
     <length units="minutes">3600</length>
@@ -17009,13 +17001,13 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310040000 -0300" stop="20260310050000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310030000 -0300" stop="20260310040000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Daybreak Europe</title>
     <desc lang="pt">Bloomberg Daybreak: Europa. Ao vivo em Londres, acompanhe as principais e mais importantes notícias de negócios antes da abertura dos mercados europeus.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.69.</episode-num>
+    <episode-num system="xmltv_ns">83.69.</episode-num>
   </programme>
-  <programme start="20260310050000 -0300" stop="20260310070000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310040000 -0300" stop="20260310060000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Opening Trade</title>
     <desc lang="pt">Tudo o que você precisa saber sobre a abertura dos mercados na Europa. Com análises sobre as maiores histórias do dia e conversamos com os principais convidados que estão envolvidos no ramo.</desc>
     <length units="minutes">7200</length>
@@ -17023,22 +17015,22 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310070000 -0300" stop="20260310080000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310060000 -0300" stop="20260310070000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Brief</title>
     <desc lang="pt">O Bloomberg Brief oferece notícias, dados e análises de mercado que você precisa para definir sua agenda.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">7.69.</episode-num>
+    <episode-num system="xmltv_ns">6.69.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310080000 -0300" stop="20260310110000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310070000 -0300" stop="20260310100000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Surveillance</title>
     <desc lang="pt">Vigilância da Bloomberg. Ao vivo de Londres e Nova York, trazendo informações sobre os mercados globais e as principais histórias de negócios do dia.</desc>
     <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">88.69.</episode-num>
+    <episode-num system="xmltv_ns">87.69.</episode-num>
   </programme>
-  <programme start="20260310110000 -0300" stop="20260310130000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310100000 -0300" stop="20260310120000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Open Interest</title>
     <desc lang="pt">Bloomberg Open Interest fornece as notícias que movimentam o mercado que você precisa saber para começar bem o dia de negociações nos EUA.</desc>
     <length units="minutes">7200</length>
@@ -17046,15 +17038,24 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310130000 -0300" stop="20260310140000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310120000 -0300" stop="20260310130000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Tech</title>
     <desc lang="pt">Programa com foco em atualidades, reportagens que movimentam o mercado e análises de empresas e histórias globais de tecnologia. Entrevistas com os maiores nomes do setor, análises aprofundadas e percepções críticas.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.69.</episode-num>
+    <episode-num system="xmltv_ns">82.69.</episode-num>
   </programme>
-  <programme start="20260310140000 -0300" stop="20260310150000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310130000 -0300" stop="20260310140000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Crypto</title>
     <desc lang="pt">Cobre as pessoas, transações e tecnologia que moldam o mundo das finanças. Alimentado pelos dados globais da Bloomberg, este programa é sua fonte para as últimas notícias, análises e entrevistas com as partes mai...</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">13.69.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260310140000 -0300" stop="20260310150000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Balance of Power</title>
+    <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">14.69.</episode-num>
     <rating system="Brazil">
@@ -17062,21 +17063,12 @@
     </rating>
   </programme>
   <programme start="20260310150000 -0300" stop="20260310160000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Balance of Power</title>
-    <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">15.69.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310170000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Businessweek Daily</title>
     <desc lang="pt">Carol Massar e Tim Stenovec trazem a você as reportagens da revista que ajuda os líderes globais a se manterem à frente, além de insights sobre pessoas, empresas e tendências que moldam a complexa economia atual.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">86.69.</episode-num>
+    <episode-num system="xmltv_ns">85.69.</episode-num>
   </programme>
-  <programme start="20260310170000 -0300" stop="20260310190000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310160000 -0300" stop="20260310180000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Close</title>
     <desc lang="pt">Sintetiza as principais notícias nas horas críticas do dia de negociação - com as principais percepções de investidores, estrategistas e empresas de hoje e de amanhã.</desc>
     <length units="minutes">7200</length>
@@ -17084,16 +17076,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310190000 -0300" stop="20260310200000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310180000 -0300" stop="20260310190000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg Balance of Power</title>
     <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">19.69.</episode-num>
+    <episode-num system="xmltv_ns">18.69.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310200000 -0300" stop="20260310210000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310190000 -0300" stop="20260310200000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">The Circuit: Meghan, the Duchess of Sussex</title>
     <desc lang="pt">Meghan, a Duquesa de Sussex, abre o coração em uma entrevista abrangente com Emily Chang sobre a vida fora dos holofotes da realeza e seus mais recentes empreendimentos nos negócios e no entretenimento.</desc>
     <length units="minutes">3600</length>
@@ -17102,7 +17094,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310210000 -0300" stop="20260310230000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310200000 -0300" stop="20260310220000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Asia Trade</title>
     <desc lang="pt">Tazendo aos investidores globais tudo o que precisam de saber no início do dia de negociação na Ásia.</desc>
     <length units="minutes">7200</length>
@@ -17110,7 +17102,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260310230000 -0300" stop="20260311010000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260310220000 -0300" stop="20260311000000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg: The China Show</title>
     <desc lang="pt">A sua fonte definitiva de notícias e análises sobre a segunda maior economia do mundo. Das políticas à tecnologia e tendências. Oferece aos investidores globais uma visão única, proporcionando discussões apr...</desc>
     <length units="minutes">7200</length>
@@ -159751,173 +159743,156 @@
     <previously-shown/>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310010000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Fluminense</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310010000 -0300" stop="20260310020000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Madureira</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310020000 -0300" stop="20260310030000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Madureira x Flamengo</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310030000 -0300" stop="20260310040000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vasco</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310040000 -0300" stop="20260310050000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Botafogo x Flamengo</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310050000 -0300" stop="20260310060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Redonda</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310060000 -0300" stop="20260310070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">América-MG x Atlético-MG</title>
-    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310070000 -0300" stop="20260310080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Fluminense</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310080000 -0300" stop="20260310090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Madureira</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310090000 -0300" stop="20260310100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Atlético-MG</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310100000 -0300" stop="20260310110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Madureira</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310110000 -0300" stop="20260310120000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Madureira x Flamengo</title>
-    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310120000 -0300" stop="20260310130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Atlético-MG</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310130000 -0300" stop="20260310140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Athletico-PR</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310140000 -0300" stop="20260310150000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Remo x Internacional</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310150000 -0300" stop="20260310160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Palmeiras x Fluminense</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310170000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260310010000 -0300" stop="20260310020000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Cruzeiro x Corinthians</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310170000 -0300" stop="20260310180000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260310020000 -0300" stop="20260310030000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310030000 -0300" stop="20260310040000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Fluminense</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310040000 -0300" stop="20260310050000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Grêmio x Atlético-MG</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310180000 -0300" stop="20260310190000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Botafogo</title>
+  <programme start="20260310050000 -0300" stop="20260310060000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Santos x Vasco</title>
     <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310190000 -0300" stop="20260310191000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.69.</episode-num>
-  </programme>
-  <programme start="20260310191000 -0300" stop="20260310201000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Santos</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+  <programme start="20260310060000 -0300" stop="20260310070000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310201000 -0300" stop="20260310211000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x São Paulo</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+  <programme start="20260310070000 -0300" stop="20260310080000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">América-MG x Atlético-MG</title>
+    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260310211000 -0300" stop="20260310234000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.69.</episode-num>
+  <programme start="20260310080000 -0300" stop="20260310090000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260310234000 -0300" stop="20260311001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260310090000 -0300" stop="20260310100000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310100000 -0300" stop="20260310110000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Chapecoense x Coritiba</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310110000 -0300" stop="20260310120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Mirassol x Cruzeiro</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310120000 -0300" stop="20260310130000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Grêmio x Botafogo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310130000 -0300" stop="20260310140000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Santos x São Paulo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310140000 -0300" stop="20260310150000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310150000 -0300" stop="20260310160000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Grêmio x Botafogo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310160000 -0300" stop="20260310170000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Atlético-MG</title>
+    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310170000 -0300" stop="20260310173000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.69.</episode-num>
+    <episode-num system="xmltv_ns">87.69.</episode-num>
+  </programme>
+  <programme start="20260310173000 -0300" stop="20260310183000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Fluminense x Vasco</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260310183000 -0300" stop="20260310210000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Portuguesa x Avaí - ao vivo</title>
+    <desc lang="pt">Portuguesa e Avaí enfrentam-se na 3ª fase do Copa do Brasil, no Canindé, em São Paulo (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260310210000 -0300" stop="20260310234000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Ponte Preta x Guarany de Bagé - ao vivo</title>
+    <desc lang="pt">Ponte Preta e Guarany de Bagé enfrentam-se na 3ª fase do Copa do Brasil, no Moisés Lucarelli, em Campinas (SP). Acesse o canal 250 e seja assinante Premiere.</desc>
+    <length units="minutes">9600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260310234000 -0300" stop="20260311001000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">América-MG x Atlético-MG</title>
+    <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260310234000 -0300" stop="20260311001000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada</title>
