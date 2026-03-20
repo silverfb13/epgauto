@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-20 14:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-20 17:30:54" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -12078,17 +12078,17 @@
     <length units="minutes">9000</length>
     <episode-num system="xmltv_ns">82.81.</episode-num>
   </programme>
-  <programme start="20260322143000 -0300" stop="20260322161500 -0300" channel="BAND HD">
+  <programme start="20260322143000 -0300" stop="20260322163000 -0300" channel="BAND HD">
     <title lang="pt">Moto GP: GP do Brasil - ao vivo</title>
     <desc lang="pt">Campeonato Mundial de Motovelocidade com os melhores pilotos e com as montadoras mais avançadas do mundo.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260322161500 -0300" stop="20260322180000 -0300" channel="BAND HD">
-    <title lang="pt">Show do Esporte</title>
-    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.</desc>
-    <length units="minutes">6300</length>
-    <episode-num system="xmltv_ns">86.81.</episode-num>
+  <programme start="20260322163000 -0300" stop="20260322180000 -0300" channel="BAND HD">
+    <title lang="pt">STU - National Pro Tour: Porto Alegre - ao vivo</title>
+    <desc lang="pt">A competição coloca frente a frente atletas de vários países em provas emocionantes, que mostram a evolução do skate e revelam novos talentos da modalidade.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260322180000 -0300" stop="20260322200000 -0300" channel="BAND HD">
     <title lang="pt">Planeta Selvagem</title>
@@ -225227,13 +225227,13 @@
     <episode-num system="xmltv_ns">12.79.</episode-num>
   </programme>
   <programme start="20260320130000 -0300" stop="20260320144500 -0300" channel="Xsports HD">
-    <title lang="pt">Fenerbahce x Scandicci</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Valencia x Barcelona</title>
+    <desc lang="pt">Euroliga de Basquete: os principais clubes da Europa se enfrentam em jogos emocionantes, mostrando talento, rivalidade e ação de alto nível!</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
   <programme start="20260320144500 -0300" stop="20260320163000 -0300" channel="Xsports HD">
-    <title lang="pt">San Lorenzo x Deportivo Rincón</title>
+    <title lang="pt">Palmeiras x Santiago Wanderers</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
@@ -225245,17 +225245,26 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.79.</episode-num>
   </programme>
-  <programme start="20260320165000 -0300" stop="20260320190000 -0300" channel="Xsports HD">
+  <programme start="20260320165000 -0300" stop="20260320185000 -0300" channel="Xsports HD">
     <title lang="pt">Villarreal x Real Sociedad - ao vivo</title>
     <desc lang="pt">Villarreal e Real Sociedad jogam pela 29ª rodada do Segundo Turno da La Liga, no estádio De la Cerámica, em Vila-real, Espanha.</desc>
-    <length units="minutes">7800</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260320190000 -0300" stop="20260320204500 -0300" channel="Xsports HD">
-    <title lang="pt">Preston North End x Stoke City</title>
-    <desc lang="pt">EFL Championship: Segunda divisão inglesa com jogos intensos, gols emocionantes e clubes lutando pelo acesso à Premiere League.</desc>
-    <length units="minutes">6300</length>
+  <programme start="20260320185000 -0300" stop="20260320201500 -0300" channel="Xsports HD">
+    <title lang="pt">Estados Unidos x Japão</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5100</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260320201500 -0300" stop="20260320204500 -0300" channel="Xsports HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">20.79.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20260320204500 -0300" stop="20260320230000 -0300" channel="Xsports HD">
     <title lang="pt">Orlando Pride x Denver Summit - ao vivo</title>
@@ -225263,53 +225272,42 @@
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260320230000 -0300" stop="20260320233000 -0300" channel="Xsports HD">
-    <title lang="pt">Total Combat</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">23.79.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260320233000 -0300" stop="20260321003000 -0300" channel="Xsports HD">
+  <programme start="20260320230000 -0300" stop="20260321000000 -0300" channel="Xsports HD">
     <title lang="pt">Freeride World Tour 2026: Etapa de Andorra - Ski Feminino</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">20.233.</episode-num>
+    <episode-num system="xmltv_ns">20.230.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260320233000 -0300" stop="20260321003000 -0300" channel="Xsports HD">
-    <title lang="pt">Freeride World Tour 2026: Etapa de Andorra - Ski Feminino</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">20.233.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260321003000 -0300" stop="20260321020000 -0300" channel="Xsports HD">
+  <programme start="20260321000000 -0300" stop="20260321013000 -0300" channel="Xsports HD">
     <title lang="pt">Freeride World Tour 2026: Etapa de Andorra - Ski Masculino</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">21.3.</episode-num>
+    <episode-num system="xmltv_ns">21.80.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260321020000 -0300" stop="20260321034500 -0300" channel="Xsports HD">
-    <title lang="pt">Villarreal x Real Sociedad</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+  <programme start="20260321013000 -0300" stop="20260321031500 -0300" channel="Xsports HD">
+    <title lang="pt">Valencia x Barcelona</title>
+    <desc lang="pt">Euroliga de Basquete: os principais clubes da Europa se enfrentam em jogos emocionantes, mostrando talento, rivalidade e ação de alto nível!</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260321034500 -0300" stop="20260321040000 -0300" channel="Xsports HD">
+  <programme start="20260321031500 -0300" stop="20260321033000 -0300" channel="Xsports HD">
     <title lang="pt">Bundesliga Clubs</title>
+    <sub-title lang="pt">Especial RB Leipzig</sub-title>
     <desc lang="pt">Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">83.8.</episode-num>
+    <episode-num system="xmltv_ns">83.2.</episode-num>
+  </programme>
+  <programme start="20260321033000 -0300" stop="20260321040000 -0300" channel="Xsports HD">
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">3.80.</episode-num>
   </programme>
   <programme start="20260321040000 -0300" stop="20260321051500 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
@@ -225320,8 +225318,8 @@
     </rating>
   </programme>
   <programme start="20260321051500 -0300" stop="20260321070000 -0300" channel="Xsports HD">
-    <title lang="pt">Preston North End x Stoke City</title>
-    <desc lang="pt">EFL Championship: Segunda divisão inglesa com jogos intensos, gols emocionantes e clubes lutando pelo acesso à Premiere League.</desc>
+    <title lang="pt">Villarreal x Real Sociedad</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
