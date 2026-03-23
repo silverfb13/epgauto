@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-23 11:30:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-23 14:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -45509,11 +45509,21 @@
     <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">80.83.</episode-num>
   </programme>
-  <programme start="20260324020000 -0300" stop="20260324040000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Fechamento de Mercado</title>
-    <desc lang="pt">O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">82.83.</episode-num>
+  <programme start="20260324020000 -0300" stop="20260324033000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Talks</title>
+    <desc lang="pt">A plataforma de eventos que conecta vozes e impulsiona o diálogo.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">2.83.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260324033000 -0300" stop="20260324040000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Altagem</title>
+    <sub-title lang="pt">Jogo de Volta</sub-title>
+    <desc lang="pt">O Alta Voltagem chega para conectar o público aos principais nomes do setor de energia, mercado que movimenta mais de R$ 112 bilhões ao ano.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.83.</episode-num>
   </programme>
   <programme start="20260324040000 -0300" stop="20260324050000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">WW</title>
@@ -45561,12 +45571,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260324110000 -0300" stop="20260324123000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20260324110000 -0300" stop="20260324122500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - ao vivo</title>
     <desc lang="pt">Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">5100</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">81.83.</episode-num>
+  </programme>
+  <programme start="20260324122500 -0300" stop="20260324123000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Infra News - ao vivo</title>
+    <desc lang="pt">A CNN Infra vai levar informação sobre os segmentos de infraestrutura, como energia, transportes e mineração. Com entrevistas exclusivas, boletins diários e um time de especialistas para trazer análises e reportagens ...</desc>
+    <length units="minutes">300</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">82.83.</episode-num>
   </programme>
   <programme start="20260324123000 -0300" stop="20260324130000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Agro News - ao vivo</title>
@@ -45575,12 +45592,19 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.83.</episode-num>
   </programme>
-  <programme start="20260324130000 -0300" stop="20260324170000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20260324130000 -0300" stop="20260324165500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - ao vivo</title>
     <desc lang="pt">Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">14100</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.83.</episode-num>
+  </programme>
+  <programme start="20260324165500 -0300" stop="20260324170000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Infra News - ao vivo</title>
+    <desc lang="pt">A CNN Infra vai levar informação sobre os segmentos de infraestrutura, como energia, transportes e mineração. Com entrevistas exclusivas, boletins diários e um time de especialistas para trazer análises e reportagens ...</desc>
+    <length units="minutes">300</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">86.83.</episode-num>
   </programme>
   <programme start="20260324170000 -0300" stop="20260324185500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Fechamento de Mercado - ao vivo</title>
@@ -102219,7 +102243,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">21.25.</episode-num>
+    <episode-num system="xmltv_ns">23.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102405,7 +102429,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">21.25.</episode-num>
+    <episode-num system="xmltv_ns">24.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102415,7 +102439,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">20.22.</episode-num>
+    <episode-num system="xmltv_ns">24.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102601,7 +102625,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">21.25.</episode-num>
+    <episode-num system="xmltv_ns">24.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102611,7 +102635,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">20.22.</episode-num>
+    <episode-num system="xmltv_ns">24.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102795,7 +102819,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">21.25.</episode-num>
+    <episode-num system="xmltv_ns">24.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -102805,7 +102829,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">20.22.</episode-num>
+    <episode-num system="xmltv_ns">24.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
