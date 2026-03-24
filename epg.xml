@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-24 11:30:47" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-24 14:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -143023,7 +143023,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">22.187.</episode-num>
+    <episode-num system="xmltv_ns">24.187.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -143032,7 +143032,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Na segunda parte da história, a terrível rainha má descobre que Branca de Neve está viva e, assim, resolve se disfarçar de mendiga para enganar a mocinha.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">22.189.</episode-num>
+    <episode-num system="xmltv_ns">24.189.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -143105,7 +143105,7 @@
     <title lang="pt">Humor Multishow</title>
     <desc lang="pt">A  família  Vai  que  Cola  recebe  a  visita  de  um  antigo  amigo, Lacraia,  que  agora  se  diz  diretor  de  televisão  e  tenta  criar  um  programa inspirado na família.</desc>
     <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">22.9.</episode-num>
+    <episode-num system="xmltv_ns">24.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -143342,11 +143342,19 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260324213500 -0300" stop="20260324224400 -0300" channel="MULTISHOW HD">
+  <programme start="20260324213500 -0300" stop="20260324221400 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
     <desc lang="pt">Lineu assume a função de chefe interino da repartição. Marilda contrata Agostinho para pintar a parede de sua casa. Lineu passa dificuldade na função de chefe interino.</desc>
-    <length units="minutes">4140</length>
+    <length units="minutes">2340</length>
     <episode-num system="xmltv_ns">9.25.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260324221400 -0300" stop="20260324224400 -0300" channel="MULTISHOW HD">
+    <title lang="pt">Melhores Momentos Lollapalooza</title>
+    <desc lang="pt">Confira a transmissão ao vivo do festival &quot;Lollapalooza 2026&quot; nos dia 20, 21 e 22 de março, diretamente do Autódromo de Interlagos/SP no Multishow.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -143437,7 +143445,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">22.188.</episode-num>
+    <episode-num system="xmltv_ns">23.188.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -176539,11 +176547,20 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260324054100 -0300" stop="20260324061800 -0300" channel="SPACE HD">
+  <programme start="20260324054100 -0300" stop="20260324060000 -0300" channel="SPACE HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">2220</length>
+    <length units="minutes">1140</length>
     <episode-num system="xmltv_ns">5.83.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260324060000 -0300" stop="20260324061800 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">1080</length>
+    <episode-num system="xmltv_ns">6.83.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -176722,298 +176739,344 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260324230000 -0300" stop="20260324232700 -0300" channel="SPACE HD">
+  <programme start="20260324230000 -0300" stop="20260324232600 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Cama de Faquir</sub-title>
     <desc lang="pt">Acompanhe a rotina das autoridades que trabalham diariamente para impedir o tráfico, o contrabando e</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260324232700 -0300" stop="20260324235400 -0300" channel="SPACE HD">
+  <programme start="20260324232600 -0300" stop="20260324235200 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Caixinhas de Surpresas</sub-title>
     <desc lang="pt">Flagrantes de tráfico, contrabando e adulteração na fronteira brasileira.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260324235400 -0300" stop="20260325003800 -0300" channel="SPACE HD">
+  <programme start="20260324235200 -0300" stop="20260325003700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Fight Night</sub-title>
     <desc lang="pt">Uma noite com uma importante luta de boxe, em Las Vegas, se torna a cena de um crime quando um dos lutadores é morto após receber um duro golpe em seu rosto.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260324235400 -0300" stop="20260325003800 -0300" channel="SPACE HD">
+  <programme start="20260324235200 -0300" stop="20260325003700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Fight Night</sub-title>
     <desc lang="pt">Uma noite com uma importante luta de boxe, em Las Vegas, se torna a cena de um crime quando um dos lutadores é morto após receber um duro golpe em seu rosto.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325003800 -0300" stop="20260325012400 -0300" channel="SPACE HD">
+  <programme start="20260325003700 -0300" stop="20260325012200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Jackpot</sub-title>
     <desc lang="pt">Grissom deixa a confusão de Las Vegas e vai para uma pequena cidade conhecida como Jackpot, para investigar a descoberta, por um cachorro, de uma cabeça humana.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325012400 -0300" stop="20260325020800 -0300" channel="SPACE HD">
+  <programme start="20260325012200 -0300" stop="20260325020700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">And How Does That Make You Kill</sub-title>
     <desc lang="pt">A filha de 16 anos da terapeuta de Delko, Rachel Marsh, é esfaqueada até a morte. O crime ocorreu durante a noite no escritório de sua mãe, que fica em sua casa.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325020800 -0300" stop="20260325025000 -0300" channel="SPACE HD">
+  <programme start="20260325020700 -0300" stop="20260325024800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">All Fall Down</sub-title>
     <desc lang="pt">A 8ª temporada fecha com um serial killer alvejando pessoas associadas a uma universidade de Miami e brincando com a equipe CSI ao deixar pistas enigmáticas pouco antes de cada assassinato ser cometido.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2460</length>
     <episode-num system="xmltv_ns">8.24.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325025000 -0300" stop="20260325033500 -0300" channel="SPACE HD">
+  <programme start="20260325024800 -0300" stop="20260325033100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Swap Meet</sub-title>
     <desc lang="pt">A equipe do CSI investiga uma vítima que foi encontrada morta, numa fonte, após participar de uma festa de swingers dos seus vizinhos. As evidências revelam que a vítima transou com diversos parceiros.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">5.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325033500 -0300" stop="20260325042000 -0300" channel="SPACE HD">
+  <programme start="20260325033100 -0300" stop="20260325041500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Bite Me</sub-title>
     <desc lang="pt">Os CSIs investigam a declaração de um homem, que diz que sua esposa caiu das escadas da casa deles.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325042000 -0300" stop="20260325050200 -0300" channel="SPACE HD">
+  <programme start="20260325041500 -0300" stop="20260325045600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Just One Kiss</sub-title>
     <desc lang="pt">Um homem morto, com um buraco na garganta, e a face, parcialmente, queimada é encontrado numa praia de Miami, ao lado de uma garota inconsciente que foi espancada e jogada no mar.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2460</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325050200 -0300" stop="20260325060000 -0300" channel="SPACE HD">
+  <programme start="20260325045600 -0300" stop="20260325053900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Lost Son</sub-title>
     <desc lang="pt">Os CSIs perdem um membro de sua equipe quando uma investigação de assassinato se torna mortal.</desc>
-    <length units="minutes">3480</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325060000 -0300" stop="20260325075300 -0300" channel="SPACE HD">
-    <title lang="pt">Regressão</title>
-    <desc lang="pt">Um detetive e um psicanalista descobrem evidências de um culto satânico enquanto investigam o estupro de uma jovem mulher.</desc>
-    <length units="minutes">6780</length>
+  <programme start="20260325053900 -0300" stop="20260325054900 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">5.84.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260325054900 -0300" stop="20260325060200 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">5.84.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260325060200 -0300" stop="20260325073800 -0300" channel="SPACE HD">
+    <title lang="pt">Possessões</title>
+    <desc lang="pt">Acompanha um pai que busca um novo começo com seu filho após a perda da esposa e que comprou um depósito sem ver, mas os segredos enterrados atrás das portas de metal se tornam o pior pesadelo de um pai.</desc>
+    <length units="minutes">5760</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260325075300 -0300" stop="20260325094500 -0300" channel="SPACE HD">
-    <title lang="pt">Círculo de Fogo - A Re</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">Jake era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados.</desc>
-    <length units="minutes">6720</length>
+  <programme start="20260325073800 -0300" stop="20260325092300 -0300" channel="SPACE HD">
+    <title lang="pt">Difícil de Matar</title>
+    <desc lang="pt">Tira Durão é baleado por político ativista e seu capanga, ficando em coma por sete anos. Recuperado, prepara-se para vingança.</desc>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260325094500 -0300" stop="20260325120500 -0300" channel="SPACE HD">
-    <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
-    <desc lang="pt">O Jurassic Park enfim está aberto ao público. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas, de forma a criar novas espécies.</desc>
-    <length units="minutes">8400</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260325120500 -0300" stop="20260325125300 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Let The Seller Beware</sub-title>
-    <desc lang="pt">Grissom e Catherine investigam a morte de um rico casal que foi encontrado do lado de fora de sua bela casa em Las Vegas, que estava à venda.</desc>
-    <length units="minutes">2880</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+  <programme start="20260325092300 -0300" stop="20260325112500 -0300" channel="SPACE HD">
+    <title lang="pt">Rede de Corrupção</title>
+    <desc lang="pt">O detetive Orin Boyd é transferido para o Distrito de Detroit por não obedecer regras mas começa a suspeitar de seus colegas, com o sumiço da heroína.</desc>
+    <length units="minutes">7320</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325125300 -0300" stop="20260325134100 -0300" channel="SPACE HD">
+  <programme start="20260325112500 -0300" stop="20260325120900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Grave Danger: Volume 1</sub-title>
-    <desc lang="pt">Depois de Grissom dar ao sequestrador o dinheiro do resgate, o homem explode a si mesmo.</desc>
-    <length units="minutes">2880</length>
-    <episode-num system="xmltv_ns">5.24.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325134100 -0300" stop="20260325142500 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Grave Danger: Volume 2</sub-title>
-    <desc lang="pt">Depois de Grissom dar ao sequestrador o dinheiro do resgate, o homem explode a si mesmo. A equipe deve se unir novamente para encontrar cada evidência na área da explosão.</desc>
+    <sub-title lang="pt">Snuff</sub-title>
+    <desc lang="pt">Um laboratório de revelação de filmes encontra um filme pornô com cenas aparentemente reais e chama a equipe do CSI para investigar.</desc>
     <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">5.25.</episode-num>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325142500 -0300" stop="20260325151300 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Down the Wire</sub-title>
-    <desc lang="pt">Quando um homem é assassinado devido a uma falsa ligação ao 911, Horatio tem que conversar com um investigador particular que está sistematicamente destruindo a equipe.</desc>
+  <programme start="20260325120900 -0300" stop="20260325125600 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Invisible Evidence</sub-title>
+    <desc lang="pt">Após uma importante evidência ser recusada pelo tribunal, a equipe do CSI terá que combinar seus recursos para encontrar uma nova evidência para incriminar seu suspeito.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325125600 -0300" stop="20260325134400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">What's Eating Gilbert Grissom?</sub-title>
+    <desc lang="pt">A equipe do CSI investiga assassinatos no campus de uma universidade e eles descobrem que as mortes ocorreram dois anos depois da execução de um homem que matou uma mulher da mesma forma que essas novas vítimas foram encontradas.</desc>
     <length units="minutes">2880</length>
-    <episode-num system="xmltv_ns">6.20.</episode-num>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325151300 -0300" stop="20260325155900 -0300" channel="SPACE HD">
+  <programme start="20260325134400 -0300" stop="20260325143200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Meltdown</sub-title>
-    <desc lang="pt">Diamantes são roubados durante um assalto a uma joalheria e um cliente é baleado. Os diamantes são rapidamente recuperados, mas eles desaparecem do depósito de evidências.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">8.21.</episode-num>
+    <sub-title lang="pt">Raging Cannibal</sub-title>
+    <desc lang="pt">Um homicídio duplo no pantanal de Everglades faz com que Horatio e sua equipe enfrentem a máfia russa de Miami.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325155900 -0300" stop="20260325164500 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">All For Our Country</sub-title>
-    <desc lang="pt">A equipe do CSI continua sua investigação em uma série de mortes, mas o caso tem uma inesperada reviravolta quando os suspeitos são encontrados mortos.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325164500 -0300" stop="20260325170000 -0300" channel="SPACE HD">
-    <title lang="pt">Bayern de Munique x Atalanta - ao vivo</title>
-    <desc lang="pt">Bayern de Munique e Atalanta jogam a rodada de volta da Oitavas De Final da UEFA Champions League, na Allianz Arena, em Munique, Alemanha.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260325170000 -0300" stop="20260325190000 -0300" channel="SPACE HD">
-    <title lang="pt">UEFA Champions League</title>
-    <desc lang="pt">UEFA CHAMPIONS LEAGUE o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
-    <length units="minutes">7200</length>
-  </programme>
-  <programme start="20260325190000 -0300" stop="20260325194500 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">For Warrick</sub-title>
-    <desc lang="pt">Grissom e sua equipe, chocados, ao saberem que Warrick foi baleado, imediatamente,iniciam a investigação do crime e terminam por descobrir um segredo chocante sobre seu colega de equipe.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260325143200 -0300" stop="20260325151900 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Fallen</sub-title>
+    <desc lang="pt">Os CSIs devem capturar um louco que está causando confusão em Miami enquanto a equipe lamenta a perda de um membro.</desc>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">9.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325194500 -0300" stop="20260325203000 -0300" channel="SPACE HD">
+  <programme start="20260325151900 -0300" stop="20260325160500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Mascara</sub-title>
-    <desc lang="pt">Um assassinato acontece no mundo da Luta Livre e os CSIs precisam resolver o crime.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">9.18.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325203000 -0300" stop="20260325211600 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">The Panty Sniffer</sub-title>
-    <desc lang="pt">Catherine e Vartann são colocados, juntos, num quarto de hotel por 24 horas, enquanto trabalham para pegar uma dupla fabricando drogas no quarto ao lado.</desc>
+    <sub-title lang="pt">Built to Kill: Part 2</sub-title>
+    <desc lang="pt">Grissom investiga o assassinato de uma antiga estrela de rock que é encontrada morta em sua cozinha ao lado de uma réplica da cena do crime.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">10.16.</episode-num>
+    <episode-num system="xmltv_ns">7.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325211600 -0300" stop="20260325220100 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Driven</sub-title>
-    <desc lang="pt">Um grupo de mulheres é assaltado em um SPA de luxo, e as provas levam os CSIs a acreditar que isso é parte de esquema muito maior e que cada uma das mulheres é alvo de um assalto em suas casas.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">4.19.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325220100 -0300" stop="20260325224800 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Emboscada</sub-title>
-    <desc lang="pt">O assassinato de uma noiva num casamento leva a equipe CSI a um clube de stripers.</desc>
+  <programme start="20260325160500 -0300" stop="20260325165200 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Toe Tags</sub-title>
+    <desc lang="pt">O episódio parte da perspectiva de cinco pessoas: Donna, Rebecca, Jack, Lou e Ray. Todos têm algo em comum - estão mortos.</desc>
     <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">6.15.</episode-num>
+    <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325224800 -0300" stop="20260325231400 -0300" channel="SPACE HD">
+  <programme start="20260325165200 -0300" stop="20260325173800 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Dead Doll</sub-title>
+    <desc lang="pt">Investigadores devem trabalhar juntos para achar Sara antes que ela morra do ataque do assassino das miniaturas. Mas contra eles estão o tempo, o clima e o deserto.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325173800 -0300" stop="20260325182200 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Ashes to Ashes</sub-title>
+    <desc lang="pt">Megan investiga a morte de um padre cubano que foi baleado em sua igreja. Uma impressão de lábio num copo de vidro coloca Cameron Medina, um garoto de 12 anos que era coroinha da igreja, como o principal suspeito do caso.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325182200 -0300" stop="20260325190800 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Pro Per</sub-title>
+    <desc lang="pt">Uma mulher é morta durante uma festa exclusiva numa casa de praia, quando um homem inicia um tiroteio de um barco.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325190800 -0300" stop="20260325195500 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Art Imitates Life</sub-title>
+    <desc lang="pt">A equipe investiga os corpos de mulheres encontradas no parque e colocados em poses artísticas. Um artista é o principal suspeito, quando eles descobrem que ele pede para suas modelos posarem como se estivessem mortas.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">9.3.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325195500 -0300" stop="20260325204100 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Hog Heaven</sub-title>
+    <desc lang="pt">Uma gangue de motoqueiros viciados ganha carta branca para assassinar um dos membros quando descobrem que a vítima é um policial disfarçado.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">9.23.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325204100 -0300" stop="20260325212500 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Lost &amp; Found</sub-title>
+    <desc lang="pt">O desaparecimento de um homem e seus dois filhos há três anos é reinvestigado, quando o desaparecido é atingido por um carro, enquanto anda no deserto perto de onde sua família sumiu.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325212500 -0300" stop="20260325221300 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Rampage</sub-title>
+    <desc lang="pt">O julgamento da gangue &quot;Mal Noche&quot; é prejudicado quando o acusado fica livre com a ajuda de uma testemunha que depôs em seu favor.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">4.24.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325221300 -0300" stop="20260325230000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Down the Wire</sub-title>
+    <desc lang="pt">Quando um homem é assassinado devido a uma falsa ligação ao 911, Horatio tem que conversar com um investigador particular que está sistematicamente destruindo a equipe.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">6.20.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325230000 -0300" stop="20260325232600 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
-    <sub-title lang="pt">26 Toneladas</sub-title>
-    <desc lang="pt">O combate ao tráfico, transporte ilegal de combustível e roubos na fronteira.</desc>
+    <sub-title lang="pt">Grande Acampamento</sub-title>
+    <desc lang="pt">Combate ao garimpo ilegal, ao roubo e à falsidade ideológica na fronteira.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <episode-num system="xmltv_ns">4.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325231400 -0300" stop="20260325234100 -0300" channel="SPACE HD">
+  <programme start="20260325232600 -0300" stop="20260325235200 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
-    <sub-title lang="pt">5 Kg de Flor</sub-title>
-    <desc lang="pt">PRFs procuram dono de mochila suspeita em ônibus vindo da região da fronteira com a Bolívia e desconfiam de caminhão que tem placa &quot;adesivada&quot;.</desc>
-    <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <sub-title lang="pt">As Tocas</sub-title>
+    <desc lang="pt">Contrabando, tráfico e crime ambiental na fronteira brasileira.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325234100 -0300" stop="20260326002600 -0300" channel="SPACE HD">
+  <programme start="20260325235200 -0300" stop="20260326003500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Let The Seller Beware</sub-title>
-    <desc lang="pt">Grissom e Catherine investigam a morte de um rico casal que foi encontrado do lado de fora de sua bela casa em Las Vegas, que estava à venda.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <sub-title lang="pt">Snuff</sub-title>
+    <desc lang="pt">Um laboratório de revelação de filmes encontra um filme pornô com cenas aparentemente reais e chama a equipe do CSI para investigar.</desc>
+    <length units="minutes">2580</length>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260325234100 -0300" stop="20260326002600 -0300" channel="SPACE HD">
+  <programme start="20260325235200 -0300" stop="20260326003500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Let The Seller Beware</sub-title>
-    <desc lang="pt">Grissom e Catherine investigam a morte de um rico casal que foi encontrado do lado de fora de sua bela casa em Las Vegas, que estava à venda.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <sub-title lang="pt">Snuff</sub-title>
+    <desc lang="pt">Um laboratório de revelação de filmes encontra um filme pornô com cenas aparentemente reais e chama a equipe do CSI para investigar.</desc>
+    <length units="minutes">2580</length>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -189319,10 +189382,19 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260324062300 -0300" stop="20260324064700 -0300" channel="TNT HD">
+  <programme start="20260324062300 -0300" stop="20260324063800 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.83.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260324063800 -0300" stop="20260324064700 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">540</length>
     <episode-num system="xmltv_ns">6.83.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -189384,10 +189456,10 @@
   </programme>
   <programme start="20260324125800 -0300" stop="20260324132100 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Papai Noel</sub-title>
-    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
+    <sub-title lang="pt">Todo Mundo Odeia Matemática</sub-title>
+    <desc lang="pt">Com a turma inteira de Chris contando com seus conhecimentos sobre álgebra para uma olimpíada da matemática, Rochelle assume a responsabilidade de ser a tutora de Chris.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -189443,16 +189515,16 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260324223000 -0300" stop="20260324233000 -0300" channel="TNT HD">
+  <programme start="20260324223000 -0300" stop="20260324231900 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Após mudar de identidade, Sofia se aproxima de Carol, neta de Átila, como &quot;Júlia&quot;. Rog começa a abusar moralmente de sua esposa Gisela, filha de Átila, que tem baixa autoestima.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260324233000 -0300" stop="20260324235300 -0300" channel="TNT HD">
+  <programme start="20260324231900 -0300" stop="20260324234200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia De Ação De Graças</sub-title>
     <desc lang="pt">Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
@@ -189462,47 +189534,47 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260324235300 -0300" stop="20260325001500 -0300" channel="TNT HD">
+  <programme start="20260324234200 -0300" stop="20260325000500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Papai Noel</sub-title>
-    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <sub-title lang="pt">Todo Mundo Odeia Matemática</sub-title>
+    <desc lang="pt">Com a turma inteira de Chris contando com seus conhecimentos sobre álgebra para uma olimpíada da matemática, Rochelle assume a responsabilidade de ser a tutora de Chris.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260324235300 -0300" stop="20260325001500 -0300" channel="TNT HD">
+  <programme start="20260324234200 -0300" stop="20260325000500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Papai Noel</sub-title>
-    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <sub-title lang="pt">Todo Mundo Odeia Matemática</sub-title>
+    <desc lang="pt">Com a turma inteira de Chris contando com seus conhecimentos sobre álgebra para uma olimpíada da matemática, Rochelle assume a responsabilidade de ser a tutora de Chris.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260325001500 -0300" stop="20260325003700 -0300" channel="TNT HD">
+  <programme start="20260325000500 -0300" stop="20260325002800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Ovos</sub-title>
     <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260325003700 -0300" stop="20260325010300 -0300" channel="TNT HD">
+  <programme start="20260325002800 -0300" stop="20260325005200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Primeiro Encontro</sub-title>
     <desc lang="pt">O aniversário da Ashley está chegando, e quando a família pergunta o que ela quer ganhar, ela mostra a foto de um garoto, o Little T. A Hilary conhece o agente do T, então ela o convida para cantar no aniversário da Ashley.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.24.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325010300 -0300" stop="20260325012800 -0300" channel="TNT HD">
+  <programme start="20260325005200 -0300" stop="20260325011700 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Faz Parte do meu Plano</sub-title>
     <desc lang="pt">O aniversário da Ashley está chegando, e quando a família pergunta o que ela quer ganhar, ela mostra a foto de um garoto, o Little T. A Hilary conhece o agente do T, então ela o convida para cantar no aniversário da Ashley.</desc>
@@ -189512,17 +189584,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325012800 -0300" stop="20260325015400 -0300" channel="TNT HD">
+  <programme start="20260325011700 -0300" stop="20260325014200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Movendo Céu e Terra</sub-title>
     <desc lang="pt">O Phil e a Vivian sentem que o Will e a sua nova namorada estão avançando rápido demais.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325015400 -0300" stop="20260325021600 -0300" channel="TNT HD">
+  <programme start="20260325014200 -0300" stop="20260325020400 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Mãe de Todas as Batalhas</sub-title>
     <desc lang="pt">O Will e o Carlton tentam resolver o problema da Ashley com as valentonas da escola, até que o Philip e a Vivian descobrem e tentam resolver o problema à sua maneira.</desc>
@@ -189532,32 +189604,48 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325021600 -0300" stop="20260325035700 -0300" channel="TNT HD">
+  <programme start="20260325020400 -0300" stop="20260325033600 -0300" channel="TNT HD">
     <title lang="pt">MIB - Homens de Preto</title>
     <desc lang="pt">O agente K é um dos fundadores da organização secreta MIB. O ex-policial J se une a K para desvendar os mistérios de um possível ataque alienígena.</desc>
-    <length units="minutes">6060</length>
+    <length units="minutes">5520</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325035700 -0300" stop="20260325060000 -0300" channel="TNT HD">
+  <programme start="20260325033600 -0300" stop="20260325051900 -0300" channel="TNT HD">
     <title lang="pt">Imortais</title>
     <desc lang="pt">O rei Hyperion está em busca do arco de Épiro para dominar o mundo e destruir os deuses. Impiedoso, ele arrasa vilarejos em busca de seu objetivo. O único que pode detê-lo é Theseus, um jovem escolhido por Zeus.</desc>
-    <length units="minutes">7380</length>
+    <length units="minutes">6180</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260325060000 -0300" stop="20260325063400 -0300" channel="TNT HD">
+  <programme start="20260325051900 -0300" stop="20260325055300 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
     <length units="minutes">2040</length>
-    <episode-num system="xmltv_ns">6.84.</episode-num>
+    <episode-num system="xmltv_ns">5.84.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325063400 -0300" stop="20260325071100 -0300" channel="TNT HD">
+  <programme start="20260325055300 -0300" stop="20260325055600 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260325055600 -0300" stop="20260325060000 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260325060000 -0300" stop="20260325063700 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
     <length units="minutes">2220</length>
@@ -189566,194 +189654,206 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325071100 -0300" stop="20260325072100 -0300" channel="TNT HD">
+  <programme start="20260325063700 -0300" stop="20260325071200 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">7.84.</episode-num>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">6.84.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325072100 -0300" stop="20260325072500 -0300" channel="TNT HD">
-    <title lang="pt">Melhores Momentos Oscars 2026</title>
-    <desc lang="pt">Acompanhe os melhores momentos do Oscar 2026.</desc>
-    <length units="minutes">240</length>
+  <programme start="20260325071200 -0300" stop="20260325073700 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Will Pega no Batente</sub-title>
+    <desc lang="pt">O Will consegue um emprego para pagar pela sua festa de formatura.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260325073700 -0300" stop="20260325092200 -0300" channel="TNT HD">
+    <title lang="pt">Jumanji</title>
+    <desc lang="pt">Após perderem os pais, os irmãos Judy (Kirsten Dunste) Peter (Bradley Pierce) se mudam para uma nova casa.</desc>
+    <length units="minutes">6300</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260325092200 -0300" stop="20260325110900 -0300" channel="TNT HD">
+    <title lang="pt">10.000 A.C.</title>
+    <desc lang="pt">As aventuras de um jovem caçador pré-histórico, que lidera um exército no deserto, enfrentando perigos para salvar sua amada das mãos de um maligno e poderoso guerreiro determinado a possuí-la.</desc>
+    <length units="minutes">6420</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325072500 -0300" stop="20260325090800 -0300" channel="TNT HD">
-    <title lang="pt">Liverpool x Galatasaray</title>
-    <desc lang="pt">Liverpool e Galatasaray jogam a rodada de volta das Oitavas De Final da UEFA Champions League, no Anfield, em Merseyside, Inglaterra.</desc>
-    <length units="minutes">6180</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260325090800 -0300" stop="20260325110500 -0300" channel="TNT HD">
-    <title lang="pt">A Saga Crepúsculo: Amanhecer - Parte 1</title>
-    <desc lang="pt">Bella e Edward finalmente se casam. A felicidade dos dois parece não ter limites, e Bella descobre estar grávida. Mas a criança que eles esperam gera grandes receios e os coloca em uma disputa mortal.</desc>
-    <length units="minutes">7020</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325110500 -0300" stop="20260325113000 -0300" channel="TNT HD">
+  <programme start="20260325110900 -0300" stop="20260325113400 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Começando com o pé esquerdo</sub-title>
-    <desc lang="pt">A Ashley e as suas amigas pedem que o Will conte uma história de terror na sua festa de pijama antes de ir dormir. O Will conta como foi o seu primeiro dia na Academia de Bel-Air.</desc>
+    <sub-title lang="pt">Passando no Teste</sub-title>
+    <desc lang="pt">O Will e o Carlton têm resultados surpreendentes em uma prova, enquanto o Geoffrey quer o seu aumento anual.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325113000 -0300" stop="20260325115500 -0300" channel="TNT HD">
+  <programme start="20260325113400 -0300" stop="20260325115900 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Decoração de Natal</sub-title>
-    <desc lang="pt">O Will percebe que a Ashley nunca teve um natal de verdade antes e faz de tudo para que ela tenha um. Ele decora o interior e o exterior da mansão completamente, e isso irrita alguns vizinhos.</desc>
+    <sub-title lang="pt">O Namorado da Vovó</sub-title>
+    <desc lang="pt">O Philip fica bravo quando vê a sua mãe se divertindo com outro homem. Os garotos apostam uns com os outros que não conseguem fazer as coisas que as pessoas do sexo oposto fazem normalmente.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325115500 -0300" stop="20260325121600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia A Prisão</sub-title>
-    <desc lang="pt">Chris precisa arrecadar dinheiro para uma viagem escolar vendendo biscoitos. Enquanto isso, Julius lamenta que Rochelle vá ver Dreamgirls enquanto ele cuida de Tonya e Drew, que têm catapora.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260325121600 -0300" stop="20260325123800 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Corleone</sub-title>
-    <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260325123800 -0300" stop="20260325130400 -0300" channel="TNT HD">
+  <programme start="20260325115900 -0300" stop="20260325122400 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Saber é poder</sub-title>
-    <desc lang="pt">A Hilary dedura o Will por várias coisas, inclusive chegar em casa às 3 da manhã do dia anterior para usar o carro da família. O Will planeja se vingar.</desc>
-    <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <sub-title lang="pt">Adivinha Quem é o Noivo?</sub-title>
+    <desc lang="pt">Will é um jovem da Filadélfia que é enviado por sua mãe para passar um tempo na mansão de seus tios milionários, em Los Angeles. Com suas mais diversas trapalhadas, Will transforma a vida de seus tios e primos do dia ...</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260325130400 -0300" stop="20260325132700 -0300" channel="TNT HD">
+  <programme start="20260325122400 -0300" stop="20260325124700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Rejeição</sub-title>
-    <desc lang="pt">Depois que o caminhão de Julius é roubado, Rochelle decide se envolver com um grupo de vigilância no bairro, mas acaba entrando em uma disputa com a nova vizinha, Louise.</desc>
+    <sub-title lang="pt">Todo Mundo Odeia O Substituto</sub-title>
+    <desc lang="pt">O professor substituto inferniza a vida de Chris ao exigir mais dele do que dos seus colegas de turma. Tonya percebe que sempre pode conseguir o que quer acusando Drew de bater nela.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260325132700 -0300" stop="20260325143300 -0300" channel="TNT HD">
+  <programme start="20260325124700 -0300" stop="20260325131000 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia DJ's</sub-title>
+    <desc lang="pt">Quando o DJ do bairro é preso no meio de uma festa, Chris fica no lugar dele e mostra que faz enorme sucesso com o público.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260325131000 -0300" stop="20260325133200 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Os Inspetores</sub-title>
+    <desc lang="pt">Com a intenção de ganhar mais respeito dos seus colegas de turma e fazer com que Caruso pare de tratá-lo como um saco de pancadas, Chris se candidata para ser inspetor nos corredores da escola.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260325133200 -0300" stop="20260325141900 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
-    <desc lang="pt">Sofia descobre a verdade e foge de casa. Lola seduz Benjamin. Sofia entrega uma prova importante sobre o caso de Rebeca à polícia.</desc>
-    <length units="minutes">3960</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <desc lang="pt">Após mudar de identidade, Sofia se aproxima de Carol, neta de Átila, como &quot;Júlia&quot;. Rog começa a abusar moralmente de sua esposa Gisela, filha de Átila, que tem baixa autoestima.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260325143300 -0300" stop="20260325143600 -0300" channel="TNT HD">
-    <title lang="pt">Melhores Momentos Oscars 2026</title>
-    <desc lang="pt">Acompanhe os melhores momentos do Oscar 2026.</desc>
-    <length units="minutes">180</length>
+  <programme start="20260325141900 -0300" stop="20260325160900 -0300" channel="TNT HD">
+    <title lang="pt">Imortais</title>
+    <desc lang="pt">O rei Hyperion está em busca do arco de Épiro para dominar o mundo e destruir os deuses. Impiedoso, ele arrasa vilarejos em busca de seu objetivo. O único que pode detê-lo é Theseus, um jovem escolhido por Zeus.</desc>
+    <length units="minutes">6600</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260325160900 -0300" stop="20260325180100 -0300" channel="TNT HD">
+    <title lang="pt">MIB: Homens de Preto Internacional</title>
+    <desc lang="pt">Molly consegue realizar seu sonho de fazer parte da agência  MIB. Ela é enviada para Londres e, junto de H, começa a investigar casos estranhos que vêm acontecendo por lá.</desc>
+    <length units="minutes">6720</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325143600 -0300" stop="20260325161300 -0300" channel="TNT HD">
-    <title lang="pt">A Herança de Mr. Deeds</title>
-    <desc lang="pt">Deeds é dono de uma pizzaria que recebe os clientes recitando versos hilários. Um dia recebe a notícia de uma herança que o transforma num milionário.</desc>
-    <length units="minutes">5820</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260325161300 -0300" stop="20260325183500 -0300" channel="TNT HD">
-    <title lang="pt">O Esquadrão Suicida</title>
-    <desc lang="pt">James Gunn nos apresenta uma equipe com os piores supervilões da DC salvando o mundo. E como sempre, um passo em falso e estão mortos.</desc>
-    <length units="minutes">8520</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260325183500 -0300" stop="20260325184500 -0300" channel="TNT HD">
-    <title lang="pt">Buzum</title>
-    <sub-title lang="pt">Um Dia de Cão</sub-title>
-    <desc lang="pt">Saulo e Belo são dois amigos religiosos que estão em busca de novos fundos para sua Igreja, então se juntam para pedir dinheiro aos passageiros do Buzum.</desc>
-    <length units="minutes">600</length>
+  <programme start="20260325180100 -0300" stop="20260325185100 -0300" channel="TNT HD">
+    <title lang="pt">Operação Transplante</title>
+    <sub-title lang="pt">Uma Chance de Viver</sub-title>
+    <desc lang="pt">Uma equipe precisa encontrar o coração ideal para um paciente em estado terminal e um bebê precisa receber parte do fígado doado por sua mãe.</desc>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325185100 -0300" stop="20260325194200 -0300" channel="TNT HD">
+    <title lang="pt">Operação Transplante</title>
+    <sub-title lang="pt">Entre Irmãos</sub-title>
+    <desc lang="pt">Cirurgiões precisam substituir os pulmões de uma mulher e uma equipe realiza um transplante intervivos de fígado entre duas irmãs.</desc>
+    <length units="minutes">3060</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325194200 -0300" stop="20260325203100 -0300" channel="TNT HD">
+    <title lang="pt">Operação Transplante</title>
+    <sub-title lang="pt">O Maior Gesto de Amor</sub-title>
+    <desc lang="pt">Time de transplante hepático precisa agir rapidamente quando se depara com uma grave intercorrência e uma equipe opera um casal mais velho.</desc>
+    <length units="minutes">2940</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260325203100 -0300" stop="20260325222900 -0300" channel="TNT HD">
+    <title lang="pt">Deus é Brasileiro</title>
+    <desc lang="pt">Cansado dos erros cometidos pela humanidade, Deus resolve tirar umas férias a fim de descansar de seus aborrecimentos. Mas, para isso, precisa encontrar um santo que se ocupe de seus deveres enquanto Ele estiver ausente.</desc>
+    <length units="minutes">7080</length>
+    <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260325184500 -0300" stop="20260325202500 -0300" channel="TNT HD">
-    <title lang="pt">A Mulher do Meu Marido</title>
-    <desc lang="pt">Ao descobrir a infidelidade do marido, uma mulher decide ignorar para manter a felicidade da família. Tudo parece entrar em equilíbrio quando ela mesma começa a ter um caso.</desc>
-    <length units="minutes">6000</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325202500 -0300" stop="20260325223000 -0300" channel="TNT HD">
-    <title lang="pt">Saideira</title>
-    <desc lang="pt">Saideira é um filme nacional de comédia dramática dirigido por Pedro Arantes e Júlio Taubkin. A trama acompanha a história de duas irmãs, Penélope e Joana Caldas que depois de ficarem cerca de 10 anos distantes.</desc>
-    <length units="minutes">7500</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260325223000 -0300" stop="20260325232400 -0300" channel="TNT HD">
+  <programme start="20260325222900 -0300" stop="20260325233000 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
-    <desc lang="pt">Viviane investiga o caso de Rebeca e ameaça Lola, Rog e Benjamin. Sofia visita Cléo na prisão, onde uma revolta acontece.</desc>
-    <length units="minutes">3240</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <desc lang="pt">Sofia descobre segredos na Casa Do Sim e vaza um vídeo íntimo de Benjamin. Elvira confronta Sofia, que prefere sair de casa a contar o seu plano de vingança.</desc>
+    <length units="minutes">3660</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260325232400 -0300" stop="20260325234600 -0300" channel="TNT HD">
+  <programme start="20260325233000 -0300" stop="20260325235400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia A Prisão</sub-title>
-    <desc lang="pt">Chris precisa arrecadar dinheiro para uma viagem escolar vendendo biscoitos. Enquanto isso, Julius lamenta que Rochelle vá ver Dreamgirls enquanto ele cuida de Tonya e Drew, que têm catapora.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <sub-title lang="pt">Todo Mundo Odeia O Substituto</sub-title>
+    <desc lang="pt">O professor substituto inferniza a vida de Chris ao exigir mais dele do que dos seus colegas de turma. Tonya percebe que sempre pode conseguir o que quer acusando Drew de bater nela.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260325234600 -0300" stop="20260326002200 -0300" channel="TNT HD">
+  <programme start="20260325235400 -0300" stop="20260326001700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Corleone</sub-title>
-    <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
-    <length units="minutes">2160</length>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <sub-title lang="pt">Todo Mundo Odeia DJ's</sub-title>
+    <desc lang="pt">Quando o DJ do bairro é preso no meio de uma festa, Chris fica no lugar dele e mostra que faz enorme sucesso com o público.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260325234600 -0300" stop="20260326002200 -0300" channel="TNT HD">
+  <programme start="20260325235400 -0300" stop="20260326001700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Corleone</sub-title>
-    <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
-    <length units="minutes">2160</length>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <sub-title lang="pt">Todo Mundo Odeia DJ's</sub-title>
+    <desc lang="pt">Quando o DJ do bairro é preso no meio de uma festa, Chris fica no lugar dele e mostra que faz enorme sucesso com o público.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20260326001700 -0300" stop="20260326002200 -0300" channel="TNT HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">300</length>
   </programme>
   <programme start="20260326002200 -0300" stop="20260326004400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
