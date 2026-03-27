@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-27 11:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-27 14:30:55" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13669,45 +13669,29 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">5.89.</episode-num>
   </programme>
-  <programme start="20260330060000 -0300" stop="20260330061500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Drops Bandsports</title>
-    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.</desc>
-    <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260330060000 -0300" stop="20260330064500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">TCR South America: 2ª Etapa Cascavel-SP: Corrida 2</title>
+    <desc lang="pt">A terceira temporada do TCR South America têm casa nova para as transmissões televisivas em 2026. As corridas passam a ser todas transmitidas pelo BandSports.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">6.89.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260330061500 -0300" stop="20260330071500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross MXGP: Etapa Andaluzia: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+  <programme start="20260330064500 -0300" stop="20260330074500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Stock Car: 2ª Etapa: Cascavel-PR: Corrida 2</title>
+    <desc lang="pt">O encontro marcará o retorno da principal categoria brasileira ao traçado mineiro, no Circuito dos Cristais, situado em Curvelo (MG) que já sediou duas rodadas duplas, nas temporadas de 2016 e 2017.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.89.</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260330071500 -0300" stop="20260330080000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">AMG Cup: 2ª Etapa Brasília: Corrida 1</title>
-    <desc lang="pt">AMG Cup é a categoria oficial de automobilismo Mercedes-AMG. É dividida em duas categorias: C300 Cup e CLA AMG Cup.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">7.89.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260330080000 -0300" stop="20260330084500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">AMG Cup: 2ª Etapa Brasília: Corrida 2</title>
-    <desc lang="pt">AMG Cup é a categoria oficial de automobilismo Mercedes-AMG. É dividida em duas categorias: C300 Cup e CLA AMG Cup.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">8.89.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260330084500 -0300" stop="20260330094500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Fórmula E: E-Prix de Madri: Corrida</title>
-    <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">8.89.</episode-num>
+  <programme start="20260330074500 -0300" stop="20260330094500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">LA Open: Simples Masculino</title>
+    <desc lang="pt">O Latin American Open (LA Open) vai receber lendas do tênis no Jockey Club São Paulo. Juan Martín Del Potro, Fernando Meligeni, Andy Roddick e Diego Schwartzman disputarão partidas de exibição nos dois primeiros dias ...</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260330094500 -0300" stop="20260330114500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">LA Open Legends: Duplas</title>
-    <desc lang="pt">O Latin American Open (LA Open) vai receber lendas do tênis no Jockey Club São Paulo. Juan Martín Del Potro, Fernando Meligeni, Andy Roddick e Diego Schwartzman disputarão partidas de exibição nos dois primeiros dias ...</desc>
+    <title lang="pt">Argentina x Mauritânia</title>
+    <desc lang="pt">O Bandsports transmite com exclusividade o amistoso internacional entre Argentina e Mauritânia.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
@@ -13740,51 +13724,43 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">85.89.</episode-num>
   </programme>
-  <programme start="20260330170000 -0300" stop="20260330190000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260330170000 -0300" stop="20260330180000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">17.89.</episode-num>
+  </programme>
+  <programme start="20260330180000 -0300" stop="20260330200000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Bola Rolando - ao vivo</title>
     <desc lang="pt">De segunda a sexta o Bola Rolando esquenta o debate com todos os detalhes do futebol nacional e internacional. Um time de especialistas que vai deixar você por dentro das principais notícias da semana!</desc>
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.89.</episode-num>
+    <episode-num system="xmltv_ns">88.89.</episode-num>
   </programme>
-  <programme start="20260330190000 -0300" stop="20260330203000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">LA Open: Simples Masculino - ao vivo</title>
-    <desc lang="pt">O Latin American Open (LA Open) vai receber lendas do tênis no Jockey Club São Paulo. Juan Martín Del Potro, Fernando Meligeni, Andy Roddick e Diego Schwartzman disputarão partidas de exibição nos dois primeiros dias ...</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260330203000 -0300" stop="20260330220000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260330200000 -0300" stop="20260330213000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Tempo Técnico - ao vivo</title>
     <desc lang="pt">Comandado por Elia Junior, o Tempo Técnico terá na bancada os comentaristas Jorge Nicola e Sálvio Spínola. O programa foca em análises táticas, debates e entrevistas com os principais técnicos do futebol brasileiro.</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.89.</episode-num>
   </programme>
-  <programme start="20260330220000 -0300" stop="20260330230000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260330213000 -0300" stop="20260330223000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo - ao vivo</title>
     <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">82.89.</episode-num>
+    <episode-num system="xmltv_ns">81.89.</episode-num>
   </programme>
-  <programme start="20260330230000 -0300" stop="20260330233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">The Golf Brasil</title>
-    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">83.89.</episode-num>
-  </programme>
-  <programme start="20260330233000 -0300" stop="20260331003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Fórmula E: E-Prix de Madri: Corrida</title>
-    <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.89.</episode-num>
+  <programme start="20260330223000 -0300" stop="20260331003000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">LA Open: Simples Masculino</title>
+    <desc lang="pt">O Latin American Open (LA Open) vai receber lendas do tênis no Jockey Club São Paulo. Juan Martín Del Potro, Fernando Meligeni, Andy Roddick e Diego Schwartzman disputarão partidas de exibição nos dois primeiros dias ...</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260330233000 -0300" stop="20260331003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Fórmula E: E-Prix de Madri: Corrida</title>
-    <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.89.</episode-num>
+  <programme start="20260330223000 -0300" stop="20260331003000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">LA Open: Simples Masculino</title>
+    <desc lang="pt">O Latin American Open (LA Open) vai receber lendas do tênis no Jockey Club São Paulo. Juan Martín Del Potro, Fernando Meligeni, Andy Roddick e Diego Schwartzman disputarão partidas de exibição nos dois primeiros dias ...</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260331003000 -0300" stop="20260331004500 -0300" channel="BAND SPORTS HD">
@@ -101429,7 +101405,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">26.22.</episode-num>
+    <episode-num system="xmltv_ns">27.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -101439,7 +101415,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">25.32.</episode-num>
+    <episode-num system="xmltv_ns">27.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -101626,7 +101602,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">26.22.</episode-num>
+    <episode-num system="xmltv_ns">28.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -101650,7 +101626,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">26.22.</episode-num>
+    <episode-num system="xmltv_ns">28.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -101827,7 +101803,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">26.22.</episode-num>
+    <episode-num system="xmltv_ns">28.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -101956,7 +101932,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">26.22.</episode-num>
+    <episode-num system="xmltv_ns">28.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -140577,7 +140553,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com o Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">25.190.</episode-num>
+    <episode-num system="xmltv_ns">27.190.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140586,7 +140562,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Florinda é manicure e sofre o assédio de um cliente. Mas seu patrão quer que ela finja estar gostando para que o sujeito volte sempre à barbearia.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.192.</episode-num>
+    <episode-num system="xmltv_ns">27.192.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -141027,7 +141003,7 @@
     <title lang="pt">Chaves</title>
     <desc lang="pt">Seu Madruga continua trabalhando para engessar a vila. No entanto, Chaves e Quico acham que o gesso é leite de burra, o que provoca várias encrencas.</desc>
     <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">25.191.</episode-num>
+    <episode-num system="xmltv_ns">26.191.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -141036,7 +141012,7 @@
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Florinda está com o pai e o marido em um bosque. A moça, no entanto, acaba desaparecendo e eles precisam chamar o Chapolin para encontrá-la.</desc>
     <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">25.193.</episode-num>
+    <episode-num system="xmltv_ns">26.193.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -141188,7 +141164,7 @@
   </programme>
   <programme start="20260328123600 -0300" stop="20260328130600 -0300" channel="MULTISHOW HD">
     <title lang="pt">Reclame</title>
-    <desc lang="pt">Com apresentação de Allen Lins, o programa Reclame traz conteúdos inéditos sobre o mundo da comunicação, entrevistas com grandes publicitários, personalidades, criativos e cobertura dos maiores</desc>
+    <desc lang="pt">Olá, REC lovers! Neste programa você confere nossa chegada ao festival SXSW,tudo que a Globo e o WhatsApp Business fizeram por lá e ainda vê a nova campanha de Johnnie Walker.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">20.4.</episode-num>
     <rating system="Brazil">
@@ -159141,16 +159117,16 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260330180000 -0300" stop="20260330200000 -0300" channel="PREMIERE 6 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
+  <programme start="20260330180000 -0300" stop="20260330210000 -0300" channel="PREMIERE 6 HD">
+    <title lang="pt">Superliga Feminina de Vôlei: Praia Clube x Sesi Bauru - ao vivo</title>
+    <desc lang="pt">O Sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no Sportv!</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260330200000 -0300" stop="20260330220000 -0300" channel="PREMIERE 6 HD">
+  <programme start="20260330210000 -0300" stop="20260330220000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260330220000 -0300" stop="20260331000000 -0300" channel="PREMIERE 6 HD">
@@ -175325,19 +175301,18 @@
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260328210000 -0300" stop="20260328223000 -0300" channel="SPORTV">
+  <programme start="20260328210000 -0300" stop="20260328220000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">81.87.</episode-num>
   </programme>
-  <programme start="20260328223000 -0300" stop="20260328233000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Amistoso Internacional: Hungria x Eslovênia - …</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">football/soccer</category>
-    <previously-shown/>
+  <programme start="20260328220000 -0300" stop="20260328233000 -0300" channel="SPORTV">
+    <title lang="pt">México x Portugal - ao vivo</title>
+    <desc lang="pt">Os times vão a campo no gramado do Azteca a partir de 22:00h.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260328233000 -0300" stop="20260329003000 -0300" channel="SPORTV">
     <title lang="pt">VT - Amistoso Internacional: Holanda x Noruega - Amsterdã, …</title>
@@ -223297,7 +223272,7 @@
     <title lang="pt">Freeride World Tour 2026: Etapa de Andorra - Ski Feminino</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">26.30.</episode-num>
+    <episode-num system="xmltv_ns">29.71.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
