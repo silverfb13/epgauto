@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-27 17:30:52" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-27 20:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -168253,10 +168253,18 @@
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">89.86.</episode-num>
   </programme>
-  <programme start="20260327203000 -0300" stop="20260327213000 -0300" channel="REDE TV! HD">
+  <programme start="20260327203000 -0300" stop="20260327203400 -0300" channel="REDE TV! HD">
+    <title lang="pt">Pronunciamento do Ministro de Estado da Saúde - Alexandre Padilha</title>
+    <desc lang="pt">Pronunciamento do Ministro de Estado da Saúde.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260327203400 -0300" stop="20260327213000 -0300" channel="REDE TV! HD">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">20.86.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -168420,20 +168428,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260328130000 -0300" stop="20260328153000 -0300" channel="REDE TV! HD">
+  <programme start="20260328130000 -0300" stop="20260328143000 -0300" channel="REDE TV! HD">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">13.87.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260328143000 -0300" stop="20260328173000 -0300" channel="REDE TV! HD">
     <title lang="pt">Show da Saúde</title>
     <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">13.87.</episode-num>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">14.87.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260328153000 -0300" stop="20260328180000 -0300" channel="REDE TV! HD">
+  <programme start="20260328173000 -0300" stop="20260328180000 -0300" channel="REDE TV! HD">
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">15.87.</episode-num>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">17.87.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
