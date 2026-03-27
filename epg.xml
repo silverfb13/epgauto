@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-26 20:30:45" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-26 23:30:42" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -28347,6 +28347,16 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260327235600 -0300" stop="20260328001100 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">Estrelas Da Sorte</sub-title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.296.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20260328000000 -0300" stop="20260328001100 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Estrelas Da Sorte</sub-title>
@@ -42271,11 +42281,74 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260326183000 -0300" stop="20260327000000 -0300" channel="CGTN">
+  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="CGTN">
     <title lang="pt">The Hub with Wang Guan</title>
     <desc lang="pt">The Hub cobre questões geopolíticas e econômicas, bem como histórias e tendências na cultura, educação, tecnologia e estilo de vida. Tem como objetivo conectar pessoas, culturas e sociedades em todo o Oriente e o...</desc>
-    <length units="minutes">19800</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">88.85.</episode-num>
+  </programme>
+  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">89.85.</episode-num>
+  </programme>
+  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="CGTN">
+    <title lang="pt">Rediscovering China</title>
+    <desc lang="pt">Com seu acesso incomparável às pessoas e lugares do país, Rediscovering China traz relatórios detalhados sobre os principais problemas que a China enfrenta em um momento de rápidas mudanças.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">89.85.</episode-num>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="CGTN">
+    <title lang="pt">The Heat</title>
+    <desc lang="pt">Programa diário de notícias dedicado a entrevistas importantes, análises e debates envolventes sobre os EUA, a China e questões globais.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">20.85.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.85.</episode-num>
+  </programme>
+  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="CGTN">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">O programa oferece uma análise aprofundada dos dados econômicos mais recentes, tendências de negócios e políticas de movimentação de mercado, mostrando como tudo isso afeta as pessoas comuns.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">21.85.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.85.</episode-num>
+  </programme>
+  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="CGTN">
+    <title lang="pt">China 24</title>
+    <desc lang="pt">O China 24 é um programa de notícias no horário nobre da CGTN que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.85.</episode-num>
+  </programme>
+  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.85.</episode-num>
+  </programme>
+  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="CGTN">
+    <title lang="pt">World Insight With Tian Wei</title>
+    <desc lang="pt">O programa combina debates equilibrados e perspicazes sobre os botões quentes globais e entrevistas exclusivas de alto perfil.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.85.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327001500 -0300" channel="CGTN">
     <title lang="pt">The World Today</title>
