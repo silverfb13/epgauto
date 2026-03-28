@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-27 20:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-27 23:30:48" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -43947,24 +43947,39 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.87.</episode-num>
   </programme>
-  <programme start="20260328133000 -0300" stop="20260328143000 -0300" channel="CNN BRASIL">
+  <programme start="20260328133000 -0300" stop="20260328141500 -0300" channel="CNN BRASIL">
     <title lang="pt">WW: Edição Especial</title>
     <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">83.87.</episode-num>
   </programme>
-  <programme start="20260328143000 -0300" stop="20260328153000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260328141500 -0300" stop="20260328143000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">84.87.</episode-num>
+  </programme>
+  <programme start="20260328143000 -0300" stop="20260328151500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Hot Market</title>
+    <desc lang="pt">O programa Hot Market tratará de negócios e mercado financeiro. Rafael Furlanetti, sócio-diretor institucional da XP Investimentos, vai abordar as principais decisões que movem a economia e a política do Brasil.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">14.87.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260328151500 -0300" stop="20260328153000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">85.87.</episode-num>
+  </programme>
   <programme start="20260328153000 -0300" stop="20260328161500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Lima</title>
+    <sub-title lang="pt">Capital Gastronômica da América Latina</sub-title>
+    <desc lang="pt">Dani Filomeno continua seu roteiro gastronômico pela capital peruana com casas que oferecem uma verdadeira explosão de sabores. De pratos tradicionais a criações inovadoras, uma coisa é certa: vai dar água na boca.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">15.87.</episode-num>
     <rating system="Brazil">
@@ -43979,8 +43994,8 @@
     <episode-num system="xmltv_ns">86.87.</episode-num>
   </programme>
   <programme start="20260328171500 -0300" stop="20260328174500 -0300" channel="CNN BRASIL">
-    <title lang="pt">É Negócio</title>
-    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <title lang="pt">É Negócio: Milton Maluhy</title>
+    <desc lang="pt">Nesta semana Carlos Sambarana recebe Milton Maluhy, CEO do Itaú.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">17.87.</episode-num>
     <rating system="Brazil">
@@ -43995,7 +44010,7 @@
     <episode-num system="xmltv_ns">87.87.</episode-num>
   </programme>
   <programme start="20260328180000 -0300" stop="20260328184500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Esportes S/A</title>
+    <title lang="pt">CNN Esportes S/A: Paulo Bracks</title>
     <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.87.</episode-num>
@@ -44008,8 +44023,8 @@
     <episode-num system="xmltv_ns">88.87.</episode-num>
   </programme>
   <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Câncer de Intestino</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe especialistas para falar sobre o câncer de intestino.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">19.87.</episode-num>
     <rating system="Brazil">
@@ -44029,16 +44044,17 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.87.</episode-num>
   </programme>
-  <programme start="20260328220000 -0300" stop="20260328225000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3000</length>
+  <programme start="20260328220000 -0300" stop="20260328224500 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Botsuana</title>
+    <sub-title lang="pt">O Fascínio dos Safaris</sub-title>
+    <desc lang="pt">No quinto episódio da temporada, o &quot;CNN Viagem &amp; Gastronomia&quot; desembarca na incrível Botsuana, na região do Delta do Okavango, uma das áreas mais preservadas e selvagens da África.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">22.87.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260328225000 -0300" stop="20260328233500 -0300" channel="CNN BRASIL">
+  <programme start="20260328224500 -0300" stop="20260328233000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
     <length units="minutes">2700</length>
@@ -44047,17 +44063,21 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260328233500 -0300" stop="20260329003500 -0300" channel="CNN BRASIL">
+  <programme start="20260328233000 -0300" stop="20260329003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.87.</episode-num>
   </programme>
-  <programme start="20260328233500 -0300" stop="20260329003500 -0300" channel="CNN BRASIL">
+  <programme start="20260328233000 -0300" stop="20260329003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.87.</episode-num>
+  </programme>
+  <programme start="20260329003000 -0300" stop="20260329003500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">300</length>
   </programme>
   <programme start="20260329003500 -0300" stop="20260329012000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
@@ -44747,20 +44767,20 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">82.87.</episode-num>
   </programme>
-  <programme start="20260328124500 -0300" stop="20260328171500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
-    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
-    <length units="minutes">16200</length>
-    <episode-num system="xmltv_ns">82.87.</episode-num>
-  </programme>
-  <programme start="20260328171500 -0300" stop="20260328174500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Conexão Infra</title>
-    <desc lang="pt">Toda quinta-feira, o Conexão Infra traz entrevistas exclusivas com lideranças responsáveis por PPPs e projetos que devem moldar o país nos próximos anos.</desc>
+  <programme start="20260328124500 -0300" stop="20260328131500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">É Negócio</title>
+    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">17.87.</episode-num>
+    <episode-num system="xmltv_ns">12.87.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20260328131500 -0300" stop="20260328174500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
+    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
+    <length units="minutes">16200</length>
+    <episode-num system="xmltv_ns">83.87.</episode-num>
   </programme>
   <programme start="20260328174500 -0300" stop="20260328184500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">Cripto na Real</title>
@@ -44768,21 +44788,23 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.87.</episode-num>
   </programme>
-  <programme start="20260328184500 -0300" stop="20260328193000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Capital Insights</title>
-    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260328184500 -0300" stop="20260328191500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Conexão Infra</title>
+    <desc lang="pt">Toda quinta-feira, o Conexão Infra traz entrevistas exclusivas com lideranças responsáveis por PPPs e projetos que devem moldar o país nos próximos anos.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">18.87.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Altagem</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">O Alta Voltagem chega para conectar o público aos principais nomes do setor de energia, mercado que movimenta mais de R$ 112 bilhões ao ano.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.87.</episode-num>
+  <programme start="20260328191500 -0300" stop="20260328200000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Capital Insights</title>
+    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">19.87.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260328200000 -0300" stop="20260329003000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
