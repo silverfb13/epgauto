@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-03-31 20:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-03-31 23:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -45078,10 +45078,13 @@
     <episode-num system="xmltv_ns">89.91.</episode-num>
   </programme>
   <programme start="20260401201500 -0300" stop="20260401223000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Fechamento de Mercado</title>
-    <desc lang="pt">O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <title lang="pt">CNN Talks</title>
+    <desc lang="pt">A plataforma de eventos que conecta vozes e impulsiona o diálogo.</desc>
     <length units="minutes">8100</length>
-    <episode-num system="xmltv_ns">80.91.</episode-num>
+    <episode-num system="xmltv_ns">20.91.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260401223000 -0300" stop="20260401230000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">Mapa da Mina</title>
