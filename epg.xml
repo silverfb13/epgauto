@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-02 14:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-02 17:30:52" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13014,35 +13014,25 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.92.</episode-num>
   </programme>
-  <programme start="20260402041500 -0300" stop="20260402051500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Fórmula E: Driver</title>
-    <desc lang="pt">Quatro pilotos da Fórmula E: António Félix da Costa, Mitch Evans, Jake Dennis e Dan Ticktum - enfrentam triunfos e desafios durante a 10ª temporada do Campeonato Mundial de Fórmula E da ABB FIA.</desc>
+  <programme start="20260402041500 -0300" stop="20260402050000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">TCR South America: 2ª Etapa Cascavel-PR: Corrida 1</title>
+    <desc lang="pt">A terceira temporada do TCR South America têm casa nova para as transmissões televisivas em 2026. As corridas passam a ser todas transmitidas pelo BandSports.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">4.92.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260402050000 -0300" stop="20260402060000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">TCR South America: 2ª Etapa Cascavel-PR: Corrida 2</title>
+    <desc lang="pt">A terceira temporada do TCR South America têm casa nova para as transmissões televisivas em 2026. As corridas passam a ser todas transmitidas pelo BandSports.</desc>
     <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">5.92.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260402051500 -0300" stop="20260402054500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Gearing Up</title>
-    <desc lang="pt">Tudo sobre as competições mais eletrizantes do universo dos esportes a motor.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260402054500 -0300" stop="20260402060000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260402060000 -0300" stop="20260402061500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Oléé</title>
     <desc lang="pt">Programa comandado por Beetto Saad pra falar da gestão do futebol, sempre com grandes convidados para dividir experiências de como comandar o esporte.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">85.92.</episode-num>
-  </programme>
-  <programme start="20260402060000 -0300" stop="20260402061500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Drops Bandsports</title>
-    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.</desc>
-    <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">86.92.</episode-num>
   </programme>
   <programme start="20260402061500 -0300" stop="20260402071500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Na Reta dos Boxes</title>
@@ -13176,11 +13166,16 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.93.</episode-num>
   </programme>
-  <programme start="20260403041500 -0300" stop="20260403050000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260403041500 -0300" stop="20260403044500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">The Outdoor Sport Show</title>
     <desc lang="pt">Eventos de Esportes Radicais. Esportes abordados: Triatlo, Esqui, Snowboarding, Escalada, Kitesurfing, Ciclismo, Windsurf, Downhill Mountain Biking, Esportes de rua e Parapente.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">4.93.</episode-num>
+  </programme>
+  <programme start="20260403044500 -0300" stop="20260403050000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
+    <length units="minutes">900</length>
   </programme>
   <programme start="20260403050000 -0300" stop="20260403054500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Mundo PBR</title>
@@ -13364,7 +13359,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260404080000 -0300" stop="20260404090000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">TCR South America: 2ª Etapa Cascavel-SP: Corrida 2</title>
+    <title lang="pt">TCR South America: 2ª Etapa Cascavel-PR: Corrida 2</title>
     <desc lang="pt">A terceira temporada do TCR South America têm casa nova para as transmissões televisivas em 2026. As corridas passam a ser todas transmitidas pelo BandSports.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">8.94.</episode-num>
@@ -101541,20 +101536,89 @@
     <length units="minutes">6900</length>
     <previously-shown/>
   </programme>
-  <programme start="20260403015500 -0300" stop="20260403055500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260403015500 -0300" stop="20260403045000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Los Angeles Rams x Seattle Seahwaks</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <length units="minutes">10500</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260403055500 -0300" stop="20260403080500 -0300" channel="GE TV HD">
+  <programme start="20260403045000 -0300" stop="20260403070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Estaduais 7</title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">7800</length>
   </programme>
-  <programme start="20260403080500 -0300" stop="20260403120500 -0300" channel="GE TV HD">
+  <programme start="20260403070000 -0300" stop="20260403100000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">10800</length>
+  </programme>
+  <programme start="20260403100000 -0300" stop="20260403123500 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Masculina De Vôlei: Minas x Goiás</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">9300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403123500 -0300" stop="20260403141500 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Feminina De Vôlei: Fluminense x Brasília</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">6000</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403141500 -0300" stop="20260403160500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">6600</length>
+  </programme>
+  <programme start="20260403160500 -0300" stop="20260403193000 -0300" channel="GE TV HD">
+    <title lang="pt">Amistoso De Futebol: Brasil x França - Boston, EUA</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">12300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403193000 -0300" stop="20260403212500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">6900</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403212500 -0300" stop="20260403232500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Remo x Bahia</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403232500 -0300" stop="20260403235500 -0300" channel="GE TV HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Hong Kong. A seleção segue invicta, bate a Turquia, prepara feijoada e chega às finais. Em Bangkok, conhece as primeiras adversárias nos Jogos. O título inédito da VNL escapa na derrota para o Japão.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20260403235500 -0300" stop="20260404023000 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Brasil De Vôlei Masculino. - Cruzeiro x Campinas</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As oito melhores equipes do primeiro turno da superliga se enfrentam na Copa Brasil de Vôlei Masculino. É só jogão e você acompanha aqui no sportv.</desc>
+    <length units="minutes">9300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260403235500 -0300" stop="20260404023000 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Brasil De Vôlei Masculino. - Cruzeiro x Campinas</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As oito melhores equipes do primeiro turno da superliga se enfrentam na Copa Brasil de Vôlei Masculino. É só jogão e você acompanha aqui no sportv.</desc>
+    <length units="minutes">9300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260404023000 -0300" stop="20260404044500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">8100</length>
+  </programme>
+  <programme start="20260404044500 -0300" stop="20260404070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">8100</length>
+  </programme>
+  <programme start="20260404070000 -0300" stop="20260404110000 -0300" channel="GE TV HD">
     <title lang="pt">Programação GE TV</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">14400</length>
@@ -101562,197 +101626,178 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260403120500 -0300" stop="20260403160500 -0300" channel="GE TV HD">
+  <programme start="20260404110000 -0300" stop="20260404140000 -0300" channel="GE TV HD">
     <title lang="pt">Programação GE TV</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">10800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260403160500 -0300" stop="20260403200500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260404140000 -0300" stop="20260404160000 -0300" channel="GE TV HD">
+    <title lang="pt">Amistoso De Futebol: Brasil x França - Boston, EUA</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260403200500 -0300" stop="20260404000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260404160000 -0300" stop="20260404210000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">18000</length>
   </programme>
-  <programme start="20260403200500 -0300" stop="20260404000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260404210000 -0300" stop="20260404230000 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Feminina De Vôlei: Fluminense x Brasília</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260404000500 -0300" stop="20260404040500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260404230000 -0300" stop="20260405010000 -0300" channel="GE TV HD">
+    <title lang="pt">Osasco x Minas - Londrina, Pr</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A Copa Feminina de Vôlei está no ar, no sportv você assiste todos os detalhes desse jogão. Tá no vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260404040500 -0300" stop="20260404080500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260404230000 -0300" stop="20260405010000 -0300" channel="GE TV HD">
+    <title lang="pt">Osasco x Minas - Londrina, Pr</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A Copa Feminina de Vôlei está no ar, no sportv você assiste todos os detalhes desse jogão. Tá no vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260404080500 -0300" stop="20260404120500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405010000 -0300" stop="20260405035500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Los Angeles Rams x Seattle Seahwaks</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <length units="minutes">10500</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260404120500 -0300" stop="20260404160500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405035500 -0300" stop="20260405043000 -0300" channel="GE TV HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Veja os bastidores da seleção em Macau para a segunda etapa da VNL. É a hora do Brasil enfrentar Japão e Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20260404160500 -0300" stop="20260404200500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405043000 -0300" stop="20260405050000 -0300" channel="GE TV HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Veja os bastidores da seleção em Macau para a segunda etapa da VNL. É a hora do Brasil enfrentar Japão e Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20260404200500 -0300" stop="20260405000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405050000 -0300" stop="20260405070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">7200</length>
   </programme>
-  <programme start="20260404200500 -0300" stop="20260405000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405070000 -0300" stop="20260405090500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Remo x Bahia</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7500</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260405000500 -0300" stop="20260405040500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405090500 -0300" stop="20260405110500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Palmeiras x Fluminense</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260405040500 -0300" stop="20260405080500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405110500 -0300" stop="20260405130000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">6900</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260405080500 -0300" stop="20260405120500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405130000 -0300" stop="20260405200000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">25200</length>
   </programme>
-  <programme start="20260405120500 -0300" stop="20260405160500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405200000 -0300" stop="20260405221000 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Masculina De Vôlei: Minas x Suzano  - Jogo 1 - ao vivo</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260405160500 -0300" stop="20260405200500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405221000 -0300" stop="20260406004500 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Brasil De Vôlei Masculino. - Cruzeiro x Campinas</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As oito melhores equipes do primeiro turno da superliga se enfrentam na Copa Brasil de Vôlei Masculino. É só jogão e você acompanha aqui no sportv.</desc>
+    <length units="minutes">9300</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260405200500 -0300" stop="20260406000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260405221000 -0300" stop="20260406004500 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Brasil De Vôlei Masculino. - Cruzeiro x Campinas</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As oito melhores equipes do primeiro turno da superliga se enfrentam na Copa Brasil de Vôlei Masculino. É só jogão e você acompanha aqui no sportv.</desc>
+    <length units="minutes">9300</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260405200500 -0300" stop="20260406000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406004500 -0300" stop="20260406024500 -0300" channel="GE TV HD">
+    <title lang="pt">Osasco x Minas - Londrina, Pr</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A Copa Feminina de Vôlei está no ar, no sportv você assiste todos os detalhes desse jogão. Tá no vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260406000500 -0300" stop="20260406040500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406024500 -0300" stop="20260406042500 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Feminina De Vôlei: Fluminense x Brasília</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">6000</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260406040500 -0300" stop="20260406080500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406042500 -0300" stop="20260406070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais 7</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">9300</length>
   </programme>
-  <programme start="20260406080500 -0300" stop="20260406120500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406070000 -0300" stop="20260406100000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">10800</length>
   </programme>
-  <programme start="20260406120500 -0300" stop="20260406160500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406100000 -0300" stop="20260406120000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Palmeiras x Fluminense</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260406160500 -0300" stop="20260406200500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406120000 -0300" stop="20260406135000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">6600</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260406200500 -0300" stop="20260407000500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260406135000 -0300" stop="20260406155000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasileirão: Palmeiras x Grêmio</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260406155000 -0300" stop="20260406190000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">11400</length>
+  </programme>
+  <programme start="20260406190000 -0300" stop="20260406210000 -0300" channel="GE TV HD">
+    <title lang="pt">Amistoso De Futebol: Brasil x França - Boston, EUA</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260406210000 -0300" stop="20260406230000 -0300" channel="GE TV HD">
+    <title lang="pt">Amistoso De Futebol: Brasil x Croácia - Orlando, EUA</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260406230000 -0300" stop="20260407010000 -0300" channel="GE TV HD">
+    <title lang="pt">Superliga Feminina De Vôlei: Fluminense x Brasília</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260401233000 -0300" stop="20260402002000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Especial LED Luz na Educação</title>
@@ -119885,23 +119930,23 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260403092500 -0300" stop="20260403111500 -0300" channel="HBO">
+  <programme start="20260403092500 -0300" stop="20260403111900 -0300" channel="HBO">
     <title lang="pt">Uma Prova de Coragem</title>
     <desc lang="pt">Mark Wahlberg protagoniza esta inspiradora história real sobre um atleta decidido a ganhar o Campeonato Mundial de Corridas de Aventura na República Dominicana.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6840</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260403111500 -0300" stop="20260403132000 -0300" channel="HBO">
+  <programme start="20260403111900 -0300" stop="20260403132500 -0300" channel="HBO">
     <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
     <desc lang="pt">Quatro adolescentes encontram um videogame cuja ação se passa numa floresta tropical.</desc>
-    <length units="minutes">7500</length>
+    <length units="minutes">7560</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260403132000 -0300" stop="20260403151000 -0300" channel="HBO">
+  <programme start="20260403132500 -0300" stop="20260403151500 -0300" channel="HBO">
     <title lang="pt">Beekeeper: Rede de Vingança</title>
     <desc lang="pt">A tentativa brutal de vingança de um homem gera riscos para toda a nação depois que ele é revelado como sendo ex-agente de uma organização poderosa e clandestina conhecida como &quot;Beekeepers&quot;.</desc>
     <length units="minutes">6600</length>
@@ -119909,15 +119954,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260403151000 -0300" stop="20260403170500 -0300" channel="HBO">
+  <programme start="20260403151500 -0300" stop="20260403171100 -0300" channel="HBO">
     <title lang="pt">Relay: Contrato Perigoso</title>
     <desc lang="pt">Um lucrativo corretor de suborno entre empresas corruptas e indivíduos que as ameaçam quebra suas próprias regras quando um novo cliente busca sua proteção para se manter vivo.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260403170500 -0300" stop="20260403184500 -0300" channel="HBO">
+  <programme start="20260403171100 -0300" stop="20260403185100 -0300" channel="HBO">
     <title lang="pt">Caça Implacável</title>
     <desc lang="pt">Um homem investiga o submundo do crime da cidade enquanto escapa das autoridades em uma corrida contra o tempo para encontrar sua ex-mulher, que desapareceu misteriosamente em um posto de gasolina.</desc>
     <length units="minutes">6000</length>
@@ -119925,19 +119970,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260403184500 -0300" stop="20260403194500 -0300" channel="HBO">
+  <programme start="20260403185100 -0300" stop="20260403194300 -0300" channel="HBO">
     <title lang="pt">DTF St. Louis</title>
     <desc lang="pt">Três indivíduos de meia-idade se envolvem em um triângulo amoroso, o que leva à morte prematura de um deles.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260403194500 -0300" stop="20260403220000 -0300" channel="HBO">
+  <programme start="20260403194300 -0300" stop="20260403220000 -0300" channel="HBO">
     <title lang="pt">O Protetor</title>
     <desc lang="pt">Robert McCall tenta deixar para trás seu passado misterioso e se dedica a viver tranquilamente. Mas ao conhecer Teri, uma jovem prostituta que está sob o poder da máfia russa, ele vê renascer sua violenta sede de justiça.</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">8220</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -122272,9 +122317,8 @@
     </rating>
   </programme>
   <programme start="20260402230500 -0300" stop="20260403000100 -0300" channel="HBO Signature">
-    <title lang="pt">Mostra de São Paulo: Uma Biografia</title>
-    <sub-title lang="pt">May God Help Us</sub-title>
-    <desc lang="pt">Separado do MASP, Leon encontra dificuldades para lutar contra a censura e arrecadar dinheiro, mas ganha uma companheira de batalha: Renata de Almeira, produtora da Mostra e sua futura esposa.</desc>
+    <title lang="pt">Viva o Cinema! Uma História da Mostra de São Paulo</title>
+    <desc lang="pt">A série conta a história da Mostra Internacional de Cinema em São Paulo, um dos eventos culturais mais tradicionais da América Latina, que há 48 anos agita a cidade apresentando centenas de filmes do mundo todo.</desc>
     <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
@@ -122282,9 +122326,8 @@
     </rating>
   </programme>
   <programme start="20260402230500 -0300" stop="20260403000100 -0300" channel="HBO Signature">
-    <title lang="pt">Mostra de São Paulo: Uma Biografia</title>
-    <sub-title lang="pt">May God Help Us</sub-title>
-    <desc lang="pt">Separado do MASP, Leon encontra dificuldades para lutar contra a censura e arrecadar dinheiro, mas ganha uma companheira de batalha: Renata de Almeira, produtora da Mostra e sua futura esposa.</desc>
+    <title lang="pt">Viva o Cinema! Uma História da Mostra de São Paulo</title>
+    <desc lang="pt">A série conta a história da Mostra Internacional de Cinema em São Paulo, um dos eventos culturais mais tradicionais da América Latina, que há 48 anos agita a cidade apresentando centenas de filmes do mundo todo.</desc>
     <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
@@ -162949,19 +162992,22 @@
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260404180000 -0300" stop="20260404210000 -0300" channel="Paramount+ 4">
-    <title lang="pt">Dia 07/04 - Universidad Católica x Boca Juniors</title>
-    <desc lang="pt">Universidad Católica e Boca Juniors jogam pela 1ª rodada da fase de grupos da CONMEBOL Libertadores, na Claro Arena, em Santiago, Chile.</desc>
+    <title lang="pt">UFC Fight Night - Card Preliminar - ao vivo</title>
+    <desc lang="pt">UFC Fight Night: Moicano vs. Duncan está programado para ocorrer em 04 de Abril de 2026, na Meta Apex em Las Vegas, Estados Unidos.</desc>
     <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260404210000 -0300" stop="20260405000000 -0300" channel="Paramount+ 4">
-    <title lang="pt">Dia 07/04 - Universidad Católica x Boca Juniors</title>
-    <desc lang="pt">Universidad Católica e Boca Juniors jogam pela 1ª rodada da fase de grupos da CONMEBOL Libertadores, na Claro Arena, em Santiago, Chile.</desc>
+    <title lang="pt">UFC Fight Night - Moicano x Duncan - ao vivo</title>
+    <desc lang="pt">UFC Fight Night: Moicano vs. Duncan está programado para ocorrer em 04 de Abril de 2026, na Meta Apex em Las Vegas, Estados Unidos.</desc>
     <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260405000000 -0300" stop="20260405030000 -0300" channel="Paramount+ 4">
-    <title lang="pt">Dia 07/04 - Universidad Católica x Boca Juniors</title>
-    <desc lang="pt">Universidad Católica e Boca Juniors jogam pela 1ª rodada da fase de grupos da CONMEBOL Libertadores, na Claro Arena, em Santiago, Chile.</desc>
+    <title lang="pt">UFC Fight Night - Moicano x Duncan - ao vivo</title>
+    <desc lang="pt">UFC Fight Night: Moicano vs. Duncan está programado para ocorrer em 04 de Abril de 2026, na Meta Apex em Las Vegas, Estados Unidos.</desc>
     <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260405030000 -0300" stop="20260405060000 -0300" channel="Paramount+ 4">
     <title lang="pt">Dia 07/04 - Universidad Católica x Boca Juniors</title>
@@ -173483,11 +173529,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404003600 -0300" stop="20260404003800 -0300" channel="SPACE HD">
-    <title lang="pt">Conteúdo não disponível</title>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20260404003800 -0300" stop="20260404012100 -0300" channel="SPACE HD">
+  <programme start="20260404003600 -0300" stop="20260404011900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Freaks &amp; Geeks</sub-title>
     <desc lang="pt">O assassinato de um popular artista de shows envia a equipe aos bastidores de um show de horrores de circo.</desc>
@@ -173497,17 +173539,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404012100 -0300" stop="20260404020500 -0300" channel="SPACE HD">
+  <programme start="20260404011900 -0300" stop="20260404020400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Tipping Point</sub-title>
     <desc lang="pt">Apostadores locais ajudam a equipe de CSI a lutar para salvar o bairro das tentativas de domínio de uma gangue violenta.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">7.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404020500 -0300" stop="20260404024900 -0300" channel="SPACE HD">
+  <programme start="20260404020400 -0300" stop="20260404024800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Happy Birthday</sub-title>
     <desc lang="pt">Horatio deve encontrar um criminoso e salvar uma mulher grávida ao mesmo tempo em que tenta descobrir por que ela está sendo atacada.</desc>
@@ -173517,7 +173559,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404024900 -0300" stop="20260404033300 -0300" channel="SPACE HD">
+  <programme start="20260404024800 -0300" stop="20260404033200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">In Vino Veritas</sub-title>
     <desc lang="pt">Quando o detetive Mac Taylor chega a Las Vegas para encontrar sua namorada desaparecida, ele se junta com D.B. para encontrá-la.</desc>
@@ -173527,57 +173569,56 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404033300 -0300" stop="20260404041600 -0300" channel="SPACE HD">
+  <programme start="20260404033200 -0300" stop="20260404041600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">De Los Muertos</sub-title>
     <desc lang="pt">CSI mostra o dia-a-dia de uma equipe de investigadores forenses treinados para resolver crimes analisando minuciosamente as evidências</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">14.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404041600 -0300" stop="20260404045900 -0300" channel="SPACE HD">
+  <programme start="20260404041600 -0300" stop="20260404050000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Entrance Wound</sub-title>
     <desc lang="pt">Horatio e Speedle investigam a morte de uma prostituta que foi encontrada debaixo da cama de uma luxuosa casa de praia, e seu corpo nu foi esfaqueado 23 vezes. Mas a cena do crime tem poucos traços de sangue.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">1.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404045900 -0300" stop="20260404060000 -0300" channel="SPACE HD">
+  <programme start="20260404050000 -0300" stop="20260404054400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Pirated</sub-title>
     <desc lang="pt">A equipe investiga uma nova forma de pirataria depois que seis corpos amarrados são encontrados flutuando no oceano na costa de Miami.</desc>
-    <length units="minutes">3660</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404060000 -0300" stop="20260404062700 -0300" channel="SPACE HD">
-    <title lang="pt">Olhos Da Lei</title>
-    <sub-title lang="pt">Golpe, Roubo e Transtorno</sub-title>
-    <desc lang="pt">O COPOM monitora dois crimes graves em andamento em São Paulo.</desc>
-    <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
+  <programme start="20260404054400 -0300" stop="20260404061600 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">1920</length>
+    <episode-num system="xmltv_ns">5.94.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260404062700 -0300" stop="20260404071500 -0300" channel="SPACE HD">
+  <programme start="20260404061600 -0300" stop="20260404070200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Rest in Pieces</sub-title>
     <desc lang="pt">Depois que um assassino em Miami chega às ruas novamente, Horatio faz uma grande aposta na investigação quando ele conhece a mãe, esperando que ela possa fornecer informações que vão parar a matança do Taunter.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404071500 -0300" stop="20260404080000 -0300" channel="SPACE HD">
+  <programme start="20260404070200 -0300" stop="20260404074700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Bunk</sub-title>
     <desc lang="pt">Um homem inocente morre após entrar numa casa contaminada quimicamente e que está sendo usada como laboratório de drogas. Horatio e Speedle descobrem que a casa é apenas uma de várias que estão sendo usadas para fabri...</desc>
@@ -173587,17 +173628,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404080000 -0300" stop="20260404084400 -0300" channel="SPACE HD">
+  <programme start="20260404074700 -0300" stop="20260404083000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Spark of Life</sub-title>
     <desc lang="pt">Grissom descobre uma ligação entre o suicídio de uma mulher e o massacre de uma família inteira em uma casa no subúrbio.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404084400 -0300" stop="20260404092900 -0300" channel="SPACE HD">
+  <programme start="20260404083000 -0300" stop="20260404091500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Bodies In Motion</sub-title>
     <desc lang="pt">As duas equipes se juntam sob a liderança de Grissom e Catherine para cuidar de três investigações: um casal assassinado encontrado na cama, uma bela stripper morta e dois corpos encontrados assados e decompostos.</desc>
@@ -173607,27 +173648,27 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404092900 -0300" stop="20260404101400 -0300" channel="SPACE HD">
+  <programme start="20260404091500 -0300" stop="20260404100100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Delko for the Defense</sub-title>
     <desc lang="pt">Delko deve depor contra sua antiga equipe quando é convocado para um júri.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">8.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404101400 -0300" stop="20260404105800 -0300" channel="SPACE HD">
+  <programme start="20260404100100 -0300" stop="20260404104400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Manhunt</sub-title>
     <desc lang="pt">A equipe deve descobrir por que a pessoa que matou a esposa de Horatio saiu da prisão e devem detê-lo antes que ele faça mais vítimas.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404105800 -0300" stop="20260404114200 -0300" channel="SPACE HD">
+  <programme start="20260404104400 -0300" stop="20260404112800 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Dog Eat Dog</sub-title>
     <desc lang="pt">Catherine e Brass investigam o caso em que um homem é encontrado morto em uma caçamba de lixo. Eles logo descobrem que a vítima tinha sérios problemas com comida.</desc>
@@ -173637,17 +173678,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404114200 -0300" stop="20260404122600 -0300" channel="SPACE HD">
+  <programme start="20260404112800 -0300" stop="20260404121300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">I Like To Watch</sub-title>
     <desc lang="pt">Os CSIs se tornam o foco de um reality show, que os segue enquanto investigam um sequestrador que, recentemente, teve acesso ao apartamento de uma mulher se disfarçando de bombeiro.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404122600 -0300" stop="20260404130800 -0300" channel="SPACE HD">
+  <programme start="20260404121300 -0300" stop="20260404125500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">G.O.</sub-title>
     <desc lang="pt">Quando Horatio persegue um misterioso suspeito de assassinato, ele descobre que a vida do homem é uma charada.</desc>
@@ -173657,52 +173698,52 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404130800 -0300" stop="20260404135500 -0300" channel="SPACE HD">
+  <programme start="20260404125500 -0300" stop="20260404134100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Rest in Pieces</sub-title>
     <desc lang="pt">Depois que um assassino em Miami chega às ruas novamente, Horatio faz uma grande aposta na investigação quando ele conhece a mãe, esperando que ela possa fornecer informações que vão parar a matança do Taunter.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">10.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404135500 -0300" stop="20260404155400 -0300" channel="SPACE HD">
+  <programme start="20260404134100 -0300" stop="20260404154200 -0300" channel="SPACE HD">
     <title lang="pt">O Colecionador de Ossos</title>
     <desc lang="pt">Após sofrer acidente, investigador fica tetraplégico. Mas ele volta à ativa para desvendar o mistério que cerca os crimes de um serial Killer.</desc>
-    <length units="minutes">7140</length>
+    <length units="minutes">7260</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260404155400 -0300" stop="20260404174800 -0300" channel="SPACE HD">
+  <programme start="20260404154200 -0300" stop="20260404173700 -0300" channel="SPACE HD">
     <title lang="pt">Terremoto: A Falha de San Andreas</title>
     <desc lang="pt">Um terremoto atinge a Califórnia e faz com que Ray, um bombeiro especializado em resgates com helicópteros, tenha que percorrer o estado ao lado da ex-esposa para resgatar a sua filha Blake.</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260404174800 -0300" stop="20260404191700 -0300" channel="SPACE HD">
+  <programme start="20260404173700 -0300" stop="20260404190800 -0300" channel="SPACE HD">
     <title lang="pt">O Escorpião Rei</title>
     <desc lang="pt">Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso.</desc>
-    <length units="minutes">5340</length>
+    <length units="minutes">5460</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404191700 -0300" stop="20260404210600 -0300" channel="SPACE HD">
+  <programme start="20260404190800 -0300" stop="20260404210100 -0300" channel="SPACE HD">
     <title lang="pt">Megatubarão</title>
     <desc lang="pt">Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão conhecido como Megalodon.</desc>
-    <length units="minutes">6540</length>
+    <length units="minutes">6780</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260404210600 -0300" stop="20260404230000 -0300" channel="SPACE HD">
+  <programme start="20260404210100 -0300" stop="20260404230000 -0300" channel="SPACE HD">
     <title lang="pt">Megatubarão 2</title>
     <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">7140</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -186431,10 +186472,19 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260403060000 -0300" stop="20260403062300 -0300" channel="TNT HD">
+  <programme start="20260403060000 -0300" stop="20260403060900 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">6.93.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260403060900 -0300" stop="20260403062300 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">840</length>
     <episode-num system="xmltv_ns">6.93.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -186598,7 +186648,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404001000 -0300" stop="20260404003200 -0300" channel="TNT HD">
+  <programme start="20260404001100 -0300" stop="20260404003300 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia Da Terra</sub-title>
     <desc lang="pt">Chris precisa fazer um projeto escolar para o Dia da Terra e decide recolher latas, acreditando que a tarefa seria fácil e que Julius poderia ajudá-lo.</desc>
@@ -186608,7 +186658,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404003200 -0300" stop="20260404005700 -0300" channel="TNT HD">
+  <programme start="20260404003300 -0300" stop="20260404005800 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Lá Vem o Juiz</sub-title>
     <desc lang="pt">O Will é preso por várias multas de trânsito caríssimas que sequer foram culpa dele.</desc>
@@ -186618,43 +186668,35 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404005700 -0300" stop="20260404012100 -0300" channel="TNT HD">
+  <programme start="20260404005800 -0300" stop="20260404012300 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Vida no Campo</sub-title>
     <desc lang="pt">Para passar mais tempo com eles antes que eles entrem na faculdade, o Phil leva o Will e o Carlton para acampar e as coisas vão muito mal.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404012100 -0300" stop="20260404014500 -0300" channel="TNT HD">
+  <programme start="20260404012300 -0300" stop="20260404014800 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Uma Noite no Programa da Oprah</sub-title>
     <desc lang="pt">A equipe do programa da Oprah contata o Philip Banks para entrevistá-lo com a sua família. Os Banks vão à Chicago e o Will está muito feliz. Infelizmente, ele não foi convidado para participar do programa.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404014500 -0300" stop="20260404031900 -0300" channel="TNT HD">
+  <programme start="20260404014800 -0300" stop="20260404034100 -0300" channel="TNT HD">
     <title lang="pt">Bumblebee</title>
     <desc lang="pt">Ferido, Bumblebee se refugia em um ferro-velho na Califórnia. Ao completar 18 anos, Charlie o encontra e logo após descobre que ele não é apenas um simples automóvel.</desc>
-    <length units="minutes">5640</length>
+    <length units="minutes">6780</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404031900 -0300" stop="20260404053600 -0300" channel="TNT HD">
-    <title lang="pt">Transformers</title>
-    <desc lang="pt">Uma intensa guerra intergaláctica chega à Terra, e ambos os lados buscam o poderoso AllSpark. E no meio do conflito está o jovem Sam Witwicky, que detém a chave de tudo.</desc>
-    <length units="minutes">8220</length>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260404053600 -0300" stop="20260404060000 -0300" channel="TNT HD">
+  <programme start="20260404034100 -0300" stop="20260404040500 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Will é de Morte</sub-title>
     <desc lang="pt">Philip perde a eleição dos juízes para as mentiras de seu oponente, o juiz Robertson. Durante a festa de vitória, o juíz Robertson começa a fazer piadas com Philip, o que acaba irritando o Will.</desc>
@@ -186664,17 +186706,53 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404060000 -0300" stop="20260404070200 -0300" channel="TNT HD">
+  <programme start="20260404040500 -0300" stop="20260404044100 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2160</length>
+    <episode-num system="xmltv_ns">4.94.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260404044100 -0300" stop="20260404051600 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">4.94.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260404051600 -0300" stop="20260404055100 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">5.94.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260404055100 -0300" stop="20260404060000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">5.94.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260404060000 -0300" stop="20260404062600 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Algo Estranho Acontece na do Ginásio</sub-title>
     <desc lang="pt">Jogo de Volta - Philip desiste de levar a Vivian para fazer aulas de ioga, e Will se oferece para ser o seu treinador. Ele conhece uma mulher grávida que é uma jornalista esportiva.</desc>
-    <length units="minutes">3720</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">3.11.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404070200 -0300" stop="20260404072700 -0300" channel="TNT HD">
+  <programme start="20260404062600 -0300" stop="20260404065100 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Guerra Fria</sub-title>
     <desc lang="pt">Carlton fica triste quando a Paula termina o namoro. Ela vai atrás do Will e eles começam a sair juntos. Após fazer uma ultrassonografia, Philip e Vivian pedem ao Geoffrey para escondê-la.</desc>
@@ -186684,20 +186762,20 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404072700 -0300" stop="20260404102500 -0300" channel="TNT HD">
+  <programme start="20260404065100 -0300" stop="20260404094000 -0300" channel="TNT HD">
     <title lang="pt">Transformers: A Era da Extinção</title>
     <desc lang="pt">Com a humanidade encarando a extinção decorrente de uma nova ameaça, depende de Optimus Prime e Autobots salvar o mundo.</desc>
-    <length units="minutes">10680</length>
+    <length units="minutes">10140</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260404102500 -0300" stop="20260404105400 -0300" channel="TNT HD">
+  <programme start="20260404094000 -0300" stop="20260404101300 -0300" channel="TNT HD">
     <title lang="pt">De Olho Na Liga</title>
     <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1980</length>
   </programme>
-  <programme start="20260404105400 -0300" stop="20260404111800 -0300" channel="TNT HD">
+  <programme start="20260404101300 -0300" stop="20260404103700 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">O Projeto de Um Maluco no Pedaço</sub-title>
     <desc lang="pt">O Will vem morar na casa dos seus tios em Bel-Air. O Philip não gosta muito do comportamento do Will, especialmente quando ele ensina a Ashley a cantar rap e estraga a  sua imagem para os outros membros da firma de advocacia.</desc>
@@ -186707,27 +186785,27 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404111800 -0300" stop="20260404114300 -0300" channel="TNT HD">
+  <programme start="20260404103700 -0300" stop="20260404110300 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">A Hora da Verdade</sub-title>
     <desc lang="pt">A mãe do Will está na cidade após se separar de Robert. Ela diz para o Will que quando ele se formar na escola, ele pode voltar para a Filadélfia. Porém, ele quer ficar na Califórnia para poder fazer faculdade.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404114300 -0300" stop="20260404120400 -0300" channel="TNT HD">
+  <programme start="20260404110300 -0300" stop="20260404112500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Salario Minimo</sub-title>
     <desc lang="pt">Quando Doc se recusa a lhe dar um aumento, Chris sai e vai procurar um novo emprego no restaurante chinês da vizinhança. Embora esteja animado por ganhar mais, Chris logo percebe que a grama do vizinho nem sempre é mais verde.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404120400 -0300" stop="20260404122600 -0300" channel="TNT HD">
+  <programme start="20260404112500 -0300" stop="20260404114700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Gretzky</sub-title>
     <desc lang="pt">Tentando fazer com que seu irmão mais novo Drew fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhar Drew em uma missão para encontrar seu ídolo, o grande jogador de hóquei Wayne Gretzky.</desc>
@@ -186737,7 +186815,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404122600 -0300" stop="20260404124800 -0300" channel="TNT HD">
+  <programme start="20260404114700 -0300" stop="20260404120900 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia DFN</sub-title>
     <desc lang="pt">Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros (BFD) organizado pelo sr. Omar.</desc>
@@ -186747,246 +186825,70 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404124800 -0300" stop="20260404131000 -0300" channel="TNT HD">
+  <programme start="20260404120900 -0300" stop="20260404123200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Ser Descolado</sub-title>
     <desc lang="pt">Em uma missão para se tornar um dos &quot;garotos descolados&quot;, eles pegam Chris com cigarros e o suspendem da escola.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260404131000 -0300" stop="20260404140000 -0300" channel="TNT HD">
+  <programme start="20260404123200 -0300" stop="20260404133600 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Elvira segue Sofia e descobre o seu plano de vingança contra Lola. Tomás, pai de Carol e, Andrea, professora de dança, saem para jantar e se beijam.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3840</length>
     <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260404140000 -0300" stop="20260404145000 -0300" channel="TNT HD">
+  <programme start="20260404133600 -0300" stop="20260404143200 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Elvira confronta Sofia e ameaça revelar tudo. Sofia e Alec discutem por ciúmes de Gabriel. Lola desabafa com &quot;Júlia&quot; sobre o seu passado. &quot;Júlia&quot; e Gabriel começam a se apaixonar.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260404145000 -0300" stop="20260404154000 -0300" channel="TNT HD">
+  <programme start="20260404143200 -0300" stop="20260404152600 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Lola começa caçada para descobrir onde está sua inimiga. Gabriel pressiona Lola sobre o passado dela. Sofia se desentende com Alec e se aproxima de Gabriel. Viviane confronta a família Paixão.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3240</length>
     <episode-num system="xmltv_ns">1.12.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260404154000 -0300" stop="20260404163000 -0300" channel="TNT HD">
+  <programme start="20260404152600 -0300" stop="20260404162200 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Lola tenta calar a boca de sua inimiga, sem imaginar que está sendo enganada por Sofia e Mariana. Gabriel cerca Viviane. Sofia descobre que Benjamin está envolvido na morte de Rebeca e conta para Alec.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">1.13.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260404163000 -0300" stop="20260404172000 -0300" channel="TNT HD">
+  <programme start="20260404162200 -0300" stop="20260404172100 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
     <desc lang="pt">Gabriel e Lola discutem. Alec descobre um esquema de fraude na Lolaland. Mariana procura por Viviane se passando por Sofia. &quot;Júlia&quot; e Gabriel ficam juntos.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3540</length>
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260404172000 -0300" stop="20260404195800 -0300" channel="TNT HD">
+  <programme start="20260404172100 -0300" stop="20260404195600 -0300" channel="TNT HD">
     <title lang="pt">Transformers: O Lado Oculto da Lua</title>
     <desc lang="pt">Uma nave que leva um objeto capaz de trazer a paz entre Autobots e Decepticons bate na lua. Os astronautas do Apolo 11 exploram a nave em 1969 e Sam segue sua pista para encontrar o líder dos Autobots que viajava na nave.</desc>
-    <length units="minutes">9480</length>
+    <length units="minutes">9300</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260404195800 -0300" stop="20260404220000 -0300" channel="TNT HD">
-    <title lang="pt">Os Bad Boys</title>
-    <desc lang="pt">Mike, solteirão convicto e Marcus Burnett, um responsável pai de família, formam a dupla de intrépidos tiras responsável pela apreensão de carga de heroína.</desc>
-    <length units="minutes">7320</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260404220000 -0300" stop="20260405000700 -0300" channel="TNT HD">
-    <title lang="pt">Bad Boys para Sempre</title>
-    <desc lang="pt">O indicado ao Oscar Will Smith e Martin Lawrence retornam para mais uma investigação da mais explosiva dupla da polícia de Miami.</desc>
-    <length units="minutes">7620</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260404220000 -0300" stop="20260405000700 -0300" channel="TNT HD">
-    <title lang="pt">Bad Boys para Sempre</title>
-    <desc lang="pt">O indicado ao Oscar Will Smith e Martin Lawrence retornam para mais uma investigação da mais explosiva dupla da polícia de Miami.</desc>
-    <length units="minutes">7620</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260405000700 -0300" stop="20260405022100 -0300" channel="TNT HD">
-    <title lang="pt">Sniper Americano</title>
-    <desc lang="pt">Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da Marinha americana.</desc>
-    <length units="minutes">8040</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260405022100 -0300" stop="20260405034600 -0300" channel="TNT HD">
-    <title lang="pt">O Açougueiro</title>
-    <desc lang="pt">Um homem ganha a vida se desfazendo de corpos de pessoas assassinadas por gangues. Mas uma delas não está realmente morta, e ele precisa manter sua filha a salvo.</desc>
-    <length units="minutes">5100</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260405034600 -0300" stop="20260405060900 -0300" channel="TNT HD">
-    <title lang="pt">Little Nicky: Um Diabo Diferente</title>
-    <desc lang="pt">O Senhor das Trevas quer se aposentar, mas nenhum dos seus três filhos parece ser bom o suficiente para substituí-lo. Quando ele decide que não cederá seu trono a nenhum deles, os dois mais poderosos fogem para a Terra.</desc>
-    <length units="minutes">8580</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260405060900 -0300" stop="20260405081800 -0300" channel="TNT HD">
-    <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
-    <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
-    <length units="minutes">7740</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260405081800 -0300" stop="20260405083900 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Salario Minimo</sub-title>
-    <desc lang="pt">Quando Doc se recusa a lhe dar um aumento, Chris sai e vai procurar um novo emprego no restaurante chinês da vizinhança. Embora esteja animado por ganhar mais, Chris logo percebe que a grama do vizinho nem sempre é mais verde.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405083900 -0300" stop="20260405090100 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Gretzky</sub-title>
-    <desc lang="pt">Tentando fazer com que seu irmão mais novo Drew fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhar Drew em uma missão para encontrar seu ídolo, o grande jogador de hóquei Wayne Gretzky.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.15.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405090100 -0300" stop="20260405092400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia DFN</sub-title>
-    <desc lang="pt">Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros (BFD) organizado pelo sr. Omar.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">3.16.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405092400 -0300" stop="20260405094500 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Ser Descolado</sub-title>
-    <desc lang="pt">Em uma missão para se tornar um dos &quot;garotos descolados&quot;, eles pegam Chris com cigarros e o suspendem da escola.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405094500 -0300" stop="20260405100700 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Ex-Presidiarios</sub-title>
-    <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi libertado da prisão, dando uma virada na sua vida e levando-o de volta para a escola.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.17.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405100700 -0300" stop="20260405103000 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Dia das Mães</sub-title>
-    <desc lang="pt">Chris decide comprar para sua mãe um perfume caro como presente do Dia das Mães para agradecer por tudo o que ela já havia feito por ele.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">3.21.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405103000 -0300" stop="20260405105200 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia O Primeiro Beijo</sub-title>
-    <desc lang="pt">Depois de descobrir que Tasha (atriz convidada Paige Hurd) frequenta festas em que se brinca de &quot;girar a garrafa&quot;, Chris quer ser convidado para a próxima e, finalmente, dar seu primeiro beijo.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405105200 -0300" stop="20260405111400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia A Páscoa</sub-title>
-    <desc lang="pt">Quando Tasha termina o namoro, Chris fica muito feliz ao se meter na história e servir como seu acompanhante na Cerimônia de Páscoa, mas primeiro ele vai ter que dar um jeito de estar em dois lugares ao mesmo tempo.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405111400 -0300" stop="20260405113600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Ex-Presidiarios</sub-title>
-    <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi libertado da prisão, dando uma virada na sua vida e levando-o de volta para a escola.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.17.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405113600 -0300" stop="20260405115900 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Dia das Mães</sub-title>
-    <desc lang="pt">Chris decide comprar para sua mãe um perfume caro como presente do Dia das Mães para agradecer por tudo o que ela já havia feito por ele.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">3.21.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405115900 -0300" stop="20260405122200 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia O Primeiro Beijo</sub-title>
-    <desc lang="pt">Depois de descobrir que Tasha (atriz convidada Paige Hurd) frequenta festas em que se brinca de &quot;girar a garrafa&quot;, Chris quer ser convidado para a próxima e, finalmente, dar seu primeiro beijo.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405122200 -0300" stop="20260405124400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia A Páscoa</sub-title>
-    <desc lang="pt">Quando Tasha termina o namoro, Chris fica muito feliz ao se meter na história e servir como seu acompanhante na Cerimônia de Páscoa, mas primeiro ele vai ter que dar um jeito de estar em dois lugares ao mesmo tempo.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260405124400 -0300" stop="20260405144800 -0300" channel="TNT HD">
+  <programme start="20260404195600 -0300" stop="20260404220000 -0300" channel="TNT HD">
     <title lang="pt">Os Bad Boys</title>
     <desc lang="pt">Mike, solteirão convicto e Marcus Burnett, um responsável pai de família, formam a dupla de intrépidos tiras responsável pela apreensão de carga de heroína.</desc>
     <length units="minutes">7440</length>
@@ -186994,15 +186896,240 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260405144800 -0300" stop="20260405165500 -0300" channel="TNT HD">
-    <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
-    <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
-    <length units="minutes">7620</length>
+  <programme start="20260404220000 -0300" stop="20260405000800 -0300" channel="TNT HD">
+    <title lang="pt">Bad Boys para Sempre</title>
+    <desc lang="pt">O indicado ao Oscar Will Smith e Martin Lawrence retornam para mais uma investigação da mais explosiva dupla da polícia de Miami.</desc>
+    <length units="minutes">7680</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260404220000 -0300" stop="20260405000800 -0300" channel="TNT HD">
+    <title lang="pt">Bad Boys para Sempre</title>
+    <desc lang="pt">O indicado ao Oscar Will Smith e Martin Lawrence retornam para mais uma investigação da mais explosiva dupla da polícia de Miami.</desc>
+    <length units="minutes">7680</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260405000800 -0300" stop="20260405022300 -0300" channel="TNT HD">
+    <title lang="pt">Sniper Americano</title>
+    <desc lang="pt">Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da Marinha americana.</desc>
+    <length units="minutes">8100</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260405022300 -0300" stop="20260405035000 -0300" channel="TNT HD">
+    <title lang="pt">O Açougueiro</title>
+    <desc lang="pt">Um homem ganha a vida se desfazendo de corpos de pessoas assassinadas por gangues. Mas uma delas não está realmente morta, e ele precisa manter sua filha a salvo.</desc>
+    <length units="minutes">5220</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260405035000 -0300" stop="20260405051600 -0300" channel="TNT HD">
+    <title lang="pt">Little Nicky: Um Diabo Diferente</title>
+    <desc lang="pt">O Senhor das Trevas quer se aposentar, mas nenhum dos seus três filhos parece ser bom o suficiente para substituí-lo. Quando ele decide que não cederá seu trono a nenhum deles, os dois mais poderosos fogem para a Terra.</desc>
+    <length units="minutes">5160</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260405051600 -0300" stop="20260405055100 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">5.95.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260405165500 -0300" stop="20260405183300 -0300" channel="TNT HD">
+  <programme start="20260405055100 -0300" stop="20260405055400 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405055400 -0300" stop="20260405055600 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405055600 -0300" stop="20260405060000 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405060000 -0300" stop="20260405060200 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405060200 -0300" stop="20260405060400 -0300" channel="TNT HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405060400 -0300" stop="20260405081300 -0300" channel="TNT HD">
+    <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
+    <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
+    <length units="minutes">7740</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405081300 -0300" stop="20260405083600 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Salario Minimo</sub-title>
+    <desc lang="pt">Quando Doc se recusa a lhe dar um aumento, Chris sai e vai procurar um novo emprego no restaurante chinês da vizinhança. Embora esteja animado por ganhar mais, Chris logo percebe que a grama do vizinho nem sempre é mais verde.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405083600 -0300" stop="20260405085800 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Gretzky</sub-title>
+    <desc lang="pt">Tentando fazer com que seu irmão mais novo Drew fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhar Drew em uma missão para encontrar seu ídolo, o grande jogador de hóquei Wayne Gretzky.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.15.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405085800 -0300" stop="20260405092000 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia DFN</sub-title>
+    <desc lang="pt">Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros (BFD) organizado pelo sr. Omar.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405092000 -0300" stop="20260405094300 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Ser Descolado</sub-title>
+    <desc lang="pt">Em uma missão para se tornar um dos &quot;garotos descolados&quot;, eles pegam Chris com cigarros e o suspendem da escola.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405094300 -0300" stop="20260405100500 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Ex-Presidiarios</sub-title>
+    <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi libertado da prisão, dando uma virada na sua vida e levando-o de volta para a escola.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405100500 -0300" stop="20260405102700 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Dia das Mães</sub-title>
+    <desc lang="pt">Chris decide comprar para sua mãe um perfume caro como presente do Dia das Mães para agradecer por tudo o que ela já havia feito por ele.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405102700 -0300" stop="20260405105000 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia O Primeiro Beijo</sub-title>
+    <desc lang="pt">Depois de descobrir que Tasha (atriz convidada Paige Hurd) frequenta festas em que se brinca de &quot;girar a garrafa&quot;, Chris quer ser convidado para a próxima e, finalmente, dar seu primeiro beijo.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405105000 -0300" stop="20260405111200 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia A Páscoa</sub-title>
+    <desc lang="pt">Quando Tasha termina o namoro, Chris fica muito feliz ao se meter na história e servir como seu acompanhante na Cerimônia de Páscoa, mas primeiro ele vai ter que dar um jeito de estar em dois lugares ao mesmo tempo.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405111200 -0300" stop="20260405113500 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Ex-Presidiarios</sub-title>
+    <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi libertado da prisão, dando uma virada na sua vida e levando-o de volta para a escola.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405113500 -0300" stop="20260405115700 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Dia das Mães</sub-title>
+    <desc lang="pt">Chris decide comprar para sua mãe um perfume caro como presente do Dia das Mães para agradecer por tudo o que ela já havia feito por ele.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405115700 -0300" stop="20260405121900 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia O Primeiro Beijo</sub-title>
+    <desc lang="pt">Depois de descobrir que Tasha (atriz convidada Paige Hurd) frequenta festas em que se brinca de &quot;girar a garrafa&quot;, Chris quer ser convidado para a próxima e, finalmente, dar seu primeiro beijo.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405121900 -0300" stop="20260405124200 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia A Páscoa</sub-title>
+    <desc lang="pt">Quando Tasha termina o namoro, Chris fica muito feliz ao se meter na história e servir como seu acompanhante na Cerimônia de Páscoa, mas primeiro ele vai ter que dar um jeito de estar em dois lugares ao mesmo tempo.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260405124200 -0300" stop="20260405144500 -0300" channel="TNT HD">
+    <title lang="pt">Os Bad Boys</title>
+    <desc lang="pt">Mike, solteirão convicto e Marcus Burnett, um responsável pai de família, formam a dupla de intrépidos tiras responsável pela apreensão de carga de heroína.</desc>
+    <length units="minutes">7380</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260405144500 -0300" stop="20260405165400 -0300" channel="TNT HD">
+    <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
+    <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
+    <length units="minutes">7740</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260405165400 -0300" stop="20260405183200 -0300" channel="TNT HD">
     <title lang="pt">Como se Fosse a Primeira Vez</title>
     <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o ...</desc>
     <length units="minutes">5880</length>
@@ -187010,45 +187137,49 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260405183300 -0300" stop="20260405200600 -0300" channel="TNT HD">
+  <programme start="20260405183200 -0300" stop="20260405200600 -0300" channel="TNT HD">
     <title lang="pt">Cada um tem a Gêmea que Merece</title>
     <desc lang="pt">Jack, um publicitário de sucesso com uma linda família enlouquece com a visita de sua irmã gêmea, Jill, no dia de Ação de Graças. As coisas saem ainda mais de controle quando Jill decide ficar mais tempo.</desc>
-    <length units="minutes">5580</length>
+    <length units="minutes">5640</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260405200600 -0300" stop="20260405220000 -0300" channel="TNT HD">
+  <programme start="20260405200600 -0300" stop="20260405215900 -0300" channel="TNT HD">
     <title lang="pt">Golpe Baixo</title>
     <desc lang="pt">O ex-jogador de futebol americano Paul Crewe vai para a prisão e sente que sua vida acabou. Mas tudo muda quando lhe pedem que organize uma equipe com os prisioneiros que vai enfrentar os guardas num maluco jogo sem regras.</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6780</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260405220000 -0300" stop="20260405235700 -0300" channel="TNT HD">
+  <programme start="20260405215900 -0300" stop="20260405235500 -0300" channel="TNT HD">
     <title lang="pt">Esposa de Mentirinha</title>
     <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260405235700 -0300" stop="20260406021000 -0300" channel="TNT HD">
+  <programme start="20260405235500 -0300" stop="20260406020700 -0300" channel="TNT HD">
     <title lang="pt">Sniper Americano</title>
     <desc lang="pt">Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da Marinha americana.</desc>
-    <length units="minutes">7980</length>
+    <length units="minutes">7920</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260405235700 -0300" stop="20260406021000 -0300" channel="TNT HD">
+  <programme start="20260405235500 -0300" stop="20260406020700 -0300" channel="TNT HD">
     <title lang="pt">Sniper Americano</title>
     <desc lang="pt">Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da Marinha americana.</desc>
-    <length units="minutes">7980</length>
+    <length units="minutes">7920</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
+  </programme>
+  <programme start="20260406020700 -0300" stop="20260406021000 -0300" channel="TNT HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260406021000 -0300" stop="20260406034000 -0300" channel="TNT HD">
     <title lang="pt">Tirando a Maior Onda: O Filme</title>
@@ -221853,20 +221984,19 @@
     <episode-num system="xmltv_ns">88.1.</episode-num>
   </programme>
   <programme start="20260402081500 -0300" stop="20260402100000 -0300" channel="Xsports HD">
-    <title lang="pt">Atlético-GO x Náutico</title>
-    <desc lang="pt">Atlético-GO e Náutico jogam o Campeonato Brasileiro, Série B.</desc>
+    <title lang="pt">EUA x Portugal</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
   <programme start="20260402100000 -0300" stop="20260402110000 -0300" channel="Xsports HD">
-    <title lang="pt">Premier League Review</title>
-    <desc lang="pt">Especial Premier League: emoção, gols e rivalidades intensas no campeonato inglês, com os maiores clubes e craques do mundo em ação!</desc>
+    <title lang="pt">Fluxo x Capim</title>
+    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">80.92.</episode-num>
   </programme>
   <programme start="20260402110000 -0300" stop="20260402125000 -0300" channel="Xsports HD">
-    <title lang="pt">Ponte Preta x Ceará</title>
-    <desc lang="pt">Ponte Preta e Ceará jogam o Campeonato Brasileiro, Série B.</desc>
+    <title lang="pt">Atlético-GO x Náutico</title>
+    <desc lang="pt">Atlético-GO e Náutico jogam o Campeonato Brasileiro, Série B.</desc>
     <length units="minutes">6600</length>
     <previously-shown/>
   </programme>
@@ -221888,24 +222018,11 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260402173000 -0300" stop="20260402180000 -0300" channel="Xsports HD">
-    <title lang="pt">LaLiga Highlights</title>
-    <desc lang="pt">Especial La Liga: gols, craques e rivalidades históricas em destaque no campeonato espanhol, onde tradição e emoção se encontram a cada rodada!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">87.92.</episode-num>
-  </programme>
-  <programme start="20260402180000 -0300" stop="20260402183000 -0300" channel="Xsports HD">
-    <title lang="pt">Serie A Full Impact</title>
-    <desc lang="pt">Especial Serie A: o melhor do futebol italiano com grandes clubes, craques e clássicos emocionantes em busca do scudetto!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.92.</episode-num>
-  </programme>
-  <programme start="20260402183000 -0300" stop="20260402191500 -0300" channel="Xsports HD">
-    <title lang="pt">Tapete Verde - ao vivo</title>
-    <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.92.</episode-num>
+  <programme start="20260402173000 -0300" stop="20260402191500 -0300" channel="Xsports HD">
+    <title lang="pt">Ponte Preta x Ceará</title>
+    <desc lang="pt">Ponte Preta e Ceará jogam o Campeonato Brasileiro, Série B.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
   </programme>
   <programme start="20260402191500 -0300" stop="20260402213000 -0300" channel="Xsports HD">
     <title lang="pt">NBB: Pato Branco x Brasília - ao vivo</title>
@@ -221920,7 +222037,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260402231500 -0300" stop="20260403004500 -0300" channel="Xsports HD">
-    <title lang="pt">Freeride World Tour: Etapa de YETI xtreme Verbier - Snowboard</title>
+    <title lang="pt">Freeride World Tour: Etapa de Haines - Snowboard</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">2.231.</episode-num>
@@ -221929,7 +222046,7 @@
     </rating>
   </programme>
   <programme start="20260402231500 -0300" stop="20260403004500 -0300" channel="Xsports HD">
-    <title lang="pt">Freeride World Tour: Etapa de YETI xtreme Verbier - Snowboard</title>
+    <title lang="pt">Freeride World Tour: Etapa de Haines - Snowboard</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">2.231.</episode-num>
@@ -221943,17 +222060,16 @@
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260403023000 -0300" stop="20260403030000 -0300" channel="Xsports HD">
-    <title lang="pt">LaLiga Highlights</title>
-    <desc lang="pt">Especial La Liga: gols, craques e rivalidades históricas em destaque no campeonato espanhol, onde tradição e emoção se encontram a cada rodada!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.93.</episode-num>
-  </programme>
-  <programme start="20260403030000 -0300" stop="20260403040000 -0300" channel="Xsports HD">
-    <title lang="pt">Serie A Full Impact</title>
-    <desc lang="pt">Especial Serie A: o melhor do futebol italiano com grandes clubes, craques e clássicos emocionantes em busca do scudetto!</desc>
+  <programme start="20260403023000 -0300" stop="20260403033000 -0300" channel="Xsports HD">
+    <title lang="pt">Dendele x Nyvelados</title>
+    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.93.</episode-num>
+  </programme>
+  <programme start="20260403033000 -0300" stop="20260403040000 -0300" channel="Xsports HD">
+    <title lang="pt">Baú Dos Campeões</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.7.</episode-num>
   </programme>
   <programme start="20260403040000 -0300" stop="20260403051500 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
@@ -222011,7 +222127,7 @@
     <title lang="pt">Freeride World Tour: Etapa de YETI xtreme Verbier - Snowboard</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">2.231.</episode-num>
+    <episode-num system="xmltv_ns">3.130.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
