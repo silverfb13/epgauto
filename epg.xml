@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-03 14:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-03 17:31:14" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -120228,19 +120228,37 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260405205800 -0300" stop="20260405230200 -0300" channel="HBO">
+  <programme start="20260405205800 -0300" stop="20260405212800 -0300" channel="HBO">
+    <title lang="pt">À Procura de Harry: A Arte por Trás da Magia</title>
+    <desc lang="pt">Um olhar exclusivo por dentro da série de Harry Potter da HBO, contado pelos artistas e artesãos que estão dando nova vida a essa amada história.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.205.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260405212800 -0300" stop="20260405220300 -0300" channel="HBO">
+    <title lang="pt">À Procura de Harry: A Arte por Trás da Magia</title>
+    <desc lang="pt">Um olhar exclusivo por dentro da série de Harry Potter da HBO, contado pelos artistas e artesãos que estão dando nova vida a essa amada história.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">5.205.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260405220300 -0300" stop="20260405225900 -0300" channel="HBO">
     <title lang="pt">DTF St. Louis</title>
     <desc lang="pt">Três indivíduos de meia-idade se envolvem em um triângulo amoroso, o que leva à morte prematura de um deles.</desc>
-    <length units="minutes">7440</length>
+    <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260405230200 -0300" stop="20260405233700 -0300" channel="HBO">
+  <programme start="20260405225900 -0300" stop="20260405233700 -0300" channel="HBO">
     <title lang="pt">Rooster</title>
     <desc lang="pt">Steve Carell protagoniza esta série de comédia que se concentra na complicada relação entre um escritor de sucesso e sua filha.</desc>
-    <length units="minutes">2100</length>
+    <length units="minutes">2280</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
