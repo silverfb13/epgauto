@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-06 11:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-06 14:31:01" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -2374,11 +2374,28 @@
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">88.96.</episode-num>
   </programme>
-  <programme start="20260406082500 -0300" stop="20260406103000 -0300" channel="AGROMAIS">
+  <programme start="20260406082500 -0300" stop="20260406083000 -0300" channel="AGROMAIS">
+    <title lang="pt">Ação Sustentável</title>
+    <desc lang="pt">Apresentada por Samanta Pineda, a atração traz atualizações semanais da sustentabilidade inserida no agro.</desc>
+    <length units="minutes">300</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260406083000 -0300" stop="20260406090000 -0300" channel="AGROMAIS">
+    <title lang="pt">Direto Da Horta</title>
+    <desc lang="pt">Conheça um dos segmentos mais importantes no panorama do agronegócio brasileiro: a horticultura. Do cinturão verde nas grandes metrópoles à produção artesanal no campo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">8.96.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260406090000 -0300" stop="20260406103000 -0300" channel="AGROMAIS">
     <title lang="pt">Agromanhã</title>
     <desc lang="pt">Acompanhe as notícias, cotações, entrevistas e debates.</desc>
-    <length units="minutes">7500</length>
-    <episode-num system="xmltv_ns">88.96.</episode-num>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">89.96.</episode-num>
   </programme>
   <programme start="20260406103000 -0300" stop="20260406110000 -0300" channel="AGROMAIS">
     <title lang="pt">Todos os Grãos</title>
@@ -2531,9 +2548,10 @@
     </rating>
   </programme>
   <programme start="20260406233000 -0300" stop="20260407000000 -0300" channel="AGROMAIS">
-    <title lang="pt">Agro + Entrevista</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Agro+ Entrevista</title>
+    <desc lang="pt">Veja debates e esclarecimentos sobre o assunto mais comentado da semana, sempre com entrevistas.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.96.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -2603,11 +2621,28 @@
     <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">88.97.</episode-num>
   </programme>
-  <programme start="20260407082500 -0300" stop="20260407103000 -0300" channel="AGROMAIS">
+  <programme start="20260407082500 -0300" stop="20260407083000 -0300" channel="AGROMAIS">
+    <title lang="pt">Tech &amp; Startups</title>
+    <desc lang="pt">Programa que apresenta as principais novidades do empreendedorismo rural e conta com entrevistas e modelos de empresas competitivas que aproximam campo e tecnologia, em busca de produtividade e sustentabilidade.</desc>
+    <length units="minutes">300</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260407083000 -0300" stop="20260407090000 -0300" channel="AGROMAIS">
+    <title lang="pt">Boi Forte</title>
+    <desc lang="pt">Cobertura completa sobre a cadeia produtiva da carne bovina, apresentando reportagens e entrevistas, com especialistas e produtores.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">8.97.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260407090000 -0300" stop="20260407103000 -0300" channel="AGROMAIS">
     <title lang="pt">Agromanhã</title>
     <desc lang="pt">Acompanhe as notícias, cotações, entrevistas e debates.</desc>
-    <length units="minutes">7500</length>
-    <episode-num system="xmltv_ns">88.97.</episode-num>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">89.97.</episode-num>
   </programme>
   <programme start="20260407103000 -0300" stop="20260407110000 -0300" channel="AGROMAIS">
     <title lang="pt">Direto Da Horta</title>
@@ -156143,7 +156178,7 @@
     <title lang="pt">Anime PlayTV: Yosuga No Sora</title>
     <desc lang="pt">Após perderem os pais em um acidente, Haruka e sua irmã gêmea, Sora, se mudam da cidade para a cidadezinha rural onde passavam os verões da infância.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <episode-num system="xmltv_ns">6.30.</episode-num>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
@@ -156152,7 +156187,7 @@
     <title lang="pt">Anime PlayTV: Fascinada Por Garotas Mágicas</title>
     <desc lang="pt">Hiiragi Utena, uma garota normal, é muito apaixonada por garotas mágicas; depois de ser enganada e se juntar a uma organização maligna, ela descobre que essa paixão também tem um lado perverso.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <episode-num system="xmltv_ns">6.33.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -156413,7 +156448,7 @@
     <title lang="pt">Anime Onegai: Fist Of The North Star / Getter Robo</title>
     <desc lang="pt">Em um mundo devastado por uma guerra nuclear, a violência domina tudo. Kenshiro é o sucessor de Hokuto Shinken, uma arte marcial mortal. / Três adolescentes obstinados, que pilotam três jatos de combate especialmente projetados.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">5.90.</episode-num>
+    <episode-num system="xmltv_ns">6.80.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -156464,12 +156499,39 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260406150000 -0300" stop="20260406183000 -0300" channel="PLAY TV">
-    <title lang="pt">Orientique Tapetes</title>
+  <programme start="20260406150000 -0300" stop="20260406161500 -0300" channel="PLAY TV">
+    <title lang="pt">Infomercial</title>
     <desc lang="pt">Infomercial.</desc>
-    <length units="minutes">12600</length>
+    <length units="minutes">4500</length>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260406161500 -0300" stop="20260406164500 -0300" channel="PLAY TV">
+    <title lang="pt">Ponto Pop</title>
+    <desc lang="pt">Seleção de clipes musicais internacionais, lançados neste ano, informando no início e fim de cada clipe o intérprete e o nome da música.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">16.96.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260406164500 -0300" stop="20260406180000 -0300" channel="PLAY TV">
+    <title lang="pt">Operação Zenkai com Yu-Gi-Oh + Lupin III</title>
+    <desc lang="pt">Yugi enfrenta Kaiba em um duelo épico para resgatar a alma de seu avô. / Lupin III planeja um roubo audacioso em uma corrida de carros de luxo. Entre perseguições e truques, ele precisa despistar o persistente Inspetor Zenigata</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">16.96.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260406180000 -0300" stop="20260406183000 -0300" channel="PLAY TV">
+    <title lang="pt">MangaQ</title>
+    <desc lang="pt">Evandro Fuzari disseca o universo dos mangás, os famosos quadrinhos japoneses, resumindo estórias, analisando e contando curiosidades. No episódio de estreia, tudo que vc precisa saber sobre One Piece em apenas 30 minutos.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">18.1.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260406183000 -0300" stop="20260406190000 -0300" channel="PLAY TV">
@@ -156505,16 +156567,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260406213000 -0300" stop="20260406214500 -0300" channel="PLAY TV">
-    <title lang="pt">Play News</title>
-    <desc lang="pt">Léo Zalcman traz as notícias mais recentes do universo pop de uma maneira inusitada.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.96.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260406214500 -0300" stop="20260406230000 -0300" channel="PLAY TV">
+  <programme start="20260406213000 -0300" stop="20260406224500 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai com Yu-Gi-Oh! Duel Monsters</title>
     <desc lang="pt">Tudo muda para o jovem Yugi Muto e seus amigos Joey, Tristan e Téa quando a vida deles passa a girar em torno de um jogo de cartas fantásticas.</desc>
     <length units="minutes">4500</length>
@@ -156523,156 +156576,61 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260406230000 -0300" stop="20260407000000 -0300" channel="PLAY TV">
+  <programme start="20260406224500 -0300" stop="20260407000000 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai com Cavaleiros Do Zodíaco: The Lost Canvas + …</title>
     <desc lang="pt">Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades: Hades desperta em Alone e ataca seu antigo vilarejo. / Kenichi: O Discípulo Mais Forte - Kenichi enfrenta a temida gangue Ragnarok em um combate decisivo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.96.</episode-num>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">22.96.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260407000000 -0300" stop="20260407001500 -0300" channel="PLAY TV">
-    <title lang="pt">Operação Zenkai com Cavaleiros Do Zodíaco: The Lost Canvas + …</title>
-    <desc lang="pt">Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades: Hades desperta em Alone e ataca seu antigo vilarejo. / Kenichi: O Discípulo Mais Forte - Kenichi enfrenta a temida gangue Ragnarok em um combate decisivo.</desc>
-    <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260407001500 -0300" stop="20260407011500 -0300" channel="PLAY TV">
-    <title lang="pt">Anime Onegai: Fist Of The North Star / Getter Robo</title>
-    <desc lang="pt">Em um mundo devastado por uma guerra nuclear, a violência domina tudo. Kenshiro é o sucessor de Hokuto Shinken, uma arte marcial mortal. / Três adolescentes obstinados, que pilotam três jatos de combate especialmente projetados.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">5.90.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260407011500 -0300" stop="20260407014500 -0300" channel="PLAY TV">
-    <title lang="pt">Oi! Tonbo</title>
-    <desc lang="pt">Na Ilha de Hinoshima, que é considerada &quot;a última região inexplorada do Japão&quot;, Igarashi encontra Tonbo, uma das pouquíssimas alunas do ensino fundamental de lá. Uma garota inocente possui um talento incr...</desc>
+  <programme start="20260407000000 -0300" stop="20260407003000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">1.97.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407014500 -0300" stop="20260407020000 -0300" channel="PLAY TV">
-    <title lang="pt">Hentai: Uma Sentada nas Altura</title>
-    <desc lang="pt">Falling Girls (Uma Sentada nas Altura) Sosuke leva uma vida simples em um apartamento precário. Entre vizinhos barulhentos e situações constrangedoras com Yuki e Sunao, sua rotina vira uma comédia de confusões românti...</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">3.30.</episode-num>
+  <programme start="20260407003000 -0300" stop="20260407010000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407020000 -0300" stop="20260407020500 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
+  <programme start="20260407010000 -0300" stop="20260407013000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407020500 -0300" stop="20260407021000 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
+  <programme start="20260407013000 -0300" stop="20260407020000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407021000 -0300" stop="20260407021500 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
+  <programme start="20260407020000 -0300" stop="20260407023000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407021500 -0300" stop="20260407022000 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
+  <programme start="20260407023000 -0300" stop="20260407030000 -0300" channel="PLAY TV">
+    <title lang="pt">Amazing Facts</title>
+    <desc lang="pt">Programa religioso.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20260407022000 -0300" stop="20260407022500 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20260407022500 -0300" stop="20260407023000 -0300" channel="PLAY TV">
-    <title lang="pt">Caliente Drops</title>
-    <desc lang="pt">Uma seleção de clipes musicais para esquentar sua madrugada com muita sensualidade.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[18]</value>
-    </rating>
-  </programme>
-  <programme start="20260407023000 -0300" stop="20260407023500 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260407023500 -0300" stop="20260407024000 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260407024000 -0300" stop="20260407024500 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260407024500 -0300" stop="20260407025000 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260407025000 -0300" stop="20260407025500 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260407025500 -0300" stop="20260407030000 -0300" channel="PLAY TV">
-    <title lang="pt">Interferência 80s Drops</title>
-    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">2.97.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260407030000 -0300" stop="20260407030500 -0300" channel="PLAY TV">
@@ -156899,12 +156857,30 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407150000 -0300" stop="20260407180000 -0300" channel="PLAY TV">
-    <title lang="pt">Orientique Tapetes</title>
+  <programme start="20260407150000 -0300" stop="20260407161500 -0300" channel="PLAY TV">
+    <title lang="pt">Infomercial</title>
     <desc lang="pt">Infomercial.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">4500</length>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260407161500 -0300" stop="20260407164500 -0300" channel="PLAY TV">
+    <title lang="pt">Interferência 80s</title>
+    <desc lang="pt">Clipes clássicos da década de 1980.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">16.97.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260407164500 -0300" stop="20260407180000 -0300" channel="PLAY TV">
+    <title lang="pt">Operação Zenkai com Yu-Gi-Oh! Duel Monsters</title>
+    <desc lang="pt">Tudo muda para o jovem Yugi Muto e seus amigos Joey, Tristan e Téa quando a vida deles passa a girar em torno de um jogo de cartas fantásticas.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">16.97.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260407180000 -0300" stop="20260407190000 -0300" channel="PLAY TV">
@@ -156966,13 +156942,22 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260407214500 -0300" stop="20260408000000 -0300" channel="PLAY TV">
+  <programme start="20260407214500 -0300" stop="20260407230000 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai com Cavaleiros Do Zodíaco: The Lost Canvas + …</title>
     <desc lang="pt">Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades: Hades desperta em Alone e ataca seu antigo vilarejo. / Kenichi: O Discípulo Mais Forte - Kenichi enfrenta a temida gangue Ragnarok em um combate decisivo.</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">21.97.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260407230000 -0300" stop="20260408000000 -0300" channel="PLAY TV">
+    <title lang="pt">Crossplay</title>
+    <desc lang="pt">Assista aos programas Ubi Talk Show com Totoro, Ubi Dub com Marcos Rossi e Piores Jogadas com Rato Borrachudo e Mary Nery - tudo isso no Crossplay, onde PlayTV e Ubisoft TV se encontram.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.97.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260408000000 -0300" stop="20260408001500 -0300" channel="PLAY TV">
@@ -171830,7 +171815,7 @@
   </programme>
   <programme start="20260406134500 -0300" stop="20260406153000 -0300" channel="SBT">
     <title lang="pt">Meu Coração é Teu</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Nicolas e Jennifer se abraçam felizes. Helena diz a Nando que o ama. Isabela pergunta a Fernando se Ana já é namorada de Diego.</desc>
     <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">83.96.</episode-num>
     <rating system="Brazil">
@@ -171848,7 +171833,7 @@
   </programme>
   <programme start="20260406170000 -0300" stop="20260406183000 -0300" channel="SBT">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Maricruz sabe da notícia e quer entregar-se na polícia no lugar de Octávio.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">87.96.</episode-num>
     <rating system="Brazil">
@@ -171869,7 +171854,7 @@
   </programme>
   <programme start="20260406204500 -0300" stop="20260406214500 -0300" channel="SBT">
     <title lang="pt">Presente de Amor</title>
-    <desc lang="pt">A história gira em torno de Isabela, personagem que vê a própria vida desmoronar após perder o marido, Maurício, em um acidente de carro.</desc>
+    <desc lang="pt">Isabella interroga Gaspar sobre sua história de amor com Fausta, decidida a encontrar a verdade por trás da foto misteriosa que encontrou na fazenda.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.96.</episode-num>
     <rating system="Brazil">
@@ -171941,24 +171926,33 @@
     <length units="minutes">8100</length>
     <episode-num system="xmltv_ns">81.97.</episode-num>
   </programme>
-  <programme start="20260407134500 -0300" stop="20260407160000 -0300" channel="SBT">
+  <programme start="20260407134500 -0300" stop="20260407150000 -0300" channel="SBT">
     <title lang="pt">Meu Coração é Teu</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">8100</length>
+    <desc lang="pt">Ana propõe a Fernando e Isabela que passe a dormir em sua casa, Isabela aprova a ideia de imediato. Bruno segue sendo atormentando por Yolanda.</desc>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">83.97.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260407160000 -0300" stop="20260407180000 -0300" channel="SBT">
+  <programme start="20260407150000 -0300" stop="20260407154500 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">15.97.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260407154500 -0300" stop="20260407180000 -0300" channel="SBT">
     <title lang="pt">Real Madrid x Bayern de Munique - ao vivo</title>
     <desc lang="pt">A partida entre Real Madrid e Bayern de Munique é válida pelas quartas de final da UEFA Champions League 2025/2026. Este confronto coloca frente a frente dois dos clubes mais vitoriosos da Europa em um duelo clássico.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260407180000 -0300" stop="20260407183000 -0300" channel="SBT">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Maricruz diz que é a culpada pelo assassinato de Afonso e é presa.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">88.97.</episode-num>
     <rating system="Brazil">
@@ -171977,29 +171971,38 @@
     <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">89.97.</episode-num>
   </programme>
-  <programme start="20260407204500 -0300" stop="20260407214500 -0300" channel="SBT">
+  <programme start="20260407204500 -0300" stop="20260407211500 -0300" channel="SBT">
     <title lang="pt">Presente de Amor</title>
-    <desc lang="pt">A história gira em torno de Isabela, personagem que vê a própria vida desmoronar após perder o marido, Maurício, em um acidente de carro.</desc>
-    <length units="minutes">3600</length>
+    <desc lang="pt">Enquanto observam o céu com seu novo telescópio, Eugênio confessa a Valentina que perdeu um filho.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">80.97.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260407214500 -0300" stop="20260407224500 -0300" channel="SBT">
+  <programme start="20260407211500 -0300" stop="20260407231500 -0300" channel="SBT">
+    <title lang="pt">Boston River x São Paulo - ao vivo</title>
+    <desc lang="pt">Boston River e São Paulo jogam pela 1ª rodada da fase de grupos da CONMEBOL Sudamericana, no Estádio Centenário, em Montevideu, Uruguai.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260407231500 -0300" stop="20260408001500 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">21.97.</episode-num>
+    <episode-num system="xmltv_ns">23.97.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260407224500 -0300" stop="20260408000000 -0300" channel="SBT">
-    <title lang="pt">SBT Repórter</title>
-    <desc lang="pt">O &quot;SBT Repórter&quot; é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">82.97.</episode-num>
+  <programme start="20260407231500 -0300" stop="20260408001500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.97.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20260408000000 -0300" stop="20260408010000 -0300" channel="SBT">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -177575,13 +177578,9 @@
     </rating>
   </programme>
   <programme start="20260406020000 -0300" stop="20260406040000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Conteúdo não disponível</title>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20260406040000 -0300" stop="20260406070000 -0300" channel="SPORTV 3">
     <title lang="pt">Faixa Combate: Ufc Bjj 5</title>
