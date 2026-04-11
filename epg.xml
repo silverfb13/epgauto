@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-11 11:30:48" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-11 14:30:51" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -101286,17 +101286,29 @@
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">10800</length>
   </programme>
-  <programme start="20260412100000 -0300" stop="20260412140000 -0300" channel="GE TV HD">
+  <programme start="20260412100000 -0300" stop="20260412120000 -0300" channel="GE TV HD">
     <title lang="pt">Copa Libertadores De Futebol: Cusco x Flamengo</title>
     <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260412140000 -0300" stop="20260412150000 -0300" channel="GE TV HD">
+  <programme start="20260412120000 -0300" stop="20260412140000 -0300" channel="GE TV HD">
+    <title lang="pt">Copa Libertadores De Futebol: Junior Barranquilla x Palmeiras</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260412140000 -0300" stop="20260412143000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <sub-title lang="pt">9ª Rodada</sub-title>
     <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260412143000 -0300" stop="20260412150000 -0300" channel="GE TV HD">
+    <title lang="pt">4ª Etapa - Dia 2 - Rio De Janeiro, Rj - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260412150000 -0300" stop="20260412163000 -0300" channel="GE TV HD">
     <title lang="pt">Sail GP: 4ª Etapa - Dia 2 - Rio De Janeiro,Rj - ao vivo</title>
