@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-14 14:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-14 20:30:53" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -101824,8 +101824,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260415213000 -0300" stop="20260415233000 -0300" channel="GE TV HD">
-    <title lang="pt">Corinthians x Santa Fe (COL) - ao vivo</title>
-    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <title lang="pt">Corinthians x Santa Fe - ao vivo</title>
+    <desc lang="pt">Corinthians e Santa Fe jogam pela 2ª rodada da fase de grupos da CONMEBOL Libertadores, na Neo Química Arena, em São Paulo (SP).</desc>
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -173090,12 +173090,12 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">80.104.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260414211500 -0300" stop="20260414231500 -0300" channel="SBT">
     <title lang="pt">Santos x Recoleta FC - ao vivo</title>
-    <desc lang="pt">Buscando reabilitação após derrota na estreia, o Santos recebe o Deportivo Recoleta na Vila Belmiro pela 2ª rodada do Grupo D da Copa Sul-Americana. O Peixe entra em campo pressionado para somar seus primeiros pontos em casa.</desc>
+    <desc lang="pt">Em busca da grande conquista! Gigantes do continente se enfrentam em busca do triunfo na segunda competição mais importante dos clubes sul-americanos.</desc>
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -173221,7 +173221,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.105.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260415214500 -0300" stop="20260415224500 -0300" channel="SBT">
@@ -182580,11 +182580,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260414150000 -0300" stop="20260414160000 -0300" channel="SportyNet HD">
+  <programme start="20260414150000 -0300" stop="20260414153000 -0300" channel="SportyNet HD">
     <title lang="pt">No Centro do Jogo</title>
     <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">85.104.</episode-num>
+  </programme>
+  <programme start="20260414153000 -0300" stop="20260414160000 -0300" channel="SportyNet HD">
+    <title lang="pt">Bundesliga Klassiker</title>
+    <desc lang="pt">O Nosso Futebol relembra momentos que foram marcantes na história de mais de 60 anos da Bundesliga.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260414160000 -0300" stop="20260414180000 -0300" channel="SportyNet HD">
     <title lang="pt">St. Pauli x Bayern De Munique</title>
@@ -182605,28 +182613,39 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.104.</episode-num>
   </programme>
-  <programme start="20260414210000 -0300" stop="20260414220000 -0300" channel="SportyNet HD">
+  <programme start="20260414210000 -0300" stop="20260414211500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré Jogo Copa do Nordeste</title>
+    <desc lang="pt">Duelos gigantes, torcidas em festa e confrontos entre clubes da elite brasileira na briga pela taça do Nordeste!</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260414211500 -0300" stop="20260414233000 -0300" channel="SportyNet HD">
+    <title lang="pt">Ceará x Jacuipense - ao vivo</title>
+    <desc lang="pt">Ceará e Jacuipense jogam pela 4ª rodada da 1ª fase da Copa do Nordeste, no Presidente Vargas, em Fortaleza (CE).</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260414233000 -0300" stop="20260415003000 -0300" channel="SportyNet HD">
     <title lang="pt">Show da Bundesliga</title>
     <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.104.</episode-num>
+    <episode-num system="xmltv_ns">83.104.</episode-num>
   </programme>
-  <programme start="20260414220000 -0300" stop="20260415000000 -0300" channel="SportyNet HD">
-    <title lang="pt">América-MX x Cruz Azul</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260414233000 -0300" stop="20260415003000 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">83.104.</episode-num>
   </programme>
-  <programme start="20260415000000 -0300" stop="20260415020000 -0300" channel="SportyNet HD">
+  <programme start="20260415003000 -0300" stop="20260415023000 -0300" channel="SportyNet HD">
     <title lang="pt">RB Leipzig x Borussia Mönchengladbach</title>
     <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260415020000 -0300" stop="20260415030000 -0300" channel="SportyNet HD">
+  <programme start="20260415023000 -0300" stop="20260415030000 -0300" channel="SportyNet HD">
     <title lang="pt">No Centro do Jogo</title>
     <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">82.105.</episode-num>
   </programme>
   <programme start="20260415030000 -0300" stop="20260415050000 -0300" channel="SportyNet HD">
