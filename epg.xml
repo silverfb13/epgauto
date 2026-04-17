@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-17 14:30:59" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-17 17:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -50419,16 +50419,16 @@
     <desc lang="pt">Eintracht Frankfurt e RB Leipzig jogam pela 30ª rodada do Segundo Turno da Bundesliga, no Deutsche Bank Park, em Frankfurt, Alemanha.</desc>
     <length units="minutes">5400</length>
   </programme>
-  <programme start="20260418133000 -0300" stop="20260418163000 -0300" channel="Claro TV+ 4K">
+  <programme start="20260418133000 -0300" stop="20260418153000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Eintracht Frankfurt x RB Leipzig - ao vivo</title>
     <desc lang="pt">Eintracht Frankfurt e RB Leipzig jogam pela 30ª rodada do Segundo Turno da Bundesliga, no Deutsche Bank Park, em Frankfurt, Alemanha.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260418163000 -0300" stop="20260418180000 -0300" channel="Claro TV+ 4K">
+  <programme start="20260418153000 -0300" stop="20260418180000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Em breve transmissão em 4K</title>
     <desc lang="pt">Em breve transmissão em 4K.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">9000</length>
   </programme>
   <programme start="20260418180000 -0300" stop="20260418200000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Em breve transmissão em 4K</title>
@@ -101058,117 +101058,194 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260419002500 -0300" stop="20260419042500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260419003000 -0300" stop="20260419010000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Brasil x Canadá</title>
+    <desc lang="pt">Brasil e Canadá jogam um Amistoso Internacional Feminino, na Arena Pantanal, em Cuiabá (MT).</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260419010000 -0300" stop="20260419030000 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Independiente Rivadavia</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419030000 -0300" stop="20260419040000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais</title>
+    <sub-title lang="pt">7ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">83.109.</episode-num>
+  </programme>
+  <programme start="20260419040000 -0300" stop="20260419070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais</title>
+    <sub-title lang="pt">7ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">84.109.</episode-num>
+  </programme>
+  <programme start="20260419070000 -0300" stop="20260419072500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">10ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.109.</episode-num>
+  </programme>
+  <programme start="20260419072500 -0300" stop="20260419092500 -0300" channel="GE TV HD">
+    <title lang="pt">Vitória x São Paulo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419092500 -0300" stop="20260419112500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Coréia Do Sul</title>
+    <desc lang="pt">Assista mais um jogo de tirar o fôlego no Amistoso Internacional de Futebol Feminino, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419112500 -0300" stop="20260419132500 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Independiente Rivadavia</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419132500 -0300" stop="20260419143000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">10ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">83.109.</episode-num>
+  </programme>
+  <programme start="20260419143000 -0300" stop="20260419160000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Santos x Fluminense</title>
+    <desc lang="pt">Santos e Fluminense jogam pela 12ª rodada do Primeiro Turno do Brasileirão, no Vila Belmiro, em Santos (SP).</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20260419160000 -0300" stop="20260419180000 -0300" channel="GE TV HD">
+    <title lang="pt">Santos x Fluminense - ao vivo</title>
+    <desc lang="pt">Santos e Fluminense jogam pela 12ª rodada do Primeiro Turno do Brasileirão, no Vila Belmiro, em Santos (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260419180000 -0300" stop="20260419183000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Santos x Fluminense</title>
+    <desc lang="pt">Santos e Fluminense jogam pela 12ª rodada do Primeiro Turno do Brasileirão, no Vila Belmiro, em Santos (SP).</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260419183000 -0300" stop="20260419203000 -0300" channel="GE TV HD">
+    <title lang="pt">Corinthians x Santa Fe</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419203000 -0300" stop="20260419223000 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Sesi-Bauru</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419223000 -0300" stop="20260420005000 -0300" channel="GE TV HD">
+    <title lang="pt">Sesi-Bauru x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260419223000 -0300" stop="20260420005000 -0300" channel="GE TV HD">
+    <title lang="pt">Sesi-Bauru x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260420005000 -0300" stop="20260420031000 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Sesi-Bauru</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260420031000 -0300" stop="20260420034500 -0300" channel="GE TV HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <sub-title lang="pt">O Mundo Mágico de Macau</sub-title>
+    <desc lang="pt">Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL. É a hora do Brasil enfrentar o Japão e a Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo l...</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260419042500 -0300" stop="20260419082500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420034500 -0300" stop="20260420070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais</title>
+    <sub-title lang="pt">7ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">11700</length>
+    <episode-num system="xmltv_ns">83.110.</episode-num>
   </programme>
-  <programme start="20260419082500 -0300" stop="20260419122500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420070000 -0300" stop="20260420072500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">10ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">87.110.</episode-num>
   </programme>
-  <programme start="20260419122500 -0300" stop="20260419162500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420072500 -0300" stop="20260420092500 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Sesi-Bauru</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260419162500 -0300" stop="20260419202500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420092500 -0300" stop="20260420114500 -0300" channel="GE TV HD">
+    <title lang="pt">Sesi-Bauru x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260419202500 -0300" stop="20260420002500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420114500 -0300" stop="20260420140000 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Sesi-Bauru</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8100</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260419202500 -0300" stop="20260420002500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420140000 -0300" stop="20260420160000 -0300" channel="GE TV HD">
+    <title lang="pt">Osasco x Minas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260420002500 -0300" stop="20260420042500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420160000 -0300" stop="20260420170000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">10ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">86.110.</episode-num>
   </programme>
-  <programme start="20260420042500 -0300" stop="20260420082500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
+  <programme start="20260420170000 -0300" stop="20260420190000 -0300" channel="GE TV HD">
+    <title lang="pt">Panela Sportv - ao vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">87.110.</episode-num>
   </programme>
-  <programme start="20260420082500 -0300" stop="20260420122500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420190000 -0300" stop="20260420210000 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Independiente Rivadavia</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260420122500 -0300" stop="20260420162500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420210000 -0300" stop="20260420230000 -0300" channel="GE TV HD">
+    <title lang="pt">Corinthians x Santa Fe</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260420162500 -0300" stop="20260420202500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420230000 -0300" stop="20260421010000 -0300" channel="GE TV HD">
+    <title lang="pt">Junior Barranquilla x Palmeiras</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260420202500 -0300" stop="20260421002500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260420202500 -0300" stop="20260421002500 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">14400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260420230000 -0300" stop="20260421010000 -0300" channel="GE TV HD">
+    <title lang="pt">Junior Barranquilla x Palmeiras</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260421002500 -0300" stop="20260421042500 -0300" channel="GE TV HD">
     <title lang="pt">Programação GE TV</title>
@@ -101535,12 +101612,19 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260418144000 -0300" stop="20260418161500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Sessão de Sábado: Como Se Fosse a Primeira Vez</title>
-    <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o ...</desc>
-    <length units="minutes">5700</length>
+  <programme start="20260418144000 -0300" stop="20260418152000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">84.108.</episode-num>
+  </programme>
+  <programme start="20260418152000 -0300" stop="20260418161500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">15.108.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260418161500 -0300" stop="20260418184000 -0300" channel="GLOBO SÃO PAULO">
@@ -116310,21 +116394,21 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260417060000 -0300" stop="20260417064300 -0300" channel="GNT HD">
+  <programme start="20260417060000 -0300" stop="20260417064900 -0300" channel="GNT HD">
     <title lang="pt">Dani-Se</title>
     <sub-title lang="pt">Alma Gêmea</sub-title>
     <desc lang="pt">Os amores Dani Calabresa e Pedroca Monteiro recebem Jojo Todynho e Welder Rodrigues pra dar um DANI-SE nessa ideia de alma gêmea e amor eterno. Não tem como não se apaixonar!</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260417064300 -0300" stop="20260417073700 -0300" channel="GNT HD">
+  <programme start="20260417064900 -0300" stop="20260417073700 -0300" channel="GNT HD">
     <title lang="pt">Fazendo A Festa</title>
     <sub-title lang="pt">Anos 80</sub-title>
     <desc lang="pt">Pode ir calçando a polaina, tirando as ombreiras do fundo da gaveta, porque o Fazendo a Festa de hoje, a pedido da aniversariante Marina, revive os inesquecíveis anos 80.</desc>
-    <length units="minutes">3240</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -116422,10 +116506,10 @@
   </programme>
   <programme start="20260417145200 -0300" stop="20260417155200 -0300" channel="GNT HD">
     <title lang="pt">Que Seja Doce</title>
-    <sub-title lang="pt">Água que cai</sub-title>
-    <desc lang="pt">Seja numa leve queda d'água ou numa catarata, não tem como não se molhar! Hoje, as confeiteiras fazem doces com chantilly e o difícil bolo tsunami. Vai ter emoção!</desc>
+    <sub-title lang="pt">Bolos Para O Trabalho</sub-title>
+    <desc lang="pt">Os confeiteiros vão animar o break e o happy hour de um dia de trabalho, com um saboroso bolo no pote e um cupcake de licor.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">7.36.</episode-num>
+    <episode-num system="xmltv_ns">11.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -116502,10 +116586,10 @@
   </programme>
   <programme start="20260417204400 -0300" stop="20260417214500 -0300" channel="GNT HD">
     <title lang="pt">Que Seja Doce</title>
-    <sub-title lang="pt">Fungi com doçura</sub-title>
-    <desc lang="pt">Os confeiteiros se inspiram nos fungos para preparar clássicas trufas de chocolate e criar cupcakes com decoração de cogumelos.</desc>
+    <sub-title lang="pt">Aniversário Para Veganos</sub-title>
+    <desc lang="pt">Os confeiteiros de hoje mostrarão que docinhos e bolo de aniversário veganos também são muito saborosos!</desc>
     <length units="minutes">3660</length>
-    <episode-num system="xmltv_ns">7.37.</episode-num>
+    <episode-num system="xmltv_ns">11.33.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -116520,47 +116604,47 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260417221900 -0300" stop="20260417230400 -0300" channel="GNT HD">
+  <programme start="20260417221900 -0300" stop="20260417225800 -0300" channel="GNT HD">
     <title lang="pt">Infiltrado Na Cozinha</title>
     <sub-title lang="pt">Espírito de Porco</sub-title>
     <desc lang="pt">Os participantes preparam receitas com carne de porco. Mas um deles não é cozinheiroprofissional e só vai levar prêmio se conseguir enganar os jurados até ao fim.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2340</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260417230400 -0300" stop="20260417233700 -0300" channel="GNT HD">
+  <programme start="20260417225800 -0300" stop="20260417232200 -0300" channel="GNT HD">
     <title lang="pt">Cidade Subterrânea</title>
     <sub-title lang="pt">Metrô São Paulo</sub-title>
     <desc lang="pt">&quot;Cidade Subterrânea&quot; é um reality que mergulha no cotidiano do metrô de São Paulo. As histórias revelam os desafios de personagens que lutam para manter o fluxo da metrópole.</desc>
-    <length units="minutes">1980</length>
-    <episode-num system="xmltv_ns">16.5.</episode-num>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">17.5.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260417233700 -0300" stop="20260418004100 -0300" channel="GNT HD">
+  <programme start="20260417232200 -0300" stop="20260418002700 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Dira Paes + Caroline Abras + Orã Figueiredo</sub-title>
     <desc lang="pt">Dira Paes, Orã Figueiredo e Caroline Abras são os convidados do Porchat. Na plateia, um flamenguista roxo prova que amor ao clube não tem limites.</desc>
-    <length units="minutes">3840</length>
+    <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260417233700 -0300" stop="20260418004100 -0300" channel="GNT HD">
+  <programme start="20260417232200 -0300" stop="20260418002700 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Dira Paes + Caroline Abras + Orã Figueiredo</sub-title>
     <desc lang="pt">Dira Paes, Orã Figueiredo e Caroline Abras são os convidados do Porchat. Na plateia, um flamenguista roxo prova que amor ao clube não tem limites.</desc>
-    <length units="minutes">3840</length>
+    <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418004100 -0300" stop="20260418012900 -0300" channel="GNT HD">
+  <programme start="20260418002700 -0300" stop="20260418011500 -0300" channel="GNT HD">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Caxambu</sub-title>
     <desc lang="pt">Paulo conversa com um sommelier de água, moradores que foram curados pelas águas de Caxambu, um charreteiro, um farmacêutico e o dono de um cinema.</desc>
@@ -116570,11 +116654,11 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260418012900 -0300" stop="20260418022900 -0300" channel="GNT HD">
+  <programme start="20260418011500 -0300" stop="20260418022900 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Alex Atala + Juliana Paiva + Filipe Toledo</sub-title>
     <desc lang="pt">Porchat recebe Alex Atala, Juliana Paiva e Filipe Toledo. Na plateia, Milene conta sobre o pesadelo de uma viagem à Tailândia.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4440</length>
     <episode-num system="xmltv_ns">8.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -116590,24 +116674,44 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260418031400 -0300" stop="20260418040900 -0300" channel="GNT HD">
+  <programme start="20260418031400 -0300" stop="20260418032300 -0300" channel="GNT HD">
+    <title lang="pt">Momento Que História É Essa, Porchat?</title>
+    <sub-title lang="pt">Renata Sorrah + Cláudia Abreu + Anderson Di Rizzi</sub-title>
+    <desc lang="pt">Porchat reúne Cláudia Abreu, Renata Sorrah e Anderson Di Rizzi. Na plateia, um cruzeiro que mais parecia uma emergência de hospital e um mergulho surpreendente.</desc>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">7.21.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418032300 -0300" stop="20260418040900 -0300" channel="GNT HD">
     <title lang="pt">Fazendo A Festa</title>
     <sub-title lang="pt">Anos 80</sub-title>
     <desc lang="pt">Pode ir calçando a polaina, tirando as ombreiras do fundo da gaveta, porque o Fazendo a Festa de hoje, a pedido da aniversariante Marina, revive os inesquecíveis anos 80.</desc>
-    <length units="minutes">3300</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260418040900 -0300" stop="20260418050700 -0300" channel="GNT HD">
+  <programme start="20260418040900 -0300" stop="20260418050400 -0300" channel="GNT HD">
     <title lang="pt">Santa Ajuda</title>
     <sub-title lang="pt">Home Office da Joana</sub-title>
     <desc lang="pt">Micaela organiza o home-office da JOANA que foi denunciada pelo marido Alexandre. Vovó Risoleta ensina tudo sobre doação de livros, e a faz-tudo Alê mostra como instalar sozinho um rack vertical.</desc>
-    <length units="minutes">3480</length>
+    <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260418050400 -0300" stop="20260418050700 -0300" channel="GNT HD">
+    <title lang="pt">Momento Que História É Essa, Porchat?</title>
+    <sub-title lang="pt">Jade Picon + Lucinha Lins + Pedro Scooby</sub-title>
+    <desc lang="pt">Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby. Na plateia, Daniela e a fama no prédio. E uma história da Paraíba que poderia ser música.</desc>
+    <length units="minutes">180</length>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260418050700 -0300" stop="20260418060000 -0300" channel="GNT HD">
@@ -119584,11 +119688,12 @@
     </rating>
   </programme>
   <programme start="20260419220200 -0300" stop="20260419230700 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.</desc>
     <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[18]</value>
     </rating>
   </programme>
   <programme start="20260419230700 -0300" stop="20260419234200 -0300" channel="HBO">
@@ -119619,11 +119724,12 @@
     </rating>
   </programme>
   <programme start="20260420001700 -0300" stop="20260420012200 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.</desc>
     <length units="minutes">3900</length>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[18]</value>
     </rating>
   </programme>
   <programme start="20260420012200 -0300" stop="20260420015700 -0300" channel="HBO">
@@ -119709,19 +119815,23 @@
     </rating>
   </programme>
   <programme start="20260420181500 -0300" stop="20260420191000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Carlinhos Brown em Meia Lua Inteira</title>
+    <sub-title lang="pt">Sopapo na Cara do Fraco</sub-title>
+    <desc lang="pt">O documentário propõe um olhar íntimo sobre o artista, revelando suas dores e alegrias e evidenciando o papel central da música em sua transformação pessoal e artística.</desc>
     <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260420191000 -0300" stop="20260420194500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Nua na Rede: A Verdade sobre Rose Leonel</title>
+    <sub-title lang="pt">Introducing Social Columnist Rose Leonel</sub-title>
+    <desc lang="pt">Em 2006, Rose Leonel, uma jornalista em ascensão no Brasil, vê sua vida mudar radicalmente quando suas imagens íntimas são viralizadas na internet sem seu consentimento.</desc>
     <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260420194500 -0300" stop="20260420202000 -0300" channel="HBO">
@@ -176347,7 +176457,7 @@
   </programme>
   <programme start="20260418130000 -0300" stop="20260418153000 -0300" channel="SPORTV">
     <title lang="pt">Eintracht Frankfurt x RB Leipzig - ao vivo</title>
-    <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
+    <desc lang="pt">Eintracht Frankfurt e RB Leipzig jogam pela 30ª rodada do Segundo Turno da Bundesliga, no Deutsche Bank Park, em Frankfurt, Alemanha.</desc>
     <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -176379,7 +176489,7 @@
   </programme>
   <programme start="20260418200000 -0300" stop="20260418220000 -0300" channel="SPORTV">
     <title lang="pt">Vitória x Corinthians - ao vivo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <desc lang="pt">Vitória e Corinthians jogam pela 12ª rodada do Primeiro Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
