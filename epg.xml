@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-17 17:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-17 20:30:55" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -44748,20 +44748,20 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">82.108.</episode-num>
   </programme>
-  <programme start="20260418124500 -0300" stop="20260418171500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
-    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
-    <length units="minutes">16200</length>
-    <episode-num system="xmltv_ns">82.108.</episode-num>
-  </programme>
-  <programme start="20260418171500 -0300" stop="20260418174500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Conexão Infra</title>
-    <desc lang="pt">Toda quinta-feira, o Conexão Infra traz entrevistas exclusivas com lideranças responsáveis por PPPs e projetos que devem moldar o país nos próximos anos.</desc>
+  <programme start="20260418124500 -0300" stop="20260418131500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">É Negócio</title>
+    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">17.108.</episode-num>
+    <episode-num system="xmltv_ns">12.108.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20260418131500 -0300" stop="20260418174500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Money News - Edição Fim de Semana</title>
+    <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
+    <length units="minutes">16200</length>
+    <episode-num system="xmltv_ns">83.108.</episode-num>
   </programme>
   <programme start="20260418174500 -0300" stop="20260418184500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">Cripto na Real</title>
@@ -44769,21 +44769,23 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.108.</episode-num>
   </programme>
-  <programme start="20260418184500 -0300" stop="20260418193000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Capital Insights</title>
-    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260418184500 -0300" stop="20260418191500 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Conexão Infra</title>
+    <desc lang="pt">Toda quinta-feira, o Conexão Infra traz entrevistas exclusivas com lideranças responsáveis por PPPs e projetos que devem moldar o país nos próximos anos.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">18.108.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260418193000 -0300" stop="20260418200000 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Altagem</title>
-    <sub-title lang="pt">Jogo de Volta</sub-title>
-    <desc lang="pt">O Alta Voltagem chega para conectar o público aos principais nomes do setor de energia, mercado que movimenta mais de R$ 112 bilhões ao ano.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.108.</episode-num>
+  <programme start="20260418191500 -0300" stop="20260418200000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">Capital Insights</title>
+    <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">19.108.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260418200000 -0300" stop="20260419003000 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
@@ -174962,12 +174964,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260417050300 -0300" stop="20260417063300 -0300" channel="SPACE HD">
+  <programme start="20260417050300 -0300" stop="20260417060000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Game Over</sub-title>
     <desc lang="pt">Um skatista radical que desenvolve jogos de videogame é encontrado morto em uma pista usada para programar os jogos.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3420</length>
     <episode-num system="xmltv_ns">3.18.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260417060000 -0300" stop="20260417060700 -0300" channel="SPACE HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">420</length>
+    <episode-num system="xmltv_ns">6.107.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260417060700 -0300" stop="20260417063300 -0300" channel="SPACE HD">
+    <title lang="pt">Olhos Da Lei</title>
+    <sub-title lang="pt">Ocorrências Familiares</sub-title>
+    <desc lang="pt">O COPOM lida com supostos sequestros, além de uma ocorrência com reféns.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -175038,8 +175059,8 @@
   </programme>
   <programme start="20260417152700 -0300" stop="20260417161000 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">About Face</sub-title>
-    <desc lang="pt">Natalia é obrigada a revelar o segredo de um prisioneiro para salvar a própria vida.</desc>
+    <sub-title lang="pt">Revira</sub-title>
+    <desc lang="pt">Jogo de Volta - Natalia é obrigada a revelar o segredo de um prisioneiro para salvar a própria vida.</desc>
     <length units="minutes">2580</length>
     <episode-num system="xmltv_ns">9.18.</episode-num>
     <rating system="Brazil">
@@ -175136,21 +175157,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260417230000 -0300" stop="20260417232600 -0300" channel="SPACE HD">
+  <programme start="20260417230000 -0300" stop="20260417232500 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Grande Acampamento</sub-title>
     <desc lang="pt">Combate ao garimpo ilegal, ao roubo e à falsidade ideológica na fronteira.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260417232600 -0300" stop="20260417235100 -0300" channel="SPACE HD">
+  <programme start="20260417232500 -0300" stop="20260417235100 -0300" channel="SPACE HD">
     <title lang="pt">Operação Fronteira Brasil</title>
     <sub-title lang="pt">Carro em Fuga</sub-title>
     <desc lang="pt">Acompanhe a rotina das autoridades que trabalham diariamente para impedir o tráfico.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -175208,8 +175229,8 @@
   </programme>
   <programme start="20260418024700 -0300" stop="20260418032900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">About Face</sub-title>
-    <desc lang="pt">Natalia é obrigada a revelar o segredo de um prisioneiro para salvar a própria vida.</desc>
+    <sub-title lang="pt">Revira</sub-title>
+    <desc lang="pt">Jogo de Volta - Natalia é obrigada a revelar o segredo de um prisioneiro para salvar a própria vida.</desc>
     <length units="minutes">2520</length>
     <episode-num system="xmltv_ns">9.18.</episode-num>
     <rating system="Brazil">
@@ -175275,151 +175296,153 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418062600 -0300" stop="20260418065500 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Countermeasures</sub-title>
-    <desc lang="pt">Seguido de uma experiência traumática de quase morte, Horatio e Natalia lutam para continuar em frente e caçam o homem responsável pelo seus sofrimentos.</desc>
-    <length units="minutes">1740</length>
-    <episode-num system="xmltv_ns">10.1.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260418065500 -0300" stop="20260418074100 -0300" channel="SPACE HD">
+  <programme start="20260418062600 -0300" stop="20260418071300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Hollywood Brass</sub-title>
-    <desc lang="pt">Brass viaja para Hollywood, para tentar encontrar a filha de uma amiga, enquanto tenta reacender algum tipo de relação com ela.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">5.20.</episode-num>
+    <sub-title lang="pt">Weeping Willows</sub-title>
+    <desc lang="pt">Um homem que Catherine paquerou em um bar reaparece em sua vida como suspeito de um assassinato.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">5.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418074100 -0300" stop="20260418082700 -0300" channel="SPACE HD">
+  <programme start="20260418071300 -0300" stop="20260418080100 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Bite Me</sub-title>
-    <desc lang="pt">Os CSIs investigam a declaração de um homem, que diz que sua esposa caiu das escadas da casa deles.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <sub-title lang="pt">Gum Drops</sub-title>
+    <desc lang="pt">Nick assume um caso e investiga uma casa onde moram quatro pessoas, mas somente três poças de sangue são encontradas. Nick acha que a garotinha ainda pode estar viva, mas Sara está em dúvida.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418082700 -0300" stop="20260418091200 -0300" channel="SPACE HD">
+  <programme start="20260418080100 -0300" stop="20260418084500 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Die By The Sword</sub-title>
-    <desc lang="pt">Os machucados de Natalia colocam ela e Ryan em perigo. Enquanto isso, uma estranha investigação sobre um homem que foi cortado ao meio assusta os CSIs.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">8.13.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418091200 -0300" stop="20260418095800 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Reality Kills</sub-title>
-    <desc lang="pt">A equipe investiga todas as conexões de um astro de reality show para descobrir quem o assassinou e por quê.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">9.6.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418095800 -0300" stop="20260418104400 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Werewolves</sub-title>
-    <desc lang="pt">Quando uma mulher dá à luz a duas crianças que têm uma doença que faz os pêlos do corpo crescerem em excesso, ela os abandona e reaparece anos depois, quando um deles está à beira da morte.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">6.11.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418104400 -0300" stop="20260418112900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I</title>
-    <sub-title lang="pt">Spellbound</sub-title>
-    <desc lang="pt">A equipe investiga a morte de um vidente que &quot;viu&quot; sua própria morte enquanto estava fazendo uma premonição para duas mulheres.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">6.19.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418112900 -0300" stop="20260418121500 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Countermeasures</sub-title>
-    <desc lang="pt">Seguido de uma experiência traumática de quase morte, Horatio e Natalia lutam para continuar em frente e caçam o homem responsável pelo seus sofrimentos.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">10.1.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260418121500 -0300" stop="20260418125900 -0300" channel="SPACE HD">
-    <title lang="pt">C.S.I. Miami</title>
-    <sub-title lang="pt">Law &amp; Disorder (1)</sub-title>
-    <desc lang="pt">Horatio descobre um escândalo que o coloca contra um antigo adversário; Calleigh enfrenta uma decisão importante.</desc>
+    <sub-title lang="pt">Miami, We Have a Problem</sub-title>
+    <desc lang="pt">A equipe investiga o aparecimento do corpo de um homem que foi morto fora da Terra.</desc>
     <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <episode-num system="xmltv_ns">8.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418125900 -0300" stop="20260418150600 -0300" channel="SPACE HD">
-    <title lang="pt">Blade - O Caçador de Vampiros</title>
-    <desc lang="pt">Neste filme baseado nas histórias em quadrinhos, Wesley Snipes é Blade, metade homem, metade vampiro, que busca vingança pela morte de sua mãe.</desc>
-    <length units="minutes">7620</length>
+  <programme start="20260418084500 -0300" stop="20260418093000 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Feliz Aniversário</sub-title>
+    <desc lang="pt">Horatio deve encontrar um criminoso e salvar uma mulher grávida ao mesmo tempo em que tenta descobrir por que ela está sendo atacada.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">9.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418150600 -0300" stop="20260418170300 -0300" channel="SPACE HD">
-    <title lang="pt">Blade 2: O Caçador de Vampiros</title>
-    <desc lang="pt">Blade terá de enfrentar uma nova raça de supervampiros chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros.</desc>
-    <length units="minutes">7020</length>
+  <programme start="20260418093000 -0300" stop="20260418101700 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Kiss Kiss Bye Bye</sub-title>
+    <desc lang="pt">Os CSIs vão para uma elegante festa feita para a nata da sociedade, com o intuito de descobrir quem matou um jovem rapaz. O caso se torna pessoal para Catherine quando seu pai, Sam Braun, se torna um dos suspeitos.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418170300 -0300" stop="20260418190500 -0300" channel="SPACE HD">
-    <title lang="pt">Blade Trinity</title>
-    <desc lang="pt">Os vampiros iniciam uma campanha difamatória contra Blade, ao mesmo tempo em que ressuscitam Drácula que deu origem à raça. Precisando de ajuda, Blade se alia a um grupo de humanos que combate vampiros.</desc>
-    <length units="minutes">7320</length>
+  <programme start="20260418101700 -0300" stop="20260418110400 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I</title>
+    <sub-title lang="pt">Rashomama</sub-title>
+    <desc lang="pt">Depois que o carro de Nick é roubado com todas as provas do assassinato de um advogado de defesa que foi morto no casamento de seu filho, o caso fica comprometido.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">6.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260418190500 -0300" stop="20260418205900 -0300" channel="SPACE HD">
-    <title lang="pt">Condenação Brutal</title>
-    <desc lang="pt">No meio da noite, faltando 6 meses para ser libertado, Leone, um prisioneiro modelo, é arrancado de sua cama, numa prisão de mínima segurança e é transferido para &quot;Gateway&quot;, uma instituição de seguran...</desc>
+  <programme start="20260418110400 -0300" stop="20260418114800 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Blown Away</sub-title>
+    <desc lang="pt">Um tornado atinge uma cena de crime, prejudicando a prova e colocando Ryan e Walter em grave perigo.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">10.3.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418114800 -0300" stop="20260418123600 -0300" channel="SPACE HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <sub-title lang="pt">Golden Parachute</sub-title>
+    <desc lang="pt">Megan Donner volta à equipe do CSI a tempo de ajudar nas investigações da queda de um avião no lago Everglades. Na procura por sobreviventes, eles descobrem o corpo de uma mulher que foi encontrado a 8 km do local da queda.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418123600 -0300" stop="20260418142900 -0300" channel="SPACE HD">
+    <title lang="pt">Inferno Vermelho</title>
+    <desc lang="pt">Capitão Danko, apelidado de queixo de ferro, é um policial cruel da divisão de homicídios em Moscow, enviado a Chicago para buscar traficante russo.</desc>
+    <length units="minutes">6780</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418142900 -0300" stop="20260418160500 -0300" channel="SPACE HD">
+    <title lang="pt">Fúria Mortal</title>
+    <desc lang="pt">Policial investiga morte de colega. O principal suspeito é um traficante, e o policial tem que usar todos os seus conhecimentos para chegar ao assassino.</desc>
+    <length units="minutes">5760</length>
+    <rating system="Brazil">
+      <value>[18]</value>
+    </rating>
+  </programme>
+  <programme start="20260418160500 -0300" stop="20260418174900 -0300" channel="SPACE HD">
+    <title lang="pt">Nico - Acima da Lei</title>
+    <desc lang="pt">Chicago, 1988. Policial e mestre em artes marciais descobre durante operação de rotina a existência de esquema de corrupção entre agentes do escalão do FBI.</desc>
+    <length units="minutes">6240</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418174900 -0300" stop="20260418193700 -0300" channel="SPACE HD">
+    <title lang="pt">Rede de Corrupção</title>
+    <desc lang="pt">O detetive Orin Boyd é transferido para o Distrito de Detroit por não obedecer regras mas começa a suspeitar de seus colegas, com o sumiço da heroína.</desc>
+    <length units="minutes">6480</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418193700 -0300" stop="20260418211900 -0300" channel="SPACE HD">
+    <title lang="pt">Difícil de Matar</title>
+    <desc lang="pt">Tira Durão é baleado por político ativista e seu capanga, ficando em coma por sete anos. Recuperado, prepara-se para vingança.</desc>
+    <length units="minutes">6120</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260418211900 -0300" stop="20260418230000 -0300" channel="SPACE HD">
+    <title lang="pt">O Forasteiro</title>
+    <desc lang="pt">O agente Jonathan Cold foi contratado para levar uma encomenda da França para a Alemanha. Mas políticos corruptos tentarão impedir sua missão.</desc>
+    <length units="minutes">6060</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260418230000 -0300" stop="20260419005400 -0300" channel="SPACE HD">
+    <title lang="pt">Ameaça Subterrânea</title>
+    <desc lang="pt">A morte de um colega leva o agente ambiental Jack a uma pequena cidade do Kentucky. Disfarçado, Jack logo descobre que toneladas de lixo tóxico estão sendo despejadas em minas de carvão abandonadas da região pondo todos em...</desc>
     <length units="minutes">6840</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260418205900 -0300" stop="20260418230000 -0300" channel="SPACE HD">
-    <title lang="pt">O Demolidor</title>
-    <desc lang="pt">1996. O policial John Spartan captura o perigoso Simon Phoenix, mas é acusado de brutalidade policial. Ambos são levados a um centro de criogênia, onde são congelados. Em 2032, Phoenix consegue escapar.</desc>
-    <length units="minutes">7260</length>
+  <programme start="20260418230000 -0300" stop="20260419005400 -0300" channel="SPACE HD">
+    <title lang="pt">Ameaça Subterrânea</title>
+    <desc lang="pt">A morte de um colega leva o agente ambiental Jack a uma pequena cidade do Kentucky. Disfarçado, Jack logo descobre que toneladas de lixo tóxico estão sendo despejadas em minas de carvão abandonadas da região pondo todos em...</desc>
+    <length units="minutes">6840</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260418230000 -0300" stop="20260419011900 -0300" channel="SPACE HD">
-    <title lang="pt">Assassinos</title>
-    <desc lang="pt">A vida de dois assassinos se cruzam quando são enviados para eliminar Electra, que guarda segredos valiosos em um disquete. Rath e Electra formam um time à procura da liberdade, mas primeiro precisam passar por Bain.</desc>
-    <length units="minutes">8340</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418230000 -0300" stop="20260419011900 -0300" channel="SPACE HD">
-    <title lang="pt">Assassinos</title>
-    <desc lang="pt">A vida de dois assassinos se cruzam quando são enviados para eliminar Electra, que guarda segredos valiosos em um disquete. Rath e Electra formam um time à procura da liberdade, mas primeiro precisam passar por Bain.</desc>
-    <length units="minutes">8340</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
+  <programme start="20260419005400 -0300" stop="20260419011900 -0300" channel="SPACE HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">1500</length>
   </programme>
   <programme start="20260419011900 -0300" stop="20260419020400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
@@ -188255,7 +188278,7 @@
   </programme>
   <programme start="20260417180000 -0300" stop="20260417200600 -0300" channel="TNT HD">
     <title lang="pt">Esquadrão Suicida</title>
-    <desc lang="pt">É bom ser mau ... Reúna uma equipe dos super vilões mais perigosos e encarcerados do mundo, ofereça-lhes o mais poderoso arsenal à disposição do governo e envie-os em uma missão para derrotar uma entidade en...</desc>
+    <desc lang="pt">Após a aparição do Superman, a agente Amanda está convencida que o governo americano precisa ter sua própria equipe de metahumanos.</desc>
     <length units="minutes">7560</length>
     <rating system="Brazil">
       <value>[12]</value>
@@ -188271,9 +188294,9 @@
   </programme>
   <programme start="20260417222500 -0300" stop="20260417231200 -0300" channel="TNT HD">
     <title lang="pt">Beleza Fatal</title>
-    <desc lang="pt">Após sair da delegacia, Átila discute com Benjamin dentro do carro. Foragido, Rog pede ajuda à Andrea. Gabriel conta para Gisela sobre o envolvimento de Rog na morte de Rebeca.</desc>
+    <desc lang="pt">Benjamin vai até a cabana onde Rog está e eles discutindo depois da operação não ter dado certo. Tomás volta para casa após a facada. Átila aceita chantagem de Lola.</desc>
     <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -188374,171 +188397,203 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260418045700 -0300" stop="20260418062900 -0300" channel="TNT HD">
+  <programme start="20260418045700 -0300" stop="20260418053400 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">5520</length>
+    <length units="minutes">2220</length>
     <episode-num system="xmltv_ns">4.108.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260418062900 -0300" stop="20260418065200 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">O inimigo interno</sub-title>
-    <desc lang="pt">O tio Philip tem um ataque cardíaco após comer o que não deveria, e vai parar no hospital.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">4.10.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418065200 -0300" stop="20260418071700 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Namore minha prima, por favor</sub-title>
-    <desc lang="pt">O Will tenta arranjar um encontro entre a Hilary e o seu professor para ganhar notas melhores.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">4.11.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418071700 -0300" stop="20260418084800 -0300" channel="TNT HD">
-    <title lang="pt">Jovens Bruxas: Nova Irmandade</title>
-    <desc lang="pt">Continuação do clássico cult de 1996 &quot;Jovens Bruxas&quot;, sobre quatro garotas adolescentes que formam uma irmandade de bruxas.</desc>
-    <length units="minutes">5460</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418084800 -0300" stop="20260418104300 -0300" channel="TNT HD">
-    <title lang="pt">Máquina Mortífera</title>
-    <desc lang="pt">Um tira temperamental e atrevido forma uma difícil parceria com um detetive veterano para lutarem contra uma rede de assassinos traficantes de drogas.</desc>
-    <length units="minutes">6900</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260418104300 -0300" stop="20260418111700 -0300" channel="TNT HD">
-    <title lang="pt">De Olho Na Liga</title>
-    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.</desc>
-    <length units="minutes">2040</length>
-  </programme>
-  <programme start="20260418111700 -0300" stop="20260418114300 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Manda ver na Batera, Ashley</sub-title>
-    <desc lang="pt">Após a Ashley revelar que não gosta de tocar violino, o Will a leva para trocar o seu violino por uma bateria, e até contrata um professor para ela: o Jazz.</desc>
-    <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418114300 -0300" stop="20260418120800 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <sub-title lang="pt">Morrendo e aprendendo</sub-title>
-    <desc lang="pt">Em uma festa, o Will quer impressionar a Jackie e ridiculariza o cara que está com ela. Porém, ele acaba fazendo o papel de ridículo.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">4.12.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418120800 -0300" stop="20260418123200 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Exames Para Facultade</sub-title>
-    <desc lang="pt">Chris sabe que conseguir bons resultados o ajudará a entrar na faculdade, então ele decide se matar estudando para o teste de aptidão. Isso é complicado quando Rochelle pede a ele para participar de um evento social.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418123200 -0300" stop="20260418125600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Boxe</sub-title>
-    <desc lang="pt">O treinador Thurman vê Chris sendo agredido por Caruso e sugere que ele aprenda a lutar boxe para se defender. Julius chama a atenção de uma bela mulher na vizinhança, que passa a fazer danças sensuais para ele.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.15.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418125600 -0300" stop="20260418132000 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia Lasanha</sub-title>
-    <desc lang="pt">Chris, relutante, concorda em guardar um pouco de maconha para um criminoso em fuga, mas tem dificuldade de encontrar um esconderijo apropriado que não traga problemas.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.16.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418132000 -0300" stop="20260418134300 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <sub-title lang="pt">Todo Mundo Odeia a Tasha</sub-title>
-    <desc lang="pt">Chris junta coragem para perguntar a Tasha se ela quer ser sua namorada e fica surpreso quando ela aceita. Só que Chris não tem a mínima ideia de que ser namorado exige abrir mão de todo o seu tempo livre.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">4.20.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260418134300 -0300" stop="20260418154400 -0300" channel="TNT HD">
-    <title lang="pt">Máquina Mortífera 2</title>
-    <desc lang="pt">Martin Riggs e seu parceiro Roger Murtaugh têm de proteger testemunha-chave para desmantelar tráfico de drogas e lavagem de dinheiro.</desc>
-    <length units="minutes">7260</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418154400 -0300" stop="20260418174500 -0300" channel="TNT HD">
-    <title lang="pt">Máquina Mortífera 3</title>
-    <desc lang="pt">Detetives investigam o envolvimento de ex-policial no contrabando de armas. A detetive Lorna também está investigando o caso. Os dois fazem tudo para pegar primeiro os bandidos e Riggs acaba se apaixonando pela detetive.</desc>
-    <length units="minutes">7260</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260418174500 -0300" stop="20260418200400 -0300" channel="TNT HD">
-    <title lang="pt">Máquina Mortífera 4</title>
-    <desc lang="pt">A dupla de detetives está de volta e uma surpresa aguarda Riggs e Murtaugh, pois, um vai ser pai, o outro avô. Ao descobrirem um navio com clandestinos chineses trazidos pela máfia chinesa enfrentarão o chefão Wah Sing Ku.</desc>
-    <length units="minutes">8340</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260418200400 -0300" stop="20260418220000 -0300" channel="TNT HD">
-    <title lang="pt">Terremoto: A Falha de San Andreas</title>
-    <desc lang="pt">Raymond Gaines é piloto do Departamento de Resgate e Segurança de Los Angeles e está enfrentando um divórcio complicado de sua esposa, Emma.</desc>
-    <length units="minutes">6960</length>
+  <programme start="20260418053400 -0300" stop="20260418054700 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">5.108.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260418220000 -0300" stop="20260418234900 -0300" channel="TNT HD">
-    <title lang="pt">Na Mira do Perigo</title>
-    <desc lang="pt">Jim é um ex-combatente que mora num rancho na fronteira com o México. Quando o cartel mata a mãe de um garoto na sua frente, ele se arrisca para proteger o menino.</desc>
-    <length units="minutes">6540</length>
+  <programme start="20260418054700 -0300" stop="20260418060000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">5.108.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260418060000 -0300" stop="20260418060800 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">480</length>
+    <episode-num system="xmltv_ns">6.108.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260418060800 -0300" stop="20260418064300 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">6.108.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260418064300 -0300" stop="20260418070600 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Papai Sabe tudo</sub-title>
+    <desc lang="pt">Ashleu decide que não quer ir para uma escola particular. Ela entra em uma escola pública e descobre como é a vida no mundo real.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260418070600 -0300" stop="20260418073000 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">O Trem do Soul</sub-title>
+    <desc lang="pt">Philip e a Vivian participavam do Trem do Soul e foram convidados novamente para um programa especial. A Vivian fica muito animada, mas o Philip não quer ir.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260418073000 -0300" stop="20260418090500 -0300" channel="TNT HD">
+    <title lang="pt">R.I.P.D. - Agentes do Além</title>
+    <desc lang="pt">O policial assassinado Nick Cruz (Ryan Ryenolds) hoje é uma alma penada. Ele entra para um departamento da polícia para tentar descobrir quem é a pessoa que o matou.</desc>
+    <length units="minutes">5700</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260418090500 -0300" stop="20260418110400 -0300" channel="TNT HD">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Com um Oscar de Melhor Filme de Animação, Homem-Aranha No Aranhaverso não só apresenta o jovem Miles Morales como o novo homem-aranha, mas também traz uma visão refrescante e um estilo visual inovador.</desc>
+    <length units="minutes">7140</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260418110400 -0300" stop="20260418113800 -0300" channel="TNT HD">
+    <title lang="pt">De Olho Na Liga</title>
+    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. Os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias.</desc>
+    <length units="minutes">2040</length>
+  </programme>
+  <programme start="20260418113800 -0300" stop="20260418120200 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">Bancando o maioral</sub-title>
+    <desc lang="pt">O Will tenta impressionar o pai de uma garota para pode sair com ela. O Sr. Banks, o Carlton e o Geoffrey tentam ensiná-lo a ser um cavalheiro à moda antiga.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260418120200 -0300" stop="20260418122600 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <sub-title lang="pt">A Força do Amor</sub-title>
+    <desc lang="pt">Enquanto  Will e  Lisa estão em um encontro, um cara começa a incomodá-los.  Lisa toma uma atitude e usa técnicas de autodefesa para se livrar dele.  Will fica envergonhado e faz aulas de Taekwondo.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">5.9.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260418122600 -0300" stop="20260418124900 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia a Loteria</sub-title>
+    <desc lang="pt">Alguém desafia Chris em um campeonato de videogame. Júlio e Rochelle concordam em desistir de alguns prazeres culposos.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260418124900 -0300" stop="20260418131100 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Gota</sub-title>
+    <desc lang="pt">Chris recebe um &quot;F&quot; no boletim e tenta encontrar uma forma de alterá-lo antes que seus pais vejam. Julius fica doente com gota e passa a assistir a The Young and The Restless.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260418131100 -0300" stop="20260418133300 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Funerais</sub-title>
+    <desc lang="pt">O pai de Rochelle, Gene, morre de repente em um jantar de família, e Rochelle começa a agir de maneira estranha, o que acaba assustando Chris.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260418133300 -0300" stop="20260418135500 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <sub-title lang="pt">Todo Mundo Odeia Drew</sub-title>
+    <desc lang="pt">Esperando que FINALMENTE se sobressaia mais que seu irmão, Chris convence seus pais a matriculá-lo em aulas de karatê. Enquanto isso, Tonya vai com Rochelle ao salão de beleza e descobre a diversão das fofocas.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260418135500 -0300" stop="20260418154300 -0300" channel="TNT HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <desc lang="pt">Cataleya se tornou uma assassina cruel após testemunhar a morte de seus pais quando criança em Bogotá. Ela trabalha como assassina de aluguel, mas em seu tempo livre fica atenta, procurando pelo mafioso que matou seus pais.</desc>
+    <length units="minutes">6480</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418154300 -0300" stop="20260418180700 -0300" channel="TNT HD">
+    <title lang="pt">Aquaman</title>
+    <desc lang="pt">Filho de um humano e da rainha Atlanna, Arthur Curry deve confrontar seu tirano meio-irmão Orm e reivindicar seu lugar como rei da Atlântida para evitar a iminente guerra entre a terra e o oceano.</desc>
+    <length units="minutes">8640</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260418180700 -0300" stop="20260418202200 -0300" channel="TNT HD">
+    <title lang="pt">O Ataque</title>
+    <desc lang="pt">Enquanto faz um tour da Casa Branca com sua filha, um policial é surpreendido com um ataque armado de um grupo de invasores, e vai fazer de tudo para salvar sua filha e proteger o presidente.</desc>
+    <length units="minutes">8100</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260418202200 -0300" stop="20260418220000 -0300" channel="TNT HD">
+    <title lang="pt">Vencer ou Morrer</title>
+    <desc lang="pt">Um prisioneiro foragido, Sam tem o azar de estar sempre na hora certa no lugar errado. Arriscando sua liberdade tão duramente conquistada, ele ajuda uma bela viúva contra um inescrupuloso construtor que quer sua terra.</desc>
+    <length units="minutes">5880</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260418234900 -0300" stop="20260419015400 -0300" channel="TNT HD">
-    <title lang="pt">Dia de Treinamento</title>
-    <desc lang="pt">O inexperiente tira Jake Hoyt (Ethan Hawke) sempre sonhou em entrar para o Departamento de Narcóticos da polícia de Los Angeles.</desc>
-    <length units="minutes">7500</length>
+  <programme start="20260418220000 -0300" stop="20260419001600 -0300" channel="TNT HD">
+    <title lang="pt">O Protetor</title>
+    <desc lang="pt">Robert McCall tenta deixar para trás seu passado misterioso e se dedica a viver tranquilamente. Mas ao conhecer Teri, uma jovem prostituta que está sob o poder da máfia russa, ele vê renascer sua violenta sede de justiça.</desc>
+    <length units="minutes">8160</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260418234900 -0300" stop="20260419015400 -0300" channel="TNT HD">
-    <title lang="pt">Dia de Treinamento</title>
-    <desc lang="pt">O inexperiente tira Jake Hoyt (Ethan Hawke) sempre sonhou em entrar para o Departamento de Narcóticos da polícia de Los Angeles.</desc>
-    <length units="minutes">7500</length>
+  <programme start="20260418220000 -0300" stop="20260419001600 -0300" channel="TNT HD">
+    <title lang="pt">O Protetor</title>
+    <desc lang="pt">Robert McCall tenta deixar para trás seu passado misterioso e se dedica a viver tranquilamente. Mas ao conhecer Teri, uma jovem prostituta que está sob o poder da máfia russa, ele vê renascer sua violenta sede de justiça.</desc>
+    <length units="minutes">8160</length>
     <rating system="Brazil">
-      <value>[18]</value>
+      <value>[16]</value>
     </rating>
+  </programme>
+  <programme start="20260419001600 -0300" stop="20260419015400 -0300" channel="TNT HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">5880</length>
   </programme>
   <programme start="20260419015400 -0300" stop="20260419040900 -0300" channel="TNT HD">
     <title lang="pt">It: A Coisa</title>
