@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-22 17:30:49" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-22 20:31:16" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -173347,29 +173347,20 @@
     <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">86.113.</episode-num>
   </programme>
-  <programme start="20260423174500 -0300" stop="20260423183000 -0300" channel="SIC INTERNACIONAL">
+  <programme start="20260423174500 -0300" stop="20260423184500 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Vitória</title>
     <desc lang="pt">'Vitória' é uma história cheia de intensidade, onde paixões, segredos e conflitos se entrelaçam numa trama que vai prender os telespetadores do início ao fim.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.113.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260423183000 -0300" stop="20260423191500 -0300" channel="SIC INTERNACIONAL">
+  <programme start="20260423184500 -0300" stop="20260423194500 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Páginas da Vida</title>
     <desc lang="pt">Nanda morre depois de dar à luz duas crianças, Francisco e Clara. Marta, a avó materna, aceita ficar com o menino, mas dá a menina para adoção. Helena, a médica que faz o parto, afeiçoa-se à bebé e...</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">88.113.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260423191500 -0300" stop="20260423194500 -0300" channel="SIC INTERNACIONAL">
-    <title lang="pt">A Herança</title>
-    <desc lang="pt">É possível recomeçar mesmo depois de conhecer o inferno. Uma herança inesperada e um crime põem nas mãos de uma mulher injustiçada a oportunidade de mudar a sua vida.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.113.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -173407,11 +173398,20 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260423233000 -0300" stop="20260424000000 -0300" channel="SIC INTERNACIONAL">
-    <title lang="pt">A Herança</title>
-    <desc lang="pt">É possível recomeçar mesmo depois de conhecer o inferno. Uma herança inesperada e um crime põem nas mãos de uma mulher injustiçada a oportunidade de mudar a sua vida.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">83.113.</episode-num>
+  <programme start="20260423233000 -0300" stop="20260424003000 -0300" channel="SIC INTERNACIONAL">
+    <title lang="pt">Casados À Primeira Vista</title>
+    <desc lang="pt">Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.113.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260423233000 -0300" stop="20260424003000 -0300" channel="SIC INTERNACIONAL">
+    <title lang="pt">Casados À Primeira Vista</title>
+    <desc lang="pt">Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.113.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -209276,12 +209276,21 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260422004500 -0300" stop="20260422023000 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Al Cielo Con Ella</title>
-    <desc lang="pt">A comediante e escritora Henar Álvarez está sentada no trono de &quot;Al cielo con ella&quot;, o novo programa da RTVE. Um programa de entrevistas que é irreverente, transgressor e questionador no mais puro estilo Henar.</desc>
-    <length units="minutes">6300</length>
+  <programme start="20260422001000 -0300" stop="20260422014000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Premios Sant Jordi De Cinematografia 2026</title>
+    <desc lang="pt">Transmissão da gala do Sant Jordi Film Awards 2026.</desc>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260422014000 -0300" stop="20260422023000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Viaje al Centro de La Tele</title>
+    <desc lang="pt">Uma nova incursão no Arquivo da RTVE através do olhar desconstrutivo do programa dirigido por Pedro Santos, comentado por Santiago Segura e com grafismos de Forges.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">1.112.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260422023000 -0300" stop="20260422025000 -0300" channel="TVE INTERNATIONAL">
@@ -209360,16 +209369,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260422134000 -0300" stop="20260422143000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260422134000 -0300" stop="20260422142500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Saber y Ganar</title>
     <desc lang="pt">Concorrentes enfrentam testes de conhecimento cultural e agilidade mental, mas também precisam superar obstáculos lançados por seus colegas e rivais do grupo.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">13.112.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260422143000 -0300" stop="20260422144000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260422142500 -0300" stop="20260422143500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Aqui La Tierra</title>
     <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
     <length units="minutes">600</length>
@@ -209378,10 +209387,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260422144000 -0300" stop="20260422153000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260422143500 -0300" stop="20260422153000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Malas Lenguas</title>
     <desc lang="pt">Contra a desinformação e os boatos, Malas Lenguas é o novo programa diário de atualidades da tarde, comprometido com o rigor jornalístico e o espírito crítico.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3300</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -209472,37 +209481,38 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260422224500 -0300" stop="20260423002000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260422224500 -0300" stop="20260423004000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Cine</title>
-    <desc lang="pt">No Cine você acompanha aos seus filmes RTVE favoritos.</desc>
-    <length units="minutes">5700</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260422224500 -0300" stop="20260423002000 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Cine</title>
-    <desc lang="pt">No Cine você acompanha aos seus filmes RTVE favoritos.</desc>
-    <length units="minutes">5700</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260423002000 -0300" stop="20260423014000 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Al Cielo Con Ella</title>
-    <desc lang="pt">A comediante e escritora Henar Álvarez está sentada no trono de &quot;Al cielo con ella&quot;, o novo programa da RTVE. Um programa de entrevistas que é irreverente, transgressor e questionador no mais puro estilo Henar.</desc>
-    <length units="minutes">4800</length>
+    <sub-title lang="pt">Loving Pablo</sub-title>
+    <desc lang="pt">A jornalista colombiana, Virginia Vallejo, testemunhou a ascensão e queda de um dos maiores traficantes de drogas da história, Pablo Escobar. Como amante, Virginia conhecia bem o universo de terror que Pablo criava ao seu redor.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260423014000 -0300" stop="20260423023000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260422224500 -0300" stop="20260423004000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Cine</title>
+    <sub-title lang="pt">Loving Pablo</sub-title>
+    <desc lang="pt">A jornalista colombiana, Virginia Vallejo, testemunhou a ascensão e queda de um dos maiores traficantes de drogas da história, Pablo Escobar. Como amante, Virginia conhecia bem o universo de terror que Pablo criava ao seu redor.</desc>
+    <length units="minutes">6900</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260423004000 -0300" stop="20260423013500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Viaje al Centro de La Tele</title>
     <desc lang="pt">Uma nova incursão no Arquivo da RTVE através do olhar desconstrutivo do programa dirigido por Pedro Santos, comentado por Santiago Segura e com grafismos de Forges.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">1.113.</episode-num>
+    <length units="minutes">3300</length>
     <rating system="Brazil">
       <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260423013500 -0300" stop="20260423023000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">En Primicia</title>
+    <desc lang="pt">Em cada programa, Lara Siscar realiza entrevistas aprofundadas com treze dos jornalistas mais relevantes e singulares da Espanha. Com eles, ela viaja até o local de um evento chocante que testemunharam.</desc>
+    <length units="minutes">3300</length>
+    <rating system="Brazil">
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260423023000 -0300" stop="20260423025000 -0300" channel="TVE INTERNATIONAL">
@@ -209581,16 +209591,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260423134000 -0300" stop="20260423143000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260423134000 -0300" stop="20260423142500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Saber y Ganar</title>
     <desc lang="pt">Concorrentes enfrentam testes de conhecimento cultural e agilidade mental, mas também precisam superar obstáculos lançados por seus colegas e rivais do grupo.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">13.113.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260423143000 -0300" stop="20260423144000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260423142500 -0300" stop="20260423143500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Aqui La Tierra</title>
     <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
     <length units="minutes">600</length>
@@ -209599,10 +209609,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260423144000 -0300" stop="20260423153000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260423143500 -0300" stop="20260423153000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Malas Lenguas</title>
     <desc lang="pt">Contra a desinformação e os boatos, Malas Lenguas é o novo programa diário de atualidades da tarde, comprometido com o rigor jornalístico e o espírito crítico.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3300</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -209693,18 +209703,26 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260423224500 -0300" stop="20260424002500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Cine</title>
-    <desc lang="pt">No Cine você acompanha aos seus filmes RTVE favoritos.</desc>
-    <length units="minutes">6000</length>
+  <programme start="20260423224500 -0300" stop="20260423234500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Cachitos de Hierro y Cromo</title>
+    <desc lang="pt">Cachos de ferro e Cromo é um Programa apresentado por Virgínia Diaz que oferece insólitas playlists com atuações musicais resgatadas do arquivo histórico da Rtve.</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260423224500 -0300" stop="20260424002500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Cine</title>
-    <desc lang="pt">No Cine você acompanha aos seus filmes RTVE favoritos.</desc>
-    <length units="minutes">6000</length>
+  <programme start="20260423234500 -0300" stop="20260424003500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Cachitos Love The 20's</title>
+    <desc lang="pt">Gala especial do programa Cachitos de Hierro y Cromo para o dia de Ano Novo.</desc>
+    <length units="minutes">3000</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260423234500 -0300" stop="20260424003500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Cachitos Love The 20's</title>
+    <desc lang="pt">Gala especial do programa Cachitos de Hierro y Cromo para o dia de Ano Novo.</desc>
+    <length units="minutes">3000</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
