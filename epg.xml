@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-04-24 11:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-04-24 14:30:51" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13286,14 +13286,14 @@
     <desc lang="pt">O programa Fórmula Band traz toda a emoção do automobilismo, com análises, debates e bastidores exclusivos dos principais campeonatos, como F1, Stock Car e mais.</desc>
     <length units="minutes">2700</length>
   </programme>
-  <programme start="20260425084500 -0300" stop="20260425093000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425084500 -0300" stop="20260425093500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Stock Car: 3ª Etapa: Interlagos-SP: Classificação - ao vivo</title>
     <desc lang="pt">A 3ª etapa da Stock Car Pro Series 2026 ocorre no Autódromo de Interlagos, em São Paulo-SP. O evento no histórico circuito paulistano marca um momento importante do campeonato e expectativa de casa cheia.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">8.115.</episode-num>
   </programme>
-  <programme start="20260425093000 -0300" stop="20260425100000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425093500 -0300" stop="20260425100500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Off Track Fórmula E</title>
     <desc lang="pt">Por trás da corrida. Além da pista. Neste primeiro episódio de Off Track, vamos aos bastidores da Rodada 1.</desc>
     <length units="minutes">1800</length>
@@ -13301,10 +13301,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260425100000 -0300" stop="20260425110000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425100500 -0300" stop="20260425110000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 4 Brasil: 1ª Etapa Interlagos: Corrida 1 - ao vivo</title>
     <desc lang="pt">A Fórmula 4 Brasil, nova categoria de base do automobilismo nacional, é certificada pela FIA e chega para suprir uma carência no Brasil, que é o passo seguinte aos pilotos que saem do kart.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3300</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">10.115.</episode-num>
   </programme>
@@ -13314,11 +13314,21 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">11.115.</episode-num>
   </programme>
-  <programme start="20260425113000 -0300" stop="20260425133000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Al-Shabab x Al-Ittihad</title>
-    <desc lang="pt">Composta por 16 times que jogam entre si no formato de pontos corridos em confrontos de ida e volta, a Liga Saudita, vem conquistando cada vez mais espectadores. Estão presentes nomes como Cristiano Ronaldo, Benzema, Kanté, etc.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260425113000 -0300" stop="20260425123000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Papo de Paddock</title>
+    <desc lang="pt">Um programa de entrevistas que oferece uma visão única e privilegiada do mundo das corridas. Combinando análise técnica aprofundada e curiosidades fascinantes.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260425123000 -0300" stop="20260425133000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Fórmula E: Driver</title>
+    <desc lang="pt">Quatro pilotos da Fórmula E: António Félix da Costa, Mitch Evans, Jake Dennis e Dan Ticktum - enfrentam triunfos e desafios durante a 10ª temporada do Campeonato Mundial de Fórmula E da ABB FIA.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260425133000 -0300" stop="20260425143000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Stock Car: 3ª Etapa: Interlagos-SP: Corrida 1 - ao vivo</title>
@@ -13327,24 +13337,30 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">13.115.</episode-num>
   </programme>
-  <programme start="20260425143000 -0300" stop="20260425161500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425143000 -0300" stop="20260425162000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">STU National Florianópolis-SC Park Feminino - ao vivo</title>
     <sub-title lang="pt">Semifinal</sub-title>
     <desc lang="pt">A segunda etapa do STU National 2026 já tem destino certo. Desembarcaremos em Criciúma para um fim de semana com o melhor do skate, arte e cultura urbana.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260425161500 -0300" stop="20260425171500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425162000 -0300" stop="20260425171000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Stock Light: 1ª Etapa interlagos-SP: Corrida 1 - ao vivo</title>
     <desc lang="pt">A primeira etapa da Stock Light chegou. Junto à BRB Stock Car Pro Series e a Turismo Nacional.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">16.115.</episode-num>
   </programme>
-  <programme start="20260425171500 -0300" stop="20260425181500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425171000 -0300" stop="20260425172500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">17.115.</episode-num>
+  </programme>
+  <programme start="20260425172500 -0300" stop="20260425181500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula 4 Brasil: 1ª Etapa Interlagos: Corrida 2 - ao vivo</title>
     <desc lang="pt">A Fórmula 4 Brasil, nova categoria de base do automobilismo nacional, é certificada pela FIA e chega para suprir uma carência no Brasil, que é o passo seguinte aos pilotos que saem do kart.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">17.115.</episode-num>
   </programme>
@@ -13362,21 +13378,21 @@
     <episode-num system="xmltv_ns">19.115.</episode-num>
   </programme>
   <programme start="20260425200000 -0300" stop="20260425201500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Momento Brasil Olímpico</title>
-    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
-    <length units="minutes">900</length>
-  </programme>
-  <programme start="20260425201500 -0300" stop="20260425203000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Vila Bandsports</title>
     <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">80.115.</episode-num>
   </programme>
-  <programme start="20260425203000 -0300" stop="20260425224500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260425201500 -0300" stop="20260425223000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">PBR Brasil: 2ª Etapa Bragança Paulista-SP: Round 2 - ao vivo</title>
     <desc lang="pt">A PBR Brazil desembarca em Bragança Paulista (SP) para mais uma etapa imperdível da temporada. De 24 a 26 de abril, Bragança Paulista volta ao calendário com uma etapa que promete alto nível dentro da arena.</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260425223000 -0300" stop="20260425224500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
+    <length units="minutes">900</length>
   </programme>
   <programme start="20260425224500 -0300" stop="20260425231500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">The Golf Brasil</title>
@@ -80519,7 +80535,7 @@
     <episode-num system="xmltv_ns">83.114.</episode-num>
   </programme>
   <programme start="20260425000000 -0300" stop="20260425010000 -0300" channel="ESPN">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: André Dias</title>
     <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.115.</episode-num>
@@ -80581,7 +80597,7 @@
     <episode-num system="xmltv_ns">83.115.</episode-num>
   </programme>
   <programme start="20260425132000 -0300" stop="20260425153000 -0300" channel="ESPN">
-    <title lang="pt">Arsenal x Newcastle - ao vivo</title>
+    <title lang="pt">Arsenal x Newcastle United - ao vivo</title>
     <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
@@ -80598,7 +80614,7 @@
     <length units="minutes">1800</length>
   </programme>
   <programme start="20260425181500 -0300" stop="20260425191500 -0300" channel="ESPN">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Robert Scheidt</title>
     <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">88.115.</episode-num>
