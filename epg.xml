@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-11 14:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-11 17:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -82246,9 +82246,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260512212500 -0300" stop="20260512233000 -0300" channel="ESPN">
-    <title lang="pt">Campeonato Argentino - ao vivo</title>
-    <sub-title lang="pt">Quartas de Final</sub-title>
-    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <title lang="pt">Argentinos Jrs x Huracán - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -83351,26 +83350,42 @@
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260511181500 -0300" stop="20260511200000 -0300" channel="ESPN 3">
+  <programme start="20260511181500 -0300" stop="20260511203000 -0300" channel="ESPN 3">
     <title lang="pt">Barcelona x Real Madrid</title>
     <desc lang="pt">Os melhores clubes e profissionais de destaque mundial. Times como Barcelona, Real Madrid e Atlético de Madrid se enfrentam em duelos imperdíveis na luta pelo título.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">8100</length>
     <previously-shown/>
   </programme>
-  <programme start="20260511200000 -0300" stop="20260511223000 -0300" channel="ESPN 3">
-    <title lang="pt">NHL: Stanley Cup Playoffs</title>
+  <programme start="20260511203000 -0300" stop="20260511210000 -0300" channel="ESPN 3">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre o mundo da NBA.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">20.131.</episode-num>
+  </programme>
+  <programme start="20260511210000 -0300" stop="20260511233000 -0300" channel="ESPN 3">
+    <title lang="pt">NHL: Colorado Avalanche x Minnesota Wild - ao vivo</title>
     <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
     <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260511223000 -0300" stop="20260512010000 -0300" channel="ESPN 3">
-    <title lang="pt">NASCAR Cup Series: GP de Watkins Glen</title>
-    <desc lang="pt">A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais, stock cars e pilotos que não têm medo de pisar fundo.</desc>
-    <length units="minutes">9000</length>
+  <programme start="20260511233000 -0300" stop="20260512000000 -0300" channel="ESPN 3">
+    <title lang="pt">NFL Films Presents: Looking Back &amp; Looking Ahead</title>
+    <desc lang="pt">NFL Filmes exibe nos bastidores acesso a jogadores da NFL e treinadores da temporada atual. Cada programa segue um tema diferente levando o fã mais profundo no reino da NFL.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.131.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260511223000 -0300" stop="20260512010000 -0300" channel="ESPN 3">
-    <title lang="pt">NASCAR Cup Series: GP de Watkins Glen</title>
-    <desc lang="pt">A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais, stock cars e pilotos que não têm medo de pisar fundo.</desc>
-    <length units="minutes">9000</length>
+  <programme start="20260512000000 -0300" stop="20260512003000 -0300" channel="ESPN 3">
+    <title lang="pt">À la Gloire du Tennis: Wilander vs Noah 1983</title>
+    <desc lang="pt">É o torneio do saibro! Com uma ligação especial com os torcedores do Brasil, Roland Garros é o segundo Grand Slam da temporada.</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260512003000 -0300" stop="20260512010000 -0300" channel="ESPN 3">
+    <title lang="pt">À la Gloire du Tennis: Graf vs Hingis 1999</title>
+    <desc lang="pt">É o torneio do saibro! Com uma ligação especial com os torcedores do Brasil, Roland Garros é o segundo Grand Slam da temporada.</desc>
+    <length units="minutes">1800</length>
   </programme>
   <programme start="20260512010000 -0300" stop="20260512020000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - ao vivo</title>
@@ -84629,10 +84644,10 @@
     <episode-num system="xmltv_ns">23.132.</episode-num>
   </programme>
   <programme start="20260513000000 -0300" stop="20260513020000 -0300" channel="ESPN 5">
-    <title lang="pt">NBB - Quartas-de</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
+    <title lang="pt">NBB: Minas x Corinthians</title>
+    <desc lang="pt">O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260513020000 -0300" stop="20260513040000 -0300" channel="ESPN 5">
     <title lang="pt">Londrina x São Bernardo</title>
@@ -84659,9 +84674,10 @@
     <previously-shown/>
   </programme>
   <programme start="20260513110000 -0300" stop="20260513130000 -0300" channel="ESPN 5">
-    <title lang="pt">Campeonato Argentino</title>
-    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <title lang="pt">Argentinos Jrs x Huracán</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260513130000 -0300" stop="20260513133000 -0300" channel="ESPN 5">
     <title lang="pt">Show da Rodada da Premier League</title>
@@ -84729,15 +84745,16 @@
     <previously-shown/>
   </programme>
   <programme start="20260514010000 -0300" stop="20260514030000 -0300" channel="ESPN 5">
-    <title lang="pt">NBB - Quartas-de</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">NBB: Franca x Mogi</title>
     <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260514030000 -0300" stop="20260514050000 -0300" channel="ESPN 5">
-    <title lang="pt">Campeonato Argentino</title>
+    <title lang="pt">River Plate x Gimnasia y Esgrima</title>
     <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260514050000 -0300" stop="20260514070000 -0300" channel="ESPN 5">
     <title lang="pt">Millwall x Hull City</title>
@@ -85086,9 +85103,10 @@
     <previously-shown/>
   </programme>
   <programme start="20260513050000 -0300" stop="20260513070000 -0300" channel="ESPN 6">
-    <title lang="pt">Campeonato Argentino</title>
-    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <title lang="pt">Argentinos Jrs x Huracán</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260513070000 -0300" stop="20260513090000 -0300" channel="ESPN 6">
     <title lang="pt">Basketball: A Love Story</title>
@@ -103664,7 +103682,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260511135000 -0300" stop="20260511155000 -0300" channel="GE TV HD">
-    <title lang="pt">Santa Fa x Corinthians</title>
+    <title lang="pt">Santa Fe x Corinthians</title>
     <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -103929,7 +103947,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260514135000 -0300" stop="20260514155000 -0300" channel="GE TV HD">
-    <title lang="pt">Santa Fa x Corinthians</title>
+    <title lang="pt">Santa Fe x Corinthians</title>
     <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -158487,47 +158505,65 @@
     <episode-num system="xmltv_ns">82.131.</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260512000000 -0300" stop="20260512021500 -0300" channel="Nsports_HD">
-    <title lang="pt">Um Assado Para... Samuel Xavier</title>
+  <programme start="20260512000000 -0300" stop="20260512013000 -0300" channel="Nsports_HD">
+    <title lang="pt">Um Assado Para</title>
     <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">80.132.</episode-num>
   </programme>
-  <programme start="20260512021500 -0300" stop="20260512034500 -0300" channel="Nsports_HD">
-    <title lang="pt">Futebol Super Copa Desimpedidos: Furia FC x Mansão Maromba</title>
-    <desc lang="pt">Preparem-se para o primeiro duelo da Supercopa Desimpedidos 2024! O Fluxo, de Cerol, entra em campo contra o squad do Capaça FC, liderado pelo goleiro de capacete. Não vão faltar gols e emoção na nova Supercopa Desimpedidos.</desc>
+  <programme start="20260512013000 -0300" stop="20260512030000 -0300" channel="Nsports_HD">
+    <title lang="pt">Futebol Super Copa Desimpedidos: Furia FC x Fluxo Fut 7</title>
+    <desc lang="pt">Supercopa Desimpedidos aqui na N Sports!</desc>
     <length units="minutes">5400</length>
   </programme>
-  <programme start="20260512034500 -0300" stop="20260512040000 -0300" channel="Nsports_HD">
-    <title lang="pt">Dec Desafio Impossível com as Novas Contratações do …</title>
-    <desc lang="pt">Uma chuteira autografada pelo Kaká está em jogo! Neste vídeo, os jogadores do DesimpaiN, time da Kings League Brasil, participam de uma série de desafios valendo uma chuteira autografada por Kaká.</desc>
-    <length units="minutes">900</length>
+  <programme start="20260512030000 -0300" stop="20260512033000 -0300" channel="Nsports_HD">
+    <title lang="pt">DEC</title>
+    <sub-title lang="pt">Bastidores Do Desimpain Na Kings Brasil / Nyvelados 2 X 9 Desimpain / O Desimpain É Líder Da Kings!</sub-title>
+    <desc lang="pt">O DesimpaiN segue invicto na Kings League Brasil e agora é o atual líder da competição!</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260512033000 -0300" stop="20260512040000 -0300" channel="Nsports_HD">
+    <title lang="pt">Dec Bastidores da Kings League Brasil</title>
+    <sub-title lang="pt">Tudo o Que Você não Viu na Confusão e na Vitória do Desimpain Contra a Fúria na Kings League Brasil!</sub-title>
+    <desc lang="pt">Entramos no vestiário do DesimpaiN depois da 2ª rodada do 2º Split da Kings League Brasil e você vai ver TUDO que rolou na vitória do DesimpaiN e na confusão com Furia.</desc>
+    <length units="minutes">1800</length>
   </programme>
   <programme start="20260512040000 -0300" stop="20260512043000 -0300" channel="Nsports_HD">
-    <title lang="pt">Dec</title>
-    <sub-title lang="pt">Desafio 16 Amadores Disputando Ingressos Para A Da Nations! É O Maior Desafio Que Você Já Viu!</sub-title>
-    <desc lang="pt">Final - Desafio com os inscritos do canal do DEC, valendo ingressos para a FINAL da Kings World Cup Nations 2026, que vai ser disputada no Allianz Parque!</desc>
+    <title lang="pt">Vai, Gabi!</title>
+    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
     <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260512043000 -0300" stop="20260512063000 -0300" channel="Nsports_HD">
-    <title lang="pt">União Torreense x Fafe</title>
-    <desc lang="pt">O melhor da Taça de Portugal é aqui na N Sports!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260512063000 -0300" stop="20260512070000 -0300" channel="Nsports_HD">
-    <title lang="pt">Bjj Cria</title>
-    <desc lang="pt">O melhor do Jiu Jitsu é no BJJ Cria aqui na N Sports!</desc>
-    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">4.132.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512070000 -0300" stop="20260512090000 -0300" channel="Nsports_HD">
-    <title lang="pt">Um Assado Para... Samuel Xavier</title>
+  <programme start="20260512043000 -0300" stop="20260512060000 -0300" channel="Nsports_HD">
+    <title lang="pt">PSV x Ajax</title>
+    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260512060000 -0300" stop="20260512070000 -0300" channel="Nsports_HD">
+    <title lang="pt">Bjj Cria</title>
+    <desc lang="pt">O melhor do Jiu Jitsu é no BJJ Cria aqui na N Sports!</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260512070000 -0300" stop="20260512083000 -0300" channel="Nsports_HD">
+    <title lang="pt">Um Assado Para</title>
     <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">87.132.</episode-num>
+  </programme>
+  <programme start="20260512083000 -0300" stop="20260512090000 -0300" channel="Nsports_HD">
+    <title lang="pt">Documentário: FIFA Filadélfia</title>
+    <desc lang="pt">Doc especial da FIFA &quot;Stories From the Cities&quot;.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260512090000 -0300" stop="20260512110000 -0300" channel="Nsports_HD">
     <title lang="pt">Deu Jogo</title>
@@ -158535,16 +158571,23 @@
     <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">89.132.</episode-num>
   </programme>
-  <programme start="20260512110000 -0300" stop="20260512114500 -0300" channel="Nsports_HD">
-    <title lang="pt">Desimpedidos Bts Cléber Machado</title>
-    <desc lang="pt">Cléber Machado se junta a Bolívia para um papo sobre carreira, o futuro da narração e histórias de transmissões com momentos marcantes do narrador: Romarinho? Dênis? Caio Ribeiro?</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260512110000 -0300" stop="20260512120000 -0300" channel="Nsports_HD">
+    <title lang="pt">Podcast Sport Insider - Guilherme Bellintani</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.132.</episode-num>
   </programme>
-  <programme start="20260512114500 -0300" stop="20260512140000 -0300" channel="Nsports_HD">
-    <title lang="pt">Guaviare BS x Ceilândia - ao vivo</title>
-    <desc lang="pt">O melhor da Copa Libertadores de Futebol de Areia você vê aqui na N Sports!</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260512120000 -0300" stop="20260512123000 -0300" channel="Nsports_HD">
+    <title lang="pt">Campeão do Mundo</title>
+    <desc lang="pt">Campeão do Mundo com Galvão.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.132.</episode-num>
+  </programme>
+  <programme start="20260512123000 -0300" stop="20260512140000 -0300" channel="Nsports_HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">82.132.</episode-num>
   </programme>
   <programme start="20260512140000 -0300" stop="20260512151500 -0300" channel="Nsports_HD">
     <title lang="pt">Um Assado Para... Samir Xaud</title>
@@ -165515,11 +165558,11 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260515220000 -0300" stop="20260516000000 -0300" channel="PREMIERE 7 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
+  <programme start="20260515220000 -0300" stop="20260516020000 -0300" channel="PREMIERE 7 HD">
+    <title lang="pt">Power Slap 20 - ao vivo</title>
+    <desc lang="pt">O Power Slap 20 acontece nesta sexta-feira, 15 de maio de 2026, ao vivo de Las Vegas, trazendo como luta principal a defesa de cinturão entre o campeão Robert Trujillo e Hayden Johnson.</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260510234000 -0300" stop="20260511001000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Grêmio x Flamengo</title>
@@ -176679,7 +176722,7 @@
   </programme>
   <programme start="20260511134500 -0300" stop="20260511153000 -0300" channel="SBT">
     <title lang="pt">Meu Coração é Teu</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Nicolas diz a Jennifer que podem procurar uma maneira de que ela engravide, mas ela não aceita, eles agradecem Manuela por sua ajuda, e lhe dizem que já não é mais necessária.</desc>
     <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">83.131.</episode-num>
     <rating system="Brazil">
@@ -176697,7 +176740,7 @@
   </programme>
   <programme start="20260511170000 -0300" stop="20260511183000 -0300" channel="SBT">
     <title lang="pt">Sortilégio</title>
-    <desc lang="pt">A trama conta uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
+    <desc lang="pt">Bruno conta a Raquel que eles também são filhos de Antonio Lombardo e se refere à mãe de maneira depreciativa.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">87.131.</episode-num>
     <rating system="Brazil">
@@ -176718,7 +176761,7 @@
   </programme>
   <programme start="20260511204500 -0300" stop="20260511214500 -0300" channel="SBT">
     <title lang="pt">Domênica Montero</title>
-    <desc lang="pt">Doménica Montero é uma moça rica e batalhadora, sendo prometida em casamento por Max, um homem de caráter duvidoso, que se encontra às escondidas com Kiara. Ela tem muita inveja de Doménica e é criada por Pilar.</desc>
+    <desc lang="pt">Kiara morre de ciúmes durante a inauguração do Centro Social, pois Domênica e Luis Fernando roubam as atenções de todos no que deveria ser um evento em sua honra.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.131.</episode-num>
     <rating system="Brazil">
@@ -176793,34 +176836,29 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512134500 -0300" stop="20260512150000 -0300" channel="SBT">
+  <programme start="20260512134500 -0300" stop="20260512153000 -0300" channel="SBT">
     <title lang="pt">Meu Coração é Teu</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
+    <desc lang="pt">Helena segue com ataques de fúria contra Laura porque ela a provoca, Nando está cansado desta situação.</desc>
+    <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">83.132.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512150000 -0300" stop="20260512154500 -0300" channel="SBT">
+  <programme start="20260512153000 -0300" stop="20260512170000 -0300" channel="SBT">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">15.132.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512154500 -0300" stop="20260512180000 -0300" channel="SBT">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">8100</length>
-  </programme>
-  <programme start="20260512180000 -0300" stop="20260512183000 -0300" channel="SBT">
+  <programme start="20260512170000 -0300" stop="20260512183000 -0300" channel="SBT">
     <title lang="pt">Sortilégio</title>
-    <desc lang="pt">A trama conta uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.132.</episode-num>
+    <desc lang="pt">Bruno diz a Maria José que a ama e que não estava em seus planos que ela ficasse casada com Alessandro.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.132.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -176837,37 +176875,33 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.132.</episode-num>
   </programme>
-  <programme start="20260512204500 -0300" stop="20260512211500 -0300" channel="SBT">
+  <programme start="20260512204500 -0300" stop="20260512220000 -0300" channel="SBT">
     <title lang="pt">Domênica Montero</title>
-    <desc lang="pt">Doménica Montero é uma moça rica e batalhadora, sendo prometida em casamento por Max, um homem de caráter duvidoso, que se encontra às escondidas com Kiara. Ela tem muita inveja de Doménica e é criada por Pilar.</desc>
-    <length units="minutes">1800</length>
+    <desc lang="pt">Os sonhos de Luis Fernando desaparecem ao perceber que, assim como seu dinheiro, a colheita foi perdida para sempre.</desc>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">80.132.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512211500 -0300" stop="20260512231500 -0300" channel="SBT">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7200</length>
-  </programme>
-  <programme start="20260512231500 -0300" stop="20260513001500 -0300" channel="SBT">
+  <programme start="20260512220000 -0300" stop="20260512230000 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.132.</episode-num>
+    <episode-num system="xmltv_ns">22.132.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512231500 -0300" stop="20260513001500 -0300" channel="SBT">
-    <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  <programme start="20260512230000 -0300" stop="20260513000000 -0300" channel="SBT">
+    <title lang="pt">SBT Repórter</title>
+    <desc lang="pt">O &quot;SBT Repórter&quot; é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.132.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
+    <episode-num system="xmltv_ns">83.132.</episode-num>
+  </programme>
+  <programme start="20260513000000 -0300" stop="20260513001500 -0300" channel="SBT">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">900</length>
   </programme>
   <programme start="20260513001500 -0300" stop="20260513011500 -0300" channel="SBT">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -185819,168 +185853,168 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260512000000 -0300" stop="20260512030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260512030000 -0300" stop="20260512060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260512060000 -0300" stop="20260512090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260512090000 -0300" stop="20260512130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260512130000 -0300" stop="20260512150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260512150000 -0300" stop="20260512180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260512180000 -0300" stop="20260512210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260512210000 -0300" stop="20260513000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513000000 -0300" stop="20260513030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513030000 -0300" stop="20260513060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513060000 -0300" stop="20260513090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513090000 -0300" stop="20260513130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260513130000 -0300" stop="20260513150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260513150000 -0300" stop="20260513180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513180000 -0300" stop="20260513210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260513210000 -0300" stop="20260514004000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">13200</length>
   </programme>
   <programme start="20260513210000 -0300" stop="20260514004000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">13200</length>
   </programme>
   <programme start="20260514004000 -0300" stop="20260514030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">8400</length>
   </programme>
   <programme start="20260514030000 -0300" stop="20260514060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260514060000 -0300" stop="20260514090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260514090000 -0300" stop="20260514130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260514130000 -0300" stop="20260514150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260514150000 -0300" stop="20260514183000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">12600</length>
   </programme>
   <programme start="20260514183000 -0300" stop="20260514230000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">16200</length>
   </programme>
   <programme start="20260514230000 -0300" stop="20260515000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260515000000 -0300" stop="20260515030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515030000 -0300" stop="20260515060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515060000 -0300" stop="20260515090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515090000 -0300" stop="20260515130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260515130000 -0300" stop="20260515150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260515150000 -0300" stop="20260515180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515180000 -0300" stop="20260515210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515210000 -0300" stop="20260516000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 16/05 - Ypiranga-RS x Maringá</title>
+    <desc lang="pt">Ypiranga-RS e Maringá jogam pela 7ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Colosso da Lagoa, em Erechim (RS).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260511000000 -0300" stop="20260511030000 -0300" channel="SportyNet + 2">
@@ -193368,32 +193402,40 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512052400 -0300" stop="20260512072100 -0300" channel="TNT HD">
+  <programme start="20260512052400 -0300" stop="20260512062700 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">3780</length>
     <episode-num system="xmltv_ns">5.132.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512072100 -0300" stop="20260512090100 -0300" channel="TNT HD">
+  <programme start="20260512062700 -0300" stop="20260512081600 -0300" channel="TNT HD">
+    <title lang="pt">Contrabando</title>
+    <desc lang="pt">O vencedor do Oscar, Mark Wahlberg, leva-nos a conhecer o perigoso mundo do contrabando. Neste thriller, representa um guarda que precisa envolver-se na máfia da falsificação de dinheiro para manter sua família com vida.</desc>
+    <length units="minutes">6540</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260512081600 -0300" stop="20260512094900 -0300" channel="TNT HD">
     <title lang="pt">R.I.P.D. - Agentes do Além</title>
     <desc lang="pt">O policial assassinado Nick Cruz (Ryan Ryenolds) hoje é uma alma penada. Ele entra para um departamento da polícia para tentar descobrir quem é a pessoa que o matou.</desc>
-    <length units="minutes">6000</length>
+    <length units="minutes">5580</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512090100 -0300" stop="20260512105500 -0300" channel="TNT HD">
+  <programme start="20260512094900 -0300" stop="20260512113700 -0300" channel="TNT HD">
     <title lang="pt">O Sequestro do Metrô 1 2 3</title>
     <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar ...</desc>
-    <length units="minutes">6840</length>
+    <length units="minutes">6480</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512105500 -0300" stop="20260512112000 -0300" channel="TNT HD">
+  <programme start="20260512113700 -0300" stop="20260512120200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Encrencado</sub-title>
     <desc lang="pt">O Will dirige um carro sem seguro, e sofre as consequências.</desc>
@@ -193403,17 +193445,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512112000 -0300" stop="20260512114400 -0300" channel="TNT HD">
+  <programme start="20260512120200 -0300" stop="20260512122700 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Ladrão que Rouba Ladrão</sub-title>
     <desc lang="pt">O Will e o Carlton acham que a atriz famosa, Sonya Lamor, roubou os talheres de prata da Vivian.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512114400 -0300" stop="20260512120900 -0300" channel="TNT HD">
+  <programme start="20260512122700 -0300" stop="20260512125200 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Convenções</sub-title>
     <desc lang="pt">O Philip e a Vivian saem de férias no fim de semana e deixam os garotos sozinhos em casa. A Hilary e o Carlton se preparam para filmar um programa com a Bell Biv De Voe em casa.</desc>
@@ -193423,75 +193465,75 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512120900 -0300" stop="20260512123400 -0300" channel="TNT HD">
+  <programme start="20260512125200 -0300" stop="20260512131800 -0300" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <sub-title lang="pt">Faça o Bem, Vendo a Quem</sub-title>
     <desc lang="pt">O Will tem sorte em um evento de caridade e ganha dinheiro. Quando o Will desobedece a tradição do clube, começa um rumor sobre a família Banks.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260512123400 -0300" stop="20260512130100 -0300" channel="TNT HD">
+  <programme start="20260512131800 -0300" stop="20260512133900 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia A Prisão</sub-title>
     <desc lang="pt">Chris precisa arrecadar dinheiro para uma viagem escolar vendendo biscoitos. Enquanto isso, Julius lamenta que Rochelle vá ver Dreamgirls enquanto ele cuida de Tonya e Drew, que têm catapora.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512130100 -0300" stop="20260512132900 -0300" channel="TNT HD">
+  <programme start="20260512133900 -0300" stop="20260512140200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Corleone</sub-title>
     <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512132900 -0300" stop="20260512135700 -0300" channel="TNT HD">
+  <programme start="20260512140200 -0300" stop="20260512142400 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Rejeição</sub-title>
     <desc lang="pt">Depois que o caminhão de Julius é roubado, Rochelle decide se envolver com um grupo de vigilância no bairro, mas acaba entrando em uma disputa com a nova vizinha, Louise.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512135700 -0300" stop="20260512142400 -0300" channel="TNT HD">
+  <programme start="20260512142400 -0300" stop="20260512144700 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Eleições</sub-title>
     <desc lang="pt">Depois de causar uma má impressão, Chris deve dar o melhor discurso de campanha de todos os tempos para ganhar a eleição para Presidente da Classe. Mas Chris deve adotar medidas extremas quando seu oponente rouba seu discurso.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512142400 -0300" stop="20260512145100 -0300" channel="TNT HD">
+  <programme start="20260512144700 -0300" stop="20260512151000 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Um Mentiroso</sub-title>
     <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512145100 -0300" stop="20260512170500 -0300" channel="TNT HD">
+  <programme start="20260512151000 -0300" stop="20260512172000 -0300" channel="TNT HD">
     <title lang="pt">A Saga Crepúsculo: Lua Nova</title>
     <desc lang="pt">Depois de um incidente durante a festa de aniversário de Bella, Edward decide deixar a cidade de Forks. Inconsolável, Bella encontra conforto em Jacob, sem saber do perigo que está por vir.</desc>
-    <length units="minutes">8040</length>
+    <length units="minutes">7800</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512170500 -0300" stop="20260512191000 -0300" channel="TNT HD">
+  <programme start="20260512172000 -0300" stop="20260512192500 -0300" channel="TNT HD">
     <title lang="pt">A Saga Crepúsculo: Eclipse</title>
     <desc lang="pt">Bella novamente se encontra cercada por perigo quando Seattle é assolada por uma sequência de assassinatos misteriosos, ela é forçada a escolher entre seu amor pelo vampiro Edward e sua amizade com o lobisomem Jacob.</desc>
     <length units="minutes">7500</length>
@@ -193499,18 +193541,18 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512191000 -0300" stop="20260512211800 -0300" channel="TNT HD">
+  <programme start="20260512192500 -0300" stop="20260512212400 -0300" channel="TNT HD">
     <title lang="pt">Protegendo O Inimigo</title>
     <desc lang="pt">O ex-agente da CIA Tobin Frost, tido como traidor, se entrega e é levado para um abrigo secreto. Quando o local é invadido por mercenários, um agente novato fica com a tarefa de protegê-lo.</desc>
-    <length units="minutes">7680</length>
+    <length units="minutes">7140</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512211800 -0300" stop="20260512233000 -0300" channel="TNT HD">
+  <programme start="20260512212400 -0300" stop="20260512233000 -0300" channel="TNT HD">
     <title lang="pt">Sicario: Terra de Ninguém</title>
     <desc lang="pt">Kate Macy é uma agente do FBI convidada para uma operação da CIA para prender o líder de um cartel mexicano. Mas ela começa a questionar sua presença na ação e descobre que terá que fazer uma escolha.</desc>
-    <length units="minutes">7920</length>
+    <length units="minutes">7560</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -196132,265 +196174,289 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512060000 -0300" stop="20260512064300 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <sub-title lang="pt">Haunted</sub-title>
-    <desc lang="pt">Detetive Fin é atingido em roubo e fica à beira da morte. O evento traumático, no entanto leva diversas mudanças à sua vida.</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">6.11.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512064300 -0300" stop="20260512072900 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Major Crimes</title>
-    <sub-title lang="pt">Reloaded</sub-title>
-    <desc lang="pt">Ainda abalado pela recente partida da subchefe Brenda Lee Johnson, o departamento de polícia não facilita a transição da recém-designada chefe da Divisão de Crimes Graves Sharon Raydor.</desc>
-    <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+  <programme start="20260512060000 -0300" stop="20260512060400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512072900 -0300" stop="20260512081400 -0300" channel="TNT SERIES HD">
+  <programme start="20260512060400 -0300" stop="20260512060800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512060800 -0300" stop="20260512061000 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512061000 -0300" stop="20260512062700 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">1020</length>
+    <episode-num system="xmltv_ns">6.94.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260512062700 -0300" stop="20260512063900 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">6.102.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260512063900 -0300" stop="20260512064100 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512064100 -0300" stop="20260512072800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Before and After</sub-title>
     <desc lang="pt">A Capitã Raydor toma as rédeas da divisão de Crimes Graves para o desprazer de Provenza ao investigar um tiroteio em um estacionamento.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512081400 -0300" stop="20260512090000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512072800 -0300" stop="20260512081500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Andy in C Minor</sub-title>
     <desc lang="pt">No ano de 2006, um jovem surdo desapareceu sem deixar pistas. Agora, depois de encontrar uma nova prova, a equipe une seus esforços para encontrar o corpo e o assassino do estudante.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512090000 -0300" stop="20260512094500 -0300" channel="TNT SERIES HD">
+  <programme start="20260512081500 -0300" stop="20260512090300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">The Road</sub-title>
     <desc lang="pt">A equipe volta a investigar um suspeito assassinato de 2007, quando uma futura noiva foi sequestrada no dia da sua festa de noivado.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512094500 -0300" stop="20260512103100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512090300 -0300" stop="20260512095100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Bad Reputation</sub-title>
     <desc lang="pt">Em 1997, a polícia investigava um caso de um ex-presidiário quando sua mão foi encontrada em uma batida policial.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512103100 -0300" stop="20260512111600 -0300" channel="TNT SERIES HD">
+  <programme start="20260512095100 -0300" stop="20260512103800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sleeping</sub-title>
     <desc lang="pt">A equipe reabre um caso de uma mulher que acredita-se ter cometido suicídio em 1962.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512111600 -0300" stop="20260512120100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512103800 -0300" stop="20260512112500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Many Happy Returns</sub-title>
     <desc lang="pt">No aniversário de Reese, Finch lhe dá um dia de folga na esperança de mantê-lo longe da próxima pessoa de interesse.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512120100 -0300" stop="20260512124800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512112500 -0300" stop="20260512121300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">No Good Deed</sub-title>
     <desc lang="pt">Finch encontra muito em comum com seu mais novo número, que colidiu com o governo. Enquanto isso, Reese descobre o passado de Finch.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512124800 -0300" stop="20260512133400 -0300" channel="TNT SERIES HD">
+  <programme start="20260512121300 -0300" stop="20260512130100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Firewall</sub-title>
     <desc lang="pt">Reese fica preso com a POI em uma parte fortemente vigiada da cidade, e deve contar com a ajuda de Finch, Carter e Fusco.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512133400 -0300" stop="20260512141800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512130100 -0300" stop="20260512134700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Despedaçada</sub-title>
     <desc lang="pt">Durante a investigação do sequestro de um menino de oito anos, os detetives se deparam com uma situação perigosa e com revelações sobre o passado da promotora Jo Marlowe.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">11.22.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512141800 -0300" stop="20260512150200 -0300" channel="TNT SERIES HD">
+  <programme start="20260512134700 -0300" stop="20260512143300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Politicamente Correto</sub-title>
     <desc lang="pt">Os detetives investigam o assassinato de uma mulher que sangrou pelo pescoço até a morte. Eles suspeitam de um vocalista de uma banda de rock que quer parecer um vampiro e morde o pescoço de garotas.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">11.23.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512150200 -0300" stop="20260512154700 -0300" channel="TNT SERIES HD">
+  <programme start="20260512143300 -0300" stop="20260512152000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Possuídos</sub-title>
     <desc lang="pt">Um rapaz é agredido depois de encontrar sua namorada presa a uma cadeira e vestindo apenas roupa íntima. Os detetives suspeitam que o passado da jovem possa ajudar a explicar o crime.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.13.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512154700 -0300" stop="20260512163000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512152000 -0300" stop="20260512160600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Máscara</sub-title>
     <desc lang="pt">Uma mulher é violentada por um homem mascarado. Os detetives descobrem que o pai da vítima, um terapeuta sexual, pode ter informações sobre o caso, mas se recusa a falar por causa do sigilo médico.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">12.14.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512163000 -0300" stop="20260512171700 -0300" channel="TNT SERIES HD">
+  <programme start="20260512160600 -0300" stop="20260512165600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Andy in C Minor</sub-title>
     <desc lang="pt">No ano de 2006, um jovem surdo desapareceu sem deixar pistas. Agora, depois de encontrar uma nova prova, a equipe une seus esforços para encontrar o corpo e o assassino do estudante.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">5.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512171700 -0300" stop="20260512180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512165600 -0300" stop="20260512174400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">The Road</sub-title>
     <desc lang="pt">A equipe volta a investigar um suspeito assassinato de 2007, quando uma futura noiva foi sequestrada no dia da sua festa de noivado.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512180100 -0300" stop="20260512184800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512174400 -0300" stop="20260512183300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Bad Reputation</sub-title>
     <desc lang="pt">Em 1997, a polícia investigava um caso de um ex-presidiário quando sua mão foi encontrada em uma batida policial.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512184800 -0300" stop="20260512193100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512183300 -0300" stop="20260512192000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sleeping</sub-title>
     <desc lang="pt">A equipe reabre um caso de uma mulher que acredita-se ter cometido suicídio em 1962.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512193100 -0300" stop="20260512201800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512192000 -0300" stop="20260512200800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Badge</sub-title>
     <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512201800 -0300" stop="20260512210100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512200800 -0300" stop="20260512205400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Cherry Picked</sub-title>
     <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512210100 -0300" stop="20260512214400 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512214400 -0300" stop="20260512223000 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Red Badge</sub-title>
-    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512223000 -0300" stop="20260512231200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Cherry Picked</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
-    <length units="minutes">2520</length>
     <episode-num system="xmltv_ns">5.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512231200 -0300" stop="20260512235700 -0300" channel="TNT SERIES HD">
+  <programme start="20260512205400 -0300" stop="20260512214100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512235700 -0300" stop="20260513004100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512214100 -0300" stop="20260512223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Badge</sub-title>
     <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512235700 -0300" stop="20260513004100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512223000 -0300" stop="20260512231500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Red Badge</sub-title>
-    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
-    <length units="minutes">2640</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <sub-title lang="pt">Cherry Picked</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260512231500 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512231500 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513000200 -0300" stop="20260513004100 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">2340</length>
   </programme>
   <programme start="20260513004100 -0300" stop="20260513012400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
@@ -225416,225 +225482,72 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512060000 -0300" stop="20260512062300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512060000 -0300" stop="20260512061300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">6.125.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260512061300 -0300" stop="20260512061500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512061500 -0300" stop="20260512063700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Georgie e Mandy - Seu Primeiro Casamento</title>
     <sub-title lang="pt">Uma Convenção de Pneus e a Elevada Posição Moral</sub-title>
     <desc lang="pt">Georgie descobre que a viagem anual de Jim para a convenção de pneus não é o que ele diz ser.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512062300 -0300" stop="20260512063600 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Georgie e Mandy - Seu Primeiro Casamento</title>
-    <sub-title lang="pt">Uma Casa Dividida</sub-title>
-    <desc lang="pt">Audrey e Mary entram em guerra por causa de CeeCee e Georgie, e Mandy não consegue ficar indiferente.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512063600 -0300" stop="20260512083100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512063700 -0300" stop="20260512082900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Entrando Numa Fria</title>
     <desc lang="pt">Prestes a se casar, Greg só desagrada ao pai de sua noiva. Ele acidentalmente inicia uma guerra com seu futuro sogro, que não parece disposto a facilitar a situação.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6720</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512083100 -0300" stop="20260512090900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512082900 -0300" stop="20260512085300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Frankenstein and the Horny Villagers</sub-title>
     <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
-    <length units="minutes">2280</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512090900 -0300" stop="20260512093300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512085300 -0300" stop="20260512091800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Yes, Monsignor</sub-title>
     <desc lang="pt">Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512093300 -0300" stop="20260512095500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512091800 -0300" stop="20260512094100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">The Salmon Under My Sweater</sub-title>
     <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512095500 -0300" stop="20260512101900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Last Chance to See Those Tattoos</sub-title>
-    <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conheceu num bar, o rejeita, porque leu na internet sobre sua má fama com as mulheres.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512101900 -0300" stop="20260512104300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">A Lung Full of Alan</sub-title>
-    <desc lang="pt">Jamie, a melhor amiga de Alan no colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos veem como ela está linda, os dois tentam conquistá-la.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512104300 -0300" stop="20260512110700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Zejdz Zmoich Wlosow</sub-title>
-    <desc lang="pt">Quando um terremoto provoca grandes estragos no encanamento de Judith, Alan a deixa morar com eles até que o problema seja resolvido, mesmo sabendo que Charlie não gosta muito da ideia.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512110700 -0300" stop="20260512113000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">Potato Salad, A Broomstick, And Dad's Whiskey</sub-title>
-    <desc lang="pt">Quando Mary começa a trabalhar na igreja, Sheldon e Missy ficam em casa sozinhos pela primeira vez.</desc>
     <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512113000 -0300" stop="20260512114800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">Dolomite, Apple Slices, And A Mystery Woman</sub-title>
-    <desc lang="pt">Sheldon faz amizade com uma colega de classe avançada que o apresenta a um novo campo da ciência.</desc>
-    <length units="minutes">1080</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512114800 -0300" stop="20260512121000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">Killer Asteroids, Oklahoma, And A Frizzy Hair Machine</sub-title>
-    <desc lang="pt">Uma derrota decepcionante na feira de ciências dá um novo rumo à vida de Sheldon. Após perder a competição na feira, Sheldon perde a garra e a paixão pela ciência e encontra sua nova zona de conforto na atua...</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512121000 -0300" stop="20260512123200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">Jiu-jitsu, Bubble Wrap, And Yoo-hoo</sub-title>
-    <desc lang="pt">Quando Sheldon é ridicularizado por uma figura inesperada, Mary e George discordam sobre como lidar com a situação.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512123200 -0300" stop="20260512125400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The 2003 Approximation</sub-title>
-    <desc lang="pt">Quando Sheldon (JIM PARSONS) descobre sobre uma mudança inesperada em seu contrato de condomínio, ele decide voltar aos tempos de 2003 - um tempo mais simples antes de conhecer Leonard ou Penny.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">9.4.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512125400 -0300" stop="20260512131200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Perspiration Implementation</sub-title>
-    <desc lang="pt">Os nerds recebem aulas de esgrima de Barry Kripke e Sheldon se vê em uma posição desconfortável quando Kripke expressa interesse por Amy.</desc>
-    <length units="minutes">1080</length>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512131200 -0300" stop="20260512133400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Helium Insufficiency</sub-title>
-    <desc lang="pt">No meio de uma escassez nacional de gelo, Leonard e Sheldon se vem forçados a ir comprar de um distribuidor do mercado negro para poder terminar um experimento.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">9.6.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512133400 -0300" stop="20260512135300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Spock Resonance</sub-title>
-    <desc lang="pt">Leonard e Penny ficam chocados ao descobrir que Sheldon iria pedir Amy em casamento. Enquanto isso, Howard e Bernadette discordam sobre reformar a casa onde ele cresceu.</desc>
-    <length units="minutes">1140</length>
-    <episode-num system="xmltv_ns">9.7.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512135300 -0300" stop="20260512141200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Mystery Date Observation</sub-title>
-    <desc lang="pt">Amy se encontra com um homem misterioso e Sheldon pede a ajuda de Howard e Raj para encontrar uma nova namorada na internet.</desc>
-    <length units="minutes">1140</length>
-    <episode-num system="xmltv_ns">9.8.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512141200 -0300" stop="20260512143600 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Platonic Permutation</sub-title>
-    <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">9.9.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512143600 -0300" stop="20260512150000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Frankenstein and the Horny Villagers</sub-title>
-    <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512150000 -0300" stop="20260512152500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Yes, Monsignor</sub-title>
-    <desc lang="pt">Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512152500 -0300" stop="20260512154600 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">The Salmon Under My Sweater</sub-title>
-    <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake.</desc>
-    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512154600 -0300" stop="20260512161000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512094100 -0300" stop="20260512100500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Last Chance to See Those Tattoos</sub-title>
     <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conheceu num bar, o rejeita, porque leu na internet sobre sua má fama com as mulheres.</desc>
@@ -225644,7 +225557,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512161000 -0300" stop="20260512163400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512100500 -0300" stop="20260512102900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Lung Full of Alan</sub-title>
     <desc lang="pt">Jamie, a melhor amiga de Alan no colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos veem como ela está linda, os dois tentam conquistá-la.</desc>
@@ -225654,27 +225567,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512163400 -0300" stop="20260512165800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Zejdz Zmoich Wlosow</sub-title>
-    <desc lang="pt">Quando um terremoto provoca grandes estragos no encanamento de Judith, Alan a deixa morar com eles até que o problema seja resolvido, mesmo sabendo que Charlie não gosta muito da ideia.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260512165800 -0300" stop="20260512172300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512102900 -0300" stop="20260512105300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Potato Salad, A Broomstick, And Dad's Whiskey</sub-title>
     <desc lang="pt">Quando Mary começa a trabalhar na igreja, Sheldon e Missy ficam em casa sozinhos pela primeira vez.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512172300 -0300" stop="20260512174300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512105300 -0300" stop="20260512111300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Dolomite, Apple Slices, And A Mystery Woman</sub-title>
     <desc lang="pt">Sheldon faz amizade com uma colega de classe avançada que o apresenta a um novo campo da ciência.</desc>
@@ -225684,45 +225587,173 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512174300 -0300" stop="20260512180500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512111300 -0300" stop="20260512113600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Killer Asteroids, Oklahoma, And A Frizzy Hair Machine</sub-title>
     <desc lang="pt">Uma derrota decepcionante na feira de ciências dá um novo rumo à vida de Sheldon. Após perder a competição na feira, Sheldon perde a garra e a paixão pela ciência e encontra sua nova zona de conforto na atua...</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512180500 -0300" stop="20260512182800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512113600 -0300" stop="20260512115800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Jiu-jitsu, Bubble Wrap, And Yoo-hoo</sub-title>
     <desc lang="pt">Quando Sheldon é ridicularizado por uma figura inesperada, Mary e George discordam sobre como lidar com a situação.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512182800 -0300" stop="20260512202400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512115800 -0300" stop="20260512121900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The 2003 Approximation</sub-title>
+    <desc lang="pt">Quando Sheldon (JIM PARSONS) descobre sobre uma mudança inesperada em seu contrato de condomínio, ele decide voltar aos tempos de 2003 - um tempo mais simples antes de conhecer Leonard ou Penny.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512121900 -0300" stop="20260512123800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Perspiration Implementation</sub-title>
+    <desc lang="pt">Os nerds recebem aulas de esgrima de Barry Kripke e Sheldon se vê em uma posição desconfortável quando Kripke expressa interesse por Amy.</desc>
+    <length units="minutes">1140</length>
+    <episode-num system="xmltv_ns">9.5.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512123800 -0300" stop="20260512130000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Helium Insufficiency</sub-title>
+    <desc lang="pt">No meio de uma escassez nacional de gelo, Leonard e Sheldon se vem forçados a ir comprar de um distribuidor do mercado negro para poder terminar um experimento.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">9.6.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512130000 -0300" stop="20260512132000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Spock Resonance</sub-title>
+    <desc lang="pt">Leonard e Penny ficam chocados ao descobrir que Sheldon iria pedir Amy em casamento. Enquanto isso, Howard e Bernadette discordam sobre reformar a casa onde ele cresceu.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">9.7.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512132000 -0300" stop="20260512134100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Mystery Date Observation</sub-title>
+    <desc lang="pt">Amy se encontra com um homem misterioso e Sheldon pede a ajuda de Howard e Raj para encontrar uma nova namorada na internet.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">9.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512134100 -0300" stop="20260512140400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Platonic Permutation</sub-title>
+    <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">9.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512140400 -0300" stop="20260512142800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">Frankenstein and the Horny Villagers</sub-title>
+    <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512142800 -0300" stop="20260512145300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">Yes, Monsignor</sub-title>
+    <desc lang="pt">Charlie encontra Lisa, a mulher que ele pensava ser o amor de sua vida até que ela lhe contou que estava comprometida com outra pessoa.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512145300 -0300" stop="20260512151600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">The Salmon Under My Sweater</sub-title>
+    <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512151600 -0300" stop="20260512153900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">Last Chance to See Those Tattoos</sub-title>
+    <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conheceu num bar, o rejeita, porque leu na internet sobre sua má fama com as mulheres.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512153900 -0300" stop="20260512160300 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">A Lung Full of Alan</sub-title>
+    <desc lang="pt">Jamie, a melhor amiga de Alan no colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos veem como ela está linda, os dois tentam conquistá-la.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512160300 -0300" stop="20260512162700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">Zejdz Zmoich Wlosow</sub-title>
+    <desc lang="pt">Quando um terremoto provoca grandes estragos no encanamento de Judith, Alan a deixa morar com eles até que o problema seja resolvido, mesmo sabendo que Charlie não gosta muito da ideia.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260512162700 -0300" stop="20260512183200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Magnatas do Crime</title>
+    <desc lang="pt">Mickey Pearson construiu um império da maconha extremamente lucrativo em Londres. Quando a notícia de que ele pretende vendê-lo se espalha, uma série de intrigas e esquemas agitam o submundo do crime.</desc>
+    <length units="minutes">7500</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260512183200 -0300" stop="20260512202200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">O Procurado</title>
     <desc lang="pt">Após a morte misteriosa de seu pai, o simplório Wesley Gibson descobre que seu progenitor era na verdade um assassino profissional que pertencia a uma organização chamada Fraternidade.</desc>
-    <length units="minutes">6960</length>
+    <length units="minutes">6600</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260512202400 -0300" stop="20260512204400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512202200 -0300" stop="20260512204300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The 2003 Approximation</sub-title>
     <desc lang="pt">Quando Sheldon (JIM PARSONS) descobre sobre uma mudança inesperada em seu contrato de condomínio, ele decide voltar aos tempos de 2003 - um tempo mais simples antes de conhecer Leonard ou Penny.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512204400 -0300" stop="20260512210400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512204300 -0300" stop="20260512210300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Perspiration Implementation</sub-title>
     <desc lang="pt">Os nerds recebem aulas de esgrima de Barry Kripke e Sheldon se vê em uma posição desconfortável quando Kripke expressa interesse por Amy.</desc>
@@ -225732,17 +225763,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512210400 -0300" stop="20260512212700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512210300 -0300" stop="20260512212500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Helium Insufficiency</sub-title>
     <desc lang="pt">No meio de uma escassez nacional de gelo, Leonard e Sheldon se vem forçados a ir comprar de um distribuidor do mercado negro para poder terminar um experimento.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">9.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512212700 -0300" stop="20260512214700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512212500 -0300" stop="20260512214500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Spock Resonance</sub-title>
     <desc lang="pt">Leonard e Penny ficam chocados ao descobrir que Sheldon iria pedir Amy em casamento. Enquanto isso, Howard e Bernadette discordam sobre reformar a casa onde ele cresceu.</desc>
@@ -225752,41 +225783,45 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512214700 -0300" stop="20260512220500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512214500 -0300" stop="20260512220600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Mystery Date Observation</sub-title>
     <desc lang="pt">Amy se encontra com um homem misterioso e Sheldon pede a ajuda de Howard e Raj para encontrar uma nova namorada na internet.</desc>
-    <length units="minutes">1080</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">9.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512220500 -0300" stop="20260512223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512220600 -0300" stop="20260512223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Platonic Permutation</sub-title>
     <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">9.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512223000 -0300" stop="20260513000400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512223000 -0300" stop="20260513000200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">A Hora do Rush 3</title>
     <desc lang="pt">Situado em Paris, Rush Hour 3 mostra os desajustados parceiros do Ocidente e do Oriente, liderados por CHRIS TUCKER e CHARLIE CHAN, lutando contra uma ala da família das Tríades - o crime organizado chinês.</desc>
-    <length units="minutes">5640</length>
+    <length units="minutes">5520</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512223000 -0300" stop="20260513000400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260512223000 -0300" stop="20260513000200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">A Hora do Rush 3</title>
     <desc lang="pt">Situado em Paris, Rush Hour 3 mostra os desajustados parceiros do Ocidente e do Oriente, liderados por CHRIS TUCKER e CHARLIE CHAN, lutando contra uma ala da família das Tríades - o crime organizado chinês.</desc>
-    <length units="minutes">5640</length>
+    <length units="minutes">5520</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260513000200 -0300" stop="20260513000400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20260513000400 -0300" stop="20260513002800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
