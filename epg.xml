@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-12 11:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-12 14:30:51" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -83095,45 +83095,50 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260513173000 -0300" stop="20260513180000 -0300" channel="ESPN 3">
-    <title lang="pt">Encontros Premier League</title>
-    <sub-title lang="pt">Arsenal - Os Três Gabrieis</sub-title>
-    <desc lang="pt">Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260513180000 -0300" stop="20260513190000 -0300" channel="ESPN 3">
+  <programme start="20260513173000 -0300" stop="20260513183000 -0300" channel="ESPN 3">
     <title lang="pt">Pelas Quadras</title>
     <desc lang="pt">Os especialistas da ESPN trazem análise, opinião, reportagens especiais e o melhor do que acontece durante todas as semanas do circuito mundial do tênis nos torneios ATP e WTA.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.133.</episode-num>
+    <episode-num system="xmltv_ns">87.133.</episode-num>
   </programme>
-  <programme start="20260513190000 -0300" stop="20260513193000 -0300" channel="ESPN 3">
+  <programme start="20260513183000 -0300" stop="20260513190000 -0300" channel="ESPN 3">
     <title lang="pt">Show da Rodada do Italiano</title>
     <desc lang="pt">O melhor resumo dos gols da Série A italiana logo depois de cada partida.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.133.</episode-num>
+    <episode-num system="xmltv_ns">88.133.</episode-num>
   </programme>
-  <programme start="20260513193000 -0300" stop="20260513200000 -0300" channel="ESPN 3">
+  <programme start="20260513190000 -0300" stop="20260513193000 -0300" channel="ESPN 3">
     <title lang="pt">Show da Rodada La Liga</title>
     <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">89.133.</episode-num>
   </programme>
-  <programme start="20260513200000 -0300" stop="20260513220000 -0300" channel="ESPN 3">
+  <programme start="20260513193000 -0300" stop="20260513213000 -0300" channel="ESPN 3">
     <title lang="pt">WTA 1000 - Roma - Quartas-de</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">O WTA 1000 é a mais importante série do tênis feminino depois dos quatro Grand Slams. As principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260513220000 -0300" stop="20260514000000 -0300" channel="ESPN 3">
+  <programme start="20260513213000 -0300" stop="20260513233000 -0300" channel="ESPN 3">
     <title lang="pt">Alavés x Barcelona</title>
     <desc lang="pt">Os melhores clubes e profissionais de destaque mundial. Times como Barcelona, Real Madrid e Atlético de Madrid se enfrentam em duelos imperdíveis na luta pelo título.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260513233000 -0300" stop="20260514003000 -0300" channel="ESPN 3">
+    <title lang="pt">Inside the NBA - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.133.</episode-num>
+  </programme>
+  <programme start="20260513233000 -0300" stop="20260514003000 -0300" channel="ESPN 3">
+    <title lang="pt">Inside the NBA - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.133.</episode-num>
   </programme>
   <programme start="20260514000000 -0300" stop="20260514010000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - ao vivo</title>
@@ -180816,8 +180821,8 @@
     <episode-num system="xmltv_ns">83.132.</episode-num>
   </programme>
   <programme start="20260512145000 -0300" stop="20260512170000 -0300" channel="SPORTV">
-    <title lang="pt">Al Nassr x Al Hilal - ao vivo</title>
-    <desc lang="pt">Al Nassr e Al Hilal jogam pela 32ª rodada do Segundo Turno da Campeonato Liga Saudita, no Al-awwal Park, em Riad, Arábia Saudita.</desc>
+    <title lang="pt">Al-Nassr x Al-Hilal - ao vivo</title>
+    <desc lang="pt">Al-Nassr e Al-Hilal jogam pela 32ª rodada do Segundo Turno da Campeonato Liga Saudita, no Al-awwal Park, em Riad, Arábia Saudita.</desc>
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -180835,8 +180840,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260512203000 -0300" stop="20260512213000 -0300" channel="SPORTV">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.132.</episode-num>
@@ -180953,8 +180958,8 @@
     <episode-num system="xmltv_ns">83.133.</episode-num>
   </programme>
   <programme start="20260513144500 -0300" stop="20260513170000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil Feminina de Futebol - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Itabirito x Ceará - ao vivo</title>
+    <desc lang="pt">Itabirito e Ceará enfrentam-se na 2ª fase do Copa do Brasil Feminina, na Arena do Jacaré, em Sete Lagoas (MG).</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -180966,8 +180971,8 @@
     <episode-num system="xmltv_ns">87.133.</episode-num>
   </programme>
   <programme start="20260513180000 -0300" stop="20260513190000 -0300" channel="SPORTV">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.133.</episode-num>
@@ -181021,7 +181026,7 @@
   </programme>
   <programme start="20260514040000 -0300" stop="20260514050000 -0300" channel="SPORTV">
     <title lang="pt">Remo x Bahia</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
@@ -181096,8 +181101,8 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260514200000 -0300" stop="20260514213000 -0300" channel="SPORTV">
-    <title lang="pt">Aquecimento SporTV - ao vivo</title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.134.</episode-num>
@@ -181123,7 +181128,7 @@
     <episode-num system="xmltv_ns">83.134.</episode-num>
   </programme>
   <programme start="20260515010000 -0300" stop="20260515020000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada</title>
+    <title lang="pt">Giro da Rodada: Copa do Brasil - 5ª Fase</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
@@ -181144,10 +181149,11 @@
     <previously-shown/>
   </programme>
   <programme start="20260515040000 -0300" stop="20260515050000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Atlético-GO x Athletico-PR</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260515050000 -0300" stop="20260515060000 -0300" channel="SPORTV">
     <title lang="pt">Vasco x Paysandu</title>
@@ -181206,25 +181212,23 @@
     <episode-num system="xmltv_ns">85.135.</episode-num>
   </programme>
   <programme start="20260515161500 -0300" stop="20260515163000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada</title>
+    <title lang="pt">Giro da Rodada: Copa do Brasil - 5ª Fase</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">86.135.</episode-num>
   </programme>
   <programme start="20260515163000 -0300" stop="20260515173000 -0300" channel="SPORTV">
-    <title lang="pt">Que Copa É Essa?: Copa Do Mundo De 1958 e 1962</title>
+    <title lang="pt">Copa do Mundo de 1958 e 1962</title>
     <desc lang="pt">A Taça do Mundo é nossa! No terceiro episódio, a consagração de Pelé, Garrincha e companhia nas Copas do Mundo de 1958 e 1962.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">86.3.</episode-num>
   </programme>
   <programme start="20260515173000 -0300" stop="20260515183000 -0300" channel="SPORTV">
-    <title lang="pt">Que Copa É Essa?: Copa do Mundo de 1966 e 1970</title>
+    <title lang="pt">Copa do Mundo de 1966 e 1970</title>
     <desc lang="pt">O melhor time de todos os tempos? Com a presença do &quot;Furacão&quot; Jairzinho, o episódio detalha a campanha do Tri em 1970. E, quatro antes, o único e polêmico título inglês.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.4.</episode-num>
   </programme>
   <programme start="20260515183000 -0300" stop="20260515203000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - ao vivo</title>
@@ -181253,138 +181257,127 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.135.</episode-num>
   </programme>
-  <programme start="20260516003000 -0300" stop="20260516010000 -0300" channel="SPORTV">
+  <programme start="20260516003000 -0300" stop="20260516013000 -0300" channel="SPORTV">
     <title lang="pt">Vitória x Flamengo</title>
     <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516013000 -0300" stop="20260516023000 -0300" channel="SPORTV">
+    <title lang="pt">Flamengo x Fluminense</title>
+    <desc lang="pt">Flamengo e Fluminense jogam pelo Campeonato Brasileiro Feminino.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516023000 -0300" stop="20260516033000 -0300" channel="SPORTV">
+    <title lang="pt">Atlético-GO x Athletico-PR</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516033000 -0300" stop="20260516043000 -0300" channel="SPORTV">
+    <title lang="pt">Chapecoense x Botafogo</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516043000 -0300" stop="20260516053000 -0300" channel="SPORTV">
+    <title lang="pt">Corinthians x São Paulo</title>
+    <desc lang="pt">Corinthians e São Paulo jogam pelo Campeonato Brasileiro Feminino.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516053000 -0300" stop="20260516063000 -0300" channel="SPORTV">
+    <title lang="pt">Itabirito x Ceará</title>
+    <desc lang="pt">Itabirito e Ceará jogam pela Copa do Brasil Feminina.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260516063000 -0300" stop="20260516070000 -0300" channel="SPORTV">
+    <title lang="pt">Frente a Frente</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">86.4.</episode-num>
   </programme>
-  <programme start="20260516010000 -0300" stop="20260516020000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada: Brasileiro Feminino</title>
-    <sub-title lang="pt">9ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.136.</episode-num>
-  </programme>
-  <programme start="20260516020000 -0300" stop="20260516030000 -0300" channel="SPORTV">
-    <title lang="pt">Flamengo x Palmeiras</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
+  <programme start="20260516070000 -0300" stop="20260516080000 -0300" channel="SPORTV">
+    <title lang="pt">Flamengo x Fluminense</title>
+    <desc lang="pt">Flamengo e Fluminense jogam pelo Campeonato Brasileiro Feminino.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260516030000 -0300" stop="20260516040000 -0300" channel="SPORTV">
-    <title lang="pt">Corinthians x São Paulo</title>
-    <desc lang="pt">Corinthians e São Paulo jogam pelo Campeonato Paulista Feminino.</desc>
+  <programme start="20260516080000 -0300" stop="20260516090000 -0300" channel="SPORTV">
+    <title lang="pt">Vasco x Paysandu</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260516040000 -0300" stop="20260516050000 -0300" channel="SPORTV">
-    <title lang="pt">Palmeiras x Mirassol</title>
-    <desc lang="pt">Palmeiras e Mirassol jogam pelo Campeonato Brasileiro Feminino.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260516050000 -0300" stop="20260516060000 -0300" channel="SPORTV">
-    <title lang="pt">Vasco x Guaicamacuto (VEN)</title>
-    <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui no sportv. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260516060000 -0300" stop="20260516070000 -0300" channel="SPORTV">
-    <title lang="pt">Flamengo x Palmeiras</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260516070000 -0300" stop="20260516083000 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes</title>
-    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.136.</episode-num>
-  </programme>
-  <programme start="20260516083000 -0300" stop="20260516100000 -0300" channel="SPORTV">
-    <title lang="pt">sportv News - ao vivo</title>
-    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.136.</episode-num>
-  </programme>
-  <programme start="20260516100000 -0300" stop="20260516121500 -0300" channel="SPORTV">
-    <title lang="pt">Redação sportv - ao vivo</title>
-    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.136.</episode-num>
-  </programme>
-  <programme start="20260516121500 -0300" stop="20260516130000 -0300" channel="SPORTV">
-    <title lang="pt">Tá On - ao vivo</title>
-    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">82.136.</episode-num>
-  </programme>
-  <programme start="20260516130000 -0300" stop="20260516145000 -0300" channel="SPORTV">
-    <title lang="pt">Seleção sportv - ao vivo</title>
-    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
-    <length units="minutes">6600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.136.</episode-num>
-  </programme>
-  <programme start="20260516145000 -0300" stop="20260516170000 -0300" channel="SPORTV">
-    <title lang="pt">Al Kholood x Al Hilal - ao vivo</title>
-    <desc lang="pt">Al Kholood e Al Hilal jogam a rodada de ida da Final da Rei da Arábia Saudita.</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260516170000 -0300" stop="20260516174500 -0300" channel="SPORTV">
-    <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.136.</episode-num>
-  </programme>
-  <programme start="20260516174500 -0300" stop="20260516200000 -0300" channel="SPORTV">
-    <title lang="pt">Tá na Área - ao vivo</title>
-    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.136.</episode-num>
-  </programme>
-  <programme start="20260516200000 -0300" stop="20260516210000 -0300" channel="SPORTV">
-    <title lang="pt">Que Copa É Essa?: Copa Do Mundo De 1930 a 1938</title>
-    <desc lang="pt">André Rizek, Paulo Vinícius Coelho e Paulo Cesar Vasconcellos mostram detalhes, curiosidades e como era o futebol nas primeiras edições da Copa do Mundo, de 1930 a 1938.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.1.</episode-num>
-  </programme>
-  <programme start="20260516210000 -0300" stop="20260516223000 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes - ao vivo</title>
-    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.136.</episode-num>
-  </programme>
-  <programme start="20260516223000 -0300" stop="20260516233000 -0300" channel="SPORTV">
-    <title lang="pt">Que Copa É Essa?: As Copas Do Mundo De 1950 e 1954</title>
-    <desc lang="pt">No segundo episódio, tudo sobre as Copas do Mundo de 1950 e 1954: da tragédia do &quot;Maracanazo&quot; ao &quot;Milagre de Berna&quot;.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.2.</episode-num>
-  </programme>
-  <programme start="20260516233000 -0300" stop="20260517003000 -0300" channel="SPORTV">
-    <title lang="pt">Borussia Dortmund x Eintracht Frankfurt</title>
+  <programme start="20260516090000 -0300" stop="20260516100000 -0300" channel="SPORTV">
+    <title lang="pt">Wolfsburg x Bayern de Munique</title>
     <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
+  </programme>
+  <programme start="20260516100000 -0300" stop="20260516123000 -0300" channel="SPORTV">
+    <title lang="pt">Bayern de Munique x Colônia - ao vivo</title>
+    <desc lang="pt">Bayern de Munique e Colônia jogam pela 34ª rodada do Segundo Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516123000 -0300" stop="20260516150500 -0300" channel="SPORTV">
+    <title lang="pt">Al-Hilal x Neom - ao vivo</title>
+    <desc lang="pt">Al-Hilal e Neom jogam pela 33ª rodada do Segundo Turno da Campeonato Liga Saudita, na Kingdom Arena, em Riade, Arábia Saudita.</desc>
+    <length units="minutes">9300</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516150500 -0300" stop="20260516153000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <length units="minutes">1500</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">85.136.</episode-num>
+  </programme>
+  <programme start="20260516153000 -0300" stop="20260516180000 -0300" channel="SPORTV">
+    <title lang="pt">São Bernardo FC x América-MG - ao vivo</title>
+    <desc lang="pt">São Bernardo FC e América-MG jogam pela 9ª rodada do Primeiro Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516180000 -0300" stop="20260516200000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - ao vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.136.</episode-num>
+  </programme>
+  <programme start="20260516200000 -0300" stop="20260516210000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.136.</episode-num>
+  </programme>
+  <programme start="20260516210000 -0300" stop="20260516230000 -0300" channel="SPORTV">
+    <title lang="pt">Palmeiras x Cruzeiro - ao vivo</title>
+    <desc lang="pt">Palmeiras e Cruzeiro jogam pela 16ª rodada do Primeiro Turno do Brasileirão, na Arena Barueri, em Barueri (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516230000 -0300" stop="20260517003000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - ao vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.136.</episode-num>
   </programme>
   <programme start="20260511210000 -0300" stop="20260512010000 -0300" channel="SPORTV 2">
     <title lang="pt">Copa do Mundo de Ginástica Artística: Varna, Bulgária</title>
