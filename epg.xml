@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-12 14:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-12 17:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -82457,10 +82457,10 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260513120000 -0300" stop="20260513134500 -0300" channel="ESPN 2">
-    <title lang="pt">NBB - Quartas-de</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">NBB: Minas x Corinthians</title>
     <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
     <length units="minutes">6300</length>
+    <previously-shown/>
   </programme>
   <programme start="20260513134500 -0300" stop="20260513140000 -0300" channel="ESPN 2">
     <title lang="pt">Momento CBTênis</title>
@@ -82504,40 +82504,65 @@
     <title lang="pt">Último Trem para a América do Norte</title>
     <desc lang="pt">A série exibe a preparação conjunta de Estados Unidos, México e Canadá para a Copa do Mundo FIFA 2026</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">12.2.</episode-num>
+    <episode-num system="xmltv_ns">13.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260513200000 -0300" stop="20260513203000 -0300" channel="ESPN 2">
+    <title lang="pt">NFL Films Presents: Looking Back &amp; Looking Ahead</title>
+    <desc lang="pt">NFL Filmes exibe nos bastidores acesso a jogadores da NFL e treinadores da temporada atual. Cada programa segue um tema diferente levando o fã mais profundo no reino da NFL.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">20.133.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260513203000 -0300" stop="20260513210000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter Abre o Jogo: NBA - ao vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
     <length units="minutes">1800</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.133.</episode-num>
   </programme>
-  <programme start="20260513203000 -0300" stop="20260513204000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Playoffs</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
+  <programme start="20260513210000 -0300" stop="20260513211000 -0300" channel="ESPN 2">
+    <title lang="pt">NBA Play-In - ao vivo</title>
+    <desc lang="pt">Mergulhe no universo dos gigantes com essa transmissão emocionante que mostra cada ponto e cada jogada dos playoffs e play-in da NBA. Enterradas espetaculares, jogadas sensacionais e toda a paixão pelo melhor basquete do mundo.</desc>
     <length units="minutes">600</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260513204000 -0300" stop="20260513230000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Playoffs: Segunda Rodada - ao vivo</title>
+  <programme start="20260513211000 -0300" stop="20260513233000 -0300" channel="ESPN 2">
+    <title lang="pt">NBA: Cleveland Cavaliers x Detroit Pistons - ao vivo</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
     <length units="minutes">8400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260513230000 -0300" stop="20260514013000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Playoffs: Segunda Rodada - ao vivo</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260513233000 -0300" stop="20260514000000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.133.</episode-num>
   </programme>
-  <programme start="20260513230000 -0300" stop="20260514013000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Playoffs: Segunda Rodada - ao vivo</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260514000000 -0300" stop="20260514003000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.134.</episode-num>
+  </programme>
+  <programme start="20260514003000 -0300" stop="20260514010000 -0300" channel="ESPN 2">
+    <title lang="pt">Show da Rodada do Italiano</title>
+    <desc lang="pt">O melhor resumo dos gols da Série A italiana logo depois de cada partida.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.134.</episode-num>
+  </programme>
+  <programme start="20260514010000 -0300" stop="20260514013000 -0300" channel="ESPN 2">
+    <title lang="pt">Último Trem para a América do Norte</title>
+    <desc lang="pt">A série exibe a preparação conjunta de Estados Unidos, México e Canadá para a Copa do Mundo FIFA 2026</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">13.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260514013000 -0300" stop="20260514023000 -0300" channel="ESPN 2">
     <title lang="pt">Bola da Vez: Gilberto Silva</title>
@@ -118711,7 +118736,7 @@
     <sub-title lang="pt">Churrasco Raiz E Afetivo!</sub-title>
     <desc lang="pt">Felipe é desafiado por Pretona, representante do churrasco raíz. Os dois vão ter que preparar um frango atropelado. Quem sairá vitorioso desse churrasco afetivo?!</desc>
     <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">11.1.</episode-num>
+    <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -118741,7 +118766,7 @@
     <sub-title lang="pt">Ladrões e Falsários</sub-title>
     <desc lang="pt">O cotidiano tenso e imprevisível do metrô revela cenas fortes: roubos, venda irregular de bilhetes e passageiros que se colocam em risco na cidade subterrânea.</desc>
     <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">10.8.</episode-num>
+    <episode-num system="xmltv_ns">12.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -118931,7 +118956,7 @@
     <sub-title lang="pt">Churrasco Raiz E Afetivo!</sub-title>
     <desc lang="pt">Felipe é desafiado por Pretona, representante do churrasco raíz. Os dois vão ter que preparar um frango atropelado. Quem sairá vitorioso desse churrasco afetivo?!</desc>
     <length units="minutes">2520</length>
-    <episode-num system="xmltv_ns">11.1.</episode-num>
+    <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -118941,7 +118966,7 @@
     <sub-title lang="pt">Ladrões e Falsários</sub-title>
     <desc lang="pt">O cotidiano tenso e imprevisível do metrô revela cenas fortes: roubos, venda irregular de bilhetes e passageiros que se colocam em risco na cidade subterrânea.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">10.8.</episode-num>
+    <episode-num system="xmltv_ns">12.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -119011,7 +119036,7 @@
     <sub-title lang="pt">Ladrões e Falsários</sub-title>
     <desc lang="pt">O cotidiano tenso e imprevisível do metrô revela cenas fortes: roubos, venda irregular de bilhetes e passageiros que se colocam em risco na cidade subterrânea.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">10.8.</episode-num>
+    <episode-num system="xmltv_ns">12.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -165253,7 +165278,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260512203000 -0300" stop="20260512213000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Pré-Hora: Cruzeiro x Goiás - ao vivo</title>
+    <title lang="pt">Pré-Jogo: Cruzeiro x Goiás - ao vivo</title>
     <desc lang="pt">Cruzeiro e Goiás jogam a rodada de volta da 5ª fase da Copa do Brasil, no Mineirão, em Belo Horizonte (MG).</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
@@ -165264,268 +165289,169 @@
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260512234000 -0300" stop="20260513001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260512234000 -0300" stop="20260513004000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Goiás x Cruzeiro</title>
     <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260512234000 -0300" stop="20260513001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260512234000 -0300" stop="20260513004000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Goiás x Cruzeiro</title>
     <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513001000 -0300" stop="20260513004000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513004000 -0300" stop="20260513014000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513004000 -0300" stop="20260513011000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Athletico-PR</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513014000 -0300" stop="20260513024000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Paysandu x Vasco</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513011000 -0300" stop="20260513014000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513024000 -0300" stop="20260513034000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Goiás x Cruzeiro</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513014000 -0300" stop="20260513021000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513034000 -0300" stop="20260513044000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Ceará</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513021000 -0300" stop="20260513024000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513044000 -0300" stop="20260513054000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Athletico-PR x Atlético-GO</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513024000 -0300" stop="20260513033000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">15ª Rodada</sub-title>
+  <programme start="20260513054000 -0300" stop="20260513064000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bahia x Remo</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260513064000 -0300" stop="20260513070000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada: Copa do Brasil - 5ª Fase</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">1200</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.133.</episode-num>
+    <episode-num system="xmltv_ns">86.133.</episode-num>
   </programme>
-  <programme start="20260513033000 -0300" stop="20260513040000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513040000 -0300" stop="20260513043000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Botafogo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513070000 -0300" stop="20260513080000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Goiás</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513043000 -0300" stop="20260513050000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513080000 -0300" stop="20260513090000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Ceará</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513050000 -0300" stop="20260513053000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Chapecoense</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513090000 -0300" stop="20260513100000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513053000 -0300" stop="20260513060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Athletico-PR</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513100000 -0300" stop="20260513110000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Paysandu x Vasco</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513060000 -0300" stop="20260513063000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513110000 -0300" stop="20260513120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Goiás x Cruzeiro</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513063000 -0300" stop="20260513070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Bahia</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513120000 -0300" stop="20260513130000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513070000 -0300" stop="20260513073000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Internacional</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513130000 -0300" stop="20260513140000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x Ceará</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513073000 -0300" stop="20260513080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513140000 -0300" stop="20260513150000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bahia x Remo</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513080000 -0300" stop="20260513083000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513083000 -0300" stop="20260513090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Botafogo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513090000 -0300" stop="20260513093000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513093000 -0300" stop="20260513100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513100000 -0300" stop="20260513103000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Chapecoense</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513103000 -0300" stop="20260513110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Flamengo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513110000 -0300" stop="20260513113000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513113000 -0300" stop="20260513120000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Botafogo x Remo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513120000 -0300" stop="20260513123000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Palmeiras x Santos</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513123000 -0300" stop="20260513130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vitória x Coritiba</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513130000 -0300" stop="20260513133000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Atlético-MG</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513133000 -0300" stop="20260513140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Bahia</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513140000 -0300" stop="20260513143000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Vasco</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513143000 -0300" stop="20260513150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Internacional x Fluminense</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513150000 -0300" stop="20260513153000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Chapecoense x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513153000 -0300" stop="20260513160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Corinthians</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513150000 -0300" stop="20260513160000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Goiás x Cruzeiro</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260513160000 -0300" stop="20260513170000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x São Paulo</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <title lang="pt">Cruzeiro x Goiás</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260513170000 -0300" stop="20260513180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Palmeiras</title>
+    <title lang="pt">Botafogo x São Paulo</title>
     <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260513180000 -0300" stop="20260513210000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260513180000 -0300" stop="20260513190000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.133.</episode-num>
+  </programme>
+  <programme start="20260513190000 -0300" stop="20260513210000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Juventude x São Paulo - ao vivo</title>
     <desc lang="pt">Juventude e São Paulo jogam a rodada de volta da 5ª fase da Copa do Brasil, no Alfredo Jaconi, em Caxias do Sul (RS). Acesse o canal 250 e seja assinante Premiere.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260513210000 -0300" stop="20260513233000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260513210000 -0300" stop="20260513234000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Ceará x Atlético-MG - ao vivo</title>
     <desc lang="pt">Ceará e Atlético-MG jogam a rodada de volta da 5ª fase da Copa do Brasil, no Castelão, em Fortaleza (CE). Acesse o canal 250 e seja assinante Premiere.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">9600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260513233000 -0300" stop="20260514000000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260513234000 -0300" stop="20260514000000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Paysandu</title>
+    <desc lang="pt">O ciclo de 2026 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil!</desc>
+    <length units="minutes">1200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -181985,7 +181911,7 @@
     <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
     <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">11.121.</episode-num>
+    <episode-num system="xmltv_ns">12.173.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -182118,10 +182044,20 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260513200000 -0300" stop="20260513223000 -0300" channel="SPORTV 3">
+  <programme start="20260513200000 -0300" stop="20260513201500 -0300" channel="SPORTV 3">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira: Surfe</title>
+    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">12.173.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260513201500 -0300" stop="20260513223000 -0300" channel="SPORTV 3">
     <title lang="pt">NBB: Brasília x Flamengo - ao vivo</title>
     <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260513223000 -0300" stop="20260513234500 -0300" channel="SPORTV 3">
@@ -182131,25 +182067,20 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">82.133.</episode-num>
   </programme>
-  <programme start="20260513234500 -0300" stop="20260514001500 -0300" channel="SPORTV 3">
+  <programme start="20260513234500 -0300" stop="20260514000000 -0300" channel="SPORTV 3">
     <title lang="pt">Heróis do Futuro: Caroline Almeida: Boxe</title>
     <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">13.234.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260513234500 -0300" stop="20260514001500 -0300" channel="SPORTV 3">
-    <title lang="pt">Heróis do Futuro: Caroline Almeida: Boxe</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260514000000 -0300" stop="20260514001500 -0300" channel="SPORTV 3">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">13.234.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20260514001500 -0300" stop="20260514021000 -0300" channel="SPORTV 3">
     <title lang="pt">Jungle Fight 148: São Paulo</title>
@@ -195237,15 +195168,15 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512060800 -0300" stop="20260512061000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512060800 -0300" stop="20260512060900 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">120</length>
+    <length units="minutes">60</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512061000 -0300" stop="20260512062700 -0300" channel="TNT SERIES HD">
+  <programme start="20260512060900 -0300" stop="20260512062600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <length units="minutes">1020</length>
@@ -195254,7 +195185,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512062700 -0300" stop="20260512063900 -0300" channel="TNT SERIES HD">
+  <programme start="20260512062600 -0300" stop="20260512063800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <length units="minutes">720</length>
@@ -195263,7 +195194,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260512063900 -0300" stop="20260512064100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512063800 -0300" stop="20260512064000 -0300" channel="TNT SERIES HD">
     <title lang="pt">TNT Buzz</title>
     <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
     <length units="minutes">120</length>
@@ -195271,7 +195202,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512064100 -0300" stop="20260512072800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512064000 -0300" stop="20260512072700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Before and After</sub-title>
     <desc lang="pt">A Capitã Raydor toma as rédeas da divisão de Crimes Graves para o desprazer de Provenza ao investigar um tiroteio em um estacionamento.</desc>
@@ -195281,7 +195212,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260512072800 -0300" stop="20260512081500 -0300" channel="TNT SERIES HD">
+  <programme start="20260512072700 -0300" stop="20260512081400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Andy in C Minor</sub-title>
     <desc lang="pt">No ano de 2006, um jovem surdo desapareceu sem deixar pistas. Agora, depois de encontrar uma nova prova, a equipe une seus esforços para encontrar o corpo e o assassino do estudante.</desc>
@@ -195291,17 +195222,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512081500 -0300" stop="20260512090300 -0300" channel="TNT SERIES HD">
+  <programme start="20260512081400 -0300" stop="20260512090100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">The Road</sub-title>
     <desc lang="pt">A equipe volta a investigar um suspeito assassinato de 2007, quando uma futura noiva foi sequestrada no dia da sua festa de noivado.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512090300 -0300" stop="20260512095100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512090100 -0300" stop="20260512094900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Bad Reputation</sub-title>
     <desc lang="pt">Em 1997, a polícia investigava um caso de um ex-presidiário quando sua mão foi encontrada em uma batida policial.</desc>
@@ -195311,57 +195242,57 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512095100 -0300" stop="20260512103800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512094900 -0300" stop="20260512103500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sleeping</sub-title>
     <desc lang="pt">A equipe reabre um caso de uma mulher que acredita-se ter cometido suicídio em 1962.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512103800 -0300" stop="20260512112500 -0300" channel="TNT SERIES HD">
+  <programme start="20260512103500 -0300" stop="20260512112300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Many Happy Returns</sub-title>
     <desc lang="pt">No aniversário de Reese, Finch lhe dá um dia de folga na esperança de mantê-lo longe da próxima pessoa de interesse.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512112500 -0300" stop="20260512121300 -0300" channel="TNT SERIES HD">
+  <programme start="20260512112300 -0300" stop="20260512121000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">No Good Deed</sub-title>
     <desc lang="pt">Finch encontra muito em comum com seu mais novo número, que colidiu com o governo. Enquanto isso, Reese descobre o passado de Finch.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512121300 -0300" stop="20260512130100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512121000 -0300" stop="20260512125900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Firewall</sub-title>
     <desc lang="pt">Reese fica preso com a POI em uma parte fortemente vigiada da cidade, e deve contar com a ajuda de Finch, Carter e Fusco.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512130100 -0300" stop="20260512134700 -0300" channel="TNT SERIES HD">
+  <programme start="20260512125900 -0300" stop="20260512134600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Despedaçada</sub-title>
     <desc lang="pt">Durante a investigação do sequestro de um menino de oito anos, os detetives se deparam com uma situação perigosa e com revelações sobre o passado da promotora Jo Marlowe.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">11.22.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512134700 -0300" stop="20260512143300 -0300" channel="TNT SERIES HD">
+  <programme start="20260512134600 -0300" stop="20260512143200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Politicamente Correto</sub-title>
     <desc lang="pt">Os detetives investigam o assassinato de uma mulher que sangrou pelo pescoço até a morte. Eles suspeitam de um vocalista de uma banda de rock que quer parecer um vampiro e morde o pescoço de garotas.</desc>
@@ -195371,17 +195302,17 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512143300 -0300" stop="20260512152000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512143200 -0300" stop="20260512151800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Possuídos</sub-title>
     <desc lang="pt">Um rapaz é agredido depois de encontrar sua namorada presa a uma cadeira e vestindo apenas roupa íntima. Os detetives suspeitam que o passado da jovem possa ajudar a explicar o crime.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">12.13.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512152000 -0300" stop="20260512160600 -0300" channel="TNT SERIES HD">
+  <programme start="20260512151800 -0300" stop="20260512160400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Máscara</sub-title>
     <desc lang="pt">Uma mulher é violentada por um homem mascarado. Os detetives descobrem que o pai da vítima, um terapeuta sexual, pode ter informações sobre o caso, mas se recusa a falar por causa do sigilo médico.</desc>
@@ -195391,7 +195322,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260512160600 -0300" stop="20260512165600 -0300" channel="TNT SERIES HD">
+  <programme start="20260512160400 -0300" stop="20260512165400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Andy in C Minor</sub-title>
     <desc lang="pt">No ano de 2006, um jovem surdo desapareceu sem deixar pistas. Agora, depois de encontrar uma nova prova, a equipe une seus esforços para encontrar o corpo e o assassino do estudante.</desc>
@@ -195401,7 +195332,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512165600 -0300" stop="20260512174400 -0300" channel="TNT SERIES HD">
+  <programme start="20260512165400 -0300" stop="20260512174200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">The Road</sub-title>
     <desc lang="pt">A equipe volta a investigar um suspeito assassinato de 2007, quando uma futura noiva foi sequestrada no dia da sua festa de noivado.</desc>
@@ -195411,27 +195342,57 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512174400 -0300" stop="20260512183300 -0300" channel="TNT SERIES HD">
+  <programme start="20260512174200 -0300" stop="20260512183000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Bad Reputation</sub-title>
     <desc lang="pt">Em 1997, a polícia investigava um caso de um ex-presidiário quando sua mão foi encontrada em uma batida policial.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512183300 -0300" stop="20260512192000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512183000 -0300" stop="20260512191800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sleeping</sub-title>
     <desc lang="pt">A equipe reabre um caso de uma mulher que acredita-se ter cometido suicídio em 1962.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512192000 -0300" stop="20260512200800 -0300" channel="TNT SERIES HD">
+  <programme start="20260512191800 -0300" stop="20260512200500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">Red Badge</sub-title>
+    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512200500 -0300" stop="20260512205300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">Cherry Picked</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512205300 -0300" stop="20260512214200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
+    <length units="minutes">2940</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512214200 -0300" stop="20260512223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Badge</sub-title>
     <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
@@ -195441,7 +195402,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512200800 -0300" stop="20260512205400 -0300" channel="TNT SERIES HD">
+  <programme start="20260512223000 -0300" stop="20260512231600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Cherry Picked</sub-title>
     <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
@@ -195451,87 +195412,57 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260512205400 -0300" stop="20260512214100 -0300" channel="TNT SERIES HD">
+  <programme start="20260512231600 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512214100 -0300" stop="20260512223000 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Red Badge</sub-title>
-    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
-    <length units="minutes">2940</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512223000 -0300" stop="20260512231500 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Cherry Picked</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512231500 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260512231500 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260513000200 -0300" stop="20260513004800 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Red Badge</sub-title>
-    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
     <length units="minutes">2760</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260513004800 -0300" stop="20260513013300 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">Cherry Picked</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260513013300 -0300" stop="20260513021800 -0300" channel="TNT SERIES HD">
-    <title lang="pt">The Mentalist</title>
-    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
-    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
-    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513021800 -0300" stop="20260513030000 -0300" channel="TNT SERIES HD">
+  <programme start="20260512231600 -0300" stop="20260513000200 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
+    <length units="minutes">2760</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513000200 -0300" stop="20260513004900 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">Red Badge</sub-title>
+    <desc lang="pt">Depois de receber uma dica anônima, a equipe da CBI encontra o cadáver de um pedófilo que Lisbon prendeu há anos com Sam Bosco. Agora Lisbon vira a principal suspeita do crime.</desc>
+    <length units="minutes">2820</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513004900 -0300" stop="20260513013300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">Cherry Picked</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o sequestro de um casal que pode ter sido vítima de troca de identidades. Enquanto isso, Jane continua sua investigação sobre o paradeiro de Lorelei.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513013300 -0300" stop="20260513021700 -0300" channel="TNT SERIES HD">
+    <title lang="pt">The Mentalist</title>
+    <sub-title lang="pt">If It Bleeds, It Leads</sub-title>
+    <desc lang="pt">A equipe do CBI investiga o assassinato de uma repórter que pode ter se aprofundado demais na sua matéria. Enquanto isso, Jane insiste em seguir suas próprias pistas para encontrar Lorelai.</desc>
+    <length units="minutes">2640</length>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513021700 -0300" stop="20260513025900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Possuídos</sub-title>
     <desc lang="pt">Um rapaz é agredido depois de encontrar sua namorada presa a uma cadeira e vestindo apenas roupa íntima. Os detetives suspeitam que o passado da jovem possa ajudar a explicar o crime.</desc>
@@ -195541,7 +195472,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513030000 -0300" stop="20260513034200 -0300" channel="TNT SERIES HD">
+  <programme start="20260513025900 -0300" stop="20260513034100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Máscara</sub-title>
     <desc lang="pt">Uma mulher é violentada por um homem mascarado. Os detetives descobrem que o pai da vítima, um terapeuta sexual, pode ter informações sobre o caso, mas se recusa a falar por causa do sigilo médico.</desc>
@@ -195551,7 +195482,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513034200 -0300" stop="20260513042400 -0300" channel="TNT SERIES HD">
+  <programme start="20260513034100 -0300" stop="20260513042300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Despedaçada</sub-title>
     <desc lang="pt">Durante a investigação do sequestro de um menino de oito anos, os detetives se deparam com uma situação perigosa e com revelações sobre o passado da promotora Jo Marlowe.</desc>
@@ -195561,7 +195492,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513042400 -0300" stop="20260513050600 -0300" channel="TNT SERIES HD">
+  <programme start="20260513042300 -0300" stop="20260513050500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Politicamente Correto</sub-title>
     <desc lang="pt">Os detetives investigam o assassinato de uma mulher que sangrou pelo pescoço até a morte. Eles suspeitam de um vocalista de uma banda de rock que quer parecer um vampiro e morde o pescoço de garotas.</desc>
@@ -195571,7 +195502,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513050600 -0300" stop="20260513054900 -0300" channel="TNT SERIES HD">
+  <programme start="20260513050500 -0300" stop="20260513054800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Weak</sub-title>
     <desc lang="pt">Benson conta com a ajuda de uma psiquiatra para desvendar caso de um assassino em série que só ataca mulheres inválidas.</desc>
@@ -195581,46 +195512,60 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513054900 -0300" stop="20260513060000 -0300" channel="TNT SERIES HD">
+  <programme start="20260513054800 -0300" stop="20260513060000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">5.96.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260513060000 -0300" stop="20260513063700 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Major Crimes</title>
-    <sub-title lang="pt">Medical Causes</sub-title>
-    <desc lang="pt">Os fatos se tornam confusos em um caso que envolve um acidente de carro fatal em uma discoteca. Enquanto isso Rusty finalmente espera a volta da mãe.</desc>
-    <length units="minutes">2220</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+  <programme start="20260513060000 -0300" stop="20260513060300 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260513063700 -0300" stop="20260513072300 -0300" channel="TNT SERIES HD">
+  <programme start="20260513060300 -0300" stop="20260513060600 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">180</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260513060600 -0300" stop="20260513060800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260513060800 -0300" stop="20260513065300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">The Ecstasy and the Agony</sub-title>
     <desc lang="pt">A unidade combina forças com o FBI quando um caso de homicídio leva ao envolvimento da máfia israelense e a um &quot;estrategista intuitivo&quot;.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260513072300 -0300" stop="20260513080800 -0300" channel="TNT SERIES HD">
+  <programme start="20260513065300 -0300" stop="20260513074100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Ghost of My Child</sub-title>
     <desc lang="pt">Final de temporada: Uma mãe viciada em drogas, que perdeu seu filho em um incêndio, em 2005, alega que ela viu a mesma criança no parque.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513080800 -0300" stop="20260513085600 -0300" channel="TNT SERIES HD">
+  <programme start="20260513074100 -0300" stop="20260513082900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Glory Days</sub-title>
     <desc lang="pt">A sexta temporada começa com a re-investigação do assassinato de uma estrela do futebol estudantil, em 1973, na véspera de um jogo do campeonato. O caso não resolvido é reaberto.</desc>
@@ -195630,173 +195575,173 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513085600 -0300" stop="20260513094300 -0300" channel="TNT SERIES HD">
+  <programme start="20260513082900 -0300" stop="20260513091700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">True Calling</sub-title>
     <desc lang="pt">A morte de uma professora de escola em 1991 é re-investigada, quando uma nova evidência indica que ela pode ter sido assassinada, ao invés de ter morrido acidentalmente durante o roubo de seu carro que saiu de controle.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513094300 -0300" stop="20260513102800 -0300" channel="TNT SERIES HD">
+  <programme start="20260513091700 -0300" stop="20260513100500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">The Contingency</sub-title>
     <desc lang="pt">Sem Finch, sequestrado por sua inimiga hacker, Reese pede ajuda aos detetives Carter e Fusco para reencontrar o seu parceiro. Enquanto isso, a máquina nunca dorme, divulgando um novo número para Reese.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513102800 -0300" stop="20260513111400 -0300" channel="TNT SERIES HD">
+  <programme start="20260513100500 -0300" stop="20260513105400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Bad Code</sub-title>
     <desc lang="pt">A máquina apresenta o número de um caso antigo que leva Reese cada vez mais perto de alcançar Finch e sua sequestradora Root.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513111400 -0300" stop="20260513120000 -0300" channel="TNT SERIES HD">
+  <programme start="20260513105400 -0300" stop="20260513114200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Masquerade</sub-title>
     <desc lang="pt">Com Finch de volta, Reese retorna ao trabalho de campo para enfrentar o seu caso mais difícil até agora - proteger a filha de um diplomata brasileiro.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513120000 -0300" stop="20260513124300 -0300" channel="TNT SERIES HD">
+  <programme start="20260513114200 -0300" stop="20260513122600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Salvador</sub-title>
     <desc lang="pt">O assassinato em série de prostitutas jovens tem um elemento em comum: cartões com mensagens religiosas presos ao corpo das vítimas. Os detetives tentam obter pistas com o testemunho da única sobrevivente.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">11.24.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513124300 -0300" stop="20260513132800 -0300" channel="TNT SERIES HD">
+  <programme start="20260513122600 -0300" stop="20260513131200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Substituta</sub-title>
     <desc lang="pt">Os detetives descobrem que uma menina, que consideravam raptada, fugiu para encontrar um homem mais velho. Porém, um segredo guardado pelos pais adotivos da garota pode mudar o rumo das investigações.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513132800 -0300" stop="20260513141000 -0300" channel="TNT SERIES HD">
+  <programme start="20260513131200 -0300" stop="20260513135700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Voo</sub-title>
     <desc lang="pt">O caso de uma adolescente vítima de abuso sexual aponta para o envolvimento de um bilionário, cujo advogado põe toda a investigação de Olivia e Elliot a perder.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">12.15.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513141000 -0300" stop="20260513145400 -0300" channel="TNT SERIES HD">
+  <programme start="20260513135700 -0300" stop="20260513144200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Espetáculo</sub-title>
     <desc lang="pt">Os detetives Stabler e Tutuola procuram por uma vítima e seu agressor após um vídeo de uma agressão sexual ser colocado na Intranet do campus de uma faculdade.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">12.16.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260513145400 -0300" stop="20260513153900 -0300" channel="TNT SERIES HD">
+  <programme start="20260513144200 -0300" stop="20260513153000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Ghost of My Child</sub-title>
     <desc lang="pt">Final de temporada: Uma mãe viciada em drogas, que perdeu seu filho em um incêndio, em 2005, alega que ela viu a mesma criança no parque.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513153900 -0300" stop="20260513162600 -0300" channel="TNT SERIES HD">
+  <programme start="20260513153000 -0300" stop="20260513161900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Glory Days</sub-title>
     <desc lang="pt">A sexta temporada começa com a re-investigação do assassinato de uma estrela do futebol estudantil, em 1973, na véspera de um jogo do campeonato. O caso não resolvido é reaberto.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513162600 -0300" stop="20260513171300 -0300" channel="TNT SERIES HD">
+  <programme start="20260513161900 -0300" stop="20260513171000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">True Calling</sub-title>
     <desc lang="pt">A morte de uma professora de escola em 1991 é re-investigada, quando uma nova evidência indica que ela pode ter sido assassinada, ao invés de ter morrido acidentalmente durante o roubo de seu carro que saiu de controle.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513171300 -0300" stop="20260513180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260513171000 -0300" stop="20260513180100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Wednesday's Women</sub-title>
     <desc lang="pt">Will e Kat viajam para o Mississippi para investigar a morte de uma mulher da Filadélfia em 1964. A mulher estava, secretamente, ajudando a trazer suprimentos para escolas de crianças negras.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513180100 -0300" stop="20260513183000 -0300" channel="TNT SERIES HD">
+  <programme start="20260513180100 -0300" stop="20260513182800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Anitta, O Fenômeno</sub-title>
     <desc lang="pt">Anitta é atualmente a maior artista pop brasileira e uma estrela internacional. Um fenômeno que começa nas ruas dos subúrbios cariocas, bem antes de ganhar o mundo.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">6.77.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260513183000 -0300" stop="20260513192000 -0300" channel="TNT SERIES HD">
+  <programme start="20260513182800 -0300" stop="20260513192300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt">Numa festa do alto escalão de criminosos da contravenção, Maciel é cooptado por Menezes a expandir o projeto de caça-níqueis na favela de Penha e aproveitar a legalização temporária das maquininhas.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513192000 -0300" stop="20260513200700 -0300" channel="TNT SERIES HD">
+  <programme start="20260513192300 -0300" stop="20260513201500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt">Codorna recebe a dura missão de Maciel para queimar os corpos dos porteiros e fica totalmente atordoado. Penha recebe no seu QG, Jéssica, a mãe do menino morto e o líder comunitário.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513200700 -0300" stop="20260513205600 -0300" channel="TNT SERIES HD">
+  <programme start="20260513201500 -0300" stop="20260513210800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt">Para surpresa de Maciel, a polícia civil cumpre um mandado de prisão e o prende dentro do QG da milícia. Uma denúncia anônima foi feita delatando a chacina dos porteiros de Penha.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">3180</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513205600 -0300" stop="20260513214100 -0300" channel="TNT SERIES HD">
+  <programme start="20260513210800 -0300" stop="20260513215700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Um Dia Qualquer</title>
     <desc lang="pt">Penha aproveita o dinheiro em caixa para recrutar a molecada da favela numa preparação para uma eventual invasão da milícia. Maciel é solto a mando de Menezes e deixa claro para Quirino que irá resolver Penha e Codorna.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513214100 -0300" stop="20260513215100 -0300" channel="TNT SERIES HD">
+  <programme start="20260513215700 -0300" stop="20260513220700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Quarto Quente Branco</sub-title>
     <desc lang="pt">Jeane e Caio são irmãos a caminho da escola. A menina usa uma máscara de Arara e Caio usa sapatos peculiares. Embora ninguém saiba, Jeane consegue ouvir os pensamentos de todos no Buzum.</desc>
@@ -195806,17 +195751,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260513215100 -0300" stop="20260513223600 -0300" channel="TNT SERIES HD">
+  <programme start="20260513220700 -0300" stop="20260513225800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Sails In The Sunset</sub-title>
     <desc lang="pt">Com a ajuda de Brett Stiles,  Jane arma um plano elaborado para libertar Lorelei Martins da prisão, na esperança de que ela o guie até Red John.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513223600 -0300" stop="20260513232300 -0300" channel="TNT SERIES HD">
+  <programme start="20260513225800 -0300" stop="20260513234500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Black Cherry</sub-title>
     <desc lang="pt">A equipe do CBI investiga o assassinato de um corretor de imóveis ligado a gangues no passado. Enquanto isso, Jane busca pistas que possam levá-lo a Red John.,</desc>
@@ -195826,21 +195771,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513232300 -0300" stop="20260514000700 -0300" channel="TNT SERIES HD">
+  <programme start="20260513234500 -0300" stop="20260514003300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Menace</sub-title>
     <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513232300 -0300" stop="20260514000700 -0300" channel="TNT SERIES HD">
+  <programme start="20260513234500 -0300" stop="20260514003300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Menace</sub-title>
     <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -229236,50 +229181,55 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.132.</episode-num>
   </programme>
-  <programme start="20260512193000 -0300" stop="20260512220000 -0300" channel="Xsports HD">
-    <title lang="pt">NBB - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260512193000 -0300" stop="20260512211500 -0300" channel="Xsports HD">
+    <title lang="pt">Osasuna x Atlético de Madrid</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260512220000 -0300" stop="20260512223000 -0300" channel="Xsports HD">
+  <programme start="20260512211500 -0300" stop="20260512214500 -0300" channel="Xsports HD">
     <title lang="pt">Surf Brasil: Highlights: Etapa de Porto de Galinhas: Dia 4</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
   </programme>
-  <programme start="20260512223000 -0300" stop="20260513001500 -0300" channel="Xsports HD">
-    <title lang="pt">Osasuna x Atlético de Madrid</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
+  <programme start="20260512214500 -0300" stop="20260512224500 -0300" channel="Xsports HD">
+    <title lang="pt">Bundesliga Highlights Show</title>
+    <desc lang="pt">Especial Bundesliga: gols, rivalidades e bastidores dos grandes clubes da Alemanha em um campeonato cheio de emoção e tradição!</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.132.</episode-num>
   </programme>
-  <programme start="20260512223000 -0300" stop="20260513001500 -0300" channel="Xsports HD">
-    <title lang="pt">Osasuna x Atlético de Madrid</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260513001500 -0300" stop="20260513014500 -0300" channel="Xsports HD">
+  <programme start="20260512224500 -0300" stop="20260513001500 -0300" channel="Xsports HD">
     <title lang="pt">Nascar Cup Series: Watkins Glen International</title>
     <desc lang="pt">NASCAR: velocidade, adrenalina e manobras ousadas nas pistas americanas, com disputas emocionantes carro a carro até a linha de chegada!</desc>
     <length units="minutes">5400</length>
   </programme>
-  <programme start="20260513014500 -0300" stop="20260513033000 -0300" channel="Xsports HD">
+  <programme start="20260512224500 -0300" stop="20260513001500 -0300" channel="Xsports HD">
+    <title lang="pt">Nascar Cup Series: Watkins Glen International</title>
+    <desc lang="pt">NASCAR: velocidade, adrenalina e manobras ousadas nas pistas americanas, com disputas emocionantes carro a carro até a linha de chegada!</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20260513001500 -0300" stop="20260513020000 -0300" channel="Xsports HD">
     <title lang="pt">Sunderland x Manchester United</title>
     <desc lang="pt">Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260513033000 -0300" stop="20260513040000 -0300" channel="Xsports HD">
-    <title lang="pt">Baú Dos Campeões</title>
+  <programme start="20260513020000 -0300" stop="20260513033000 -0300" channel="Xsports HD">
+    <title lang="pt">Cascavel x Marreco</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">83.11.</episode-num>
+    <length units="minutes">5400</length>
   </programme>
-  <programme start="20260513040000 -0300" stop="20260513051500 -0300" channel="Xsports HD">
+  <programme start="20260513033000 -0300" stop="20260513034500 -0300" channel="Xsports HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <sub-title lang="pt">Especial Stuttgart</sub-title>
+    <desc lang="pt">Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">83.1.</episode-num>
+  </programme>
+  <programme start="20260513034500 -0300" stop="20260513051500 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
