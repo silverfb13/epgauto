@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-15 11:30:47" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-15 14:30:44" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -179540,17 +179540,17 @@
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260515100000 -0300" stop="20260515103000 -0300" channel="SPORTV 2">
+  <programme start="20260515100000 -0300" stop="20260515104500 -0300" channel="SPORTV 2">
     <title lang="pt">My Olympic Moment: Meu Momento Olímpico</title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2700</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">80.1.</episode-num>
   </programme>
-  <programme start="20260515103000 -0300" stop="20260515133000 -0300" channel="SPORTV 2">
+  <programme start="20260515104500 -0300" stop="20260515133000 -0300" channel="SPORTV 2">
     <title lang="pt">Copa do Mundo de High Diving - ao vivo</title>
     <desc lang="pt">Acompanhe a Copa do Mundo de High Diving no sportv! Emoção nas alturas com saltos impressionantes.</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">9900</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260515133000 -0300" stop="20260515153000 -0300" channel="SPORTV 2">
@@ -179700,41 +179700,55 @@
     <length units="minutes">18000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516200000 -0300" stop="20260516204500 -0300" channel="SPORTV 2">
+  <programme start="20260516200000 -0300" stop="20260516202000 -0300" channel="SPORTV 2">
     <title lang="pt">Lendas: Bebeto</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">1200</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">80.136.</episode-num>
   </programme>
-  <programme start="20260516204500 -0300" stop="20260516223000 -0300" channel="SPORTV 2">
+  <programme start="20260516202000 -0300" stop="20260516222000 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Diamond League: 1ª Etapa - Xangai, China</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260516223000 -0300" stop="20260516233000 -0300" channel="SPORTV 2">
+  <programme start="20260516222000 -0300" stop="20260516231000 -0300" channel="SPORTV 2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">16.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260516233000 -0300" stop="20260517000000 -0300" channel="SPORTV 2">
+  <programme start="20260516231000 -0300" stop="20260516234000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">83.2.</episode-num>
   </programme>
-  <programme start="20260517000000 -0300" stop="20260517020000 -0300" channel="SPORTV 2">
+  <programme start="20260516234000 -0300" stop="20260517001500 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Acompanhe os bastidores dos treinos e fora da quadra da seleção brasileira de vôlei feminina, a preparação e a trajetória na Liga das Nações e no Mundial.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.3.</episode-num>
+  </programme>
+  <programme start="20260516234000 -0300" stop="20260517001500 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Acompanhe os bastidores dos treinos e fora da quadra da seleção brasileira de vôlei feminina, a preparação e a trajetória na Liga das Nações e no Mundial.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.3.</episode-num>
+  </programme>
+  <programme start="20260517001500 -0300" stop="20260517020000 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -179821,66 +179835,73 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260517183000 -0300" stop="20260517210000 -0300" channel="SPORTV 2">
+  <programme start="20260517183000 -0300" stop="20260517204500 -0300" channel="SPORTV 2">
     <title lang="pt">Taubaté x Minas</title>
     <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">8100</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260517210000 -0300" stop="20260517233000 -0300" channel="SPORTV 2">
+  <programme start="20260517204500 -0300" stop="20260517223500 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Taubaté</title>
     <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">6600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260517233000 -0300" stop="20260518013000 -0300" channel="SPORTV 2">
+  <programme start="20260517223500 -0300" stop="20260518003500 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260517233000 -0300" stop="20260518013000 -0300" channel="SPORTV 2">
+  <programme start="20260517223500 -0300" stop="20260518003500 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260518013000 -0300" stop="20260518023000 -0300" channel="SPORTV 2">
+  <programme start="20260518003500 -0300" stop="20260518013500 -0300" channel="SPORTV 2">
     <title lang="pt">Vôlei de Praia: Xiamen, China</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260518023000 -0300" stop="20260518030000 -0300" channel="SPORTV 2">
+  <programme start="20260518013500 -0300" stop="20260518021500 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.1.</episode-num>
+    <episode-num system="xmltv_ns">81.1.</episode-num>
   </programme>
-  <programme start="20260518030000 -0300" stop="20260518033000 -0300" channel="SPORTV 2">
+  <programme start="20260518021500 -0300" stop="20260518025500 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.2.</episode-num>
+    <episode-num system="xmltv_ns">82.2.</episode-num>
   </programme>
-  <programme start="20260518033000 -0300" stop="20260518040000 -0300" channel="SPORTV 2">
+  <programme start="20260518025500 -0300" stop="20260518034000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">Acompanhe os bastidores dos treinos e fora da quadra da seleção brasileira de vôlei feminina, a preparação e a trajetória na Liga das Nações e no Mundial.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2700</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.3.</episode-num>
+    <episode-num system="xmltv_ns">82.3.</episode-num>
   </programme>
-  <programme start="20260518040000 -0300" stop="20260518060000 -0300" channel="SPORTV 2">
+  <programme start="20260518034000 -0300" stop="20260518042000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">A equipe da série 'Sem Bloqueio' acompanha a Seleção Brasileira Feminina de Vôlei no momento mais esperado da temporada: o Campeonato Mundial.</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.4.</episode-num>
+  </programme>
+  <programme start="20260518042000 -0300" stop="20260518060000 -0300" channel="SPORTV 2">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6000</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -180054,10 +180075,10 @@
     <episode-num system="xmltv_ns">17.8.</episode-num>
   </programme>
   <programme start="20260519180000 -0300" stop="20260519193000 -0300" channel="SPORTV 2">
-    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-    <category lang="en">sports (general)</category>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260519193000 -0300" stop="20260519203000 -0300" channel="SPORTV 2">
     <title lang="pt">Faixa Olímpica: On The Line Olímpicas dos 100m Rasos</title>
@@ -180074,10 +180095,10 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260520004500 -0300" channel="SPORTV 2">
+  <programme start="20260519223000 -0300" stop="20260520003000 -0300" channel="SPORTV 2">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -180155,29 +180176,31 @@
     <length units="minutes">11100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260515200000 -0300" stop="20260516020000 -0300" channel="SPORTV 3">
+  <programme start="20260515200000 -0300" stop="20260516030000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">21600</length>
+    <length units="minutes">25200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260515200000 -0300" stop="20260516020000 -0300" channel="SPORTV 3">
+  <programme start="20260515200000 -0300" stop="20260516030000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">21600</length>
+    <length units="minutes">25200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516020000 -0300" stop="20260516060000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260516030000 -0300" stop="20260516053000 -0300" channel="SPORTV 3">
+    <title lang="pt">Grand Prix de Judô: Astana, Cazaquistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As finais do Grand Prix de Judô prometem aqui no Sportv! Não perca!</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">3.136.</episode-num>
   </programme>
-  <programme start="20260516060000 -0300" stop="20260516082500 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">8700</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260516053000 -0300" stop="20260516082500 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC BJJ 7</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">10500</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260516082500 -0300" stop="20260516085500 -0300" channel="SPORTV 3">
     <title lang="pt">Olympic Rowing Champion Sizwe Ndlovu Visits Refugees In Greece</title>
@@ -180199,26 +180222,16 @@
     <length units="minutes">12600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516140000 -0300" stop="20260516141000 -0300" channel="SPORTV 3">
-    <title lang="pt">Heróis do Futuro: Caroline Almeida: Boxe</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">13.234.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260516141000 -0300" stop="20260516145500 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL Replay 2026: Rip Curl Pro Bells Beach</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260516140000 -0300" stop="20260516165500 -0300" channel="SPORTV 3">
+    <title lang="pt">Surfe: Melhores Momentos - Etapa de Margaret River</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">10500</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260516145500 -0300" stop="20260516180000 -0300" channel="SPORTV 3">
+  <programme start="20260516165500 -0300" stop="20260516180000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">11100</length>
+    <length units="minutes">3900</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260516180000 -0300" stop="20260516220000 -0300" channel="SPORTV 3">
@@ -180227,16 +180240,16 @@
     <length units="minutes">14400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516220000 -0300" stop="20260517010000 -0300" channel="SPORTV 3">
+  <programme start="20260516220000 -0300" stop="20260517030000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">18000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516220000 -0300" stop="20260517010000 -0300" channel="SPORTV 3">
+  <programme start="20260516220000 -0300" stop="20260517030000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">10800</length>
+    <length units="minutes">18000</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260517010000 -0300" stop="20260517013000 -0300" channel="SPORTV 3">
