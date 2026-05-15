@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-15 14:30:44" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-15 17:30:44" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -102941,7 +102941,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">14.24.</episode-num>
+    <episode-num system="xmltv_ns">15.32.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103126,7 +103126,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">14.24.</episode-num>
+    <episode-num system="xmltv_ns">15.32.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103201,10 +103201,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260516144000 -0300" stop="20260516161500 -0300" channel="GLOBO SÃO PAULO">
-    <title lang="pt">Sessão de Sábado: Jumanji</title>
-    <desc lang="pt">Crianças acham jogo que é capaz de liberar animais de outro mundo e com isso trazem também de volta um garoto, agora já adulto, aprisionado há 30 anos.</desc>
-    <length units="minutes">5700</length>
+  <programme start="20260516144000 -0300" stop="20260516153000 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">84.136.</episode-num>
+  </programme>
+  <programme start="20260516153000 -0300" stop="20260516161500 -0300" channel="GLOBO SÃO PAULO">
+    <title lang="pt">O Melhor da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">15.136.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -179313,24 +179320,24 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.138.</episode-num>
   </programme>
-  <programme start="20260518153000 -0300" stop="20260518170000 -0300" channel="SPORTV">
+  <programme start="20260518153000 -0300" stop="20260518164000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - ao vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">85.138.</episode-num>
   </programme>
-  <programme start="20260518170000 -0300" stop="20260518183000 -0300" channel="SPORTV">
+  <programme start="20260518164000 -0300" stop="20260518180000 -0300" channel="SPORTV">
     <title lang="pt">Convocação da Seleção Brasileira - ao vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.138.</episode-num>
+    <episode-num system="xmltv_ns">86.138.</episode-num>
   </programme>
-  <programme start="20260518183000 -0300" stop="20260518203000 -0300" channel="SPORTV">
+  <programme start="20260518180000 -0300" stop="20260518203000 -0300" channel="SPORTV">
     <title lang="pt">Seleção Copa: Especial Convocação da Seleção …</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">9000</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">88.138.</episode-num>
   </programme>
@@ -183307,43 +183314,43 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260519000000 -0300" stop="20260519030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519030000 -0300" stop="20260519060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519090000 -0300" stop="20260519130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260519130000 -0300" stop="20260519150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260519150000 -0300" stop="20260519180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519180000 -0300" stop="20260519210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519210000 -0300" stop="20260520000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
+    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260515000000 -0300" stop="20260515030000 -0300" channel="SportyNet + 2">
@@ -193606,17 +193613,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260516062200 -0300" stop="20260516081200 -0300" channel="TNT SERIES HD">
+  <programme start="20260516062200 -0300" stop="20260516070800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Carpter Treatment</sub-title>
     <desc lang="pt">Jane e o resto da equipe investigam o assassinato de um prisioneiro que foi libertado devido a evidências no DNA.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516081200 -0300" stop="20260516085500 -0300" channel="TNT SERIES HD">
+  <programme start="20260516070800 -0300" stop="20260516075100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Ponies</sub-title>
     <desc lang="pt">A equipe do CBI é chamada para investigar a morte de um jockey famoso.</desc>
@@ -193626,211 +193633,211 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516085500 -0300" stop="20260516093900 -0300" channel="TNT SERIES HD">
+  <programme start="20260516075100 -0300" stop="20260516084100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Pink Channel Suit</sub-title>
     <desc lang="pt">A equipe do CBI deve investigar um caso quando um assassinato e um desaparecimento acontecem na casa com segurança de ponta de uma família rica.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516093900 -0300" stop="20260516102300 -0300" channel="TNT SERIES HD">
+  <programme start="20260516084100 -0300" stop="20260516092900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Hot</sub-title>
     <desc lang="pt">Um prédio explode com Jane e a equipe do CBI dentro dele, investigando uma ameaça de morte. Lisbon se encontra mais uma vez com o milionário Walter Mashburn e faíscas voam.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516102300 -0300" stop="20260516110600 -0300" channel="TNT SERIES HD">
+  <programme start="20260516092900 -0300" stop="20260516101600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Baque</sub-title>
     <desc lang="pt">A investigação do abandono de um bebê leva os detetives a um homem com mais de 20 crianças e um passado negro.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.21.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260516110600 -0300" stop="20260516115000 -0300" channel="TNT SERIES HD">
+  <programme start="20260516101600 -0300" stop="20260516110300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Reparações</sub-title>
     <desc lang="pt">Jonah Dekker, promotor de Los Angeles, vai a Nova York defender seu primo que é acusado de estupro. Porém, o caso parece envolver uma vingança familiar e, por isso, se mostra muito mais complicado.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.22.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260516115000 -0300" stop="20260516123300 -0300" channel="TNT SERIES HD">
+  <programme start="20260516110300 -0300" stop="20260516115100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Delinquente</sub-title>
     <desc lang="pt">Os detetives têm que lidar com um adolescente manipulador que aparece dormindo sem roupas na cama de uma mulher. Conforme as investigações vão se aprofundando, uma verdade inesperada vem à tona.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">12.23.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260516123300 -0300" stop="20260516131800 -0300" channel="TNT SERIES HD">
+  <programme start="20260516115100 -0300" stop="20260516123700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Execução</sub-title>
     <desc lang="pt">Os detetives têm que solucionar o mistério por trás do assassinato de uma mulher que era testemunha em um caso de estupro.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">12.24.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260516131800 -0300" stop="20260516140200 -0300" channel="TNT SERIES HD">
+  <programme start="20260516123700 -0300" stop="20260516132500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Substituta</sub-title>
     <desc lang="pt">Os detetives descobrem que uma menina, que consideravam raptada, fugiu para encontrar um homem mais velho. Porém, um segredo guardado pelos pais adotivos da garota pode mudar o rumo das investigações.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260516140200 -0300" stop="20260516145000 -0300" channel="TNT SERIES HD">
+  <programme start="20260516132500 -0300" stop="20260516141400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Precisa-se de Todos</sub-title>
     <desc lang="pt">Quando o corpo de um jovem, recentemente desaparecido, é encontrado em uma caçamba, junto com os restos de outras três vítimas desaparecidas entre 1993 e 2003, a equipe se dá conta de que estão lidando com um serial k...</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">5.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516145000 -0300" stop="20260516153600 -0300" channel="TNT SERIES HD">
+  <programme start="20260516141400 -0300" stop="20260516150500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Loucura</sub-title>
     <desc lang="pt">A equipe reabre um caso de 1963, em que se presumiu que uma adolescente tinha se suicidado.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">5.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516153600 -0300" stop="20260516162500 -0300" channel="TNT SERIES HD">
+  <programme start="20260516150500 -0300" stop="20260516155600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Justiça</sub-title>
     <desc lang="pt">A palavra &quot;estuprador&quot; aparece na lápide de um estudante que morreu há 25 anos. A equipe percebe que tanto a polícia como o pessoal do colégio tinham ignorado acusações de várias garotas do colégio</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516162500 -0300" stop="20260516171300 -0300" channel="TNT SERIES HD">
+  <programme start="20260516155600 -0300" stop="20260516164700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Família 8108</sub-title>
     <desc lang="pt">A equipe investiga o assassinato de uma família nipo-americana, ocorrido em 1945. O pai era perseguido em seu bairro depois do ataque a Pearl Harbor.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">5.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516171300 -0300" stop="20260516180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260516164700 -0300" stop="20260516173900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Sabotage</sub-title>
     <desc lang="pt">A equipe reabre os casos de bombardeios em canos, que ocorreram em 99, 2001 e 2003, deixando uma vítima cega e matando duas pessoas.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">5.12.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516180100 -0300" stop="20260516184500 -0300" channel="TNT SERIES HD">
+  <programme start="20260516173900 -0300" stop="20260516182700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Blood on His Hands</sub-title>
     <desc lang="pt">Líder de um culto, Bert Stiles, oferece informações a Jane sobre Red John e o desaparecimento de Kristina para acabar com a rivalidade entre os dois.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516184500 -0300" stop="20260516193000 -0300" channel="TNT SERIES HD">
+  <programme start="20260516182700 -0300" stop="20260516191600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Carpter Treatment</sub-title>
     <desc lang="pt">Jane e o resto da equipe investigam o assassinato de um prisioneiro que foi libertado devido a evidências no DNA.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516193000 -0300" stop="20260516201400 -0300" channel="TNT SERIES HD">
+  <programme start="20260516191600 -0300" stop="20260516200200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Ponies</sub-title>
     <desc lang="pt">A equipe do CBI é chamada para investigar a morte de um jockey famoso.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516201400 -0300" stop="20260516205900 -0300" channel="TNT SERIES HD">
+  <programme start="20260516200200 -0300" stop="20260516205100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Pink Channel Suit</sub-title>
     <desc lang="pt">A equipe do CBI deve investigar um caso quando um assassinato e um desaparecimento acontecem na casa com segurança de ponta de uma família rica.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516205900 -0300" stop="20260516214300 -0300" channel="TNT SERIES HD">
+  <programme start="20260516205100 -0300" stop="20260516213800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Hot</sub-title>
     <desc lang="pt">Um prédio explode com Jane e a equipe do CBI dentro dele, investigando uma ameaça de morte. Lisbon se encontra mais uma vez com o milionário Walter Mashburn e faíscas voam.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516214300 -0300" stop="20260516223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260516213800 -0300" stop="20260516222900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Triggerman</sub-title>
     <desc lang="pt">Quando a máquina dá a eles o número de um capanga da máfia, cuja vida corre perigo, Reese e Finch devem decidir se vão intervir ou permitir que a balança da justiça seja equilibrada.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516223000 -0300" stop="20260516231600 -0300" channel="TNT SERIES HD">
+  <programme start="20260516222900 -0300" stop="20260516231800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Bury The Lede</sub-title>
     <desc lang="pt">Reese deve proteger uma jornalista investigativa através de meios sub-reptícios para evitar tornar-se parte de sua história.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516231600 -0300" stop="20260517000400 -0300" channel="TNT SERIES HD">
+  <programme start="20260516231800 -0300" stop="20260517000700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">The High Road</sub-title>
     <desc lang="pt">Reese se disfarça em um bairro idílico quando o último número da máquina o envia para o subúrbio.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260516231600 -0300" stop="20260517000400 -0300" channel="TNT SERIES HD">
+  <programme start="20260516231800 -0300" stop="20260517000700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">The High Road</sub-title>
     <desc lang="pt">Reese se disfarça em um bairro idílico quando o último número da máquina o envia para o subúrbio.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -226775,387 +226782,378 @@
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260516070000 -0300" stop="20260516082000 -0300" channel="Xsports HD">
-    <title lang="pt">Borussia Dortmund x Frankfurt</title>
-    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
-    <length units="minutes">4800</length>
+  <programme start="20260516070000 -0300" stop="20260516080000 -0300" channel="Xsports HD">
+    <title lang="pt">Corinthians x Praia Clube</title>
+    <desc lang="pt">Corinthians e Praia Clube jogam pela Liga Nacional de Futsal.</desc>
+    <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20260516082000 -0300" stop="20260516103000 -0300" channel="Xsports HD">
-    <title lang="pt">Middlesbrough x Southampton - ao vivo</title>
-    <desc lang="pt">Middlesbrough e Southampton jogam a rodada de ida da Semifinal do Campeonato EFL Championship, no Riverside, em Middlesbrough, Inglaterra.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260516080000 -0300" stop="20260516100000 -0300" channel="Xsports HD">
+    <title lang="pt">Diamond League: Etapa de Xangai - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516103000 -0300" stop="20260516105000 -0300" channel="Xsports HD">
+  <programme start="20260516100000 -0300" stop="20260516102000 -0300" channel="Xsports HD">
     <title lang="pt">Tapete Verde - ao vivo</title>
     <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
     <length units="minutes">1200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.136.</episode-num>
   </programme>
-  <programme start="20260516105000 -0300" stop="20260516130000 -0300" channel="Xsports HD">
-    <title lang="pt">Sunderland x Manchester United - ao vivo</title>
-    <desc lang="pt">Sunderland e Manchester United jogam pela 36ª rodada do Segundo Turno da Premier League, no Stadium of Light, em Sunderland, Reino Unido.</desc>
+  <programme start="20260516102000 -0300" stop="20260516123000 -0300" channel="Xsports HD">
+    <title lang="pt">Bayern de Munique x Colônia - ao vivo</title>
+    <desc lang="pt">Bayern de Munique e Colônia jogam pela 34ª rodada do Segundo Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516130000 -0300" stop="20260516132000 -0300" channel="Xsports HD">
+  <programme start="20260516123000 -0300" stop="20260516135000 -0300" channel="Xsports HD">
+    <title lang="pt">Projekt Warszawa x Perugia - ao vivo</title>
+    <desc lang="pt">Final: Projekt Warszawa x Perugia</desc>
+    <length units="minutes">4800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516135000 -0300" stop="20260516160000 -0300" channel="Xsports HD">
+    <title lang="pt">Casa Pia x Rio Ave - ao vivo</title>
+    <desc lang="pt">Casa Pia e Rio Ave jogam pela 34ª rodada do Segundo Turno do Campeonato Português, no Municipal de Rio Maior, no Rio Maior, Portugal.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260516160000 -0300" stop="20260516162000 -0300" channel="Xsports HD">
     <title lang="pt">Tapete Verde - ao vivo</title>
     <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
     <length units="minutes">1200</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.136.</episode-num>
+    <episode-num system="xmltv_ns">86.136.</episode-num>
   </programme>
-  <programme start="20260516132000 -0300" stop="20260516153000 -0300" channel="Xsports HD">
-    <title lang="pt">Wolfsburg x Bayern de Munique - ao vivo</title>
-    <desc lang="pt">Wolfsburg e Bayern de Munique jogam pela 33ª rodada do Segundo Turno da Bundesliga, na Volkswagen Arena, em Wolfsburg, Alemanda.</desc>
+  <programme start="20260516162000 -0300" stop="20260516183000 -0300" channel="Xsports HD">
+    <title lang="pt">Estoril x Benfica - ao vivo</title>
+    <desc lang="pt">Estoril e Benfica jogam pela 34ª rodada do Segundo Turno do Campeonato Português, no António Coimbra da Mota, em Cascais, Portugal.</desc>
     <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260516153000 -0300" stop="20260516155000 -0300" channel="Xsports HD">
+  <programme start="20260516183000 -0300" stop="20260516191500 -0300" channel="Xsports HD">
     <title lang="pt">Tapete Verde - ao vivo</title>
     <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <length units="minutes">1200</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">85.136.</episode-num>
-  </programme>
-  <programme start="20260516155000 -0300" stop="20260516180000 -0300" channel="Xsports HD">
-    <title lang="pt">Real Sociedad x Betis - ao vivo</title>
-    <desc lang="pt">Real Sociedad e Betis jogam pela 35ª rodada do Segundo Turno da La Liga, na Reale Arena, em São Sebastião, Espanha.</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260516180000 -0300" stop="20260516185000 -0300" channel="Xsports HD">
-    <title lang="pt">Tapete Verde - ao vivo</title>
-    <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2700</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.136.</episode-num>
   </programme>
-  <programme start="20260516185000 -0300" stop="20260516210000 -0300" channel="Xsports HD">
-    <title lang="pt">Ceará x Atlético-GO - ao vivo</title>
-    <desc lang="pt">Ceará e Atlético-GO jogam pela 8ª rodada do Primeiro Turno do Campeonato Brasileiro, Série B, no Castelão, em Fortaleza (CE).</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260516210000 -0300" stop="20260516231500 -0300" channel="Xsports HD">
-    <title lang="pt">Juventude x Criciúma - ao vivo</title>
-    <desc lang="pt">Juventude e Criciúma jogam pela 8ª rodada do Primeiro Turno do Campeonato Brasileiro, Série B, no Alfredo Jaconi, em Caxias do Sul (RS).</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260516231500 -0300" stop="20260517010000 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 1</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">6300</length>
-  </programme>
-  <programme start="20260516231500 -0300" stop="20260517010000 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 1</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">6300</length>
-  </programme>
-  <programme start="20260517010000 -0300" stop="20260517030000 -0300" channel="Xsports HD">
-    <title lang="pt">Cblol 2026: Split 1: Semana 7 - Dia 1</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260516191500 -0300" stop="20260516211500 -0300" channel="Xsports HD">
+    <title lang="pt">Marreco x Jaraguá - ao vivo</title>
+    <desc lang="pt">Marreco e Jaraguá jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futsal.</desc>
     <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260517030000 -0300" stop="20260517040000 -0300" channel="Xsports HD">
-    <title lang="pt">Freeride World Tour 2026: Etapa de Verbier - Ski</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">17.30.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260517040000 -0300" stop="20260517051500 -0300" channel="Xsports HD">
-    <title lang="pt">Mundo Em Foco</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260517051500 -0300" stop="20260517070000 -0300" channel="Xsports HD">
-    <title lang="pt">Wolfsburg x Bayern de Munique</title>
-    <desc lang="pt">Futebol Alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260517070000 -0300" stop="20260517071500 -0300" channel="Xsports HD">
-    <title lang="pt">Bundesliga Clubs</title>
-    <sub-title lang="pt">Especial Borussia Dortmund</sub-title>
-    <desc lang="pt">Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">87.5.</episode-num>
-  </programme>
-  <programme start="20260517071500 -0300" stop="20260517093000 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">8100</length>
-  </programme>
-  <programme start="20260517093000 -0300" stop="20260517095000 -0300" channel="Xsports HD">
+  <programme start="20260516211500 -0300" stop="20260516214000 -0300" channel="Xsports HD">
     <title lang="pt">Tapete Verde - ao vivo</title>
     <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1500</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">89.137.</episode-num>
+    <episode-num system="xmltv_ns">81.136.</episode-num>
   </programme>
-  <programme start="20260517095000 -0300" stop="20260517120000 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7800</length>
-  </programme>
-  <programme start="20260517120000 -0300" stop="20260517134500 -0300" channel="Xsports HD">
-    <title lang="pt">Atlético de Madrid x Celta</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260517134500 -0300" stop="20260517155000 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7500</length>
-  </programme>
-  <programme start="20260517155000 -0300" stop="20260517174500 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">6900</length>
-  </programme>
-  <programme start="20260517174500 -0300" stop="20260517185000 -0300" channel="Xsports HD">
-    <title lang="pt">Copa Libertadores de Futebol de Areia</title>
-    <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.</desc>
-    <length units="minutes">3900</length>
-  </programme>
-  <programme start="20260517185000 -0300" stop="20260517195500 -0300" channel="Xsports HD">
-    <title lang="pt">Copa Libertadores de Futebol de Areia</title>
-    <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.</desc>
-    <length units="minutes">3900</length>
-  </programme>
-  <programme start="20260517195500 -0300" stop="20260517220000 -0300" channel="Xsports HD">
-    <title lang="pt">Seattle Reign x Washington Spirit - ao vivo</title>
+  <programme start="20260516214000 -0300" stop="20260516234500 -0300" channel="Xsports HD">
+    <title lang="pt">Denver Summit x Orlando Pride - ao vivo</title>
     <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
     <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260517220000 -0300" stop="20260517234500 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 2</title>
+  <programme start="20260516234500 -0300" stop="20260517013000 -0300" channel="Xsports HD">
+    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 8</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">6300</length>
   </programme>
-  <programme start="20260517234500 -0300" stop="20260518010000 -0300" channel="Xsports HD">
-    <title lang="pt">Copa Libertadores de Futebol de Areia</title>
-    <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.</desc>
-    <length units="minutes">4500</length>
-  </programme>
-  <programme start="20260517234500 -0300" stop="20260518010000 -0300" channel="Xsports HD">
-    <title lang="pt">Copa Libertadores de Futebol de Areia</title>
-    <desc lang="pt">As maiores estrelas do Futebol de Areia se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futebol de Areia.</desc>
-    <length units="minutes">4500</length>
-  </programme>
-  <programme start="20260518010000 -0300" stop="20260518030000 -0300" channel="Xsports HD">
-    <title lang="pt">Cblol 2026: Split 1: Semana 7 - Dia 2</title>
+  <programme start="20260516234500 -0300" stop="20260517013000 -0300" channel="Xsports HD">
+    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 8</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6300</length>
   </programme>
-  <programme start="20260518030000 -0300" stop="20260518034500 -0300" channel="Xsports HD">
-    <title lang="pt">Freeride World Tour 2026: Etapa de Verbier - Snowboard</title>
+  <programme start="20260517013000 -0300" stop="20260517043000 -0300" channel="Xsports HD">
+    <title lang="pt">Cblol 2026: Split 1: Semana 8 - Dia 1</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">18.30.</episode-num>
+    <length units="minutes">10800</length>
+  </programme>
+  <programme start="20260517043000 -0300" stop="20260517060000 -0300" channel="Xsports HD">
+    <title lang="pt">Mundo Em Foco</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260518034500 -0300" stop="20260518040000 -0300" channel="Xsports HD">
+  <programme start="20260517060000 -0300" stop="20260517063000 -0300" channel="Xsports HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260517063000 -0300" stop="20260517070000 -0300" channel="Xsports HD">
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">6.137.</episode-num>
+  </programme>
+  <programme start="20260517070000 -0300" stop="20260517082000 -0300" channel="Xsports HD">
+    <title lang="pt">Werder Bremen x Borussia Dortmund</title>
+    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
+    <length units="minutes">4800</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517082000 -0300" stop="20260517103000 -0300" channel="Xsports HD">
+    <title lang="pt">Manchester United x Nottingham Forest - ao vivo</title>
+    <desc lang="pt">Manchester United e Nottingham Forest jogam pela 37ª rodada do Segundo Turno da Premier League, no Old Trafford, em Old Trafford, Inglaterra.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260517103000 -0300" stop="20260517105000 -0300" channel="Xsports HD">
+    <title lang="pt">Tapete Verde - ao vivo</title>
+    <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
+    <length units="minutes">1200</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.137.</episode-num>
+  </programme>
+  <programme start="20260517105000 -0300" stop="20260517130000 -0300" channel="Xsports HD">
+    <title lang="pt">Brentford x Crystal Palace - ao vivo</title>
+    <desc lang="pt">Brentford e Crystal Palace jogam pela 37ª rodada do Segundo Turno da Premier League, no Brentford Community, em Londres, Reino Unido.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260517130000 -0300" stop="20260517135000 -0300" channel="Xsports HD">
+    <title lang="pt">Tapete Verde - ao vivo</title>
+    <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
+    <length units="minutes">3000</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.137.</episode-num>
+  </programme>
+  <programme start="20260517135000 -0300" stop="20260517160000 -0300" channel="Xsports HD">
+    <title lang="pt">Atlético de Madrid x Girona - ao vivo</title>
+    <desc lang="pt">Atlético de Madrid e Girona jogam pela 37ª rodada do Segundo Turno da La Liga, no Riyadh Air Metropolitano, em Madrid, Espanha.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260517160000 -0300" stop="20260517180000 -0300" channel="Xsports HD">
+    <title lang="pt">Vôlei Europeu Masculino da Champions League - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260517180000 -0300" stop="20260517190000 -0300" channel="Xsports HD">
+    <title lang="pt">Inter de Milão x Verona</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517190000 -0300" stop="20260517200000 -0300" channel="Xsports HD">
+    <title lang="pt">Como x Parma</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517200000 -0300" stop="20260517223000 -0300" channel="Xsports HD">
+    <title lang="pt">Sport x CRB - ao vivo</title>
+    <desc lang="pt">Sport e CRB jogam pela 9ª rodada do Primeiro Turno do Campeonato Brasileiro, Série B, no Ilha do Retiró, em Recife (PE).</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260517223000 -0300" stop="20260518001500 -0300" channel="Xsports HD">
+    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 9</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">6300</length>
+  </programme>
+  <programme start="20260517223000 -0300" stop="20260518001500 -0300" channel="Xsports HD">
+    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 9</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">6300</length>
+  </programme>
+  <programme start="20260518001500 -0300" stop="20260518031500 -0300" channel="Xsports HD">
+    <title lang="pt">Cblol 2026: Split 1: Semana 8 - Dia 2 - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260518031500 -0300" stop="20260518034500 -0300" channel="Xsports HD">
+    <title lang="pt">Baú Dos Campeões</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.138.</episode-num>
+  </programme>
+  <programme start="20260518034500 -0300" stop="20260518051500 -0300" channel="Xsports HD">
+    <title lang="pt">Mundo Em Foco</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260518051500 -0300" stop="20260518070000 -0300" channel="Xsports HD">
+    <title lang="pt">Brentford x Crystal Palace</title>
+    <desc lang="pt">Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518070000 -0300" stop="20260518080000 -0300" channel="Xsports HD">
+    <title lang="pt">Como x Parma</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <length units="minutes">3600</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518080000 -0300" stop="20260518094500 -0300" channel="Xsports HD">
+    <title lang="pt">Bayern de Munique x Colônia</title>
+    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518094500 -0300" stop="20260518111500 -0300" channel="Xsports HD">
+    <title lang="pt">Corinthians x Praia Clube</title>
+    <desc lang="pt">Corinthians e Praia Clube jogam pela Liga Nacional de Futsal.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518111500 -0300" stop="20260518130000 -0300" channel="Xsports HD">
+    <title lang="pt">Manchester United x Nottingham Forest</title>
+    <desc lang="pt">Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518130000 -0300" stop="20260518144500 -0300" channel="Xsports HD">
+    <title lang="pt">Inter de Milão x Verona</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518144500 -0300" stop="20260518154500 -0300" channel="Xsports HD">
+    <title lang="pt">Especial Gols Pelo Mundo - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">84.138.</episode-num>
+  </programme>
+  <programme start="20260518154500 -0300" stop="20260518204500 -0300" channel="Xsports HD">
+    <title lang="pt">Central Xsports: Convocação da Seleção Brasileira - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">18000</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">85.138.</episode-num>
+  </programme>
+  <programme start="20260518204500 -0300" stop="20260518223000 -0300" channel="Xsports HD">
+    <title lang="pt">Kings League Brazil - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260518223000 -0300" stop="20260519001500 -0300" channel="Xsports HD">
+    <title lang="pt">Sevilla x Real Madrid</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518223000 -0300" stop="20260519001500 -0300" channel="Xsports HD">
+    <title lang="pt">Sevilla x Real Madrid</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519001500 -0300" stop="20260519014500 -0300" channel="Xsports HD">
+    <title lang="pt">Minas x Atlântico</title>
+    <desc lang="pt">Minas e Atlântico jogam pela Liga Nacional de Futsal.</desc>
+    <length units="minutes">5400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519014500 -0300" stop="20260519033000 -0300" channel="Xsports HD">
+    <title lang="pt">Werder Bremen x Borussia Dortmund</title>
+    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519033000 -0300" stop="20260519034500 -0300" channel="Xsports HD">
     <title lang="pt">Bundesliga Clubs</title>
     <sub-title lang="pt">Especial VfL Wolfsburg</sub-title>
     <desc lang="pt">Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada time.</desc>
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">83.6.</episode-num>
   </programme>
-  <programme start="20260518040000 -0300" stop="20260518051500 -0300" channel="Xsports HD">
+  <programme start="20260519034500 -0300" stop="20260519051500 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260518051500 -0300" stop="20260518070000 -0300" channel="Xsports HD">
-    <title lang="pt">Nottingham Forest x Newcastle</title>
-    <desc lang="pt">Premier League: O topo do futebol inglês com jogos eletrizantes e estrelas de renome mundial.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260518070000 -0300" stop="20260518073000 -0300" channel="Xsports HD">
-    <title lang="pt">Heroines</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">18.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260518073000 -0300" stop="20260518080000 -0300" channel="Xsports HD">
-    <title lang="pt">The Inside Line</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">7.138.</episode-num>
-  </programme>
-  <programme start="20260518080000 -0300" stop="20260518130000 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 3 - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">18000</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260518130000 -0300" stop="20260518150000 -0300" channel="Xsports HD">
-    <title lang="pt">VakifBank x Eczacibasi</title>
-    <desc lang="pt">Final: VakifBank e Eczacibasi</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260518150000 -0300" stop="20260518160000 -0300" channel="Xsports HD">
-    <title lang="pt">Especial Gols Pelo Mundo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">85.138.</episode-num>
-  </programme>
-  <programme start="20260518160000 -0300" stop="20260518181500 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">8100</length>
-  </programme>
-  <programme start="20260518181500 -0300" stop="20260518185500 -0300" channel="Xsports HD">
-    <title lang="pt">Central Xsports - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">2400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.138.</episode-num>
-  </programme>
-  <programme start="20260518185500 -0300" stop="20260518202000 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">5100</length>
-  </programme>
-  <programme start="20260518202000 -0300" stop="20260518221500 -0300" channel="Xsports HD">
-    <title lang="pt">Cascavel x Marreco - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">6900</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260518221500 -0300" stop="20260518224500 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil: Highlights: Etapa de Porto de Galinhas: Dia 3</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260518224500 -0300" stop="20260518234500 -0300" channel="Xsports HD">
-    <title lang="pt">G3X x Capim FC</title>
-    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260518234500 -0300" stop="20260519004500 -0300" channel="Xsports HD">
-    <title lang="pt">Dendele x Fluxo</title>
-    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260518234500 -0300" stop="20260519004500 -0300" channel="Xsports HD">
-    <title lang="pt">Dendele x Fluxo</title>
-    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260519004500 -0300" stop="20260519023000 -0300" channel="Xsports HD">
-    <title lang="pt">Borussia Dortmund x Frankfurt</title>
-    <desc lang="pt">Bundesliga: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
-    <length units="minutes">6300</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519023000 -0300" stop="20260519040000 -0300" channel="Xsports HD">
-    <title lang="pt">Carlos Barbosa x Pato</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">5400</length>
-  </programme>
-  <programme start="20260519040000 -0300" stop="20260519051500 -0300" channel="Xsports HD">
-    <title lang="pt">Mundo Em Foco</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260519051500 -0300" stop="20260519070000 -0300" channel="Xsports HD">
-    <title lang="pt">Real Sociedad x Betis</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <title lang="pt">Denver Summit x Orlando Pride</title>
+    <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
-  <programme start="20260519070000 -0300" stop="20260519073000 -0300" channel="Xsports HD">
-    <title lang="pt">Heroines</title>
+  <programme start="20260519070000 -0300" stop="20260519084500 -0300" channel="Xsports HD">
+    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 9</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">19.11.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <length units="minutes">6300</length>
   </programme>
-  <programme start="20260519073000 -0300" stop="20260519080000 -0300" channel="Xsports HD">
-    <title lang="pt">Baú Dos Campeões</title>
+  <programme start="20260519084500 -0300" stop="20260519103000 -0300" channel="Xsports HD">
+    <title lang="pt">Estoril x Benfica</title>
+    <desc lang="pt">Liga Portugal: Clubes históricos, confrontos acirrados e craques em busca da glória nacional e continental.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519103000 -0300" stop="20260519113000 -0300" channel="Xsports HD">
+    <title lang="pt">Especial Gols Pelo Mundo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">87.10.</episode-num>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.139.</episode-num>
   </programme>
-  <programme start="20260519080000 -0300" stop="20260519130000 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil Pro: Etapa de Porto de Galinhas: Dia 4 - ao vivo</title>
+  <programme start="20260519113000 -0300" stop="20260519133000 -0300" channel="Xsports HD">
+    <title lang="pt">Vôlei Europeu Masculino da Champions League</title>
+    <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">18000</length>
-    <category lang="en">live broadcast</category>
+    <length units="minutes">7200</length>
   </programme>
-  <programme start="20260519130000 -0300" stop="20260519143000 -0300" channel="Xsports HD">
-    <title lang="pt">Cascavel x Marreco</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-  </programme>
-  <programme start="20260519143000 -0300" stop="20260519153000 -0300" channel="Xsports HD">
+  <programme start="20260519133000 -0300" stop="20260519143000 -0300" channel="Xsports HD">
     <title lang="pt">Bundesliga Highlights Show</title>
     <desc lang="pt">Especial Bundesliga: gols, rivalidades e bastidores dos grandes clubes da Alemanha em um campeonato cheio de emoção e tradição!</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.139.</episode-num>
+    <episode-num system="xmltv_ns">83.139.</episode-num>
   </programme>
-  <programme start="20260519153000 -0300" stop="20260519155000 -0300" channel="Xsports HD">
-    <title lang="pt">Tapete Verde - ao vivo</title>
-    <desc lang="pt">Tapete Verde: um mergulho no mundo do futebol, com análises, bastidores e os melhores momentos que acontecem dentro e fora das quatro linhas!</desc>
-    <length units="minutes">1200</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">85.139.</episode-num>
+  <programme start="20260519143000 -0300" stop="20260519161500 -0300" channel="Xsports HD">
+    <title lang="pt">Como x Parma</title>
+    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <length units="minutes">6300</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260519155000 -0300" stop="20260519181500 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">8700</length>
-  </programme>
-  <programme start="20260519181500 -0300" stop="20260519193000 -0300" channel="Xsports HD">
-    <title lang="pt">Central Xsports - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.139.</episode-num>
-  </programme>
-  <programme start="20260519193000 -0300" stop="20260519220000 -0300" channel="Xsports HD">
-    <title lang="pt">NBB - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260519220000 -0300" stop="20260519223000 -0300" channel="Xsports HD">
-    <title lang="pt">Surf Brasil: Highlights: Etapa de Porto de Galinhas: Dia 4</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260519223000 -0300" stop="20260520001500 -0300" channel="Xsports HD">
-    <title lang="pt">Osasuna x Atlético de Madrid</title>
+  <programme start="20260519161500 -0300" stop="20260519180000 -0300" channel="Xsports HD">
+    <title lang="pt">Sevilla x Real Madrid</title>
     <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260519180000 -0300" stop="20260519190000 -0300" channel="Xsports HD">
+    <title lang="pt">Central Xsports - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.139.</episode-num>
+  </programme>
+  <programme start="20260519190000 -0300" stop="20260519204500 -0300" channel="Xsports HD">
+    <title lang="pt">Handball Europeu Feminino da European League</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">6300</length>
+  </programme>
+  <programme start="20260519204500 -0300" stop="20260519224500 -0300" channel="Xsports HD">
+    <title lang="pt">Dracena x Chopinzinho - ao vivo</title>
+    <desc lang="pt">Dracena e Chopinzinho jogam pela 6ª rodada fase silver da Liga Nacional de Futsal.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260519224500 -0300" stop="20260520001500 -0300" channel="Xsports HD">
+    <title lang="pt">Nascar Cup Series: Dover Motor Speedway</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">5400</length>
   </programme>
 </tv>
