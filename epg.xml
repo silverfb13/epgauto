@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-18 17:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-18 20:30:57" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -431,9 +431,6 @@
   </channel>
   <channel id="TVE INTERNATIONAL">
     <display-name lang="pt">TVE INTERNATIONAL</display-name>
-  </channel>
-  <channel id="TV_ALVORADA_DO_SUL">
-    <display-name lang="pt">TV_ALVORADA_DO_SUL</display-name>
   </channel>
   <channel id="Travel &amp; Food and Drinks HD">
     <display-name lang="pt">Travel &amp; Food and Drinks HD</display-name>
@@ -196307,117 +196304,124 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260519060000 -0300" stop="20260519062700 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <sub-title lang="pt">Night</sub-title>
-    <desc lang="pt">Detetives investigam o caso de uma mulher violentada e morta ao lado de uma boate. Essa é a primeira parte do episódio, a segunda foi exibida na série &quot;Law &amp; Order - Trial by Jury&quot;.</desc>
-    <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">6.22.</episode-num>
+  <programme start="20260519060000 -0300" stop="20260519061500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.121.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260519062700 -0300" stop="20260519071200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Major Crimes</title>
-    <sub-title lang="pt">Cut</sub-title>
-    <desc lang="pt">Final - O grupo investiga a morte da esposa grávida de um grande diretor de cinema.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+  <programme start="20260519061500 -0300" stop="20260519062600 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">6.123.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260519071200 -0300" stop="20260519075700 -0300" channel="TNT SERIES HD">
+  <programme start="20260519062600 -0300" stop="20260519063500 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260519063500 -0300" stop="20260519071900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">False Pretenses</sub-title>
     <desc lang="pt">Um caso complexo de morte/suicídio deixa o departamento em polvorosa.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2640</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519075700 -0300" stop="20260519084400 -0300" channel="TNT SERIES HD">
+  <programme start="20260519071900 -0300" stop="20260519080700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Jackals</sub-title>
     <desc lang="pt">Um caso de 1976 é reaberto quando uma foto indica que uma garota de 17 anos que foi asassinada naquele ano tinha envolvimento com uma gangue de motoqueiros.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519084400 -0300" stop="20260519093000 -0300" channel="TNT SERIES HD">
+  <programme start="20260519080700 -0300" stop="20260519085600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Officer Down</sub-title>
     <desc lang="pt">Em vez de abrir um arquivo morto, a equipe precisa se concentrar em assuntos mais urgentes quando um dos investigadores é ferido em uma loja de conveniências.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519093000 -0300" stop="20260519101700 -0300" channel="TNT SERIES HD">
+  <programme start="20260519085600 -0300" stop="20260519094400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Mind Games</sub-title>
     <desc lang="pt">Em um episódio com músicas de John Lennon, a equipe suspeita que um incêndio criminoso que causou a morte de uma psiquiatra foi causado por um ex-paciente dela.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519101700 -0300" stop="20260519110300 -0300" channel="TNT SERIES HD">
+  <programme start="20260519094400 -0300" stop="20260519103200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Libertyville</sub-title>
     <desc lang="pt">A equipe investiga um caso de 1958, em que um corretor imobiliário recém-casado foi assassinado. Novas evidências indicam que o corpo foi movido após a morte.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519110300 -0300" stop="20260519115000 -0300" channel="TNT SERIES HD">
+  <programme start="20260519103200 -0300" stop="20260519112100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Dead Reckoning</sub-title>
     <desc lang="pt">Reese é raptado por um velho conhecido que planeja um ato massivo de ciberterrorismo que pode levar Reese à morte.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519115000 -0300" stop="20260519123500 -0300" channel="TNT SERIES HD">
+  <programme start="20260519112100 -0300" stop="20260519120800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">One Percent</sub-title>
     <desc lang="pt">Reese e Finch encontram em um POI bilionário tecnologia, curiosidade e recursos ilimitados que ameaçam expor suas identidades e sabotar seus esforços para salvar vidas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519123500 -0300" stop="20260519132200 -0300" channel="TNT SERIES HD">
+  <programme start="20260519120800 -0300" stop="20260519125600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Booked Solid</sub-title>
     <desc lang="pt">Reese e Finch correm para salvar a vida de uma empregada de hotel, mas se encontram cercados por mais suspeitos do que podem ser capazes de eliminar.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519132200 -0300" stop="20260519140600 -0300" channel="TNT SERIES HD">
+  <programme start="20260519125600 -0300" stop="20260519134100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Penetração</sub-title>
     <desc lang="pt">Uma agente do FBI (participação especial de Marcia Gay Harden) é estuprada durante uma missão em que trabalhava disfarçada, e pede ajuda a Benson para passar por uma bateria de testes.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">12.8.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260519140600 -0300" stop="20260519145200 -0300" channel="TNT SERIES HD">
+  <programme start="20260519134100 -0300" stop="20260519142700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Cinza</sub-title>
     <desc lang="pt">Stabler faz um discurso sobre a importância das denúncias de abuso sexual na faculdade em que sua filha estuda, e sua fala é tão tocante que uma estudante decide denunciar um abuso cometido por um colega.</desc>
@@ -196427,17 +196431,17 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260519145200 -0300" stop="20260519153500 -0300" channel="TNT SERIES HD">
+  <programme start="20260519142700 -0300" stop="20260519151300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Delinquente</sub-title>
     <desc lang="pt">Os detetives têm que lidar com um adolescente manipulador que aparece dormindo sem roupas na cama de uma mulher. Conforme as investigações vão se aprofundando, uma verdade inesperada vem à tona.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">12.23.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260519153500 -0300" stop="20260519162000 -0300" channel="TNT SERIES HD">
+  <programme start="20260519151300 -0300" stop="20260519155800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Execução</sub-title>
     <desc lang="pt">Os detetives têm que solucionar o mistério por trás do assassinato de uma mulher que era testemunha em um caso de estupro.</desc>
@@ -196447,111 +196451,111 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260519162000 -0300" stop="20260519170600 -0300" channel="TNT SERIES HD">
+  <programme start="20260519155800 -0300" stop="20260519164800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Jackals</sub-title>
     <desc lang="pt">Um caso de 1976 é reaberto quando uma foto indica que uma garota de 17 anos que foi asassinada naquele ano tinha envolvimento com uma gangue de motoqueiros.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519170600 -0300" stop="20260519175400 -0300" channel="TNT SERIES HD">
+  <programme start="20260519164800 -0300" stop="20260519173900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Officer Down</sub-title>
     <desc lang="pt">Em vez de abrir um arquivo morto, a equipe precisa se concentrar em assuntos mais urgentes quando um dos investigadores é ferido em uma loja de conveniências.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519175400 -0300" stop="20260519183900 -0300" channel="TNT SERIES HD">
+  <programme start="20260519173900 -0300" stop="20260519182800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Mind Games</sub-title>
     <desc lang="pt">Em um episódio com músicas de John Lennon, a equipe suspeita que um incêndio criminoso que causou a morte de uma psiquiatra foi causado por um ex-paciente dela.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519183900 -0300" stop="20260519192700 -0300" channel="TNT SERIES HD">
+  <programme start="20260519182800 -0300" stop="20260519191700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Libertyville</sub-title>
     <desc lang="pt">A equipe investiga um caso de 1958, em que um corretor imobiliário recém-casado foi assassinado. Novas evidências indicam que o corpo foi movido após a morte.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519192700 -0300" stop="20260519201300 -0300" channel="TNT SERIES HD">
+  <programme start="20260519191700 -0300" stop="20260519200600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">His Red Right Hand</sub-title>
     <desc lang="pt">Um tiroteio fatal dentro dos muros da CBI coloca Jane, Lisbon e o resto da equipe novamente na trilha de Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519201300 -0300" stop="20260519205900 -0300" channel="TNT SERIES HD">
+  <programme start="20260519200600 -0300" stop="20260519205500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">There Will Be Blood</sub-title>
     <desc lang="pt">Lorelei Martins está de volta, disposta a descobrir se Red John teve participação na morte de sua irmã. Jane é obrigado a confessar a Lisbon seu papel na fuga da irmã de Lorelei da prisão.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519205900 -0300" stop="20260519214400 -0300" channel="TNT SERIES HD">
+  <programme start="20260519205500 -0300" stop="20260519214300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red, White And Blue</sub-title>
     <desc lang="pt">A equipe do CBI investiga quando o corpo de uma médica do exército que trabalhava com soldados que sofriam de transtorno pós-traumático é encontrado perto de uma base militar.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519214400 -0300" stop="20260519223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260519214300 -0300" stop="20260519223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">His Red Right Hand</sub-title>
     <desc lang="pt">Um tiroteio fatal dentro dos muros da CBI coloca Jane, Lisbon e o resto da equipe novamente na trilha de Red John.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260519231500 -0300" channel="TNT SERIES HD">
+  <programme start="20260519223000 -0300" stop="20260519231700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">There Will Be Blood</sub-title>
     <desc lang="pt">Lorelei Martins está de volta, disposta a descobrir se Red John teve participação na morte de sua irmã. Jane é obrigado a confessar a Lisbon seu papel na fuga da irmã de Lorelei da prisão.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">5.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519231500 -0300" stop="20260520000100 -0300" channel="TNT SERIES HD">
+  <programme start="20260519231700 -0300" stop="20260520000500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red, White And Blue</sub-title>
     <desc lang="pt">A equipe do CBI investiga quando o corpo de uma médica do exército que trabalhava com soldados que sofriam de transtorno pós-traumático é encontrado perto de uma base militar.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519231500 -0300" stop="20260520000100 -0300" channel="TNT SERIES HD">
+  <programme start="20260519231700 -0300" stop="20260520000500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red, White And Blue</sub-title>
     <desc lang="pt">A equipe do CBI investiga quando o corpo de uma médica do exército que trabalhava com soldados que sofriam de transtorno pós-traumático é encontrado perto de uma base militar.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -216192,900 +216196,6 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260517233500 -0300" stop="20260518010500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Domingo Maior: Força Bruta</title>
-    <desc lang="pt">Seguido por Ma Seok-do, que se dirige a um país estrangeiro para extraditar um suspeito. No entanto, ele descobre casos de assassinato e informações sobre um assassino que cometeu crimes contra turistas por muitos anos.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260518010500 -0300" stop="20260518031500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Cinemaço: Miami Vice</title>
-    <desc lang="pt">Na eletrizante versão cinematográfica da série de TV, uma gangue internacional de traficantes comete assassinatos que serão investigados pelos detetives Sonny e Rico. Disfarçados, eles vão entrar no mundo do crime.</desc>
-    <length units="minutes">7800</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260518031500 -0300" stop="20260518040000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">16.23.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260518040000 -0300" stop="20260518060000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">84.138.</episode-num>
-  </programme>
-  <programme start="20260518060000 -0300" stop="20260518083000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Paraná</title>
-    <desc lang="pt">Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">86.138.</episode-num>
-  </programme>
-  <programme start="20260518083000 -0300" stop="20260518093000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.138.</episode-num>
-  </programme>
-  <programme start="20260518093000 -0300" stop="20260518103500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">9.138.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260518103500 -0300" stop="20260518114500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">10.138.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260518114500 -0300" stop="20260518130000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Meio Dia Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.138.</episode-num>
-  </programme>
-  <programme start="20260518130000 -0300" stop="20260518132500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Esporte PR</title>
-    <desc lang="pt">Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">83.138.</episode-num>
-  </programme>
-  <programme start="20260518132500 -0300" stop="20260518143500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">83.138.</episode-num>
-  </programme>
-  <programme start="20260518143500 -0300" stop="20260518151500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">84.138.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260518151500 -0300" stop="20260518164500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Sessão da Tarde: Robin Hood - A Origem</title>
-    <desc lang="pt">Após anos lutando nas Cruzadas, Robin retorna à Inglaterra e descobre que tudo mudou em Nottingham. Buscando justiça, ele decide roubar dos ricos para dar aos pobres.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260518164500 -0300" stop="20260518175500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Convocação da Seleção Brasileira</title>
-    <desc lang="pt">Convocação da Seleção Brasileira.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">86.138.</episode-num>
-  </programme>
-  <programme start="20260518175500 -0300" stop="20260518184000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">Nina termina seu romance com Jorginho. Todos na mansão de Tufão sentem falta de Nina. Débora afirma que reconquistará Jorginho.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">87.138.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260518184000 -0300" stop="20260518192000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Pascoal aceita a proposta de Jendal para vigiar Dumi. Dumi alerta Akin, Omar e Ladisa sobre as desconfianças de Jendal. Alika comemora com Niara o artigo escrito por Nilo Peçanha sobre Batanga, e sente falta de Tonho.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">88.138.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260518192000 -0300" stop="20260518194500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Boa Noite Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, no início da noite.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">89.138.</episode-num>
-  </programme>
-  <programme start="20260518194500 -0300" stop="20260518203000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Zilá e Naiane repreendem Alaorzinho por aceitar Agrado e Eduarda no festival. Janete se preocupa com o fato de Agrado abrir mão de parte da sua história a fim de esquecer João Raul. Naiane ameaça Cinara.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">89.138.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260518203000 -0300" stop="20260518212000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.138.</episode-num>
-  </programme>
-  <programme start="20260518212000 -0300" stop="20260518222000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Adriana demonstra preocupação com a chuva e pede ajuda a Carlos. Pedro questiona a ética de Ademir e não aceita o convite do pai para trabalharem juntos. Adriana é demitida da clínica.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.138.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260518222000 -0300" stop="20260518231000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">18.18.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260518231000 -0300" stop="20260519005500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Tela Quente: O Esquadrão Suicida</title>
-    <desc lang="pt">James Gunn nos apresenta uma equipe com os piores supervilões da DC salvando o mundo. E como sempre, um passo em falso e estão mortos.</desc>
-    <length units="minutes">6300</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260518231000 -0300" stop="20260519005500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Tela Quente: O Esquadrão Suicida</title>
-    <desc lang="pt">James Gunn nos apresenta uma equipe com os piores supervilões da DC salvando o mundo. E como sempre, um passo em falso e estão mortos.</desc>
-    <length units="minutes">6300</length>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260519005500 -0300" stop="20260519014500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.139.</episode-num>
-  </programme>
-  <programme start="20260519014500 -0300" stop="20260519022000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Pascoal aceita a proposta de Jendal para vigiar Dumi. Dumi alerta Akin, Omar e Ladisa sobre as desconfianças de Jendal. Alika comemora com Niara o artigo escrito por Nilo Peçanha sobre Batanga, e sente falta de Tonho.</desc>
-    <length units="minutes">2100</length>
-    <episode-num system="xmltv_ns">81.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519022000 -0300" stop="20260519025500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Zilá e Naiane repreendem Alaorzinho por aceitar Agrado e Eduarda no festival. Janete se preocupa com o fato de Agrado abrir mão de parte da sua história a fim de esquecer João Raul. Naiane ameaça Cinara.</desc>
-    <length units="minutes">2100</length>
-    <episode-num system="xmltv_ns">82.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519025500 -0300" stop="20260519040000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">16.23.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519040000 -0300" stop="20260519060000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">84.139.</episode-num>
-  </programme>
-  <programme start="20260519060000 -0300" stop="20260519083000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Paraná</title>
-    <desc lang="pt">Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">86.139.</episode-num>
-  </programme>
-  <programme start="20260519083000 -0300" stop="20260519093000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.139.</episode-num>
-  </programme>
-  <programme start="20260519093000 -0300" stop="20260519103500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">9.139.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260519103500 -0300" stop="20260519114500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">10.139.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260519114500 -0300" stop="20260519130000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Meio Dia Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.139.</episode-num>
-  </programme>
-  <programme start="20260519130000 -0300" stop="20260519132500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Esporte PR</title>
-    <desc lang="pt">Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">83.139.</episode-num>
-  </programme>
-  <programme start="20260519132500 -0300" stop="20260519144500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">83.139.</episode-num>
-  </programme>
-  <programme start="20260519144500 -0300" stop="20260519153000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">84.139.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260519153000 -0300" stop="20260519171500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Sessão da Tarde: Bem-Vindo à Vida</title>
-    <desc lang="pt">Um vendedor está com problemas financeiros por causa de uma transação ilegal. O seu pai morre e deixa de herança 150 mil dólares e um bilhete dizendo para entregar o dinheiro para sua meia-irmã.</desc>
-    <length units="minutes">6300</length>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260519171500 -0300" stop="20260519182500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">Nina pede para Débora ficar com Jorginho. Jorginho é assaltado.Nina volta a trabalhar na casa de Tufão.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">87.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519182500 -0300" stop="20260519191000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Jendal ordena que Pascoal repreenda a rebelião. Chinua garante a Jendal que não sabe de Dumi. Mr.Campbell diz a Pascoal que reconheceu Akin como um dos líderes do movimento. Dumi se une a Ladisa e Akin como um rebelde popular.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">88.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519191000 -0300" stop="20260519194000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Boa Noite Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, no início da noite.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.139.</episode-num>
-  </programme>
-  <programme start="20260519194000 -0300" stop="20260519203000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Agenor se incomoda com o interesse de Malvino por Laurinha. A ideia de Iranildo para seu programa de rádio é um sucesso. Zuzu comenta com Alaorzinho que Janete viu algo de estranho envolvendo o empresário.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">89.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519203000 -0300" stop="20260519212000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.139.</episode-num>
-  </programme>
-  <programme start="20260519212000 -0300" stop="20260519222500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Adriana implora para o barqueiro resgatar seu marido. Rafael e Ingrid se preocupam ao saber que a mãe entrou com o pedido de interdição do tio.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">81.139.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519222500 -0300" stop="20260519231500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">19.19.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260519231500 -0300" stop="20260520000000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Lady Night</title>
-    <desc lang="pt">Tatá Werneck promete entregar tudo e mais um pouco com seu humor afiado, improvisos e carisma inconfundível. Além de um time estrelado de convidados, a nona temporada traz quadros inéditos que prometem arrancar boas risadas.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">9.139.</episode-num>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260520000000 -0300" stop="20260520005000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.140.</episode-num>
-  </programme>
-  <programme start="20260520005000 -0300" stop="20260520013000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Jendal ordena que Pascoal repreenda a rebelião. Chinua garante a Jendal que não sabe de Dumi. Mr.Campbell diz a Pascoal que reconheceu Akin como um dos líderes do movimento. Dumi se une a Ladisa e Akin como um rebelde popular.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">80.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520013000 -0300" stop="20260520021500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Agenor se incomoda com o interesse de Malvino por Laurinha. A ideia de Iranildo para seu programa de rádio é um sucesso. Zuzu comenta com Alaorzinho que Janete viu algo de estranho envolvendo o empresário.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">81.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520021500 -0300" stop="20260520031000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">16.23.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520031000 -0300" stop="20260520040000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">15.31.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520040000 -0300" stop="20260520060000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">84.140.</episode-num>
-  </programme>
-  <programme start="20260520060000 -0300" stop="20260520083000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Paraná</title>
-    <desc lang="pt">Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">86.140.</episode-num>
-  </programme>
-  <programme start="20260520083000 -0300" stop="20260520093000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.140.</episode-num>
-  </programme>
-  <programme start="20260520093000 -0300" stop="20260520103500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">9.140.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260520103500 -0300" stop="20260520114500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">10.140.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260520114500 -0300" stop="20260520130000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Meio Dia Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.140.</episode-num>
-  </programme>
-  <programme start="20260520130000 -0300" stop="20260520132500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Esporte PR</title>
-    <desc lang="pt">Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">83.140.</episode-num>
-  </programme>
-  <programme start="20260520132500 -0300" stop="20260520144500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">83.140.</episode-num>
-  </programme>
-  <programme start="20260520144500 -0300" stop="20260520152500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">84.140.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260520152500 -0300" stop="20260520165500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Sessão da Tarde: No Olho do Tornado</title>
-    <desc lang="pt">Um grupo de cientistas caçadores de tempestades liderado pelo ambicioso Pete terá de enfrentar a fúria do maior tornado que a natureza já produziu.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520165500 -0300" stop="20260520180500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">Lucinda vê Carminha sair da casa de Nilo. Nina chora ao ver Jorginho ir embora com Débora. Lúcio faz ameaças a Max.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">86.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520180500 -0300" stop="20260520184500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Alika conta sua história para Tonho, que fica encantado ao saber que sua amada é uma princesa real. Todos se preparam para a festa de noivado de Mirinho e Virgínia em Barro Preto. Ana Maria se aproxima de Manoel.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">88.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520184500 -0300" stop="20260520191500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Boa Noite Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, no início da noite.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.140.</episode-num>
-  </programme>
-  <programme start="20260520191500 -0300" stop="20260520200000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">João Raul e Agrado acabam discutindo. Naiane e Leandro confrontam João Raul e Agrado sobre o encontro dos dois. Gael conforta Naiane. Walmir e Irene comemoram o sucesso de sua nova loja.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">89.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520200000 -0300" stop="20260520203500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">2100</length>
-    <episode-num system="xmltv_ns">80.140.</episode-num>
-  </programme>
-  <programme start="20260520203500 -0300" stop="20260520211500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Arthur tem conflito com Adriana. Pedro promete explicar a Bruna quem é a dona da pulseira que ele encontrou. Dora fica pensativa quando Ademir comunica que André irá morar com eles.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">80.140.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260520211500 -0300" stop="20260520233000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Flamengo x Estudiantes - ao vivo</title>
-    <desc lang="pt">Flamengo e Estudiantes jogam pela 5ª rodada da fase de grupos da CONMEBOL Libertadores, no Maracanã, no Rio de Janeiro (RJ).</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260520233000 -0300" stop="20260520234500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Segue o Jogo</title>
-    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">83.140.</episode-num>
-  </programme>
-  <programme start="20260520234500 -0300" stop="20260521003500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">20.20.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260520234500 -0300" stop="20260521003500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">20.20.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260521003500 -0300" stop="20260521012500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.141.</episode-num>
-  </programme>
-  <programme start="20260521012500 -0300" stop="20260521020500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Alika conta sua história para Tonho, que fica encantado ao saber que sua amada é uma princesa real. Todos se preparam para a festa de noivado de Mirinho e Virgínia em Barro Preto. Ana Maria se aproxima de Manoel.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">81.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521020500 -0300" stop="20260521025000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">João Raul e Agrado acabam discutindo. Naiane e Leandro confrontam João Raul e Agrado sobre o encontro dos dois. Gael conforta Naiane. Walmir e Irene comemoram o sucesso de sua nova loja.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">82.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521025000 -0300" stop="20260521033000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">16.23.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521033000 -0300" stop="20260521040000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">15.31.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521040000 -0300" stop="20260521060000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">84.141.</episode-num>
-  </programme>
-  <programme start="20260521060000 -0300" stop="20260521083000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Paraná</title>
-    <desc lang="pt">Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">86.141.</episode-num>
-  </programme>
-  <programme start="20260521083000 -0300" stop="20260521093000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.141.</episode-num>
-  </programme>
-  <programme start="20260521093000 -0300" stop="20260521103500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">9.141.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260521103500 -0300" stop="20260521114500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">10.141.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260521114500 -0300" stop="20260521130000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Meio Dia Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.141.</episode-num>
-  </programme>
-  <programme start="20260521130000 -0300" stop="20260521132500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Esporte PR</title>
-    <desc lang="pt">Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">83.141.</episode-num>
-  </programme>
-  <programme start="20260521132500 -0300" stop="20260521144500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">83.141.</episode-num>
-  </programme>
-  <programme start="20260521144500 -0300" stop="20260521153000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">84.141.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260521153000 -0300" stop="20260521170500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Sessão da Tarde: O Amor Mandou Mensagem</title>
-    <desc lang="pt">Uma jovem tenta aliviar a dor da morte de seu noivo enviando mensagens românticas para seu antigo número de telefone celular, e forma uma conexão com o homem para o qual o número foi transferido.</desc>
-    <length units="minutes">5700</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521170500 -0300" stop="20260521182500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">Carminha discute com Betânia/Rita e Nina tenta acalmar a situação. Tufão chega à delegacia e consegue libertar Leleco.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">87.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521182500 -0300" stop="20260521191000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Chinua tenta dissuadir Jendal de fazer sua busca por Alika no Brasil. Niara e Alika ficam satisfeitas com o comportamento de Tonho sobre seu segredo. Dona Menina apoia Tonho. Mundica alerta Mirinho sobre a fuga de Fabrício.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">88.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521191000 -0300" stop="20260521194000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Boa Noite Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, no início da noite.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.141.</episode-num>
-  </programme>
-  <programme start="20260521194000 -0300" stop="20260521203000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Naiane fica desconcertada com Gael, e comenta com Esteban e Laurinha. Agrado explica a Janete, Eduarda e Zuzu que não está pronta para se casar com Leandro.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">89.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521203000 -0300" stop="20260521212000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.141.</episode-num>
-  </programme>
-  <programme start="20260521212000 -0300" stop="20260521222500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Otoniel trata Arthur com hostilidade, mas Elisa pergunta se ele quer esperar Adriana chegar. Cleber nota que Pedro não conseguiu tirar Adriana da cabeça. Ademir aconselha Pilar a retirar o processo contra Arthur.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">81.141.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260521222500 -0300" stop="20260521231500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">21.21.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260521231500 -0300" stop="20260522000000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <desc lang="pt">Na sétima temporada da série, Shaun, agora um residente cirúrgico no hospital San Jose St. Bonaventure, enfrenta mais responsabilidades e pressões.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">21.231.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522000000 -0300" stop="20260522005000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.142.</episode-num>
-  </programme>
-  <programme start="20260522005000 -0300" stop="20260522013000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Chinua tenta dissuadir Jendal de fazer sua busca por Alika no Brasil. Niara e Alika ficam satisfeitas com o comportamento de Tonho sobre seu segredo. Dona Menina apoia Tonho. Mundica alerta Mirinho sobre a fuga de Fabrício.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">80.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522013000 -0300" stop="20260522021500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">Naiane fica desconcertada com Gael, e comenta com Esteban e Laurinha. Agrado explica a Janete, Eduarda e Zuzu que não está pronta para se casar com Leandro.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">81.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522021500 -0300" stop="20260522031000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">16.23.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522031000 -0300" stop="20260522040000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">15.31.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522040000 -0300" stop="20260522060000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">84.142.</episode-num>
-  </programme>
-  <programme start="20260522060000 -0300" stop="20260522083000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Paraná</title>
-    <desc lang="pt">Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">86.142.</episode-num>
-  </programme>
-  <programme start="20260522083000 -0300" stop="20260522093000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.142.</episode-num>
-  </programme>
-  <programme start="20260522093000 -0300" stop="20260522103500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">9.142.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260522103500 -0300" stop="20260522114500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">10.142.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260522114500 -0300" stop="20260522130000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Meio Dia Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.142.</episode-num>
-  </programme>
-  <programme start="20260522130000 -0300" stop="20260522132500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Esporte PR</title>
-    <desc lang="pt">Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">83.142.</episode-num>
-  </programme>
-  <programme start="20260522132500 -0300" stop="20260522144500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-    <length units="minutes">4800</length>
-    <episode-num system="xmltv_ns">83.142.</episode-num>
-  </programme>
-  <programme start="20260522144500 -0300" stop="20260522153000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">84.142.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260522153000 -0300" stop="20260522171500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Sessão da Tarde: Dois é Demais em Orlando</title>
-    <desc lang="pt">João está prestes a realizar seu sonho de conhecer os parques da Universal em Orlando. Quando sua chefe pede para que ele leve seu filho para entregá-lo ao pai, as coisas não saem como planejadas.</desc>
-    <length units="minutes">6300</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260522171500 -0300" stop="20260522182500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">Nilo vai atrás de Betânia e Valdo. Nina discute com Lucinda.Tomás se recusa a prometer para Cadinho que esconderá a verdade sobre as suas duas famílias.</desc>
-    <length units="minutes">4200</length>
-    <episode-num system="xmltv_ns">87.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522182500 -0300" stop="20260522191000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Malungo garante a Jendal que trará Alika de volta a Batanga. Todos estranham o comportamento de Viriato, sem perceber que se trata de Carrapato disfarçado.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">88.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522191000 -0300" stop="20260522194000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Boa Noite Paraná</title>
-    <desc lang="pt">Telejornal local, exibido de segunda a sábado, no início da noite.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">89.142.</episode-num>
-  </programme>
-  <programme start="20260522194000 -0300" stop="20260522203000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Coração Acelerado</title>
-    <desc lang="pt">João Raul e Naiane planejam a divulgação do pedido de casamento. Eduarda diz que apoiará Valéria em sua cirurgia. Zilá acredita que se reaproximará de Alaorzinho com o casamento de Naiane.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">89.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522203000 -0300" stop="20260522212000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">80.142.</episode-num>
-  </programme>
-  <programme start="20260522212000 -0300" stop="20260522222500 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Adriana se emociona quando Pedro entrega a pulseira que ela havia perdido. Adriana se surpreende com Pilar, que surge na casa que Arthur emprestou para família da jovem, e questiona o que eles estão fazendo no local.</desc>
-    <length units="minutes">3900</length>
-    <episode-num system="xmltv_ns">81.142.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260522222500 -0300" stop="20260522231000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Guerreiros Do Sol</title>
-    <desc lang="pt">A história de dois sertanejos, Rosa e Josué, interpretados por Isadora Cruz e Thomás Aquino, que se tornam um dos mais famosos casais de cangaceiros de todos os tempos.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">22.22.</episode-num>
-    <rating system="Brazil">
-      <value>[16]</value>
-    </rating>
-  </programme>
-  <programme start="20260522231000 -0300" stop="20260523000000 -0300" channel="TV_ALVORADA_DO_SUL">
-    <title lang="pt">Globo Repórter</title>
-    <desc lang="pt">Com apresentação de Sandra Annenberg, o 'Globo Repórter' é o jornalístico documental que vai ao ar nas noites de sexta-feira.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">23.142.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20260518000000 -0300" stop="20260518010000 -0300" channel="Travel &amp; Food and Drinks HD">
     <title lang="pt">Sabores da Vida</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -226416,17 +225526,34 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519060000 -0300" stop="20260519063700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <sub-title lang="pt">Pilot</sub-title>
-    <desc lang="pt">Elena Gilbert e seu irmão Jeremy aprendem a lidar com a morte de seus pais. Elena é popular entre seus amigos e excelente aluna, mas tem dificuldades em esconder sua dor.</desc>
-    <length units="minutes">2220</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+  <programme start="20260519060000 -0300" stop="20260519061600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">960</length>
+    <episode-num system="xmltv_ns">6.91.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260519063700 -0300" stop="20260519083700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519061600 -0300" stop="20260519063100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">6.94.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260519063100 -0300" stop="20260519063900 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">480</length>
+    <episode-num system="xmltv_ns">6.107.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260519063900 -0300" stop="20260519083900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Uma Saída de Mestre</title>
     <desc lang="pt">Num golpe espetacular, ladrões roubam um tesouro. Quando um dos integrantes do grupo resolve fugir com o prêmio, uma empolgante perseguição se inicia.</desc>
     <length units="minutes">7200</length>
@@ -226434,17 +225561,17 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260519083700 -0300" stop="20260519092400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519083900 -0300" stop="20260519090200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Who's Vod Kanockers?</sub-title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519092400 -0300" stop="20260519094700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519090200 -0300" stop="20260519092500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">The Sea Is A Harsh Mistress</sub-title>
     <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer, mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
@@ -226454,87 +225581,87 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519094700 -0300" stop="20260519100700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519092500 -0300" stop="20260519094700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Pot Smoking Monkey</sub-title>
     <desc lang="pt">Alan e Kandi se envolvem em uma batalha de custódia nada convencional. Alan está decidido a manter a custódia do cachorro, dele e de Kandi, depois dela ficar com o apartamento e o carro na separação.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519100700 -0300" stop="20260519103100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519094700 -0300" stop="20260519101000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Live Woman Of Proven Fertility</sub-title>
     <desc lang="pt">Alan está encantado porque não terá que pagar pensão alimentícia para Judith quando ela se casar com seu namorado, Herb. Entretanto, os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519103100 -0300" stop="20260519105400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519101000 -0300" stop="20260519103200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Apologies For The Frivolity</sub-title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519105400 -0300" stop="20260519111200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519103200 -0300" stop="20260519105300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">A Tummy Ache And A Chewable Bamm-bamm</sub-title>
     <desc lang="pt">Quando Sheldon tem que passar alguns dias no hospital, ele se transforma no pior paciente do mundo.</desc>
-    <length units="minutes">1080</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519111200 -0300" stop="20260519113300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519105300 -0300" stop="20260519111500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">A Nuclear Reactor And A Boy Called Lovey</sub-title>
     <desc lang="pt">Uma festa universitária esquenta quando um colega do Dr. Sturgis, o Dr. Linkletter, flerta com Meemaw.  Sheldon tenta construir um reator nuclear.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519113300 -0300" stop="20260519115400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519111500 -0300" stop="20260519113500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">David, Goliath And A Yoo-hoo From The Back</sub-title>
     <desc lang="pt">Sheldon usa sua amizade com o valentão da escola para mandar em Georgie. Missy rouba a maquiagem de Meemaw para o Dia da Foto.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519115400 -0300" stop="20260519121500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519113500 -0300" stop="20260519115700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">A Math Emergency And Perky Palms</sub-title>
     <desc lang="pt">Sheldon e Dr. Sturgis têm sua primeira discussão quando Dr. Sturgis aponta um erro na prova de Sheldon. Mary assume o lugar do Pastor Jeff quando ele adoece.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519121500 -0300" stop="20260519123600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519115700 -0300" stop="20260519122000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Congnition Regeneration</sub-title>
     <desc lang="pt">Leonard não fica nada contente quando Penny considera aceitar um novo emprego oferecido por seu ex-namorado, Zack</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">10.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519123600 -0300" stop="20260519125700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519122000 -0300" stop="20260519124100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Gyroscopic Collapse</sub-title>
     <desc lang="pt">Depois de Leonard, Sheldon e Wolowitz comemorarem a conclusão do projeto da força aérea, eles têm uma surpresa desagradável.</desc>
@@ -226544,7 +225671,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519125700 -0300" stop="20260519131900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519124100 -0300" stop="20260519130300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Long Distance Dissonance</sub-title>
     <desc lang="pt">A turma fica preocupada quando a ex-admiradora de Sheldon, Dr. Ramona Nowitzki, ressurge enquanto Amy está longe em Princeton.</desc>
@@ -226554,57 +225681,57 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519131900 -0300" stop="20260519133900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519130300 -0300" stop="20260519132500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Proposal Proposal</sub-title>
     <desc lang="pt">Amy dá a Sheldon uma resposta para seu pedido de casamento, enquanto Howard e Bernadette lidam com notícias inesperadas.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519133900 -0300" stop="20260519140300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519132500 -0300" stop="20260519134800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Retraction Reaction</sub-title>
     <desc lang="pt">Leonard irrita a universidade - e toda a comunidade física - depois de dar uma entrevista embaraçosa. Além disso, Amy e Bernadette são obrigadas a esconder o sucesso de Sheldon e Howard.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">11.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519140300 -0300" stop="20260519142700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519134800 -0300" stop="20260519141000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Relaxation Integration</sub-title>
     <desc lang="pt">Enquanto Sheldon se esforça para escolher uma data de casamento, Amy tenta convencê-lo de que ele tem um lado mais descontraído.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">11.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519142700 -0300" stop="20260519145200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519141000 -0300" stop="20260519143400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Who's Vod Kanockers?</sub-title>
     <desc lang="pt">Alan se sente culpado quando Charlie, finalmente, lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519145200 -0300" stop="20260519151400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519143400 -0300" stop="20260519145700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">The Sea Is A Harsh Mistress</sub-title>
     <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer, mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519151400 -0300" stop="20260519153700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519145700 -0300" stop="20260519152000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Pot Smoking Monkey</sub-title>
     <desc lang="pt">Alan e Kandi se envolvem em uma batalha de custódia nada convencional. Alan está decidido a manter a custódia do cachorro, dele e de Kandi, depois dela ficar com o apartamento e o carro na separação.</desc>
@@ -226614,77 +225741,35 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519153700 -0300" stop="20260519160100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519152000 -0300" stop="20260519154300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Live Woman Of Proven Fertility</sub-title>
     <desc lang="pt">Alan está encantado porque não terá que pagar pensão alimentícia para Judith quando ela se casar com seu namorado, Herb. Entretanto, os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake...</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519160100 -0300" stop="20260519162400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519154300 -0300" stop="20260519160400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Apologies For The Frivolity</sub-title>
     <desc lang="pt">Ainda que não se dê muito bem com sua sarcástica e passivo-agressiva mãe, Charlie se sente estranhamente atraído por Lydia, uma loira e sofisticada corretora de imóveis, que é exatamente a atividade que sua m...</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1260</length>
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519162400 -0300" stop="20260519164800 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Repeated Blows To His Unformed Head</sub-title>
-    <desc lang="pt">Quando Berta jura se vingar do homem casado que deixou sua filha grávida, Naomi, obriga Charlie a ajudá-la. Enquanto isso, Naomi ajuda Berta com o trabalho de casa. E Alan revela um estranho fetiche.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
+  <programme start="20260519160400 -0300" stop="20260519180800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Crepúsculo</title>
+    <desc lang="pt">Bella recomeça sua vida em outra cidade. Na nova escola, fica impressionada com o misterioso Edward Cullen. Os dois se envolvem intensamente mesmo após Bella descobrir que o garoto é um vampiro.</desc>
+    <length units="minutes">7440</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519164800 -0300" stop="20260519170600 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">A Tummy Ache And A Chewable Bamm-bamm</sub-title>
-    <desc lang="pt">Quando Sheldon tem que passar alguns dias no hospital, ele se transforma no pior paciente do mundo.</desc>
-    <length units="minutes">1080</length>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519170600 -0300" stop="20260519172900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">A Nuclear Reactor And A Boy Called Lovey</sub-title>
-    <desc lang="pt">Uma festa universitária esquenta quando um colega do Dr. Sturgis, o Dr. Linkletter, flerta com Meemaw.  Sheldon tenta construir um reator nuclear.</desc>
-    <length units="minutes">1380</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519172900 -0300" stop="20260519175100 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">David, Goliath And A Yoo-hoo From The Back</sub-title>
-    <desc lang="pt">Sheldon usa sua amizade com o valentão da escola para mandar em Georgie. Missy rouba a maquiagem de Meemaw para o Dia da Foto.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519175100 -0300" stop="20260519181100 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Young Sheldon</title>
-    <sub-title lang="pt">A Math Emergency And Perky Palms</sub-title>
-    <desc lang="pt">Sheldon e Dr. Sturgis têm sua primeira discussão quando Dr. Sturgis aponta um erro na prova de Sheldon. Mary assume o lugar do Pastor Jeff quando ele adoece.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260519181100 -0300" stop="20260519182300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519180800 -0300" stop="20260519182000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Agora é Que São Elas</sub-title>
     <desc lang="pt">Buzum é uma série de ficção inspirada nas incríveis histórias (sur)reais que ocorrem constantemente nos surpreendentes transportes públicos das metrópoles brasileiras.</desc>
@@ -226694,20 +225779,20 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519182300 -0300" stop="20260519201400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519182000 -0300" stop="20260519201200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">O Amor dás</title>
     <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">André é um jovem médico que, depois de passar um ano trabalhando na África, descobre que durante sua viagem trocou cartas não com sua namorada de longa data, mas com uma pessoa muito próxima dela.</desc>
-    <length units="minutes">6660</length>
+    <length units="minutes">6720</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519201400 -0300" stop="20260519203500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519201200 -0300" stop="20260519203500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Congnition Regeneration</sub-title>
     <desc lang="pt">Leonard não fica nada contente quando Penny considera aceitar um novo emprego oferecido por seu ex-namorado, Zack</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">10.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -226723,31 +225808,31 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519205800 -0300" stop="20260519212100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519205800 -0300" stop="20260519212000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Long Distance Dissonance</sub-title>
     <desc lang="pt">A turma fica preocupada quando a ex-admiradora de Sheldon, Dr. Ramona Nowitzki, ressurge enquanto Amy está longe em Princeton.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">10.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519212100 -0300" stop="20260519214300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519212000 -0300" stop="20260519214400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Proposal Proposal</sub-title>
     <desc lang="pt">Amy dá a Sheldon uma resposta para seu pedido de casamento, enquanto Howard e Bernadette lidam com notícias inesperadas.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519214300 -0300" stop="20260519220600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519214400 -0300" stop="20260519220600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Retraction Reaction</sub-title>
     <desc lang="pt">Leonard irrita a universidade - e toda a comunidade física - depois de dar uma entrevista embaraçosa. Além disso, Amy e Bernadette são obrigadas a esconder o sucesso de Sheldon e Howard.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">11.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -226763,21 +225848,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260520003400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519223000 -0300" stop="20260520003200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Homem-Aranha no Aranhaverso</title>
     <desc lang="pt">Com um Oscar de Melhor Filme de Animação, Homem-Aranha No Aranhaverso não só apresenta o jovem Miles Morales como o novo homem-aranha, mas também traz uma visão refrescante e um estilo visual inovador.</desc>
-    <length units="minutes">7440</length>
+    <length units="minutes">7320</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260520003400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260519223000 -0300" stop="20260520003200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Homem-Aranha no Aranhaverso</title>
     <desc lang="pt">Com um Oscar de Melhor Filme de Animação, Homem-Aranha No Aranhaverso não só apresenta o jovem Miles Morales como o novo homem-aranha, mas também traz uma visão refrescante e um estilo visual inovador.</desc>
-    <length units="minutes">7440</length>
+    <length units="minutes">7320</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
+  </programme>
+  <programme start="20260520003200 -0300" stop="20260520003400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20260520003400 -0300" stop="20260520005800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
