@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-18 14:30:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-18 17:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -83078,8 +83078,7 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260518150000 -0300" stop="20260518170000 -0300" channel="ESPN 2">
-    <title lang="pt">WTA 1000 - Roma</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">WTA 1000: Roma: Coco Gauff x Elina Svitolina</title>
     <desc lang="pt">O WTA 1000 é a mais importante série do tênis feminino depois dos quatro Grand Slams. As principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -83100,35 +83099,11 @@
     <length units="minutes">1800</length>
   </programme>
   <programme start="20260518183000 -0300" stop="20260518184500 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter Abre o Jogo: NBB - ao vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
+    <title lang="pt">Momento CBTênis</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">900</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.138.</episode-num>
   </programme>
-  <programme start="20260518184500 -0300" stop="20260518210000 -0300" channel="ESPN 2">
-    <title lang="pt">NBB - ao vivo</title>
-    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260518210000 -0300" stop="20260518220000 -0300" channel="ESPN 2">
-    <title lang="pt">ESPN League - ao vivo</title>
-    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">21.138.</episode-num>
-  </programme>
-  <programme start="20260518220000 -0300" stop="20260518223000 -0300" channel="ESPN 2">
-    <title lang="pt">NFL Films Presents: Hidden Gems</title>
-    <desc lang="pt">NFL Filmes exibe nos bastidores acesso a jogadores da NFL e treinadores da temporada atual. Cada programa segue um tema diferente levando o fã mais profundo no reino da NFL.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">22.138.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260518223000 -0300" stop="20260518230000 -0300" channel="ESPN 2">
+  <programme start="20260518184500 -0300" stop="20260518191500 -0300" channel="ESPN 2">
     <title lang="pt">Encontros Premier League</title>
     <sub-title lang="pt">Nottingham Forest - A Gangue Brasileira</sub-title>
     <desc lang="pt">Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN.</desc>
@@ -83136,6 +83111,28 @@
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
+  </programme>
+  <programme start="20260518191500 -0300" stop="20260518194500 -0300" channel="ESPN 2">
+    <title lang="pt">NFL Films Presents: Hidden Gems</title>
+    <desc lang="pt">NFL Filmes exibe nos bastidores acesso a jogadores da NFL e treinadores da temporada atual. Cada programa segue um tema diferente levando o fã mais profundo no reino da NFL.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">19.138.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260518194500 -0300" stop="20260518204500 -0300" channel="ESPN 2">
+    <title lang="pt">ESPN League - ao vivo</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">19.138.</episode-num>
+  </programme>
+  <programme start="20260518204500 -0300" stop="20260518230000 -0300" channel="ESPN 2">
+    <title lang="pt">NBB: Pinheiros x Corinthians - ao vivo</title>
+    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260518230000 -0300" stop="20260518233000 -0300" channel="ESPN 2">
     <title lang="pt">Último Trem para a América do Norte</title>
@@ -83212,9 +83209,10 @@
     <episode-num system="xmltv_ns">8.139.</episode-num>
   </programme>
   <programme start="20260519090000 -0300" stop="20260519110000 -0300" channel="ESPN 2">
-    <title lang="pt">NBB</title>
-    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
+    <title lang="pt">NBB: Pinheiros x Corinthians</title>
+    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260519110000 -0300" stop="20260519130000 -0300" channel="ESPN 2">
     <title lang="pt">Arsenal x Burnley</title>
@@ -83229,8 +83227,7 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260519150000 -0300" stop="20260519170000 -0300" channel="ESPN 2">
-    <title lang="pt">ATP 1000 - Roma</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">ATP 1000: Roma: Jannik Sinner x Casper Ruud</title>
     <desc lang="pt">Os melhores tenistas do circuito dão tudo de si no ATP Masters 1000. Acompanhe cada partida e curta o altíssimo nível desses torneios espetaculares.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -83239,7 +83236,7 @@
     <title lang="pt">Último Trem para a América do Norte</title>
     <desc lang="pt">A série exibe a preparação conjunta de Estados Unidos, México e Canadá para a Copa do Mundo FIFA 2026</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">18.3.</episode-num>
+    <episode-num system="xmltv_ns">19.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -83302,9 +83299,10 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260519211000 -0300" stop="20260519233000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Play-offs</title>
+    <title lang="pt">NBA: Cleveland Cavaliers x New York Knicks - ao vivo</title>
     <desc lang="pt">Os campeões das conferências Leste e Oeste disputam as finais da NBA. Quem ganhará o cobiçado anel?</desc>
     <length units="minutes">8400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260519233000 -0300" stop="20260520000000 -0300" channel="ESPN 2">
     <title lang="pt">League De Passe: Pós-jogo NBA - ao vivo</title>
@@ -83358,10 +83356,10 @@
     <episode-num system="xmltv_ns">87.140.</episode-num>
   </programme>
   <programme start="20260520083000 -0300" stop="20260520110000 -0300" channel="ESPN 2">
-    <title lang="pt">NBA Play-offs - ao vivo</title>
-    <desc lang="pt">Os melhores times do oeste se enfrentam pelo título da conferência e vaga nas finais da NBA!</desc>
+    <title lang="pt">NBA: Cleveland Cavaliers x New York Knicks</title>
+    <desc lang="pt">Os campeões das conferências Leste e Oeste disputam as finais da NBA. Quem ganhará o cobiçado anel?</desc>
     <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+    <previously-shown/>
   </programme>
   <programme start="20260520110000 -0300" stop="20260520130000 -0300" channel="ESPN 2">
     <title lang="pt">Bournemouth x Manchester City</title>
@@ -83403,27 +83401,17 @@
     <length units="minutes">1800</length>
   </programme>
   <programme start="20260520193000 -0300" stop="20260520194500 -0300" channel="ESPN 2">
-    <title lang="pt">Momento ESPN: Brooklyn - Onde os Sonhos Jogam</title>
-    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+    <title lang="pt">Sportscenter Abre o Jogo: NBB - ao vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">19.201.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">89.140.</episode-num>
   </programme>
-  <programme start="20260520194500 -0300" stop="20260520200000 -0300" channel="ESPN 2">
-    <title lang="pt">Momento CBTênis</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">900</length>
-  </programme>
-  <programme start="20260520200000 -0300" stop="20260520220000 -0300" channel="ESPN 2">
-    <title lang="pt">Basketball: A Love Story</title>
-    <desc lang="pt">Documentário da ESPN Filmes que aborda por diferentes ângulos a paixão e relação de importantes personagens da história do basquete americano com a modalidade.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260520194500 -0300" stop="20260520220000 -0300" channel="ESPN 2">
+    <title lang="pt">NBB: Corinthians x Pinheiros - ao vivo</title>
+    <desc lang="pt">O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260520220000 -0300" stop="20260520223000 -0300" channel="ESPN 2">
     <title lang="pt">Premier League Stories</title>
@@ -83783,7 +83771,7 @@
     <title lang="pt">Último Trem para a América do Norte</title>
     <desc lang="pt">A série exibe a preparação conjunta de Estados Unidos, México e Canadá para a Copa do Mundo FIFA 2026</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">16.2.</episode-num>
+    <episode-num system="xmltv_ns">18.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -83824,11 +83812,17 @@
     <length units="minutes">9000</length>
     <previously-shown/>
   </programme>
-  <programme start="20260518200000 -0300" stop="20260518223000 -0300" channel="ESPN 3">
-    <title lang="pt">NHL: Buffalo Sabres x Montreal Canadiens</title>
+  <programme start="20260518200000 -0300" stop="20260518220000 -0300" channel="ESPN 3">
+    <title lang="pt">Argentinos Jrs x Belgrano</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">7200</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260518220000 -0300" stop="20260518223000 -0300" channel="ESPN 3">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre o mundo da NBA.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">22.138.</episode-num>
   </programme>
   <programme start="20260518223000 -0300" stop="20260519013000 -0300" channel="ESPN 3">
     <title lang="pt">MLB: Los Angeles Dodgers x San Diego Padres - ao vivo</title>
@@ -84073,11 +84067,10 @@
     </rating>
   </programme>
   <programme start="20260520210000 -0300" stop="20260520233000 -0300" channel="ESPN 3">
-    <title lang="pt">NHL: Stanley Cup Playoffs - ao vivo</title>
+    <title lang="pt">NHL: Vegas Golden Knights x Colorado Avalanche - ao vivo</title>
     <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
     <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">21.140.</episode-num>
   </programme>
   <programme start="20260520233000 -0300" stop="20260521000000 -0300" channel="ESPN 3">
     <title lang="pt">Premier League Stories</title>
@@ -177178,22 +177171,22 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260518153000 -0300" stop="20260518170000 -0300" channel="SBT">
+  <programme start="20260518153000 -0300" stop="20260518164500 -0300" channel="SBT">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">15.138.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260518170000 -0300" stop="20260518183000 -0300" channel="SBT">
-    <title lang="pt">Sortilégio</title>
-    <desc lang="pt">A trama conta uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">87.138.</episode-num>
+  <programme start="20260518164500 -0300" stop="20260518183000 -0300" channel="SBT">
+    <title lang="pt">Convocação Seleção Brasileira - ao vivo</title>
+    <desc lang="pt">Carlo Ancelotti revela os 26 convocados da Seleção Brasileira para a Copa, e o SBT acompanha ao vivo todos os detalhes da aguardada lista rumo ao hexacampeonato.</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">live broadcast</category>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260518183000 -0300" stop="20260518194500 -0300" channel="SBT">
@@ -177252,17 +177245,11 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519013000 -0300" stop="20260519021500 -0300" channel="SBT">
-    <title lang="pt">Notícias Impressionantes</title>
-    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">81.139.</episode-num>
-  </programme>
-  <programme start="20260519021500 -0300" stop="20260519060000 -0300" channel="SBT">
+  <programme start="20260519013000 -0300" stop="20260519060000 -0300" channel="SBT">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
-    <length units="minutes">13500</length>
-    <episode-num system="xmltv_ns">82.139.</episode-num>
+    <length units="minutes">16200</length>
+    <episode-num system="xmltv_ns">81.139.</episode-num>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519083000 -0300" channel="SBT">
     <title lang="pt">Se Liga Brasil</title>
@@ -177324,29 +177311,38 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.139.</episode-num>
   </programme>
-  <programme start="20260519204500 -0300" stop="20260519220000 -0300" channel="SBT">
+  <programme start="20260519204500 -0300" stop="20260519211500 -0300" channel="SBT">
     <title lang="pt">Domênica Montero</title>
     <desc lang="pt">Doménica Montero é uma moça rica e batalhadora, sendo prometida em casamento por Max, um homem de caráter duvidoso, que se encontra às escondidas com Kiara. Ela tem muita inveja de Doménica e é criada por Pilar.</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">80.139.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260519220000 -0300" stop="20260519230000 -0300" channel="SBT">
+  <programme start="20260519211500 -0300" stop="20260519231500 -0300" channel="SBT">
+    <title lang="pt">São Paulo x Millonarios - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260519231500 -0300" stop="20260520001500 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">22.139.</episode-num>
+    <episode-num system="xmltv_ns">23.139.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260519230000 -0300" stop="20260520000000 -0300" channel="SBT">
-    <title lang="pt">SBT Repórter</title>
-    <desc lang="pt">O &quot;SBT Repórter&quot; é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+  <programme start="20260519231500 -0300" stop="20260520001500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.139.</episode-num>
+    <episode-num system="xmltv_ns">23.139.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
   </programme>
   <programme start="20260520000000 -0300" stop="20260520010000 -0300" channel="SBT">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -181770,14 +181766,14 @@
   </programme>
   <programme start="20260518164000 -0300" stop="20260518180000 -0300" channel="SPORTV">
     <title lang="pt">Convocação da Seleção Brasileira - ao vivo</title>
-    <desc lang="pt">Acompanhe ao vivo a convocação da Seleção Brasileira e descubra os jogadores escolhidos para os próximos desafios do Brasil.</desc>
+    <desc lang="pt">Chegou o momento de conhecer os jogadores que vão representar a Seleção Brasileira na maior festa do futebol mundial. É a convocação da Seleção Brasileira para a Copa, aqui no sportv!</desc>
     <length units="minutes">4800</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.138.</episode-num>
   </programme>
   <programme start="20260518180000 -0300" stop="20260518203000 -0300" channel="SPORTV">
     <title lang="pt">Seleção Copa: Especial Convocação da Seleção …</title>
-    <desc lang="pt">Acompanhe ao vivo a convocação da Seleção Brasileira e descubra os jogadores escolhidos para os próximos desafios do Brasil.</desc>
+    <desc lang="pt">Acompanhe o dia a dia da Seleção Brasileira, com análises, bastidores e tudo sobre a caminhada do Brasil na Copa do Mundo. É o Seleção Copa, aqui no sportv!</desc>
     <length units="minutes">9000</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">88.138.</episode-num>
@@ -181804,7 +181800,7 @@
   </programme>
   <programme start="20260519003000 -0300" stop="20260519020000 -0300" channel="SPORTV">
     <title lang="pt">Convocação da Seleção Brasileira</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Chegou o momento de conhecer os jogadores que vão representar a Seleção Brasileira na maior festa do futebol mundial. É a convocação da Seleção Brasileira para a Copa, aqui no sportv!</desc>
     <length units="minutes">5400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">80.139.</episode-num>
@@ -181845,7 +181841,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519063000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada</title>
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">16ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
@@ -181895,7 +181892,7 @@
   </programme>
   <programme start="20260519161500 -0300" stop="20260519174500 -0300" channel="SPORTV">
     <title lang="pt">Convocação da Seleção Brasileira</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Chegou o momento de conhecer os jogadores que vão representar a Seleção Brasileira na maior festa do futebol mundial. É a convocação da Seleção Brasileira para a Copa, aqui no sportv!</desc>
     <length units="minutes">5400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">86.139.</episode-num>
@@ -182148,17 +182145,17 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.141.</episode-num>
   </programme>
-  <programme start="20260521130000 -0300" stop="20260521151500 -0300" channel="SPORTV">
+  <programme start="20260521130000 -0300" stop="20260521143000 -0300" channel="SPORTV">
     <title lang="pt">Seleção sportv - ao vivo</title>
     <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
-    <length units="minutes">8100</length>
+    <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.141.</episode-num>
   </programme>
-  <programme start="20260521151500 -0300" stop="20260521173000 -0300" channel="SPORTV">
-    <title lang="pt">Bundesliga - ao vivo</title>
-    <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
-    <length units="minutes">8100</length>
+  <programme start="20260521143000 -0300" stop="20260521173000 -0300" channel="SPORTV">
+    <title lang="pt">Al-Nassr x Damac - ao vivo</title>
+    <desc lang="pt">Al-Nassr e Damac jogam pela 34ª rodada do Segundo Turno da Liga Saudita, no Al-awwal Park, em Riad, Arábia Saudita.</desc>
+    <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260521173000 -0300" stop="20260521200000 -0300" channel="SPORTV">
@@ -182194,44 +182191,45 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.141.</episode-num>
   </programme>
-  <programme start="20260522010000 -0300" stop="20260522030000 -0300" channel="SPORTV">
-    <title lang="pt">Panela sportv</title>
-    <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260522010000 -0300" stop="20260522020000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Brasileiro Feminino</title>
+    <sub-title lang="pt">11ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">81.142.</episode-num>
   </programme>
-  <programme start="20260522030000 -0300" stop="20260522040000 -0300" channel="SPORTV">
-    <title lang="pt">Flamengo x Ferroviária</title>
-    <desc lang="pt">Flamengo e Ferroviária jogam pelo Campeonato Brasileiro Feminino.</desc>
+  <programme start="20260522020000 -0300" stop="20260522030000 -0300" channel="SPORTV">
+    <title lang="pt">Flamengo x Santos</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522040000 -0300" stop="20260522043000 -0300" channel="SPORTV">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260522030000 -0300" stop="20260522040000 -0300" channel="SPORTV">
+    <title lang="pt">Ferroviária x Palmeiras</title>
+    <desc lang="pt">Acompanhe uma das principais competições do futebol feminino, o Campeonato Paulista, aqui no sportv!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522043000 -0300" stop="20260522050000 -0300" channel="SPORTV">
-    <title lang="pt">Mirassol x Chapecoense</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260522040000 -0300" stop="20260522050000 -0300" channel="SPORTV">
+    <title lang="pt">Internacional x Flamengo</title>
+    <desc lang="pt">Internacional e Flamengo jogam pelo Campeonato Brasileiro Feminino Sub-20.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260522050000 -0300" stop="20260522060000 -0300" channel="SPORTV">
-    <title lang="pt">Náutico x América-MG</title>
-    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba! Tá na Série B, tá no sportv</desc>
+    <title lang="pt">Ferroviária x São Paulo</title>
+    <desc lang="pt">Ferroviária e São Paulo jogam pelo Campeonato Brasileiro Feminino Sub-20.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260522060000 -0300" stop="20260522070000 -0300" channel="SPORTV">
-    <title lang="pt">Corinthians x São Paulo</title>
-    <desc lang="pt">Corinthians e São Paulo jogam pelo Campeonato Brasileiro Feminino.</desc>
+    <title lang="pt">São Paulo x Bragantino</title>
+    <desc lang="pt">Acompanhe uma das principais competições do futebol feminino, o Campeonato Paulista, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
@@ -182264,49 +182262,51 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.142.</episode-num>
   </programme>
-  <programme start="20260522130000 -0300" stop="20260522145000 -0300" channel="SPORTV">
+  <programme start="20260522130000 -0300" stop="20260522153000 -0300" channel="SPORTV">
     <title lang="pt">Seleção sportv - ao vivo</title>
     <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.142.</episode-num>
   </programme>
-  <programme start="20260522145000 -0300" stop="20260522170000 -0300" channel="SPORTV">
-    <title lang="pt">Al-Nassr x Al-Hilal - ao vivo</title>
-    <desc lang="pt">Al-Nassr e Al-Hilal jogam pela 32ª rodada do Segundo Turno da Campeonato Liga Saudita, no Al-awwal Park, em Riad, Arábia Saudita.</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260522153000 -0300" stop="20260522161500 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">85.142.</episode-num>
   </programme>
-  <programme start="20260522170000 -0300" stop="20260522181500 -0300" channel="SPORTV">
+  <programme start="20260522161500 -0300" stop="20260522170000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Brasileiro Feminino</title>
+    <sub-title lang="pt">11ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">86.142.</episode-num>
+  </programme>
+  <programme start="20260522170000 -0300" stop="20260522183000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - ao vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">87.142.</episode-num>
   </programme>
-  <programme start="20260522181500 -0300" stop="20260522203000 -0300" channel="SPORTV">
-    <title lang="pt">Vasco x Araguari - ao vivo</title>
-    <desc lang="pt">Vasco e Araguari enfrentam-se na 2ª fase do Copa do Brasil Feminina.</desc>
-    <length units="minutes">8100</length>
+  <programme start="20260522183000 -0300" stop="20260522210000 -0300" channel="SPORTV">
+    <title lang="pt">Náutico x Cuiabá - ao vivo</title>
+    <desc lang="pt">Náutico e Cuiabá jogam pela 10ª rodada do Primeiro Turno do Campeonato Brasileiro, Série B, no Esportes da Sorte Aflitos, em Recife (PE).</desc>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260522203000 -0300" stop="20260522213000 -0300" channel="SPORTV">
-    <title lang="pt">Aquecimento sporTV - ao vivo</title>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.142.</episode-num>
-  </programme>
-  <programme start="20260522213000 -0300" stop="20260522233000 -0300" channel="SPORTV">
-    <title lang="pt">Cruzeiro x Goiás - ao vivo</title>
-    <desc lang="pt">Cruzeiro e Goiás jogam a rodada de volta da 5ª fase da Copa do Brasil, no Mineirão, em Belo Horizonte (MG).</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260522210000 -0300" stop="20260522233000 -0300" channel="SPORTV">
+    <title lang="pt">Internacional x Flamengo - ao vivo</title>
+    <desc lang="pt">Internacional e Flamengo jogam pela 12ª rodada da 1ª fase do Campeonato Brasileiro Feminino, no Sesc Campestre.</desc>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260522233000 -0300" stop="20260523003000 -0300" channel="SPORTV">
+  <programme start="20260522233000 -0300" stop="20260523010000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - ao vivo</title>
     <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.142.</episode-num>
   </programme>
@@ -182392,7 +182392,7 @@
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">3000</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">16.1.</episode-num>
+    <episode-num system="xmltv_ns">18.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -182413,7 +182413,7 @@
   </programme>
   <programme start="20260518175500 -0300" stop="20260518193000 -0300" channel="SPORTV 2">
     <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
     <length units="minutes">5700</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -182465,17 +182465,10 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">86.1.</episode-num>
   </programme>
-  <programme start="20260519070000 -0300" stop="20260519073000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hortência e Paula: Parceiras</title>
-    <desc lang="pt">Em meio à febre do basquete feminino, guerras de torcida marcam os campeonatos em SP. Na Seleção, a rivalidade vira parceria rumo à final histórica do Pan de Havana, em 1991.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.2.</episode-num>
-  </programme>
-  <programme start="20260519073000 -0300" stop="20260519093000 -0300" channel="SPORTV 2">
+  <programme start="20260519070000 -0300" stop="20260519093000 -0300" channel="SPORTV 2">
     <title lang="pt">Sesi-Bauru x Minas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">9000</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -182493,94 +182486,94 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519133000 -0300" stop="20260519153000 -0300" channel="SPORTV 2">
+  <programme start="20260519133000 -0300" stop="20260519152000 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Taubaté</title>
     <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519153000 -0300" stop="20260519163000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vôlei de Praia: Xiamen, China - ao vivo</title>
+  <programme start="20260519152000 -0300" stop="20260519162000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Xiamen, China</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
+    <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260519163000 -0300" stop="20260519170000 -0300" channel="SPORTV 2">
+  <programme start="20260519162000 -0300" stop="20260519170000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">86.1.</episode-num>
   </programme>
   <programme start="20260519170000 -0300" stop="20260519173000 -0300" channel="SPORTV 2">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte: Tênis De Mesa Na China</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.1.</episode-num>
-  </programme>
-  <programme start="20260519173000 -0300" stop="20260519180000 -0300" channel="SPORTV 2">
     <title lang="pt">Lendas Olímpicas: Ian Thorpe</title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">17.8.</episode-num>
   </programme>
-  <programme start="20260519180000 -0300" stop="20260519193000 -0300" channel="SPORTV 2">
+  <programme start="20260519173000 -0300" stop="20260519190000 -0300" channel="SPORTV 2">
     <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260519193000 -0300" stop="20260519203000 -0300" channel="SPORTV 2">
-    <title lang="pt">Faixa Olímpica: On The Line Olímpicas dos 100m Rasos</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260519190000 -0300" stop="20260519193000 -0300" channel="SPORTV 2">
+    <title lang="pt">Faixa Olímpica: On The Line: Provas Clássicas da Natação</title>
+    <desc lang="pt">As histórias de bastidores de momentos clássicos das finais olímpicas da natação.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">19.139.</episode-num>
   </programme>
-  <programme start="20260519203000 -0300" stop="20260519223000 -0300" channel="SPORTV 2">
+  <programme start="20260519193000 -0300" stop="20260519202500 -0300" channel="SPORTV 2">
+    <title lang="pt">Clássicas: Basquete Masculino Jogos Olímpicos Londres 2012</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
+    <length units="minutes">3300</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">89.139.</episode-num>
+  </programme>
+  <programme start="20260519202500 -0300" stop="20260519223500 -0300" channel="SPORTV 2">
     <title lang="pt">Osasco x Sesi-Bauru</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260520003000 -0300" channel="SPORTV 2">
+  <programme start="20260519223500 -0300" stop="20260520005500 -0300" channel="SPORTV 2">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">8400</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519223000 -0300" stop="20260520003000 -0300" channel="SPORTV 2">
+  <programme start="20260519223500 -0300" stop="20260520005500 -0300" channel="SPORTV 2">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">8400</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260520003000 -0300" stop="20260520023000 -0300" channel="SPORTV 2">
+  <programme start="20260520005500 -0300" stop="20260520023500 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6000</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260520023000 -0300" stop="20260520043000 -0300" channel="SPORTV 2">
+  <programme start="20260520023500 -0300" stop="20260520043500 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Diamond League: 1ª Etapa - Xangai, China</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260520043000 -0300" stop="20260520053000 -0300" channel="SPORTV 2">
+  <programme start="20260520043500 -0300" stop="20260520053000 -0300" channel="SPORTV 2">
     <title lang="pt">Road To Glory: Maratona</title>
     <desc lang="pt">Os melhores momentos dos eventos de endurance pura das Olimpíadas com histórias de Emil Zatopek e Frank Shorter.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3300</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">84.4.</episode-num>
   </programme>
@@ -182657,7 +182650,7 @@
   </programme>
   <programme start="20260520180000 -0300" stop="20260520193000 -0300" channel="SPORTV 2">
     <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
   </programme>
@@ -182695,234 +182688,221 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">82.140.</episode-num>
   </programme>
-  <programme start="20260520230000 -0300" stop="20260521000000 -0300" channel="SPORTV 2">
+  <programme start="20260520230000 -0300" stop="20260521010000 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260521000000 -0300" stop="20260521040000 -0300" channel="SPORTV 2">
-    <title lang="pt">Copa do Mundo de Ginástica Artística: Varna, Bulgária</title>
+  <programme start="20260520230000 -0300" stop="20260521010000 -0300" channel="SPORTV 2">
+    <title lang="pt">Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260521010000 -0300" stop="20260521030000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260521030000 -0300" stop="20260521050000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260521050000 -0300" stop="20260521070000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260521070000 -0300" stop="20260521110000 -0300" channel="SPORTV 2">
+    <title lang="pt">Ginástica Artística: Varna, Bulgária</title>
     <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
     <length units="minutes">14400</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260521040000 -0300" stop="20260521080000 -0300" channel="SPORTV 2">
-    <title lang="pt">Copa do Mundo de Ginástica Artística: Varna, Bulgária</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
-    <length units="minutes">14400</length>
+  <programme start="20260521110000 -0300" stop="20260521130000 -0300" channel="SPORTV 2">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260521080000 -0300" stop="20260521093500 -0300" channel="SPORTV 2">
+  <programme start="20260521130000 -0300" stop="20260521151500 -0300" channel="SPORTV 2">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">5700</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260521093500 -0300" stop="20260521114500 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Japão</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260521114500 -0300" stop="20260521140000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Polônia</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">8100</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260521140000 -0300" stop="20260521143500 -0300" channel="SPORTV 2">
-    <title lang="pt">Vem Com Elas</title>
-    <desc lang="pt">A série apresenta as jogadoras da Seleção Feminina de Futebol  ao público de uma maneira íntima, falando das dificuldades e obstáculos que elas enfrentam desde cedo.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.1.</episode-num>
-  </programme>
-  <programme start="20260521143500 -0300" stop="20260521151000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vem Com Elas</title>
-    <desc lang="pt">A série apresenta as jogadoras da Seleção Feminina de Futebol  ao público de uma maneira íntima, falando das dificuldades e obstáculos que elas enfrentam desde cedo.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.2.</episode-num>
-  </programme>
-  <programme start="20260521151000 -0300" stop="20260521155000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vem Com Elas</title>
-    <desc lang="pt">A série apresenta as jogadoras da Seleção Feminina de Futebol  ao público de uma maneira íntima, falando das dificuldades e obstáculos que elas enfrentam desde cedo.</desc>
-    <length units="minutes">2400</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">85.3.</episode-num>
-  </programme>
-  <programme start="20260521155000 -0300" stop="20260521180000 -0300" channel="SPORTV 2">
-    <title lang="pt">Mirassol x Ferroviária - ao vivo</title>
-    <desc lang="pt">Mirassol e Ferroviária jogam pela 2ª rodada da 1ª fase do Campeonato Paulista Feminino.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260521151500 -0300" stop="20260521173000 -0300" channel="SPORTV 2">
+    <title lang="pt">Campeonato Alemão de Futebol - ao vivo</title>
+    <desc lang="pt">Acompanhe todos os incríveis jogos da Bundesliga, o maior torneio alemão tá no sportv!</desc>
+    <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260521180000 -0300" stop="20260521183000 -0300" channel="SPORTV 2">
-    <title lang="pt">Zebras: Baraúnas</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+  <programme start="20260521173000 -0300" stop="20260521190000 -0300" channel="SPORTV 2">
+    <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260521190000 -0300" stop="20260521210000 -0300" channel="SPORTV 2">
+    <title lang="pt">NBB - ao vivo</title>
+    <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260521210000 -0300" stop="20260521230000 -0300" channel="SPORTV 2">
+    <title lang="pt">São Paulo x Bragantino - ao vivo</title>
+    <desc lang="pt">São Paulo e Bragantino jogam pela 3ª rodada da 1ª fase do Campeonato Paulista Feminino, no Cotia.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260521230000 -0300" stop="20260521233000 -0300" channel="SPORTV 2">
+    <title lang="pt">Jogos Para Sempre: Arnaldo Copa 82</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.141.</episode-num>
+    <episode-num system="xmltv_ns">83.141.</episode-num>
   </programme>
-  <programme start="20260521183000 -0300" stop="20260521210000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
+  <programme start="20260521233000 -0300" stop="20260522003500 -0300" channel="SPORTV 2">
+    <title lang="pt">NBB</title>
+    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
+    <length units="minutes">3900</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260521210000 -0300" stop="20260521214500 -0300" channel="SPORTV 2">
-    <title lang="pt">Acesso Total Judô: Ippon</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260521233000 -0300" stop="20260522003500 -0300" channel="SPORTV 2">
+    <title lang="pt">NBB</title>
+    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação!</desc>
+    <length units="minutes">3900</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.2.</episode-num>
   </programme>
-  <programme start="20260521214500 -0300" stop="20260521222000 -0300" channel="SPORTV 2">
-    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
-    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
-    <length units="minutes">2100</length>
+  <programme start="20260522003500 -0300" stop="20260522013500 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Xiamen, China</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260522013500 -0300" stop="20260522021500 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">81.1.</episode-num>
   </programme>
-  <programme start="20260521222000 -0300" stop="20260522000000 -0300" channel="SPORTV 2">
-    <title lang="pt">Minas x Praia Clube</title>
+  <programme start="20260522021500 -0300" stop="20260522025500 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.2.</episode-num>
+  </programme>
+  <programme start="20260522025500 -0300" stop="20260522034000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Acompanhe os bastidores dos treinos e fora da quadra da seleção brasileira de vôlei feminina, a preparação e a trajetória na Liga das Nações e no Mundial.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.3.</episode-num>
+  </programme>
+  <programme start="20260522034000 -0300" stop="20260522042000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">A equipe da série 'Sem Bloqueio' acompanha a Seleção Brasileira Feminina de Vôlei no momento mais esperado da temporada: o Campeonato Mundial.</desc>
+    <length units="minutes">2400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.4.</episode-num>
+  </programme>
+  <programme start="20260522042000 -0300" stop="20260522060000 -0300" channel="SPORTV 2">
+    <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <length units="minutes">6000</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522000000 -0300" stop="20260522013500 -0300" channel="SPORTV 2">
-    <title lang="pt">Cruzeiro x Campinas</title>
+  <programme start="20260522060000 -0300" stop="20260522080000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Diamond League: 1ª Etapa - Xangai, China</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260522080000 -0300" stop="20260522094500 -0300" channel="SPORTV 2">
+    <title lang="pt">Minas x Taubaté</title>
+    <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260522094500 -0300" stop="20260522123500 -0300" channel="SPORTV 2">
+    <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">5700</length>
+    <length units="minutes">10200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522013500 -0300" stop="20260522035000 -0300" channel="SPORTV 2">
-    <title lang="pt">Osasco x Sesi-Bauru</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">8100</length>
+  <programme start="20260522123500 -0300" stop="20260522133500 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Xiamen, China</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
   </programme>
-  <programme start="20260522035000 -0300" stop="20260522054000 -0300" channel="SPORTV 2">
-    <title lang="pt">Cruzeiro x Minas</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">6600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260522054000 -0300" stop="20260522080000 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x Brasil</title>
-    <desc lang="pt">Tá de volta! Vem acompanhar jogão do Mundial de Vôlei aqui no sportv!</desc>
-    <length units="minutes">8400</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260522080000 -0300" stop="20260522085000 -0300" channel="SPORTV 2">
+  <programme start="20260522133500 -0300" stop="20260522142500 -0300" channel="SPORTV 2">
     <title lang="pt">As Bicampeãs</title>
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">3000</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">15.2.</episode-num>
+    <episode-num system="xmltv_ns">18.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260522085000 -0300" stop="20260522090000 -0300" channel="SPORTV 2">
-    <title lang="pt">Heróis do Futuro: Fernando Rufino: Canoagem Paralímpica</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">15.85.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260522090000 -0300" stop="20260522100000 -0300" channel="SPORTV 2">
-    <title lang="pt">Canoagem de Velocidade - ao vivo</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">Veja as finais da Copa do Mundo de Canoagem Velocidade aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260522100000 -0300" stop="20260522104500 -0300" channel="SPORTV 2">
-    <title lang="pt">My Olympic Moment: Meu Momento Olímpico</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.1.</episode-num>
-  </programme>
-  <programme start="20260522104500 -0300" stop="20260522133000 -0300" channel="SPORTV 2">
-    <title lang="pt">Copa do Mundo de High Diving - ao vivo</title>
-    <desc lang="pt">Acompanhe a Copa do Mundo de High Diving no sportv! Emoção nas alturas com saltos impressionantes.</desc>
-    <length units="minutes">9900</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260522133000 -0300" stop="20260522153000 -0300" channel="SPORTV 2">
+  <programme start="20260522142500 -0300" stop="20260522161000 -0300" channel="SPORTV 2">
     <title lang="pt">Minas x Praia Clube</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522153000 -0300" stop="20260522173000 -0300" channel="SPORTV 2">
-    <title lang="pt">Praia Clube x Minas</title>
+  <programme start="20260522161000 -0300" stop="20260522175500 -0300" channel="SPORTV 2">
+    <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260522173000 -0300" stop="20260522184500 -0300" channel="SPORTV 2">
-    <title lang="pt">Olheiros Olímpicos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV.</desc>
+  <programme start="20260522175500 -0300" stop="20260522193000 -0300" channel="SPORTV 2">
+    <title lang="pt">Troféu Maria Lenk de Natação - ao vivo</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">5700</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260522193000 -0300" stop="20260522204500 -0300" channel="SPORTV 2">
+    <title lang="pt">Faixa Olímpica: Lendas da Natação</title>
+    <desc lang="pt">A história das lendas da natação Ian Thorpe (AUS) e Natalie Coughlin (EUA)</desc>
     <length units="minutes">4500</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.1.</episode-num>
+    <episode-num system="xmltv_ns">19.142.</episode-num>
   </programme>
-  <programme start="20260522184500 -0300" stop="20260522190000 -0300" channel="SPORTV 2">
-    <title lang="pt">Heróis do Futuro: Rosamaria: Vôlei</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">15.184.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260522190000 -0300" stop="20260522201500 -0300" channel="SPORTV 2">
-    <title lang="pt">Olympic Channel: Time Machine</title>
-    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial das competições!</desc>
-    <length units="minutes">4500</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20260522201500 -0300" stop="20260522223000 -0300" channel="SPORTV 2">
-    <title lang="pt">NBB: Brasília x Flamengo - ao vivo</title>
+  <programme start="20260522204500 -0300" stop="20260522230000 -0300" channel="SPORTV 2">
+    <title lang="pt">NBB - ao vivo</title>
     <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260522223000 -0300" stop="20260522233000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello L.A</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
+  <programme start="20260522230000 -0300" stop="20260523000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Clássicas: Basquete Masculino Jogos Olímpicos Londres 2012</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.142.</episode-num>
-  </programme>
-  <programme start="20260522233000 -0300" stop="20260523000000 -0300" channel="SPORTV 2">
-    <title lang="pt">Lendas Olímpicas: Jackie Silva</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">23.1.</episode-num>
+    <episode-num system="xmltv_ns">83.142.</episode-num>
   </programme>
   <programme start="20260517220000 -0300" stop="20260518030000 -0300" channel="SPORTV 3">
     <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
@@ -183009,19 +182989,19 @@
     <episode-num system="xmltv_ns">86.138.</episode-num>
   </programme>
   <programme start="20260518165500 -0300" stop="20260518220000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">18300</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260518220000 -0300" stop="20260519030000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">18000</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260518220000 -0300" stop="20260519030000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">18000</length>
     <category lang="en">live broadcast</category>
@@ -183046,131 +183026,153 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519090000 -0300" stop="20260519100000 -0300" channel="SPORTV 3">
+  <programme start="20260519090000 -0300" stop="20260519095500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP do Japão - Melhores Momentos</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3300</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519100000 -0300" stop="20260519110000 -0300" channel="SPORTV 3">
+  <programme start="20260519095500 -0300" stop="20260519104500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Miami - Corrida Sprint</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519110000 -0300" stop="20260519130500 -0300" channel="SPORTV 3">
+  <programme start="20260519104500 -0300" stop="20260519124500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Miami</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">7500</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519130500 -0300" stop="20260519145500 -0300" channel="SPORTV 3">
+  <programme start="20260519124500 -0300" stop="20260519150000 -0300" channel="SPORTV 3">
+    <title lang="pt">Surfe: Melhores Momentos - Etapa de Margaret River</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260519150000 -0300" stop="20260519165500 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe: Melhores Momentos - Etapa de Bells Beach</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">6600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260519145500 -0300" stop="20260519180000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">11100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260519180000 -0300" stop="20260519220000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260519220000 -0300" stop="20260520010500 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">11100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260519220000 -0300" stop="20260520010500 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">11100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260520010500 -0300" stop="20260520030000 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe: Melhores Momentos - Etapa de Snapper Rocks</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260520030000 -0300" stop="20260520050000 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe: Melhores Momentos - Etapa de Snapper Rocks</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260520050000 -0300" stop="20260520054500 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL Replay 2026: Western Australia Margaret River Pro</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260520054500 -0300" stop="20260520090000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Japão</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">11700</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260520090000 -0300" stop="20260520130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Japão</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">14400</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260520130000 -0300" stop="20260520145500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Japão</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">6900</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260520145500 -0300" stop="20260520180000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+  <programme start="20260519165500 -0300" stop="20260519200000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">11100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260520180000 -0300" stop="20260520220000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+  <programme start="20260519200000 -0300" stop="20260519230000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260519230000 -0300" stop="20260520030000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">14400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260520220000 -0300" stop="20260521003000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+  <programme start="20260519230000 -0300" stop="20260520030000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">14400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260520220000 -0300" stop="20260521003000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260520030000 -0300" stop="20260520063500 -0300" channel="SPORTV 3">
+    <title lang="pt">Ginástica Artística: Varna, Bulgária</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
+    <length units="minutes">12900</length>
+    <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260521003000 -0300" stop="20260521023000 -0300" channel="SPORTV 3">
+  <programme start="20260520063500 -0300" stop="20260520104000 -0300" channel="SPORTV 3">
+    <title lang="pt">Ginástica Rítmica: Portimão, Portugal</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
+    <length units="minutes">14700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">6.140.</episode-num>
+  </programme>
+  <programme start="20260520104000 -0300" stop="20260520124000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Miami</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260521023000 -0300" stop="20260521043000 -0300" channel="SPORTV 3">
+  <programme start="20260520124000 -0300" stop="20260520140000 -0300" channel="SPORTV 3">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">4800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.11.</episode-num>
+  </programme>
+  <programme start="20260520140000 -0300" stop="20260520150000 -0300" channel="SPORTV 3">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">84.12.</episode-num>
+  </programme>
+  <programme start="20260520150000 -0300" stop="20260520153500 -0300" channel="SPORTV 3">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260520153500 -0300" stop="20260520160500 -0300" channel="SPORTV 3">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">15.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260520160500 -0300" stop="20260520165500 -0300" channel="SPORTV 3">
+    <title lang="pt">WSL Replay 2026: Rip Curl Pro Bells Beach</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">3000</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260520165500 -0300" stop="20260520190000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">7500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260520190000 -0300" stop="20260520230000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260520230000 -0300" stop="20260521030000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260520230000 -0300" stop="20260521030000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260521030000 -0300" stop="20260521043000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP da China</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">5400</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -183340,13 +183342,13 @@
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260522165500 -0300" stop="20260522200000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">11100</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260522200000 -0300" stop="20260523020000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL: Etapa da Nova Zelândia - ao vivo</title>
+    <title lang="pt">Circuito Mundial de Surfe: Etapa da Nova Zelândia - ao vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">21600</length>
     <category lang="en">live broadcast</category>
@@ -186048,168 +186050,168 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260519000000 -0300" stop="20260519030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519030000 -0300" stop="20260519060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519090000 -0300" stop="20260519130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260519130000 -0300" stop="20260519150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260519150000 -0300" stop="20260519180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519180000 -0300" stop="20260519210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519210000 -0300" stop="20260520000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520000000 -0300" stop="20260520030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520030000 -0300" stop="20260520060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520060000 -0300" stop="20260520090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520090000 -0300" stop="20260520130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260520130000 -0300" stop="20260520150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260520150000 -0300" stop="20260520180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520180000 -0300" stop="20260520210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520210000 -0300" stop="20260521004000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">13200</length>
   </programme>
   <programme start="20260520210000 -0300" stop="20260521004000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">13200</length>
   </programme>
   <programme start="20260521004000 -0300" stop="20260521030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">8400</length>
   </programme>
   <programme start="20260521030000 -0300" stop="20260521060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521060000 -0300" stop="20260521090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521090000 -0300" stop="20260521130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260521130000 -0300" stop="20260521150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260521150000 -0300" stop="20260521183000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">12600</length>
   </programme>
   <programme start="20260521183000 -0300" stop="20260521230000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">16200</length>
   </programme>
   <programme start="20260521230000 -0300" stop="20260522000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260522000000 -0300" stop="20260522030000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522030000 -0300" stop="20260522060000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522060000 -0300" stop="20260522090000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522090000 -0300" stop="20260522130000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">14400</length>
   </programme>
   <programme start="20260522130000 -0300" stop="20260522150000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">7200</length>
   </programme>
   <programme start="20260522150000 -0300" stop="20260522180000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522180000 -0300" stop="20260522210000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522210000 -0300" stop="20260523000000 -0300" channel="SportyNet + 1">
-    <title lang="pt">Dia 25/05 - Ituano x Botafogo-PB</title>
-    <desc lang="pt">Ituano e Botafogo-PB jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Novelli Júnior, em Itu (SP).</desc>
+    <title lang="pt">Dia 23/05 - Maranhão x Caxias</title>
+    <desc lang="pt">Maranhão e Caxias jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Castelão (MA), em São Luís (MA).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260518000000 -0300" stop="20260518030000 -0300" channel="SportyNet + 2">
@@ -186258,163 +186260,163 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260519000000 -0300" stop="20260519030000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519030000 -0300" stop="20260519060000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519090000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519090000 -0300" stop="20260519120000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519120000 -0300" stop="20260519150000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519150000 -0300" stop="20260519180000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519180000 -0300" stop="20260519210000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519210000 -0300" stop="20260520000000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520000000 -0300" stop="20260520030000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520030000 -0300" stop="20260520060000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520060000 -0300" stop="20260520090000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520090000 -0300" stop="20260520120000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520120000 -0300" stop="20260520150000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520150000 -0300" stop="20260520180000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520180000 -0300" stop="20260520210000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520210000 -0300" stop="20260521000000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521000000 -0300" stop="20260521030000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521030000 -0300" stop="20260521060000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521060000 -0300" stop="20260521090000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521090000 -0300" stop="20260521120000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521120000 -0300" stop="20260521150000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521150000 -0300" stop="20260521180000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521180000 -0300" stop="20260521210000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521210000 -0300" stop="20260522000000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522000000 -0300" stop="20260522030000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522030000 -0300" stop="20260522060000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522060000 -0300" stop="20260522090000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522090000 -0300" stop="20260522120000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522120000 -0300" stop="20260522150000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522150000 -0300" stop="20260522180000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522180000 -0300" stop="20260522210000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522210000 -0300" stop="20260523000000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Brusque x Anápolis</title>
+    <desc lang="pt">Brusque e Anápolis jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, na Arena Simon, em Brusque (SC).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260518000000 -0300" stop="20260518030000 -0300" channel="SportyNet + 3">
@@ -186463,163 +186465,163 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260519000000 -0300" stop="20260519030000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519030000 -0300" stop="20260519060000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519060000 -0300" stop="20260519090000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519090000 -0300" stop="20260519120000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519120000 -0300" stop="20260519150000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519150000 -0300" stop="20260519180000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519180000 -0300" stop="20260519210000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260519210000 -0300" stop="20260520000000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520000000 -0300" stop="20260520030000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520030000 -0300" stop="20260520060000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520060000 -0300" stop="20260520090000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520090000 -0300" stop="20260520120000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520120000 -0300" stop="20260520150000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520150000 -0300" stop="20260520180000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520180000 -0300" stop="20260520210000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260520210000 -0300" stop="20260521000000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521000000 -0300" stop="20260521030000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521030000 -0300" stop="20260521060000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521060000 -0300" stop="20260521090000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521090000 -0300" stop="20260521120000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521120000 -0300" stop="20260521150000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521150000 -0300" stop="20260521180000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521180000 -0300" stop="20260521210000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260521210000 -0300" stop="20260522000000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522000000 -0300" stop="20260522030000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522030000 -0300" stop="20260522060000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522060000 -0300" stop="20260522090000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522090000 -0300" stop="20260522120000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522120000 -0300" stop="20260522150000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522150000 -0300" stop="20260522180000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522180000 -0300" stop="20260522210000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260522210000 -0300" stop="20260523000000 -0300" channel="SportyNet + 3">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Dia 24/05 - Amazonas x Ferroviária</title>
+    <desc lang="pt">Amazonas e Ferroviária jogam pela 8ª rodada da 1ª fase do Campeonato Brasileiro, Série C, no Carlos Zamith, em Manaus (AM).</desc>
     <length units="minutes">10800</length>
   </programme>
   <programme start="20260518000000 -0300" stop="20260518020000 -0300" channel="SportyNet HD">
@@ -186784,67 +186786,61 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.139.</episode-num>
   </programme>
-  <programme start="20260519210000 -0300" stop="20260519230000 -0300" channel="SportyNet HD">
+  <programme start="20260519210000 -0300" stop="20260519220000 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.139.</episode-num>
+  </programme>
+  <programme start="20260519220000 -0300" stop="20260520000000 -0300" channel="SportyNet HD">
     <title lang="pt">Monza x Juve Stabia</title>
     <desc lang="pt">Todas as emoções da Série B Italiana, com jogos decisivos, rivalidades regionais e os clubes em busca do acesso à elite da Itália!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260519230000 -0300" stop="20260520000000 -0300" channel="SportyNet HD">
-    <title lang="pt">No Centro do Jogo</title>
-    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.139.</episode-num>
-  </programme>
   <programme start="20260520000000 -0300" stop="20260520020000 -0300" channel="SportyNet HD">
-    <title lang="pt">Colônia x Heidenheim</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260520020000 -0300" stop="20260520024500 -0300" channel="SportyNet HD">
-    <title lang="pt">No Centro do Jogo</title>
-    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">82.140.</episode-num>
-  </programme>
-  <programme start="20260520024500 -0300" stop="20260520044500 -0300" channel="SportyNet HD">
     <title lang="pt">PSG x Lyon</title>
     <desc lang="pt">Confronto máximo no futebol feminino pela conquista do 25º título da Copa da França! PSG x Lyon se enfrentam nessa final eletrizante com grandes jogadoras e muita rivalidade.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260520044500 -0300" stop="20260520064500 -0300" channel="SportyNet HD">
-    <title lang="pt">Paysandu x Anápolis</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+  <programme start="20260520020000 -0300" stop="20260520030000 -0300" channel="SportyNet HD">
+    <title lang="pt">No Centro do Jogo</title>
+    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.140.</episode-num>
+  </programme>
+  <programme start="20260520030000 -0300" stop="20260520050000 -0300" channel="SportyNet HD">
+    <title lang="pt">AEK x Olympiakos</title>
+    <desc lang="pt">Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520050000 -0300" stop="20260520064500 -0300" channel="SportyNet HD">
+    <title lang="pt">Frankfurt x Stuttgart</title>
+    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
+    <length units="minutes">6300</length>
     <previously-shown/>
   </programme>
   <programme start="20260520064500 -0300" stop="20260520084500 -0300" channel="SportyNet HD">
-    <title lang="pt">Inter de Limeira x Santa Cruz</title>
+    <title lang="pt">Monza x Juve Stabia</title>
+    <desc lang="pt">Todas as emoções da Série B Italiana, com jogos decisivos, rivalidades regionais e os clubes em busca do acesso à elite da Itália!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520084500 -0300" stop="20260520104500 -0300" channel="SportyNet HD">
+    <title lang="pt">Confiança x Maranhão</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260520084500 -0300" stop="20260520091500 -0300" channel="SportyNet HD">
-    <title lang="pt">Nossa Bundesliga - Histórias do Futebol Alemão</title>
-    <desc lang="pt">O Nosso Futebol mergulha na história do futebol alemão e leva a você detalhes sobre os clubes da Bundesliga, as torcidas, as cidades, e personagens que fazem o futebol ser uma verdadeira paixão na Alemanha.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.140.</episode-num>
-  </programme>
-  <programme start="20260520091500 -0300" stop="20260520100000 -0300" channel="SportyNet HD">
-    <title lang="pt">Bundesliga - Especial</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">89.140.</episode-num>
-  </programme>
-  <programme start="20260520100000 -0300" stop="20260520120000 -0300" channel="SportyNet HD">
-    <title lang="pt">Inter de Milão x Como</title>
-    <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão</desc>
+  <programme start="20260520104500 -0300" stop="20260520124500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pumas x Pachuca</title>
+    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260520120000 -0300" stop="20260520140000 -0300" channel="SportyNet HD">
+  <programme start="20260520124500 -0300" stop="20260520144500 -0300" channel="SportyNet HD">
     <title lang="pt">El Chiringuito</title>
     <desc lang="pt">O talk show esportivo mais intenso da Espanha estreia no Brasil! Josep Pedrerol e sua equipe mergulham nos bastidores do futebol europeu com opiniões afiadas, debates acalorados e muita paixão.</desc>
     <length units="minutes">7200</length>
@@ -186852,101 +186848,99 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260520140000 -0300" stop="20260520153000 -0300" channel="SportyNet HD">
+  <programme start="20260520144500 -0300" stop="20260520154500 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">84.140.</episode-num>
+  </programme>
+  <programme start="20260520154500 -0300" stop="20260520174500 -0300" channel="SportyNet HD">
+    <title lang="pt">St. Pauli x Wolfsburg</title>
+    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520174500 -0300" stop="20260520184500 -0300" channel="SportyNet HD">
     <title lang="pt">Sporty Show - ao vivo</title>
     <desc lang="pt">O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque para o Dérbi 212, Ponte Preta x Guarani.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260520153000 -0300" stop="20260520154500 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré Jogo Copa Da Itália</title>
-    <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão</desc>
+  <programme start="20260520184500 -0300" stop="20260520190000 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré Jogo Copa Sul-Sudeste</title>
+    <desc lang="pt">Clubes em ascensão desafiam gigantes, com jogos tensos e decisões que podem mudar o rumo da competição!</desc>
     <length units="minutes">900</length>
   </programme>
-  <programme start="20260520154500 -0300" stop="20260520181500 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
+  <programme start="20260520190000 -0300" stop="20260520210000 -0300" channel="SportyNet HD">
+    <title lang="pt">Novorizontino x Chapecoense - ao vivo</title>
+    <desc lang="pt">Novorizontino e Chapecoense jogam a rodada de ida da Semifinal da Copa Sul-Sudeste, no Jorge Ismael de Biasi, em Novo Horizonte (SP).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260520181500 -0300" stop="20260520183000 -0300" channel="SportyNet HD">
-    <title lang="pt">Pós Jogo Copa Da Itália</title>
-    <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão</desc>
-    <length units="minutes">900</length>
+  <programme start="20260520210000 -0300" stop="20260520230000 -0300" channel="SportyNet HD">
+    <title lang="pt">Fortaleza x Sport - ao vivo</title>
+    <desc lang="pt">Fortaleza e Sport jogam a rodada de ida da Semifinal da Copa do Nordeste, no Castelão, em Fortaleza (CE).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260520183000 -0300" stop="20260520193000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+  <programme start="20260520230000 -0300" stop="20260521010000 -0300" channel="SportyNet HD">
+    <title lang="pt">Paysandu x Nacional-AM</title>
+    <desc lang="pt">O futebol regional em destaque. O confronto entre as maiores forças do Norte decidindo quem levanta a taça.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520230000 -0300" stop="20260521010000 -0300" channel="SportyNet HD">
+    <title lang="pt">Paysandu x Nacional-AM</title>
+    <desc lang="pt">O futebol regional em destaque. O confronto entre as maiores forças do Norte decidindo quem levanta a taça.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260521010000 -0300" stop="20260521020000 -0300" channel="SportyNet HD">
+    <title lang="pt">No Centro do Jogo</title>
+    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">88.140.</episode-num>
+    <episode-num system="xmltv_ns">81.141.</episode-num>
   </programme>
-  <programme start="20260520193000 -0300" stop="20260520213000 -0300" channel="SportyNet HD">
-    <title lang="pt">PAOK x AEK</title>
+  <programme start="20260521020000 -0300" stop="20260521040000 -0300" channel="SportyNet HD">
+    <title lang="pt">AEK x Olympiakos</title>
     <desc lang="pt">Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260520213000 -0300" stop="20260520223000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.140.</episode-num>
-  </programme>
-  <programme start="20260520223000 -0300" stop="20260520224500 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré Jogo Campeonato Mexicano</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">82.140.</episode-num>
-  </programme>
-  <programme start="20260520224500 -0300" stop="20260521000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">4500</length>
-  </programme>
-  <programme start="20260521000000 -0300" stop="20260521010000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260521010000 -0300" stop="20260521030000 -0300" channel="SportyNet HD">
-    <title lang="pt">Stuttgart x Bayer Leverkusen</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260521030000 -0300" stop="20260521050000 -0300" channel="SportyNet HD">
-    <title lang="pt">Inter de Limeira x Santa Cruz</title>
+  <programme start="20260521040000 -0300" stop="20260521060000 -0300" channel="SportyNet HD">
+    <title lang="pt">Figueirense x Itabaiana</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260521050000 -0300" stop="20260521070000 -0300" channel="SportyNet HD">
-    <title lang="pt">PAOK x AEK</title>
-    <desc lang="pt">Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
+  <programme start="20260521060000 -0300" stop="20260521064500 -0300" channel="SportyNet HD">
+    <title lang="pt">Bundesliga - Especial</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">86.141.</episode-num>
+  </programme>
+  <programme start="20260521064500 -0300" stop="20260521084500 -0300" channel="SportyNet HD">
+    <title lang="pt">Confiança x Maranhão</title>
+    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260521070000 -0300" stop="20260521090000 -0300" channel="SportyNet HD">
-    <title lang="pt">Juventude x Criciúma</title>
+  <programme start="20260521084500 -0300" stop="20260521104500 -0300" channel="SportyNet HD">
+    <title lang="pt">St. Pauli x Wolfsburg</title>
+    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260521104500 -0300" stop="20260521124500 -0300" channel="SportyNet HD">
+    <title lang="pt">Operário x Náutico</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260521090000 -0300" stop="20260521110000 -0300" channel="SportyNet HD">
-    <title lang="pt">PAOK x AEK</title>
-    <desc lang="pt">Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260521110000 -0300" stop="20260521130000 -0300" channel="SportyNet HD">
-    <title lang="pt">Lazio x Inter de Milão</title>
-    <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260521130000 -0300" stop="20260521150000 -0300" channel="SportyNet HD">
+  <programme start="20260521124500 -0300" stop="20260521144500 -0300" channel="SportyNet HD">
     <title lang="pt">El Chiringuito</title>
     <desc lang="pt">O talk show esportivo mais intenso da Espanha estreia no Brasil! Josep Pedrerol e sua equipe mergulham nos bastidores do futebol europeu com opiniões afiadas, debates acalorados e muita paixão.</desc>
     <length units="minutes">7200</length>
@@ -186954,33 +186948,39 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260521150000 -0300" stop="20260521170000 -0300" channel="SportyNet HD">
-    <title lang="pt">Inter de Limeira x Santa Cruz</title>
+  <programme start="20260521144500 -0300" stop="20260521170000 -0300" channel="SportyNet HD">
+    <title lang="pt">Programação SportyNet</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">8100</length>
+  </programme>
+  <programme start="20260521170000 -0300" stop="20260521190000 -0300" channel="SportyNet HD">
+    <title lang="pt">Confiança x Maranhão</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260521170000 -0300" stop="20260521190000 -0300" channel="SportyNet HD">
-    <title lang="pt">PSG x Lyon</title>
-    <desc lang="pt">Confronto máximo no futebol feminino pela conquista do 25º título da Copa da França! PSG x Lyon se enfrentam nessa final eletrizante com grandes jogadoras e muita rivalidade.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
   <programme start="20260521190000 -0300" stop="20260521200000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <title lang="pt">No Centro do Jogo</title>
+    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.141.</episode-num>
   </programme>
-  <programme start="20260521200000 -0300" stop="20260521220000 -0300" channel="SportyNet HD">
-    <title lang="pt">Cruz Azul x Chivas</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260521200000 -0300" stop="20260521210000 -0300" channel="SportyNet HD">
+    <title lang="pt">Planeta Futebol Feminino - ao vivo</title>
+    <desc lang="pt">Venha acompanhar tudo do mundo da bola do futebol feminino.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">80.141.</episode-num>
+  </programme>
+  <programme start="20260521210000 -0300" stop="20260521220000 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">81.141.</episode-num>
   </programme>
   <programme start="20260521220000 -0300" stop="20260522000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Lazio x Inter de Milão</title>
-    <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão.</desc>
+    <title lang="pt">Monza x Juve Stabia</title>
+    <desc lang="pt">Todas as emoções da Série B Italiana, com jogos decisivos, rivalidades regionais e os clubes em busca do acesso à elite da Itália!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
