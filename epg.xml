@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-23 11:30:48" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-23 14:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13540,9 +13540,10 @@
     <episode-num system="xmltv_ns">89.146.</episode-num>
   </programme>
   <programme start="20260526103000 -0300" stop="20260526104500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Momento Brasil Olímpico</title>
-    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
     <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">10.146.</episode-num>
   </programme>
   <programme start="20260526104500 -0300" stop="20260526114500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Total</title>
@@ -13563,18 +13564,10 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">12.146.</episode-num>
   </programme>
-  <programme start="20260526140000 -0300" stop="20260526143000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">A Nova Geração</title>
-    <desc lang="pt">Na série A Nova Geração, acompanhamos os bastidores da abertura da temporada 2025 e o início de uma importante transição na principal categoria do automobilismo brasileiro. Mudanças que prometem marcar o futuro d...</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260526143000 -0300" stop="20260526153000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Stock Car: 4ª Etapa: Goiânia-GO: Corrida 2</title>
-    <desc lang="pt">Com novo traçado, Goiânia vai sediar a quarta etapa, dia 17 de maio.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260526140000 -0300" stop="20260526153000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Moto 1000 GP: 2ª Etapa Goiânia-GO</title>
+    <desc lang="pt">A Moto 1000GP está de volta e você acompanha aqui no BandSports a segunda etapa que acontece no Autódromo Internacional Ayrton Senna.</desc>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">14.146.</episode-num>
     <previously-shown/>
   </programme>
@@ -13598,17 +13591,12 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.146.</episode-num>
   </programme>
-  <programme start="20260526200000 -0300" stop="20260526203000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">The Golf Brasil</title>
-    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">80.146.</episode-num>
-  </programme>
-  <programme start="20260526203000 -0300" stop="20260526210000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260526200000 -0300" stop="20260526210000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Destaques do Sail GP: Etapa Bermuda</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">20.146.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260526210000 -0300" stop="20260526220000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Agora - ao vivo</title>
@@ -13626,12 +13614,10 @@
     </rating>
   </programme>
   <programme start="20260526230000 -0300" stop="20260526233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Gearing Up</title>
-    <desc lang="pt">Tudo sobre as competições mais eletrizantes do universo dos esportes a motor.</desc>
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
     <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">23.146.</episode-num>
   </programme>
   <programme start="20260526233000 -0300" stop="20260527003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo - ao vivo</title>
@@ -13653,41 +13639,39 @@
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">80.147.</episode-num>
   </programme>
-  <programme start="20260527004500 -0300" stop="20260527013000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Tchéquia: WorldSSP Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260527004500 -0300" stop="20260527014500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Mundial de Motocross: França MX2: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20260527013000 -0300" stop="20260527021500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Tchéquia: WorldSPB: Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">2700</length>
+  <programme start="20260527014500 -0300" stop="20260527024500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Mundial de Motocross: França MXGP: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">1.147.</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260527021500 -0300" stop="20260527031500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260527024500 -0300" stop="20260527034500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Papo de Paddock</title>
+    <desc lang="pt">Um programa de entrevistas que oferece uma visão única e privilegiada do mundo das corridas. Combinando análise técnica aprofundada e curiosidades fascinantes.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260527034500 -0300" stop="20260527044500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo</title>
     <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.147.</episode-num>
+    <episode-num system="xmltv_ns">83.147.</episode-num>
   </programme>
-  <programme start="20260527031500 -0300" stop="20260527051500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Rostov x Zenit</title>
-    <desc lang="pt">Torneio da principal liga de futebol profissional da Rússia, a Rosískaya Futbólnaya Premier-League.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260527044500 -0300" stop="20260527054500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Destaques do Sail GP: Etapa Bermuda</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">4.147.</episode-num>
     <previously-shown/>
-  </programme>
-  <programme start="20260527051500 -0300" stop="20260527053000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">85.147.</episode-num>
-  </programme>
-  <programme start="20260527053000 -0300" stop="20260527054500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Momento Brasil Olímpico</title>
-    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
-    <length units="minutes">900</length>
   </programme>
   <programme start="20260527054500 -0300" stop="20260527060000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Oléé</title>
@@ -13695,10 +13679,16 @@
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">85.147.</episode-num>
   </programme>
-  <programme start="20260527060000 -0300" stop="20260527073000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Stock Light: 2ª Etapa Goiânia-GO: Corridas 2 e 3</title>
-    <desc lang="pt">A segunda etapa da Stock Light chegou. Junto à BRB Stock Car Pro Series e a Turismo Nacional.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20260527060000 -0300" stop="20260527063000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">86.147.</episode-num>
+  </programme>
+  <programme start="20260527063000 -0300" stop="20260527073000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Mundial de Motocross: França MX2: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.147.</episode-num>
     <previously-shown/>
   </programme>
@@ -13748,24 +13738,25 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">12.147.</episode-num>
   </programme>
-  <programme start="20260527140000 -0300" stop="20260527144500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Pré-jogo - ao vivo</title>
-    <desc lang="pt">O Pré-Jogo aciona repórteres e comentaristas para uma rodada de informações e análises das partidas prestes a começar e atualiza as chances de cada time.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">84.147.</episode-num>
+  <programme start="20260527140000 -0300" stop="20260527153000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt"> Triathlon World Tour Espanha</title>
+    <desc lang="pt">O T100 Triathlon World Tour é a principal série global de triatlo para atletas amadores, com eventos em locais icônicos e corridas intensas.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">99..</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260527144500 -0300" stop="20260527170000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Programação Band Sports</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">8100</length>
-  </programme>
-  <programme start="20260527170000 -0300" stop="20260527180000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260527153000 -0300" stop="20260527170000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Sala do Esporte - ao vivo</title>
     <desc lang="pt">Veja tudo o que aconteceu em rodadas esportivas mundo afora, de maneira descontraída e bem-humorada.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.147.</episode-num>
+    <episode-num system="xmltv_ns">85.147.</episode-num>
+  </programme>
+  <programme start="20260527170000 -0300" stop="20260527180000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">17.147.</episode-num>
   </programme>
   <programme start="20260527180000 -0300" stop="20260527200000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Bola Rolando - ao vivo</title>
@@ -13788,17 +13779,16 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">81.147.</episode-num>
   </programme>
-  <programme start="20260527223000 -0300" stop="20260527231500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260527223000 -0300" stop="20260527224500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260527224500 -0300" stop="20260527233000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Mundo PBR</title>
     <desc lang="pt">Atração semanal dedicada ao universo da Professional Bull Riders (PBR), focada em trazer os melhores momentos, matérias especiais e destaques da montaria em touros no Brasil e no mundo.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">22.147.</episode-num>
-  </programme>
-  <programme start="20260527231500 -0300" stop="20260527233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">83.147.</episode-num>
   </programme>
   <programme start="20260527233000 -0300" stop="20260528003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Depois do Jogo - ao vivo</title>
@@ -48422,7 +48412,7 @@
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
     <desc lang="pt">Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite, eles se transformam em Menino Gato, Corujita e Lagartixo, os super-heróis PJ Masks!</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.91.</episode-num>
+    <episode-num system="xmltv_ns">23.91.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -49333,7 +49323,7 @@
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
     <desc lang="pt">Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite, eles se transformam em Menino Gato, Corujita e Lagartixo, os super-heróis PJ Masks!</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.91.</episode-num>
+    <episode-num system="xmltv_ns">23.91.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -49879,7 +49869,7 @@
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
     <desc lang="pt">Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite, eles se transformam em Menino Gato, Corujita e Lagartixo, os super-heróis PJ Masks!</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.91.</episode-num>
+    <episode-num system="xmltv_ns">23.91.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -50444,7 +50434,7 @@
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
     <desc lang="pt">Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite, eles se transformam em Menino Gato, Corujita e Lagartixo, os super-heróis PJ Masks!</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">21.91.</episode-num>
+    <episode-num system="xmltv_ns">23.91.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -204607,7 +204597,8 @@
   </programme>
   <programme start="20260523140000 -0300" stop="20260523143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Pontal do Paranapanema</sub-title>
+    <desc lang="pt">No extremo oeste paulista, os rios Paranapanema e Paraná se misturam. Em meio a antigas fazendas de café, há cidades importantes, como Pres. Prudente, e parques que conservam várzeas e bolsões de Mata Atlântica</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">14.143.</episode-num>
     <rating system="Brazil">
@@ -204615,9 +204606,11 @@
     </rating>
   </programme>
   <programme start="20260523143000 -0300" stop="20260523150000 -0300" channel="TV BRASIL">
-    <title lang="pt">Meu Pedaço do Brasil</title>
+    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <sub-title lang="pt">Rio Antigo</sub-title>
     <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">14.143.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -204646,7 +204639,8 @@
   </programme>
   <programme start="20260523180000 -0300" stop="20260523183000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Chapada dos Veadeiros</sub-title>
+    <desc lang="pt">Ao norte de Goiás, se vê no horizonte uma monumental cadeia de muralhas de rocha moldadas ao longo de milênios pela natureza. Um paraíso com relêvo acidentado e cachoeiras de todos os tipos e tamanhos.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">18.143.</episode-num>
     <rating system="Brazil">
@@ -204747,7 +204741,8 @@
   </programme>
   <programme start="20260524050000 -0300" stop="20260524053000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Pontal do Paranapanema</sub-title>
+    <desc lang="pt">No extremo oeste paulista, os rios Paranapanema e Paraná se misturam. Em meio a antigas fazendas de café, há cidades importantes, como Pres. Prudente, e parques que conservam várzeas e bolsões de Mata Atlântica</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.144.</episode-num>
     <rating system="Brazil">
@@ -204756,7 +204751,8 @@
   </programme>
   <programme start="20260524053000 -0300" stop="20260524060000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Chapada dos Veadeiros</sub-title>
+    <desc lang="pt">Ao norte de Goiás, se vê no horizonte uma monumental cadeia de muralhas de rocha moldadas ao longo de milênios pela natureza. Um paraíso com relêvo acidentado e cachoeiras de todos os tipos e tamanhos.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.144.</episode-num>
     <rating system="Brazil">
@@ -204765,8 +204761,10 @@
   </programme>
   <programme start="20260524060000 -0300" stop="20260524063000 -0300" channel="TV BRASIL">
     <title lang="pt">Retratos de Fé</title>
-    <desc lang="pt">Retratos de Fé abre espaço para que um determinado credo se expresse livremente, apresentando suas concepções, crenças, cerimônias, vivências e manifestações religiosas, num verdadeiro aprofundamento re...</desc>
+    <sub-title lang="pt">Terecô</sub-title>
+    <desc lang="pt">A tradição religiosa Terecô cultua divindades africanas, indígenas, católicas e brasileiras. Especialistas falam sobre a origem e expõem as características dessa prática religiosa.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -204809,7 +204807,8 @@
   </programme>
   <programme start="20260524094500 -0300" stop="20260524105000 -0300" channel="TV BRASIL">
     <title lang="pt">Canto e Sabor do Brasil</title>
-    <desc lang="pt">Paulinho del Ribeiro apresenta boa música brasileira e sertaneja, a mais autêntica culinária típica regional, causos, poemas escolhidos de autores nacionais, curiosidades e riquezas do folclore brasileiro.</desc>
+    <sub-title lang="pt">Ângelo Máximo, Dinnal Cruz e Josiane</sub-title>
+    <desc lang="pt">Ângelo Máximo, Dinnal Cruz e Josiane Moura conversam sobre música, carreira e tocam muitas modas além de sucessos da jovem guarda. Uma costelinha defumada com frango e mandioca feita na lenha da fazenda.</desc>
     <length units="minutes">3900</length>
     <episode-num system="xmltv_ns">9.144.</episode-num>
     <rating system="Brazil">
@@ -204833,7 +204832,8 @@
   </programme>
   <programme start="20260524140000 -0300" stop="20260524143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Londrina e Região</sub-title>
+    <desc lang="pt">Várias cidades importantes foram fundadas no norte do Paraná. Entre elas, Londrina e Maringá, que combinam força e desenvolvimento com preocupação com o meio ambiente, a cultura e a arte.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">14.144.</episode-num>
     <rating system="Brazil">
@@ -204841,16 +204841,19 @@
     </rating>
   </programme>
   <programme start="20260524143000 -0300" stop="20260524150000 -0300" channel="TV BRASIL">
-    <title lang="pt">Meu Pedaço do Brasil</title>
-    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
+    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <sub-title lang="pt">Boemia Carioca</sub-title>
+    <desc lang="pt">Explorando a boemia carioca, o episódio traz música, cultura e risadas. Com a presença do ator e cantor Serjão Loroza, um olhar sobre os bastidores da vida noturna e a diversidade da Lapa.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">14.144.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260524150000 -0300" stop="20260524153000 -0300" channel="TV BRASIL">
     <title lang="pt">Expedições</title>
-    <desc lang="pt">O EXPEDIÇÕES é o resultado de um trabalho de mais de 30 anos de documentação do Brasil e suas populações, realizado pela jornalista Paula Saldanha e pelo biólogo Roberto Werneck.</desc>
+    <sub-title lang="pt">Pedra da Gávea</sub-title>
+    <desc lang="pt">Uma aventura na Pedra da Gávea, o maior monólito à beira mar do mundo! O Expedições vai fazer uma escalada radical  pelas encostas da Pedra da Gávea, no Rio de Janeiro, conhecida como 'Passagem dos Olhos'.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">15.144.</episode-num>
     <rating system="Brazil">
@@ -204936,16 +204939,19 @@
     </rating>
   </programme>
   <programme start="20260525040000 -0300" stop="20260525043000 -0300" channel="TV BRASIL">
-    <title lang="pt">Meu Pedaço do Brasil</title>
-    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
+    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <sub-title lang="pt">Boemia Carioca</sub-title>
+    <desc lang="pt">Explorando a boemia carioca, o episódio traz música, cultura e risadas. Com a presença do ator e cantor Serjão Loroza, um olhar sobre os bastidores da vida noturna e a diversidade da Lapa.</desc>
     <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">4.145.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260525043000 -0300" stop="20260525050000 -0300" channel="TV BRASIL">
     <title lang="pt">Expedições</title>
-    <desc lang="pt">O EXPEDIÇÕES é o resultado de um trabalho de mais de 30 anos de documentação do Brasil e suas populações, realizado pela jornalista Paula Saldanha e pelo biólogo Roberto Werneck.</desc>
+    <sub-title lang="pt">Pedra da Gávea</sub-title>
+    <desc lang="pt">Uma aventura na Pedra da Gávea, o maior monólito à beira mar do mundo! O Expedições vai fazer uma escalada radical  pelas encostas da Pedra da Gávea, no Rio de Janeiro, conhecida como 'Passagem dos Olhos'.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">4.145.</episode-num>
     <rating system="Brazil">
@@ -204954,7 +204960,8 @@
   </programme>
   <programme start="20260525050000 -0300" stop="20260525053000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Londrina e Região</sub-title>
+    <desc lang="pt">Várias cidades importantes foram fundadas no norte do Paraná. Entre elas, Londrina e Maringá, que combinam força e desenvolvimento com preocupação com o meio ambiente, a cultura e a arte.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.145.</episode-num>
     <rating system="Brazil">
@@ -204963,7 +204970,8 @@
   </programme>
   <programme start="20260525053000 -0300" stop="20260525060000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Califórnia Brasileira</sub-title>
+    <desc lang="pt">O noroeste do estado de São Paulo é tão próspero e ensolarado que ganhou o apelido de Califórnia. O agronegócio é que alavanca o desenvolvimento da região e enche de cores e texturas a paisagem.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.145.</episode-num>
     <rating system="Brazil">
