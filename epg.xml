@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-22 17:30:53" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-22 20:30:59" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11749,19 +11749,10 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.143.</episode-num>
   </programme>
-  <programme start="20260523060000 -0300" stop="20260523063000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.143.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260523063000 -0300" stop="20260523070000 -0300" channel="BAND HD">
+  <programme start="20260523060000 -0300" stop="20260523070000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.143.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -11946,28 +11937,19 @@
     </rating>
   </programme>
   <programme start="20260524083000 -0300" stop="20260524093000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - PillowMed</title>
-    <desc lang="pt">Produção Independente.</desc>
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">8.144.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260524093000 -0300" stop="20260524100000 -0300" channel="BAND HD">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">9.144.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260524100000 -0300" stop="20260524103000 -0300" channel="BAND HD">
+  <programme start="20260524093000 -0300" stop="20260524103000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - O Diário de Mika</title>
     <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">10.144.</episode-num>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">9.144.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -45235,33 +45217,48 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.143.</episode-num>
   </programme>
-  <programme start="20260523120000 -0300" stop="20260523133000 -0300" channel="CNN BRASIL">
+  <programme start="20260523120000 -0300" stop="20260523130000 -0300" channel="CNN BRASIL">
     <title lang="pt">Agora CNN - ao vivo</title>
     <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.143.</episode-num>
   </programme>
-  <programme start="20260523133000 -0300" stop="20260523143000 -0300" channel="CNN BRASIL">
+  <programme start="20260523130000 -0300" stop="20260523141500 -0300" channel="CNN BRASIL">
     <title lang="pt">WW: Edição Especial</title>
     <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">83.143.</episode-num>
   </programme>
-  <programme start="20260523143000 -0300" stop="20260523153000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260523141500 -0300" stop="20260523143000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">84.143.</episode-num>
+  </programme>
+  <programme start="20260523143000 -0300" stop="20260523151500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Hot Market</title>
+    <desc lang="pt">O programa Hot Market tratará de negócios e mercado financeiro. Rafael Furlanetti, sócio-diretor institucional da XP Investimentos, vai abordar as principais decisões que movem a economia e a política do Brasil.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">14.143.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260523151500 -0300" stop="20260523153000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">85.143.</episode-num>
+  </programme>
   <programme start="20260523153000 -0300" stop="20260523161500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Bulgária e Turquia</title>
+    <sub-title lang="pt">O Encontro Entre Oriente e Ocidente</sub-title>
+    <desc lang="pt">De Sófia a Istambul, roteiro pelos Bálcãs une camadas de diferentes culturas, sabores locais reinterpretados e cidades moldadas entre Oriente e Ocidente</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">15.143.</episode-num>
+    <episode-num system="xmltv_ns">23.153.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -45273,27 +45270,27 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.143.</episode-num>
   </programme>
-  <programme start="20260523171500 -0300" stop="20260523174500 -0300" channel="CNN BRASIL">
-    <title lang="pt">É Negócio</title>
-    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">17.143.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260523171500 -0300" stop="20260523180000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Esportes S/A: Pedro Oliveira</title>
+    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">87.143.</episode-num>
   </programme>
-  <programme start="20260523174500 -0300" stop="20260523180000 -0300" channel="CNN BRASIL">
+  <programme start="20260523180000 -0300" stop="20260523181500 -0300" channel="CNN BRASIL">
     <title lang="pt">Boletim Agora CNN - ao vivo</title>
     <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
     <length units="minutes">900</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">87.143.</episode-num>
-  </programme>
-  <programme start="20260523180000 -0300" stop="20260523184500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Esportes S/A</title>
-    <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
-    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.143.</episode-num>
+  </programme>
+  <programme start="20260523181500 -0300" stop="20260523184500 -0300" channel="CNN BRASIL">
+    <title lang="pt">É Negócio: Eduardo Ricotta</title>
+    <desc lang="pt">Nesta semana Carlos Sambarana recebe Eduardo Ricotta, CEO da Vestas.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">18.143.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260523184500 -0300" stop="20260523193000 -0300" channel="CNN BRASIL">
     <title lang="pt">Agora CNN - ao vivo</title>
@@ -45303,8 +45300,8 @@
     <episode-num system="xmltv_ns">88.143.</episode-num>
   </programme>
   <programme start="20260523193000 -0300" stop="20260523200000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Prevenção do Câncer</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe especialistas para falar sobre prevenção do câncer.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">19.143.</episode-num>
     <rating system="Brazil">
@@ -45324,16 +45321,17 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.143.</episode-num>
   </programme>
-  <programme start="20260523220000 -0300" stop="20260523225000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3000</length>
+  <programme start="20260523220000 -0300" stop="20260523224500 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Atacama</title>
+    <sub-title lang="pt">As Maravilhas de Um Deserto Plural e Único</sub-title>
+    <desc lang="pt">No 1º episódio pelo Deserto do Atacama, Dani Filomeno desbrava o incrível céu da região, um dos melhores do mundo para observar estrelas. Durante o dia, ela cruza as rotas que a levam a mais de 4 mil metros de altitude.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">22.143.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260523225000 -0300" stop="20260523233500 -0300" channel="CNN BRASIL">
+  <programme start="20260523224500 -0300" stop="20260523233000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
     <length units="minutes">2700</length>
@@ -45342,17 +45340,21 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260523233500 -0300" stop="20260524003500 -0300" channel="CNN BRASIL">
+  <programme start="20260523233000 -0300" stop="20260524003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.143.</episode-num>
   </programme>
-  <programme start="20260523233500 -0300" stop="20260524003500 -0300" channel="CNN BRASIL">
+  <programme start="20260523233000 -0300" stop="20260524003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.143.</episode-num>
+  </programme>
+  <programme start="20260524003000 -0300" stop="20260524003500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">300</length>
   </programme>
   <programme start="20260524003500 -0300" stop="20260524012000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
