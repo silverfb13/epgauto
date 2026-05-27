@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-27 11:30:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-27 14:30:44" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -102540,6 +102540,14 @@
       <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260527000000 -0300" stop="20260527020000 -0300" channel="GAZETA">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
   <programme start="20260527020000 -0300" stop="20260527030000 -0300" channel="GAZETA">
     <title lang="pt">Gazeta Esportiva</title>
     <desc lang="pt">O telejornal acompanha modalidades de esportes no Brasil e no mundo, com destaque para o futebol. A cobertura dos gols da rodada, troca de jogadores, técnicos, treinos e os lances mais polêmicos.</desc>
@@ -102560,11 +102568,20 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260527060000 -0300" stop="20260527130000 -0300" channel="GAZETA">
+  <programme start="20260527060000 -0300" stop="20260527100000 -0300" channel="GAZETA">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">25200</length>
+    <length units="minutes">14400</length>
     <episode-num system="xmltv_ns">6.147.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260527100000 -0300" stop="20260527130000 -0300" channel="GAZETA">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">10.147.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -102613,20 +102630,19 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.147.</episode-num>
   </programme>
-  <programme start="20260527200000 -0300" stop="20260528020000 -0300" channel="GAZETA">
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="GAZETA">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">21600</length>
+    <length units="minutes">14400</length>
     <episode-num system="xmltv_ns">20.147.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260527200000 -0300" stop="20260528020000 -0300" channel="GAZETA">
+  <programme start="20260528000000 -0300" stop="20260528020000 -0300" channel="GAZETA">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">21600</length>
-    <episode-num system="xmltv_ns">20.147.</episode-num>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -102651,11 +102667,20 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260528060000 -0300" stop="20260528130000 -0300" channel="GAZETA">
+  <programme start="20260528060000 -0300" stop="20260528100000 -0300" channel="GAZETA">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">25200</length>
+    <length units="minutes">14400</length>
     <episode-num system="xmltv_ns">6.148.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260528100000 -0300" stop="20260528130000 -0300" channel="GAZETA">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">10.148.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -102704,23 +102729,18 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.148.</episode-num>
   </programme>
-  <programme start="20260528200000 -0300" stop="20260529020000 -0300" channel="GAZETA">
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="GAZETA">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">21600</length>
+    <length units="minutes">14400</length>
     <episode-num system="xmltv_ns">20.148.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260528200000 -0300" stop="20260529020000 -0300" channel="GAZETA">
-    <title lang="pt">Igreja Universal</title>
-    <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <length units="minutes">21600</length>
-    <episode-num system="xmltv_ns">20.148.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260529000000 -0300" stop="20260529020000 -0300" channel="GAZETA">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">7200</length>
   </programme>
   <programme start="20260529020000 -0300" stop="20260529030000 -0300" channel="GAZETA">
     <title lang="pt">Gazeta Esportiva</title>
@@ -103090,156 +103110,145 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260527233000 -0300" stop="20260528005000 -0300" channel="GE TV HD">
+  <programme start="20260527233000 -0300" stop="20260528000000 -0300" channel="GE TV HD">
     <title lang="pt">Pós-Jogo: Corinthians x Platense - ao vivo</title>
     <desc lang="pt">Corinthians e Platense jogam pela 6ª rodada da fase de grupos da Libertadores, na Neo Química Arena, em São Paulo (SP).</desc>
-    <length units="minutes">4800</length>
+    <length units="minutes">1800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260527233000 -0300" stop="20260528005000 -0300" channel="GE TV HD">
-    <title lang="pt">Pós-Jogo: Corinthians x Platense - ao vivo</title>
-    <desc lang="pt">Corinthians e Platense jogam pela 6ª rodada da fase de grupos da Libertadores, na Neo Química Arena, em São Paulo (SP).</desc>
-    <length units="minutes">4800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260528005000 -0300" stop="20260528025000 -0300" channel="GE TV HD">
-    <title lang="pt">Grêmio x Coritiba</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528025000 -0300" stop="20260528033000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Brasileirão</title>
-    <sub-title lang="pt">11ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">82.148.</episode-num>
-  </programme>
-  <programme start="20260528033000 -0300" stop="20260528070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Estaduais</title>
-    <sub-title lang="pt">7ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">12600</length>
-    <episode-num system="xmltv_ns">83.148.</episode-num>
-  </programme>
-  <programme start="20260528070000 -0300" stop="20260528090000 -0300" channel="GE TV HD">
-    <title lang="pt">Cruzeiro x Campinas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528090000 -0300" stop="20260528110000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Brasileirão</title>
-    <sub-title lang="pt">15ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">89.148.</episode-num>
-  </programme>
-  <programme start="20260528110000 -0300" stop="20260528125500 -0300" channel="GE TV HD">
-    <title lang="pt">Coreia Do Sul x Brasil</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">6900</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528125500 -0300" stop="20260528145500 -0300" channel="GE TV HD">
-    <title lang="pt">Brasil x França</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528145500 -0300" stop="20260528170000 -0300" channel="GE TV HD">
-    <title lang="pt">Brasil x Croácia</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">7500</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528170000 -0300" stop="20260528180000 -0300" channel="GE TV HD">
+  <programme start="20260528000000 -0300" stop="20260528010000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <sub-title lang="pt">16ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">87.148.</episode-num>
+    <episode-num system="xmltv_ns">80.148.</episode-num>
   </programme>
-  <programme start="20260528180000 -0300" stop="20260528193000 -0300" channel="GE TV HD">
-    <title lang="pt">Tropa GE Tv - ao vivo</title>
-    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.148.</episode-num>
-  </programme>
-  <programme start="20260528193000 -0300" stop="20260528213000 -0300" channel="GE TV HD">
-    <title lang="pt">Bahia x Grêmio</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  <programme start="20260528010000 -0300" stop="20260528030000 -0300" channel="GE TV HD">
+    <title lang="pt">Corinthians x Santa Fe</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260528213000 -0300" stop="20260528233000 -0300" channel="GE TV HD">
-    <title lang="pt">Flamengo x Vasco</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528233000 -0300" stop="20260529005000 -0300" channel="GE TV HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">4800</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260528233000 -0300" stop="20260529005000 -0300" channel="GE TV HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">4800</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260529005000 -0300" stop="20260529025000 -0300" channel="GE TV HD">
-    <title lang="pt">Grêmio x Coritiba</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260529025000 -0300" stop="20260529033000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Brasileirão</title>
-    <sub-title lang="pt">11ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">2400</length>
-    <episode-num system="xmltv_ns">82.149.</episode-num>
-  </programme>
-  <programme start="20260529033000 -0300" stop="20260529070000 -0300" channel="GE TV HD">
+  <programme start="20260528030000 -0300" stop="20260528070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Estaduais</title>
     <sub-title lang="pt">7ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">12600</length>
-    <episode-num system="xmltv_ns">83.149.</episode-num>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">83.148.</episode-num>
   </programme>
-  <programme start="20260529070000 -0300" stop="20260529090000 -0300" channel="GE TV HD">
+  <programme start="20260528070000 -0300" stop="20260528092000 -0300" channel="GE TV HD">
+    <title lang="pt">Minas x Osasco</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528092000 -0300" stop="20260528114000 -0300" channel="GE TV HD">
+    <title lang="pt">Osasco x Minas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">8400</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528114000 -0300" stop="20260528141000 -0300" channel="GE TV HD">
+    <title lang="pt">Minas x Osasco</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">9000</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528141000 -0300" stop="20260528161000 -0300" channel="GE TV HD">
+    <title lang="pt">Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528161000 -0300" stop="20260528182500 -0300" channel="GE TV HD">
+    <title lang="pt">Campinas x Praia Clube</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">8100</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528182500 -0300" stop="20260528202000 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Campinas</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <length units="minutes">6900</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260528202000 -0300" stop="20260528222000 -0300" channel="GE TV HD">
     <title lang="pt">Cruzeiro x Campinas</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260529090000 -0300" stop="20260529110000 -0300" channel="GE TV HD">
+  <programme start="20260528222000 -0300" stop="20260528232000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">16ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.148.</episode-num>
+  </programme>
+  <programme start="20260528232000 -0300" stop="20260529005000 -0300" channel="GE TV HD">
+    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20260528232000 -0300" stop="20260529005000 -0300" channel="GE TV HD">
+    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">5400</length>
+  </programme>
+  <programme start="20260529005000 -0300" stop="20260529031000 -0300" channel="GE TV HD">
+    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">8400</length>
+  </programme>
+  <programme start="20260529031000 -0300" stop="20260529070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Estaduais</title>
+    <sub-title lang="pt">7ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">13800</length>
+    <episode-num system="xmltv_ns">83.149.</episode-num>
+  </programme>
+  <programme start="20260529070000 -0300" stop="20260529083000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <sub-title lang="pt">15ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">89.149.</episode-num>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.149.</episode-num>
   </programme>
-  <programme start="20260529110000 -0300" stop="20260529125500 -0300" channel="GE TV HD">
-    <title lang="pt">Coreia Do Sul x Brasil</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">6900</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260529125500 -0300" stop="20260529145500 -0300" channel="GE TV HD">
-    <title lang="pt">Brasil x França</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+  <programme start="20260529083000 -0300" stop="20260529103000 -0300" channel="GE TV HD">
+    <title lang="pt">Santa Fe x Corinthians</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260529145500 -0300" stop="20260529170000 -0300" channel="GE TV HD">
-    <title lang="pt">Brasil x Croácia</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <length units="minutes">7500</length>
+  <programme start="20260529103000 -0300" stop="20260529113000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">16ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.149.</episode-num>
+  </programme>
+  <programme start="20260529113000 -0300" stop="20260529120000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Sorteio Libertadores e Copa Sul-Americana 2026 - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529130000 -0300" channel="GE TV HD">
+    <title lang="pt">Sorteio Libertadores e Copa Sul-Americana 2026 - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260529130000 -0300" stop="20260529150000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Estudiantes La Plata</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260529150000 -0300" stop="20260529170000 -0300" channel="GE TV HD">
+    <title lang="pt">Independiente Rivadavia x Fluminense</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260529170000 -0300" stop="20260529180000 -0300" channel="GE TV HD">
@@ -103256,112 +103265,110 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.149.</episode-num>
   </programme>
-  <programme start="20260529193000 -0300" stop="20260529213000 -0300" channel="GE TV HD">
-    <title lang="pt">Bahia x Grêmio</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260529193000 -0300" stop="20260529210000 -0300" channel="GE TV HD">
+    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">5400</length>
   </programme>
-  <programme start="20260529213000 -0300" stop="20260529233000 -0300" channel="GE TV HD">
-    <title lang="pt">Flamengo x Vasco</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260529210000 -0300" stop="20260529232000 -0300" channel="GE TV HD">
+    <title lang="pt">Troféu Maria Lenk de Natação</title>
+    <desc lang="pt">Uma das principais competições da natação nacional reúne equipes de todo o país em provas individuais e de revezamento. É o Troféu Brasil de Natação, aqui no sportv!</desc>
+    <length units="minutes">8400</length>
   </programme>
-  <programme start="20260529233000 -0300" stop="20260530013000 -0300" channel="GE TV HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260529232000 -0300" stop="20260530025000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <length units="minutes">12600</length>
   </programme>
-  <programme start="20260529233000 -0300" stop="20260530013000 -0300" channel="GE TV HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260529232000 -0300" stop="20260530025000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <length units="minutes">12600</length>
   </programme>
-  <programme start="20260530013000 -0300" stop="20260530033000 -0300" channel="GE TV HD">
-    <title lang="pt">Grêmio x Coritiba</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260530033000 -0300" stop="20260530070000 -0300" channel="GE TV HD">
+  <programme start="20260530025000 -0300" stop="20260530070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Estaduais</title>
     <sub-title lang="pt">7ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">12600</length>
-    <episode-num system="xmltv_ns">83.150.</episode-num>
+    <length units="minutes">15000</length>
+    <episode-num system="xmltv_ns">82.150.</episode-num>
   </programme>
-  <programme start="20260530070000 -0300" stop="20260530090000 -0300" channel="GE TV HD">
+  <programme start="20260530070000 -0300" stop="20260530083000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">15ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.150.</episode-num>
+  </programme>
+  <programme start="20260530083000 -0300" stop="20260530103000 -0300" channel="GE TV HD">
     <title lang="pt">Palmeiras x Corinthians</title>
     <desc lang="pt">Palmeiras e Corinthians jogam pelo Campeonato Brasileiro Feminino.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530090000 -0300" stop="20260530110000 -0300" channel="GE TV HD">
+  <programme start="20260530103000 -0300" stop="20260530123000 -0300" channel="GE TV HD">
     <title lang="pt">Corinthians x São Paulo</title>
     <desc lang="pt">Corinthians e São Paulo jogam pelo Campeonato Brasileiro Feminino.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530110000 -0300" stop="20260530120000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro Da Rodada - Brasileirão</title>
-    <sub-title lang="pt">16ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.150.</episode-num>
-  </programme>
-  <programme start="20260530120000 -0300" stop="20260530153000 -0300" channel="GE TV HD">
-    <title lang="pt">Red Bull Creators Cup - ao vivo</title>
-    <desc lang="pt">O Red Bull Bragantino apresenta mais uma ação disruptiva no futebol brasileiro: uma disputa entre criadores de conteúdo de diversos países.</desc>
-    <length units="minutes">12600</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260530153000 -0300" stop="20260530170000 -0300" channel="GE TV HD">
-    <title lang="pt">Pré-Jogo: São Paulo x Botafogo - ao vivo</title>
-    <desc lang="pt">São Paulo e Botafogo jogam pela 17ª rodada do Primeiro Turno do Brasileirão, no Morumbis, em São Paulo (SP).</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260530170000 -0300" stop="20260530190000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7200</length>
-  </programme>
-  <programme start="20260530190000 -0300" stop="20260530193000 -0300" channel="GE TV HD">
-    <title lang="pt">Pós-Jogo: São Paulo x Botafogo - ao vivo</title>
-    <desc lang="pt">São Paulo e Botafogo jogam pela 17ª rodada do Primeiro Turno do Brasileirão, no Morumbis, em São Paulo (SP).</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260530193000 -0300" stop="20260530213000 -0300" channel="GE TV HD">
+  <programme start="20260530123000 -0300" stop="20260530143000 -0300" channel="GE TV HD">
     <title lang="pt">Bahia x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530213000 -0300" stop="20260530234000 -0300" channel="GE TV HD">
-    <title lang="pt">Campinas x Praia Clube</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260530143000 -0300" stop="20260530153000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">16ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">84.150.</episode-num>
+  </programme>
+  <programme start="20260530153000 -0300" stop="20260530170000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Grêmio x Corinthians - ao vivo</title>
+    <desc lang="pt">Grêmio e Corinthians jogam pela 18ª rodada do Primeiro Turno do Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260530170000 -0300" stop="20260530190000 -0300" channel="GE TV HD">
+    <title lang="pt">Grêmio x Corinthians - ao vivo</title>
+    <desc lang="pt">Grêmio e Corinthians jogam pela 18ª rodada do Primeiro Turno do Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260530190000 -0300" stop="20260530193000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Grêmio x Corinthians - ao vivo</title>
+    <desc lang="pt">Grêmio e Corinthians jogam pela 18ª rodada do Primeiro Turno do Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260530193000 -0300" stop="20260530213000 -0300" channel="GE TV HD">
+    <title lang="pt">Corinthians x Platense</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530234000 -0300" stop="20260531013000 -0300" channel="GE TV HD">
-    <title lang="pt">Praia Clube x Campinas</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">6600</length>
+  <programme start="20260530213000 -0300" stop="20260530233000 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Deportivo La Guaira</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530234000 -0300" stop="20260531013000 -0300" channel="GE TV HD">
-    <title lang="pt">Praia Clube x Campinas</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">6600</length>
+  <programme start="20260530233000 -0300" stop="20260531013000 -0300" channel="GE TV HD">
+    <title lang="pt">Santa Fe x Corinthians</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260530233000 -0300" stop="20260531013000 -0300" channel="GE TV HD">
+    <title lang="pt">Santa Fe x Corinthians</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260531013000 -0300" stop="20260531033000 -0300" channel="GE TV HD">
-    <title lang="pt">Cruzeiro x Campinas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <title lang="pt">Grêmio x Coritiba</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
@@ -103372,60 +103379,60 @@
     <length units="minutes">12600</length>
     <episode-num system="xmltv_ns">83.151.</episode-num>
   </programme>
-  <programme start="20260531070000 -0300" stop="20260531091000 -0300" channel="GE TV HD">
-    <title lang="pt">Campinas x Praia Clube</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">7800</length>
-    <previously-shown/>
+  <programme start="20260531070000 -0300" stop="20260531103000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <length units="minutes">12600</length>
   </programme>
-  <programme start="20260531091000 -0300" stop="20260531110000 -0300" channel="GE TV HD">
-    <title lang="pt">Praia Clube x Campinas</title>
-    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
-    <length units="minutes">6600</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260531110000 -0300" stop="20260531130000 -0300" channel="GE TV HD">
-    <title lang="pt">Cruzeiro x Campinas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+  <programme start="20260531103000 -0300" stop="20260531123000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Senegal</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260531130000 -0300" stop="20260531140000 -0300" channel="GE TV HD">
+  <programme start="20260531123000 -0300" stop="20260531143000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x França</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260531143000 -0300" stop="20260531163000 -0300" channel="GE TV HD">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <sub-title lang="pt">16ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">84.151.</episode-num>
+  </programme>
+  <programme start="20260531163000 -0300" stop="20260531183000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Brasil x Panamá - ao vivo</title>
+    <desc lang="pt">Brasil e Panamá jogam no Amistoso Internacional, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260531183000 -0300" stop="20260531203000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Panamá - ao vivo</title>
+    <desc lang="pt">Brasil e Panamá jogam no Amistoso Internacional, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260531203000 -0300" stop="20260531210000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: Brasil x Panamá - ao vivo</title>
+    <desc lang="pt">Brasil e Panamá jogam no Amistoso Internacional, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260531210000 -0300" stop="20260531230000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Croácia</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260531230000 -0300" stop="20260601013000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">16ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">9000</length>
     <episode-num system="xmltv_ns">83.151.</episode-num>
-  </programme>
-  <programme start="20260531140000 -0300" stop="20260531160000 -0300" channel="GE TV HD">
-    <title lang="pt">Independiente Rivadavia x Fluminense</title>
-    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260531160000 -0300" stop="20260531180000 -0300" channel="GE TV HD">
-    <title lang="pt">Santa Fe x Corinthians</title>
-    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260531180000 -0300" stop="20260531200000 -0300" channel="GE TV HD">
-    <title lang="pt">Flamengo x Estudiantes La Plata</title>
-    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260531200000 -0300" stop="20260531220000 -0300" channel="GE TV HD">
-    <title lang="pt">Palmeiras x Cerro Porteño</title>
-    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260531220000 -0300" stop="20260601000000 -0300" channel="GE TV HD">
-    <title lang="pt">Bahia x Grêmio</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
   </programme>
   <programme start="20260526231500 -0300" stop="20260527000500 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Lady Night</title>
