@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-29 17:30:44" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-29 20:31:00" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11789,19 +11789,10 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.150.</episode-num>
   </programme>
-  <programme start="20260530060000 -0300" stop="20260530063000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.150.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260530063000 -0300" stop="20260530070000 -0300" channel="BAND HD">
+  <programme start="20260530060000 -0300" stop="20260530070000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.150.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -45456,31 +45447,46 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.150.</episode-num>
   </programme>
-  <programme start="20260530120000 -0300" stop="20260530133000 -0300" channel="CNN BRASIL">
+  <programme start="20260530120000 -0300" stop="20260530130000 -0300" channel="CNN BRASIL">
     <title lang="pt">Agora CNN - ao vivo</title>
     <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.150.</episode-num>
   </programme>
-  <programme start="20260530133000 -0300" stop="20260530143000 -0300" channel="CNN BRASIL">
+  <programme start="20260530130000 -0300" stop="20260530141500 -0300" channel="CNN BRASIL">
     <title lang="pt">WW: Edição Especial</title>
     <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">83.150.</episode-num>
   </programme>
-  <programme start="20260530143000 -0300" stop="20260530153000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">14.150.</episode-num>
+  <programme start="20260530141500 -0300" stop="20260530143000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">84.150.</episode-num>
+  </programme>
+  <programme start="20260530143000 -0300" stop="20260530151500 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Séries Originais: Economia Geek</title>
+    <desc lang="pt">A série mergulha no universo da cultura geek para mostrar o tamanho da economia movimentada pelo setor e os profissionais que transformaram games, quadrinhos, tecnologia, IA e produção de conteúdo em negócios milionár...</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">30.143.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
+  <programme start="20260530151500 -0300" stop="20260530153000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Boletim Agora CNN - ao vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">85.150.</episode-num>
+  </programme>
   <programme start="20260530153000 -0300" stop="20260530161500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Atacama</title>
+    <sub-title lang="pt">As Maravilhas de Um Deserto Plural e Único</sub-title>
+    <desc lang="pt">No 1º episódio pelo Deserto do Atacama, Dani Filomeno desbrava o incrível céu da região, um dos melhores do mundo para observar estrelas. Durante o dia, ela cruza as rotas que a levam a mais de 4 mil metros de altitude.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">15.150.</episode-num>
     <rating system="Brazil">
@@ -45495,8 +45501,8 @@
     <episode-num system="xmltv_ns">86.150.</episode-num>
   </programme>
   <programme start="20260530171500 -0300" stop="20260530174500 -0300" channel="CNN BRASIL">
-    <title lang="pt">É Negócio</title>
-    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <title lang="pt">É Negócio: Sebastian Mejia</title>
+    <desc lang="pt">Nesta semana Carlos Sambarana recebe Sebastian Mejia, fundador da Rappi.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">17.150.</episode-num>
     <rating system="Brazil">
@@ -45511,7 +45517,7 @@
     <episode-num system="xmltv_ns">87.150.</episode-num>
   </programme>
   <programme start="20260530180000 -0300" stop="20260530184500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Esportes S/A</title>
+    <title lang="pt">CNN Esportes S/A: Ygor Sampaio</title>
     <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.150.</episode-num>
@@ -45524,8 +45530,8 @@
     <episode-num system="xmltv_ns">88.150.</episode-num>
   </programme>
   <programme start="20260530193000 -0300" stop="20260530200000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
-    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista: Estética</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe especialistas para falar sobre estética.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">19.150.</episode-num>
     <rating system="Brazil">
@@ -45545,16 +45551,17 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.150.</episode-num>
   </programme>
-  <programme start="20260530220000 -0300" stop="20260530225000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
+  <programme start="20260530220000 -0300" stop="20260530224500 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Viagem &amp; Gastronomia: Dinamarca e Suécia</title>
+    <sub-title lang="pt">História, Cultura e Gastronomia</sub-title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">22.150.</episode-num>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">30.220.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530225000 -0300" stop="20260530233500 -0300" channel="CNN BRASIL">
+  <programme start="20260530224500 -0300" stop="20260530233000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
     <length units="minutes">2700</length>
@@ -45563,17 +45570,21 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530233500 -0300" stop="20260531003500 -0300" channel="CNN BRASIL">
+  <programme start="20260530233000 -0300" stop="20260531003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.150.</episode-num>
   </programme>
-  <programme start="20260530233500 -0300" stop="20260531003500 -0300" channel="CNN BRASIL">
+  <programme start="20260530233000 -0300" stop="20260531003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.150.</episode-num>
+  </programme>
+  <programme start="20260531003000 -0300" stop="20260531003500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Conteúdo não disponível</title>
+    <length units="minutes">300</length>
   </programme>
   <programme start="20260531003500 -0300" stop="20260531012000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
@@ -46262,10 +46273,13 @@
     <episode-num system="xmltv_ns">82.150.</episode-num>
   </programme>
   <programme start="20260530124500 -0300" stop="20260530131500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Mapa da Mina</title>
-    <desc lang="pt">O Mapa da Mina apresenta um panorama de oportunidades e riscos da mineração, segmento estratégico para o PIB.</desc>
+    <title lang="pt">Números Que Falam</title>
+    <desc lang="pt">O programa destrincha os principais indicadores do balanço das companhias e, também, os dados macroeconômicos que são determinantes para cada operação.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.150.</episode-num>
+    <episode-num system="xmltv_ns">12.150.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260530131500 -0300" stop="20260530174500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
@@ -46279,16 +46293,16 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.150.</episode-num>
   </programme>
-  <programme start="20260530184500 -0300" stop="20260530191500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Conexão Infra</title>
-    <desc lang="pt">Toda quinta-feira, o Conexão Infra traz entrevistas exclusivas com lideranças responsáveis por PPPs e projetos que devem moldar o país nos próximos anos.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">18.150.</episode-num>
+  <programme start="20260530184500 -0300" stop="20260530193000 -0300" channel="CNN Brasil Money HD">
+    <title lang="pt">CNN Séries Originais: Economia Geek</title>
+    <desc lang="pt">A série mergulha no universo da cultura geek para mostrar o tamanho da economia movimentada pelo setor e os profissionais que transformaram games, quadrinhos, tecnologia, IA e produção de conteúdo em negócios milionár...</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">30.184.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260530191500 -0300" stop="20260530200000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20260530193000 -0300" stop="20260530201500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">Capital Insights</title>
     <desc lang="pt">A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
     <length units="minutes">2700</length>
@@ -46297,13 +46311,13 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260530200000 -0300" stop="20260531003000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20260530201500 -0300" stop="20260531004500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
     <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <length units="minutes">16200</length>
     <episode-num system="xmltv_ns">80.150.</episode-num>
   </programme>
-  <programme start="20260530200000 -0300" stop="20260531003000 -0300" channel="CNN Brasil Money HD">
+  <programme start="20260530201500 -0300" stop="20260531004500 -0300" channel="CNN Brasil Money HD">
     <title lang="pt">CNN Money News - Edição Fim de Semana</title>
     <desc lang="pt">Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <length units="minutes">16200</length>
@@ -103972,7 +103986,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">28.25.</episode-num>
+    <episode-num system="xmltv_ns">29.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103982,7 +103996,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">27.31.</episode-num>
+    <episode-num system="xmltv_ns">29.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104159,7 +104173,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">28.25.</episode-num>
+    <episode-num system="xmltv_ns">29.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104226,13 +104240,10 @@
     <episode-num system="xmltv_ns">83.150.</episode-num>
   </programme>
   <programme start="20260530142000 -0300" stop="20260530150000 -0300" channel="GLOBO_SÃO_PAULO">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
     <length units="minutes">2400</length>
     <episode-num system="xmltv_ns">84.150.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
   </programme>
   <programme start="20260530150000 -0300" stop="20260530170500 -0300" channel="GLOBO_SÃO_PAULO">
     <title lang="pt">Caldeirão com Mion</title>
@@ -178194,36 +178205,34 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530054600 -0300" stop="20260530061400 -0300" channel="SPACE HD">
+  <programme start="20260530054600 -0300" stop="20260530060500 -0300" channel="SPACE HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1140</length>
     <episode-num system="xmltv_ns">5.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530061400 -0300" stop="20260530063600 -0300" channel="SPACE HD">
-    <title lang="pt">Olhos Da Lei</title>
-    <sub-title lang="pt">Cárcere Privado</sub-title>
-    <desc lang="pt">O COPOM lida com 3 casos de cárcere privado em áreas periféricas de SP.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+  <programme start="20260530060500 -0300" stop="20260530061800 -0300" channel="SPACE HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">780</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530063600 -0300" stop="20260530072300 -0300" channel="SPACE HD">
+  <programme start="20260530061800 -0300" stop="20260530070300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Backfire</sub-title>
     <desc lang="pt">O espírito de uma vítima não deixa Calleigh em paz até que ela consiga fazer justiça ao seu assassinato.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">8.20.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530072300 -0300" stop="20260530080900 -0300" channel="SPACE HD">
+  <programme start="20260530070300 -0300" stop="20260530074900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Kill Me If You Can</sub-title>
     <desc lang="pt">Os CSIs são chamados para investigar três cenas de crime diferentes e que, aparentemente, não têm relação entre si. Mas as evidências revelam que há algo unindo os três crimes.</desc>
@@ -178233,17 +178242,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530080900 -0300" stop="20260530085700 -0300" channel="SPACE HD">
+  <programme start="20260530074900 -0300" stop="20260530083600 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I</title>
     <sub-title lang="pt">Family Affair</sub-title>
     <desc lang="pt">Uma jovem estrela é morta durante um acidente e a pessoa que a perseguia tenta levar o crédito pela morte. Mas a equipe descobre que tem mais gente nessa tragédia do que possa parecer à primeira vista.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">10.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530085700 -0300" stop="20260530094400 -0300" channel="SPACE HD">
+  <programme start="20260530083600 -0300" stop="20260530092300 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Sleepless in Miami</sub-title>
     <desc lang="pt">Quando um homem acorda no meio de uma cena de crime, sem memória do que aconteceu, a equipe deve acreditar quando ele diz que foi sedado por um criminoso.</desc>
@@ -178253,7 +178262,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530094400 -0300" stop="20260530103000 -0300" channel="SPACE HD">
+  <programme start="20260530092300 -0300" stop="20260530100900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami</title>
     <sub-title lang="pt">Hunting Ground</sub-title>
     <desc lang="pt">Quando um clube de caça usa humanos como presa, a equipe começa a investigar quem está por trás disso.</desc>
@@ -178263,35 +178272,35 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530103000 -0300" stop="20260530123000 -0300" channel="SPACE HD">
+  <programme start="20260530100900 -0300" stop="20260530121800 -0300" channel="SPACE HD">
     <title lang="pt">O Vingador do Futuro</title>
     <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7740</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530123000 -0300" stop="20260530145500 -0300" channel="SPACE HD">
+  <programme start="20260530121800 -0300" stop="20260530144900 -0300" channel="SPACE HD">
     <title lang="pt">O Exterminador Do Futuro 2 - O Julgamento</title>
     <sub-title lang="pt">Final</sub-title>
     <desc lang="pt">Um novo andróide é enviado do futuro para matar John Connor. Para proteger o jovem, outro modelo do Exterminador volta ao passado com a missão de destruir o novo inimigo.</desc>
-    <length units="minutes">8700</length>
+    <length units="minutes">9060</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530145500 -0300" stop="20260530165100 -0300" channel="SPACE HD">
+  <programme start="20260530144900 -0300" stop="20260530164700 -0300" channel="SPACE HD">
     <title lang="pt">Condenação Brutal</title>
     <desc lang="pt">No meio da noite, faltando 6 meses para ser libertado, Leone, um prisioneiro modelo, é arrancado de sua cama, numa prisão de mínima segurança e é transferido para &quot;Gateway&quot;, uma instituição de seguran...</desc>
-    <length units="minutes">6960</length>
+    <length units="minutes">7080</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530165100 -0300" stop="20260530191000 -0300" channel="SPACE HD">
+  <programme start="20260530164700 -0300" stop="20260530191000 -0300" channel="SPACE HD">
     <title lang="pt">Assassinos</title>
     <desc lang="pt">A vida de dois assassinos se cruzam quando são enviados para eliminar Electra, que guarda segredos valiosos em um disquete. Rath e Electra formam um time à procura da liberdade, mas primeiro precisam passar por Bain.</desc>
-    <length units="minutes">8340</length>
+    <length units="minutes">8580</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -191426,15 +191435,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260529211700 -0300" stop="20260529232700 -0300" channel="TNT HD">
+  <programme start="20260529211700 -0300" stop="20260529232800 -0300" channel="TNT HD">
     <title lang="pt">Máquina Mortífera 3</title>
     <desc lang="pt">Detetives investigam o envolvimento de ex-policial no contrabando de armas. A detetive Lorna também está investigando o caso. Os dois fazem tudo para pegar primeiro os bandidos e Riggs acaba se apaixonando pela detetive.</desc>
-    <length units="minutes">7800</length>
+    <length units="minutes">7860</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260529232700 -0300" stop="20260529235100 -0300" channel="TNT HD">
+  <programme start="20260529232800 -0300" stop="20260529235200 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia O Dia dos Namorados</sub-title>
     <desc lang="pt">Chris recebe muitos cartões de Caruso que dizem &quot;Odeio você&quot; e acaba apaixonado por uma garota chamada Tangee, que conheceu no ônibus. Tonya revela que tem um namorado e surpreende Julius.</desc>
@@ -191444,7 +191453,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260529235100 -0300" stop="20260530001400 -0300" channel="TNT HD">
+  <programme start="20260529235200 -0300" stop="20260530001500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Loteria</sub-title>
     <desc lang="pt">Alguém desafia Chris em um campeonato de videogame. Júlio e Rochelle concordam em desistir de alguns prazeres culposos.</desc>
@@ -191454,7 +191463,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260529235100 -0300" stop="20260530001400 -0300" channel="TNT HD">
+  <programme start="20260529235200 -0300" stop="20260530001500 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia a Loteria</sub-title>
     <desc lang="pt">Alguém desafia Chris em um campeonato de videogame. Júlio e Rochelle concordam em desistir de alguns prazeres culposos.</desc>
@@ -191464,11 +191473,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260530001400 -0300" stop="20260530003800 -0300" channel="TNT HD">
+  <programme start="20260530001500 -0300" stop="20260530003800 -0300" channel="TNT HD">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <sub-title lang="pt">Todo Mundo Odeia Gota</sub-title>
     <desc lang="pt">Chris recebe um &quot;F&quot; no boletim e tenta encontrar uma forma de alterá-lo antes que seus pais vejam. Julius fica doente com gota e passa a assistir a The Young and The Restless.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.16.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -191550,25 +191559,25 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530055100 -0300" stop="20260530064500 -0300" channel="TNT HD">
+  <programme start="20260530055100 -0300" stop="20260530070000 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
-    <length units="minutes">3240</length>
+    <length units="minutes">4140</length>
     <episode-num system="xmltv_ns">5.150.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530064500 -0300" stop="20260530084500 -0300" channel="TNT HD">
+  <programme start="20260530070000 -0300" stop="20260530084400 -0300" channel="TNT HD">
     <title lang="pt">Bayern de Munique x Paris Saint-Germain</title>
     <desc lang="pt">Bayern de Munique e Paris Saint-Germain jogam a rodada de volta da Semifinal UEFA Champions League, na Allianz Arena, em Munique, Alemanha.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6240</length>
     <previously-shown/>
   </programme>
-  <programme start="20260530084500 -0300" stop="20260530090000 -0300" channel="TNT HD">
+  <programme start="20260530084400 -0300" stop="20260530090000 -0300" channel="TNT HD">
     <title lang="pt">Melhor Futebol do Mundo</title>
     <desc lang="pt">Direto de Paris, o time da TNT Sports traz, ao vivo, os últimos treinos, entrevistas coletivas e exclusivas de Liverpool e Real Madrid.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">960</length>
   </programme>
   <programme start="20260530090000 -0300" stop="20260530093000 -0300" channel="TNT HD">
     <title lang="pt">Liga Espetacular</title>
@@ -191585,15 +191594,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260530103000 -0300" stop="20260530130300 -0300" channel="TNT HD">
+  <programme start="20260530103000 -0300" stop="20260530130000 -0300" channel="TNT HD">
     <title lang="pt">Pré-Jogo UEFA Champions League</title>
     <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-    <length units="minutes">9180</length>
+    <length units="minutes">9000</length>
   </programme>
-  <programme start="20260530130300 -0300" stop="20260530150000 -0300" channel="TNT HD">
+  <programme start="20260530130000 -0300" stop="20260530150000 -0300" channel="TNT HD">
     <title lang="pt">Paris Saint-Germain x Arsenal - ao vivo</title>
     <desc lang="pt">Paris Saint-Germain e Arsenal jogam a grande Final da UEFA Champions League, no Puskás Aréna, em Budapeste, Hungria.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260530150000 -0300" stop="20260530163000 -0300" channel="TNT HD">
@@ -191606,39 +191615,39 @@
     <desc lang="pt">Último Lance! O programa coloca o telespectador como protagonista, cobrindo o que há de melhor no futebol pelo mundo. Aqui a emoção dos 90 minutos não termina no apito final.</desc>
     <length units="minutes">3600</length>
   </programme>
-  <programme start="20260530173000 -0300" stop="20260530193000 -0300" channel="TNT HD">
+  <programme start="20260530173000 -0300" stop="20260530191700 -0300" channel="TNT HD">
     <title lang="pt">UEFA Champions League</title>
     <desc lang="pt">UEFA CHAMPIONS LEAGUE o melhor futebol do mundo, agora na programação da TNT Brasil.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6420</length>
   </programme>
-  <programme start="20260530193000 -0300" stop="20260530212000 -0300" channel="TNT HD">
+  <programme start="20260530191700 -0300" stop="20260530210600 -0300" channel="TNT HD">
     <title lang="pt">Os Mercenários 2</title>
     <desc lang="pt">Sylvester Stallone lidera o maior e mais famoso grupo de mercenários do cinema! Ao aceitarem uma missão aparentemente simples, o grupo é surpreendido por uma emboscada e Tool é assassinado.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">6540</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530212000 -0300" stop="20260530231000 -0300" channel="TNT HD">
+  <programme start="20260530210600 -0300" stop="20260530231600 -0300" channel="TNT HD">
     <title lang="pt">Baywatch - S.O.S. Malibu</title>
     <desc lang="pt">O ex-nadador olímpico Matt Brody treina para ser um salva-vidas com o tenente Buchannon. Apesar da relação difícil, os dois se unem quando um esquema criminoso ameaça a praia.</desc>
-    <length units="minutes">6600</length>
+    <length units="minutes">7800</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530231000 -0300" stop="20260531010500 -0300" channel="TNT HD">
+  <programme start="20260530231600 -0300" stop="20260531010500 -0300" channel="TNT HD">
     <title lang="pt">O Último Caçador De Bruxas</title>
     <desc lang="pt">Kaulder, um caçador de bruxas amaldiçoado a viver eternamente, precisa unir forças com a jovem bruxa Chloe para enfrentar uma ameaça que põe a humanidade em risco.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6540</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530231000 -0300" stop="20260531010500 -0300" channel="TNT HD">
+  <programme start="20260530231600 -0300" stop="20260531010500 -0300" channel="TNT HD">
     <title lang="pt">O Último Caçador De Bruxas</title>
     <desc lang="pt">Kaulder, um caçador de bruxas amaldiçoado a viver eternamente, precisa unir forças com a jovem bruxa Chloe para enfrentar uma ameaça que põe a humanidade em risco.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6540</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194206,231 +194215,231 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530060500 -0300" stop="20260530080100 -0300" channel="TNT SERIES HD">
+  <programme start="20260530060500 -0300" stop="20260530065200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Blood for Blood</sub-title>
     <desc lang="pt">Van Pelt corre riscos quando a testemunha sob sua proteção é assassinada.</desc>
-    <length units="minutes">6960</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530080100 -0300" stop="20260530084700 -0300" channel="TNT SERIES HD">
+  <programme start="20260530065200 -0300" stop="20260530074000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Gold</sub-title>
     <desc lang="pt">Pela primeira vez, o agente Hightower e Patrick Jane trabalham juntos desde que Lisbon foi feriada durante a investigação da morte de um mineiro.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530084700 -0300" stop="20260530093100 -0300" channel="TNT SERIES HD">
+  <programme start="20260530074000 -0300" stop="20260530083000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Queen</sub-title>
     <desc lang="pt">A equipe do CBI fica sob suspeita quando um negociante de antiguidades é assassinado. As evidências parecem apontar que um membro da equipe é o responsável pela morte.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530093100 -0300" stop="20260530101700 -0300" channel="TNT SERIES HD">
+  <programme start="20260530083000 -0300" stop="20260530091800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Bloodstream</sub-title>
     <desc lang="pt">A CBI investiga o assassinato de um médico encontrado morto em um campo de golfe. Os suspeitos incluem os funcionários do hospital e os pacientes. LaRoche agora comanda a CBI e aponta Cho como o novo líder da equipe.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530101700 -0300" stop="20260530110000 -0300" channel="TNT SERIES HD">
+  <programme start="20260530091800 -0300" stop="20260530100500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Voo</sub-title>
     <desc lang="pt">O caso de uma adolescente vítima de abuso sexual aponta para o envolvimento de um bilionário, cujo advogado põe toda a investigação de Olivia e Elliot a perder.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.15.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530110000 -0300" stop="20260530114300 -0300" channel="TNT SERIES HD">
+  <programme start="20260530100500 -0300" stop="20260530105200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Espetáculo</sub-title>
     <desc lang="pt">Os detetives Stabler e Tutuola procuram por uma vítima e seu agressor após um vídeo de uma agressão sexual ser colocado na Intranet do campus de uma faculdade.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.16.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530114300 -0300" stop="20260530122900 -0300" channel="TNT SERIES HD">
+  <programme start="20260530105200 -0300" stop="20260530114400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Perseguição</sub-title>
     <desc lang="pt">Sonya Paxton (Christine Lahti) tenta ajudar uma velha amiga (Debra Messing) que começa a receber ameaças pessoais.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">12.17.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530122900 -0300" stop="20260530131300 -0300" channel="TNT SERIES HD">
+  <programme start="20260530114400 -0300" stop="20260530123100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Tirana</sub-title>
     <desc lang="pt">Depois que uma mulher é encontrada morta em seu apartamento, os detetives investigam seus contatos pessoais, incluindo uma grande amiga (Kate Burton), em busca de suspeitos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">12.18.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530131300 -0300" stop="20260530135700 -0300" channel="TNT SERIES HD">
+  <programme start="20260530123100 -0300" stop="20260530131900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Como uma Bomba</sub-title>
     <desc lang="pt">O esfaqueamento de um chefe de família leva Benson e Stabler a acreditar que o homem tinha um passatempo impróprio. Os detetives se disfarçam e num clube de swingers conhecem um homem ciumento e sua namorada.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">12.19.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260530135700 -0300" stop="20260530144400 -0300" channel="TNT SERIES HD">
+  <programme start="20260530131900 -0300" stop="20260530140900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Ghost of My Child</sub-title>
     <desc lang="pt">Final de temporada: Uma mãe viciada em drogas, que perdeu seu filho em um incêndio, em 2005, alega que ela viu a mesma criança no parque.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530144400 -0300" stop="20260530153200 -0300" channel="TNT SERIES HD">
+  <programme start="20260530140900 -0300" stop="20260530150000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Glory Days</sub-title>
     <desc lang="pt">A sexta temporada começa com a re-investigação do assassinato de uma estrela do futebol estudantil, em 1973, na véspera de um jogo do campeonato. O caso não resolvido é reaberto.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530153200 -0300" stop="20260530162100 -0300" channel="TNT SERIES HD">
+  <programme start="20260530150000 -0300" stop="20260530155100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">True Calling</sub-title>
     <desc lang="pt">A morte de uma professora de escola em 1991 é re-investigada, quando uma nova evidência indica que ela pode ter sido assassinada, ao invés de ter morrido acidentalmente durante o roubo de seu carro que saiu de controle.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530162100 -0300" stop="20260530170700 -0300" channel="TNT SERIES HD">
+  <programme start="20260530155100 -0300" stop="20260530164200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Wednesday's Women</sub-title>
     <desc lang="pt">Will e Kat viajam para o Mississippi para investigar a morte de uma mulher da Filadélfia em 1964. A mulher estava, secretamente, ajudando a trazer suprimentos para escolas de crianças negras.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530170700 -0300" stop="20260530175500 -0300" channel="TNT SERIES HD">
+  <programme start="20260530164200 -0300" stop="20260530173200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Roller Girl</sub-title>
     <desc lang="pt">A equipe reabre um caso de 1978, em que uma patinadora adolescente foi encontrada morta em um vale.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530175500 -0300" stop="20260530183900 -0300" channel="TNT SERIES HD">
+  <programme start="20260530173200 -0300" stop="20260530182000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Alert</sub-title>
     <desc lang="pt">Quando Patrick Jane e seus colegas da CBI são feitos reféns de um homem armado acusado de assassinato, o &quot;mentalista&quot; deve pensar rápido para garantir a segurança de todos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530183900 -0300" stop="20260530192600 -0300" channel="TNT SERIES HD">
+  <programme start="20260530182000 -0300" stop="20260530190900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Blood for Blood</sub-title>
     <desc lang="pt">Van Pelt corre riscos quando a testemunha sob sua proteção é assassinada.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530192600 -0300" stop="20260530201300 -0300" channel="TNT SERIES HD">
+  <programme start="20260530190900 -0300" stop="20260530195900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Gold</sub-title>
     <desc lang="pt">Pela primeira vez, o agente Hightower e Patrick Jane trabalham juntos desde que Lisbon foi feriada durante a investigação da morte de um mineiro.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">3.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530201300 -0300" stop="20260530205900 -0300" channel="TNT SERIES HD">
+  <programme start="20260530195900 -0300" stop="20260530204800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Queen</sub-title>
     <desc lang="pt">A equipe do CBI fica sob suspeita quando um negociante de antiguidades é assassinado. As evidências parecem apontar que um membro da equipe é o responsável pela morte.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530205900 -0300" stop="20260530214200 -0300" channel="TNT SERIES HD">
+  <programme start="20260530204800 -0300" stop="20260530213700 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Bloodstream</sub-title>
     <desc lang="pt">A CBI investiga o assassinato de um médico encontrado morto em um campo de golfe. Os suspeitos incluem os funcionários do hospital e os pacientes. LaRoche agora comanda a CBI e aponta Cho como o novo líder da equipe.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">3.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530214200 -0300" stop="20260530223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260530213700 -0300" stop="20260530223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">One Percent</sub-title>
     <desc lang="pt">Reese e Finch encontram em um POI bilionário tecnologia, curiosidade e recursos ilimitados que ameaçam expor suas identidades e sabotar seus esforços para salvar vidas.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3180</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530223000 -0300" stop="20260530231700 -0300" channel="TNT SERIES HD">
+  <programme start="20260530223000 -0300" stop="20260530232100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Booked Solid</sub-title>
     <desc lang="pt">Reese e Finch correm para salvar a vida de uma empregada de hotel, mas se encontram cercados por mais suspeitos do que podem ser capazes de eliminar.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530231700 -0300" stop="20260531000300 -0300" channel="TNT SERIES HD">
+  <programme start="20260530232100 -0300" stop="20260531001200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Relevance</sub-title>
     <desc lang="pt">Uma agente letal e sexy do governo que rastreia e detém ameaças terroristas antes que elas ocorram se encontra como novo foco da atenção de Reese e Finch.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260530231700 -0300" stop="20260531000300 -0300" channel="TNT SERIES HD">
+  <programme start="20260530232100 -0300" stop="20260531001200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Relevance</sub-title>
     <desc lang="pt">Uma agente letal e sexy do governo que rastreia e detém ameaças terroristas antes que elas ocorram se encontra como novo foco da atenção de Reese e Finch.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -222597,27 +222606,27 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260530091700 -0300" stop="20260530101400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530091700 -0300" stop="20260530094000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Woo-Hoo, a Hernia-Exam!</sub-title>
     <desc lang="pt">Charlie machuca as costas depois de ficar com uma mulher, porém recusa a ajuda de Alan, mesmo ele sendo um especialista nessa área.</desc>
-    <length units="minutes">3420</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530101400 -0300" stop="20260530103500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530094000 -0300" stop="20260530100500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Does Something Smell Funny to You</sub-title>
     <desc lang="pt">Charlie passa a noite com uma linda jovem sem saber que ela está casada com um homem mais velho.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530103500 -0300" stop="20260530110000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530100500 -0300" stop="20260530103000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Low, Guttural Tongue-Flapping Noise</sub-title>
     <desc lang="pt">Depois de Charlie levar Alan a um oftalmologista, eles terminam indo a uma cafeteria, onde encontram uma ex-namorada de Charlie, Sherri.</desc>
@@ -222627,113 +222636,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530110000 -0300" stop="20260530112200 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Peanut Reaction</sub-title>
-    <desc lang="pt">Quando Penny descobre que Leonard nunca teve uma festa de aniversário, Penny e os outros rapazes planejam uma festa surpresa para ele.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530112200 -0300" stop="20260530114300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Tangerine Factor</sub-title>
-    <desc lang="pt">Depois de uma separação ruim, Penny finalmente concorda em sair em um encontro com Leonard, porém, ambos ficam com dúvidas e pedem conselhos a Sheldon.</desc>
-    <length units="minutes">1260</length>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530114300 -0300" stop="20260530120700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Bad Fish Paradigm</sub-title>
-    <desc lang="pt">Penny se abre para Sheldon, depois de um primeiro encontro que não foi excelente com Leonard.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530120700 -0300" stop="20260530123100 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Codpiece Topology</sub-title>
-    <desc lang="pt">Leonard fica com ciúmes do novo namorado de Penny e, para se vingar, tenta se reaproximar de Leslie.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530123100 -0300" stop="20260530125500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Barbarian Sublimination</sub-title>
-    <desc lang="pt">Sheldom ensina Penny a jogar online e termina por deixá-la viciada nos jogos.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530125500 -0300" stop="20260530131900 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Griffin Equivalency</sub-title>
-    <desc lang="pt">Raj fica com o ego inflado depois de ganhar certa fama com um artigo de uma revista. Ele chega a arriscar sua amizade com Leonard, tentando ganhar a afeição de Penny.</desc>
-    <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530131900 -0300" stop="20260530160400 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Transformers: O Lado Oculto Da Lua</title>
-    <desc lang="pt">Uma descoberta na Lua renova a aliança enre Sam e os Autobots. Juntos, devem evitar que os Decepticons ponham as mãos nos segredos desta embarcação e dominem a Terra.</desc>
-    <length units="minutes">9900</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530160400 -0300" stop="20260530190000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Transformers: A Era Da Extinção</title>
-    <desc lang="pt">Cade encontra um caminhão danificado e descobre ser Optmius Prime, desaparecido na batalha dos robôs. Ao reanimá-lo, ele e sua filha entram na mira do governo americano.</desc>
-    <length units="minutes">10560</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530190000 -0300" stop="20260530192500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">I Always Wanted a Shaved Monkey</sub-title>
-    <desc lang="pt">Rose tenta ajudar os irmãos quando os dois desabafam um para o outro as suas frustações pessoais.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">2.20.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530192500 -0300" stop="20260530194700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">A Sympathetic Crotch to Cry On</sub-title>
-    <desc lang="pt">Enquanto revisa os obituários procurando por possíveis propriedade à venda, Evelyn descobre que seu segundo marrido, Harry, morreu.</desc>
-    <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">2.21.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530194700 -0300" stop="20260530200700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">That Old Hose Bag Is My Mother</sub-title>
-    <desc lang="pt">Quando Evelyn faz um empréstimo para Alan para que ele possa comprar um Porsche novo, Charlie lhe diz que ele vendeu sua alma para o diabo.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">2.22.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260530200700 -0300" stop="20260530203100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530103000 -0300" stop="20260530105400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Peanut Reaction</sub-title>
     <desc lang="pt">Quando Penny descobre que Leonard nunca teve uma festa de aniversário, Penny e os outros rapazes planejam uma festa surpresa para ele.</desc>
@@ -222743,17 +222646,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530203100 -0300" stop="20260530205500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530105400 -0300" stop="20260530111700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Tangerine Factor</sub-title>
     <desc lang="pt">Depois de uma separação ruim, Penny finalmente concorda em sair em um encontro com Leonard, porém, ambos ficam com dúvidas e pedem conselhos a Sheldon.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530205500 -0300" stop="20260530212100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530111700 -0300" stop="20260530114300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Bad Fish Paradigm</sub-title>
     <desc lang="pt">Penny se abre para Sheldon, depois de um primeiro encontro que não foi excelente com Leonard.</desc>
@@ -222763,21 +222666,127 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530212100 -0300" stop="20260530214200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530114300 -0300" stop="20260530120700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Codpiece Topology</sub-title>
     <desc lang="pt">Leonard fica com ciúmes do novo namorado de Penny e, para se vingar, tenta se reaproximar de Leslie.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530214200 -0300" stop="20260530220500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530120700 -0300" stop="20260530123100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Barbarian Sublimination</sub-title>
     <desc lang="pt">Sheldom ensina Penny a jogar online e termina por deixá-la viciada nos jogos.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530123100 -0300" stop="20260530125600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Griffin Equivalency</sub-title>
+    <desc lang="pt">Raj fica com o ego inflado depois de ganhar certa fama com um artigo de uma revista. Ele chega a arriscar sua amizade com Leonard, tentando ganhar a afeição de Penny.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530125600 -0300" stop="20260530154800 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Transformers: O Lado Oculto Da Lua</title>
+    <desc lang="pt">Uma descoberta na Lua renova a aliança enre Sam e os Autobots. Juntos, devem evitar que os Decepticons ponham as mãos nos segredos desta embarcação e dominem a Terra.</desc>
+    <length units="minutes">10320</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530154800 -0300" stop="20260530184700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Transformers: A Era Da Extinção</title>
+    <desc lang="pt">Cade encontra um caminhão danificado e descobre ser Optmius Prime, desaparecido na batalha dos robôs. Ao reanimá-lo, ele e sua filha entram na mira do governo americano.</desc>
+    <length units="minutes">10740</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530184700 -0300" stop="20260530191200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">I Always Wanted a Shaved Monkey</sub-title>
+    <desc lang="pt">Rose tenta ajudar os irmãos quando os dois desabafam um para o outro as suas frustações pessoais.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530191200 -0300" stop="20260530193700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">A Sympathetic Crotch to Cry On</sub-title>
+    <desc lang="pt">Enquanto revisa os obituários procurando por possíveis propriedade à venda, Evelyn descobre que seu segundo marrido, Harry, morreu.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530193700 -0300" stop="20260530200200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Two and a Half Men</title>
+    <sub-title lang="pt">That Old Hose Bag Is My Mother</sub-title>
+    <desc lang="pt">Quando Evelyn faz um empréstimo para Alan para que ele possa comprar um Porsche novo, Charlie lhe diz que ele vendeu sua alma para o diabo.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530200200 -0300" stop="20260530202500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Peanut Reaction</sub-title>
+    <desc lang="pt">Quando Penny descobre que Leonard nunca teve uma festa de aniversário, Penny e os outros rapazes planejam uma festa surpresa para ele.</desc>
     <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530202500 -0300" stop="20260530205000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Tangerine Factor</sub-title>
+    <desc lang="pt">Depois de uma separação ruim, Penny finalmente concorda em sair em um encontro com Leonard, porém, ambos ficam com dúvidas e pedem conselhos a Sheldon.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530205000 -0300" stop="20260530211600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Bad Fish Paradigm</sub-title>
+    <desc lang="pt">Penny se abre para Sheldon, depois de um primeiro encontro que não foi excelente com Leonard.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530211600 -0300" stop="20260530214100 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Codpiece Topology</sub-title>
+    <desc lang="pt">Leonard fica com ciúmes do novo namorado de Penny e, para se vingar, tenta se reaproximar de Leslie.</desc>
+    <length units="minutes">1500</length>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260530214100 -0300" stop="20260530220500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Barbarian Sublimination</sub-title>
+    <desc lang="pt">Sheldom ensina Penny a jogar online e termina por deixá-la viciada nos jogos.</desc>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -222793,18 +222802,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530223000 -0300" stop="20260531011600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530223000 -0300" stop="20260531012300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Transformers: O Último Cavaleiro</title>
     <desc lang="pt">Depois que Optimus se foi e os humanos estão em Guerra, Cade Yeager se alia aos Autobots para salvar a Terra de uma nova ameaça e investigar a origem dos Transformers.</desc>
-    <length units="minutes">9960</length>
+    <length units="minutes">10380</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260530223000 -0300" stop="20260531011600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260530223000 -0300" stop="20260531012300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Transformers: O Último Cavaleiro</title>
     <desc lang="pt">Depois que Optimus se foi e os humanos estão em Guerra, Cade Yeager se alia aos Autobots para salvar a Terra de uma nova ameaça e investigar a origem dos Transformers.</desc>
-    <length units="minutes">9960</length>
+    <length units="minutes">10380</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
