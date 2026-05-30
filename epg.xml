@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-05-30 11:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-05-30 14:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -83185,7 +83185,7 @@
     <length units="minutes">3600</length>
   </programme>
   <programme start="20260602210000 -0300" stop="20260603000000 -0300" channel="ESPN 3">
-    <title lang="pt">NHL: Montreal Canadiens x Carolina Hurricanes - ao vivo</title>
+    <title lang="pt">NHL: Vegas Golden Knights x Carolina Hurricanes - ao vivo</title>
     <desc lang="pt">&quot;A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.&quot;</desc>
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
@@ -84854,7 +84854,7 @@
     <episode-num system="xmltv_ns">87.154.</episode-num>
   </programme>
   <programme start="20260603183000 -0300" stop="20260603210000 -0300" channel="ESPN 6">
-    <title lang="pt">NHL: Montreal Canadiens x Carolina Hurricanes</title>
+    <title lang="pt">NHL: Vegas Golden Knights x Carolina Hurricanes</title>
     <desc lang="pt">&quot;A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.&quot;</desc>
     <length units="minutes">9000</length>
     <previously-shown/>
@@ -104485,13 +104485,19 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260601153500 -0300" stop="20260601172000 -0300" channel="GLOBO_SÃO_PAULO">
+  <programme start="20260601153500 -0300" stop="20260601170500 -0300" channel="GLOBO_SÃO_PAULO">
     <title lang="pt">Sessão da Tarde: Juntos e Enrolados</title>
     <desc lang="pt">No dia do sonhado casamento de Julio e Daiana, uma mensagem coloca ponto final no relacionamento. Não querendo desperdiçar a festa, eles acabam comemorando o divórcio.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">5400</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
+  </programme>
+  <programme start="20260601170500 -0300" stop="20260601172000 -0300" channel="GLOBO_SÃO_PAULO">
+    <title lang="pt">Boletim SP2</title>
+    <desc lang="pt">Boletim com as principais notícias de São Paulo.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">87.152.</episode-num>
   </programme>
   <programme start="20260601172000 -0300" stop="20260601182500 -0300" channel="GLOBO_SÃO_PAULO">
     <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil: None</title>
@@ -138044,7 +138050,7 @@
   </programme>
   <programme start="20260530003641 -0300" stop="20260530011351 -0300" channel="LMC+HD">
     <title lang="pt">Momento Com A Paz</title>
-    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;Acordei do meu sonho quando a luz do sol entrou pela janela...&quot;</desc>
+    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;A tartaruga é conhecida por ser constante e determinada. Devemos aprender...&quot;</desc>
     <length units="minutes">2230</length>
     <rating system="Brazil">
       <value>[L]</value>
@@ -138054,7 +138060,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">145</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138063,7 +138069,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">79</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138072,7 +138078,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">92</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138081,7 +138087,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">85</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138090,7 +138096,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">108</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138099,7 +138105,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">97</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138108,7 +138114,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">132</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138117,7 +138123,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">103</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138126,7 +138132,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">84</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138135,7 +138141,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">99</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138144,7 +138150,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">141</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138153,7 +138159,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">78</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138162,7 +138168,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">70</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138171,7 +138177,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">146</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138180,7 +138186,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">108</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138189,7 +138195,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">86</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138198,7 +138204,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">227</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138207,7 +138213,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">139</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138216,7 +138222,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">200</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138225,7 +138231,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">180</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138234,7 +138240,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">185</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138243,7 +138249,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">354</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138252,7 +138258,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">680</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138261,7 +138267,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">424</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138270,7 +138276,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">784</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138279,7 +138285,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">620</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138288,7 +138294,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">311</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138297,7 +138303,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">274</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138306,7 +138312,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">257</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138315,7 +138321,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">239</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138324,7 +138330,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">162</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138333,7 +138339,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">409</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138342,7 +138348,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">450</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138351,7 +138357,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">306</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138360,7 +138366,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">356</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138369,7 +138375,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">147</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138378,7 +138384,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138387,7 +138393,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138396,7 +138402,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138405,7 +138411,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">556</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138414,7 +138420,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">307</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138423,7 +138429,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">546</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138432,7 +138438,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">690</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138441,7 +138447,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">109</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138450,7 +138456,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">146</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138459,7 +138465,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">117</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138468,7 +138474,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">126</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138477,7 +138483,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">172</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138486,7 +138492,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">137</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138495,7 +138501,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">192</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138504,7 +138510,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">126</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138513,7 +138519,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">211</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138522,7 +138528,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">221</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138531,7 +138537,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">114</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138540,7 +138546,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">126</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138549,7 +138555,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">105</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138558,7 +138564,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">120</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138567,7 +138573,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">101</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138576,7 +138582,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">145</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138585,7 +138591,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">184</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138594,7 +138600,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">180</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138603,7 +138609,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">131</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138612,7 +138618,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">148</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138621,7 +138627,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">307</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138630,7 +138636,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">114</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138639,7 +138645,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">135</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138648,7 +138654,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">217</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138657,7 +138663,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">138</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138666,7 +138672,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">200</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138675,7 +138681,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">145</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138684,7 +138690,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">131</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138693,7 +138699,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">157</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138702,7 +138708,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">274</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138711,7 +138717,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">158</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138720,7 +138726,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">198</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138729,7 +138735,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">202</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138738,7 +138744,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">302</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138747,7 +138753,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">157</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138756,14 +138762,14 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">211</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260530060224 -0300" stop="20260530063519 -0300" channel="LMC+HD">
     <title lang="pt">Momento Com A Paz</title>
-    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;Acordei do meu sonho quando a luz do sol entrou pela janela...&quot;</desc>
+    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;A tartaruga é conhecida por ser constante e determinada. Devemos aprender...&quot;</desc>
     <length units="minutes">1975</length>
     <episode-num system="xmltv_ns">6.150.</episode-num>
     <rating system="Brazil">
@@ -138782,7 +138788,7 @@
   </programme>
   <programme start="20260530064939 -0300" stop="20260530065336 -0300" channel="LMC+HD">
     <title lang="pt">Confederação Brasileira De Ciclismo</title>
-    <desc lang="pt">Acompanhe o que rolou no Brasileiro de Pista, nas categorias Elite e Sub23</desc>
+    <desc lang="pt">Acompanhe o que rolou na Copa de Paraciclismo, na prova Contrarrelógio</desc>
     <length units="minutes">237</length>
     <episode-num system="xmltv_ns">6.150.</episode-num>
     <rating system="Brazil">
@@ -138829,7 +138835,7 @@
     <title lang="pt">Magipsi</title>
     <desc lang="pt">A fada Magipsi vai te guiar por um mundo de aventuras incríveis e ensinamentos valiosos, chaves para uma educação baseada na leitura e artes. Prepare-se para uma Jornada Mágica de Aprendizado e Diversão com a encantadora f...</desc>
     <length units="minutes">252</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138838,7 +138844,7 @@
     <title lang="pt">Magipsi</title>
     <desc lang="pt">A fada Magipsi vai te guiar por um mundo de aventuras incríveis e ensinamentos valiosos, chaves para uma educação baseada na leitura e artes. Prepare-se para uma Jornada Mágica de Aprendizado e Diversão com a encantadora f...</desc>
     <length units="minutes">422</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138846,9 +138852,9 @@
   <programme start="20260530073118 -0300" stop="20260530073430 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">192</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138858,7 +138864,7 @@
     <sub-title lang="pt">Corridas Estranhas no Celular: Sandwich Runner</sub-title>
     <desc lang="pt">Histórias divertidas, programas engraçados, games para toda a família e muita risada! Esse é o Gabriel e Shirley - Games.</desc>
     <length units="minutes">797</length>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138868,7 +138874,7 @@
     <sub-title lang="pt">Esconde-Esconde</sub-title>
     <desc lang="pt">Teatro Gil e Cris apresenta quadros divertidos e educativos com Atores e Bonecos.</desc>
     <length units="minutes">1736</length>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138877,7 +138883,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">138</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -138902,18 +138908,18 @@
   </programme>
   <programme start="20260530084403 -0300" stop="20260530091211 -0300" channel="LMC+HD">
     <title lang="pt">10.000 Rpm</title>
-    <desc lang="pt">Viajamos no tempo para mostrar como a Ford Ranger evoluiu</desc>
+    <desc lang="pt">Confira a 2ª bateria da 5ª etapa de gold fusca no campeonato catarinense de automobilismo</desc>
     <length units="minutes">1688</length>
     <episode-num system="xmltv_ns">8.150.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260530091211 -0300" stop="20260530092028 -0300" channel="LMC+HD">
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">497</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">9.150.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -138977,7 +138983,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139004,7 +139010,7 @@
   </programme>
   <programme start="20260530111218 -0300" stop="20260530111614 -0300" channel="LMC+HD">
     <title lang="pt">Momento Com A Paz</title>
-    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;Acordei do meu sonho quando a luz do sol entrou pela janela...&quot;</desc>
+    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;A tartaruga é conhecida por ser constante e determinada. Devemos aprender...&quot;</desc>
     <length units="minutes">236</length>
     <episode-num system="xmltv_ns">11.150.</episode-num>
     <rating system="Brazil">
@@ -139014,22 +139020,22 @@
   <programme start="20260530111614 -0300" stop="20260530114124 -0300" channel="LMC+HD">
     <title lang="pt">Extremo</title>
     <sub-title lang="pt">Elevados</sub-title>
-    <desc lang="pt">Rupert Guinness participou da Haute Route Alps na França em busca de um novo desafio para testar sua força física e mental. Mas, depois de pedalar 800 km pelos Alpes, de Nice a Megève, o jornalista e autor especializado em ciclism</desc>
+    <desc lang="pt">Transvulcania Terrex La Palma 2025 é a XV edição de uma das corridas de montanha de longa distância mais difíceis das Ilhas Canárias e da Espanha.</desc>
     <length units="minutes">1510</length>
-    <episode-num system="xmltv_ns">11.150.</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
   </programme>
   <programme start="20260530114124 -0300" stop="20260530121407 -0300" channel="LMC+HD">
     <title lang="pt">Extremo</title>
     <sub-title lang="pt">Elevados</sub-title>
-    <desc lang="pt">Rupert Guinness participou da Haute Route Alps na França em busca de um novo desafio para testar sua força física e mental. Mas, depois de pedalar 800 km pelos Alpes, de Nice a Megève, o jornalista e autor especializado em ciclism</desc>
+    <desc lang="pt">Transvulcania Terrex La Palma 2025 é a XV edição de uma das corridas de montanha de longa distância mais difíceis das Ilhas Canárias e da Espanha.</desc>
     <length units="minutes">1963</length>
-    <episode-num system="xmltv_ns">11.150.</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
   </programme>
   <programme start="20260530121407 -0300" stop="20260530122338 -0300" channel="LMC+HD">
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">571</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139057,7 +139063,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1644</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">13.150.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139066,7 +139072,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1592</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">14.150.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139091,7 +139097,7 @@
   </programme>
   <programme start="20260530201500 -0300" stop="20260530201857 -0300" channel="LMC+HD">
     <title lang="pt">Confederação Brasileira De Ciclismo</title>
-    <desc lang="pt">Acompanhe o que rolou no Brasileiro de Pista, nas categorias Elite e Sub23</desc>
+    <desc lang="pt">Acompanhe o que rolou na Copa de Paraciclismo, na prova Contrarrelógio</desc>
     <length units="minutes">237</length>
     <episode-num system="xmltv_ns">20.150.</episode-num>
     <rating system="Brazil">
@@ -139120,9 +139126,9 @@
   <programme start="20260530210119 -0300" stop="20260530210431 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">192</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139131,7 +139137,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1639</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">21.150.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139144,7 +139150,7 @@
   </programme>
   <programme start="20260530215635 -0300" stop="20260530225018 -0300" channel="LMC+HD">
     <title lang="pt">Playhits</title>
-    <desc lang="pt">Show do rapper Jay-Z</desc>
+    <desc lang="pt">Show da cantora Dua Lipa</desc>
     <length units="minutes">3223</length>
     <episode-num system="xmltv_ns">21.150.</episode-num>
     <rating system="Brazil">
@@ -139155,7 +139161,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1641</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">22.150.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -139165,7 +139171,7 @@
     <sub-title lang="pt">Esconde-Esconde</sub-title>
     <desc lang="pt">Teatro Gil e Cris apresenta quadros divertidos e educativos com Atores e Bonecos.</desc>
     <length units="minutes">1948</length>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139174,7 +139180,7 @@
     <title lang="pt">Magipsi</title>
     <desc lang="pt">A fada Magipsi vai te guiar por um mundo de aventuras incríveis e ensinamentos valiosos, chaves para uma educação baseada na leitura e artes. Prepare-se para uma Jornada Mágica de Aprendizado e Diversão com a encantadora f...</desc>
     <length units="minutes">392</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139183,7 +139189,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">104</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139193,7 +139199,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139203,7 +139209,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139213,7 +139219,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">301</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139223,7 +139229,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">299</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139231,9 +139237,9 @@
   <programme start="20260531001323 -0300" stop="20260531001627 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">184</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139241,9 +139247,9 @@
   <programme start="20260531001627 -0300" stop="20260531001936 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">189</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139251,9 +139257,9 @@
   <programme start="20260531001936 -0300" stop="20260531002239 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">183</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139261,9 +139267,9 @@
   <programme start="20260531002239 -0300" stop="20260531002544 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">185</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139290,7 +139296,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">92</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139299,7 +139305,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">122</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139308,7 +139314,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">134</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139317,7 +139323,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">76</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139326,7 +139332,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">91</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139335,7 +139341,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">110</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139344,7 +139350,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">146</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139353,7 +139359,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">112</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139362,7 +139368,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">69</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139371,7 +139377,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">54</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139380,7 +139386,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">96</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139389,7 +139395,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">92</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139398,7 +139404,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">85</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139407,7 +139413,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">70</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139416,7 +139422,7 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">143</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139425,7 +139431,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">307</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139434,7 +139440,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">439</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139443,7 +139449,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">184</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139452,7 +139458,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">234</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139461,7 +139467,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">208</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139470,7 +139476,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">401</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139479,7 +139485,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">450</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139488,7 +139494,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">147</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139497,7 +139503,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">171</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139506,7 +139512,7 @@
     <title lang="pt">Canta Canta</title>
     <desc lang="pt">Cante e se divirta com os clipes do Canta Canta, o programa favorito dos pequenos que adoram cantar, dançar e aprender se divertindo!</desc>
     <length units="minutes">203</length>
-    <episode-num system="xmltv_ns">3.254.</episode-num>
+    <episode-num system="xmltv_ns">3.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139515,7 +139521,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">461</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139524,7 +139530,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">800</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139533,7 +139539,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">468</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139542,7 +139548,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">220</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139551,7 +139557,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">550</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139560,7 +139566,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">1090</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139569,7 +139575,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">467</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139578,7 +139584,7 @@
     <title lang="pt">Hora Da Alegria</title>
     <desc lang="pt">A Hora da Alegria ensina e entretém as crianças com historinhas e muita diversão!</desc>
     <length units="minutes">173</length>
-    <episode-num system="xmltv_ns">3.43.</episode-num>
+    <episode-num system="xmltv_ns">3.376.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139587,7 +139593,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">110</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139596,7 +139602,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">157</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139605,7 +139611,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">276</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139614,7 +139620,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">244</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139623,7 +139629,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">211</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139632,7 +139638,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">162</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139641,7 +139647,7 @@
     <title lang="pt">Yupi Baby</title>
     <desc lang="pt">O melhor do desenho para seu pequeno. Conteúdos divertidos e educativos para a primeira infância.</desc>
     <length units="minutes">330</length>
-    <episode-num system="xmltv_ns">6.90.</episode-num>
+    <episode-num system="xmltv_ns">6.231.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139650,7 +139656,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139659,7 +139665,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139668,7 +139674,7 @@
     <title lang="pt">Na Natureza</title>
     <desc lang="pt">Esportes outdoor e lindas paisagens, tudo em um lugar só.. Na Natureza.</desc>
     <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139677,7 +139683,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">767</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139686,7 +139692,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">609</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139695,7 +139701,7 @@
     <title lang="pt">Anamaria Cozinha</title>
     <desc lang="pt">Nós podemos ter várias versões e a Revista AnaMaria une tudo isso em um só lugar! Aprenda aqui no AnaMaria Cozinha as melhores receitas (mas daquelas que você mesma pode fazer, tá?)</desc>
     <length units="minutes">190</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139704,7 +139710,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">148</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139713,7 +139719,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">307</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139722,7 +139728,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">114</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139731,7 +139737,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">135</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139740,7 +139746,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">217</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139749,7 +139755,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">138</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139758,7 +139764,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">200</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139767,7 +139773,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">145</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139776,7 +139782,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">131</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139785,7 +139791,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">157</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139794,7 +139800,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">274</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139803,7 +139809,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">158</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139812,7 +139818,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">198</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139821,7 +139827,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">202</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139830,7 +139836,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">302</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139839,7 +139845,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">157</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139848,7 +139854,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">211</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139857,7 +139863,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">186</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139866,7 +139872,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">232</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139875,7 +139881,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">162</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139884,7 +139890,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">182</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139893,7 +139899,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">108</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139902,7 +139908,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">256</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139911,7 +139917,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">217</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139920,7 +139926,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">137</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139929,7 +139935,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">118</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139938,7 +139944,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">158</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139947,7 +139953,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">214</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139956,7 +139962,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">226</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139965,7 +139971,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">207</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139974,7 +139980,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">129</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139983,7 +139989,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">119</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -139992,7 +139998,7 @@
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
     <length units="minutes">106</length>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140023,7 +140029,7 @@
   </programme>
   <programme start="20260531065114 -0300" stop="20260531070000 -0300" channel="LMC+HD">
     <title lang="pt">Confederação Brasileira De Ciclismo</title>
-    <desc lang="pt">Acompanhe o que rolou no Brasileiro de Pista, nas categorias Elite e Sub23</desc>
+    <desc lang="pt">Acompanhe o que rolou na Copa de Paraciclismo, na prova Contrarrelógio</desc>
     <length units="minutes">526</length>
     <episode-num system="xmltv_ns">6.151.</episode-num>
     <rating system="Brazil">
@@ -140043,7 +140049,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1460</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">7.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140087,9 +140093,9 @@
   <programme start="20260531081849 -0300" stop="20260531082222 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">213</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140098,7 +140104,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1502</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">8.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140107,34 +140113,34 @@
     <title lang="pt">Como Fazer...</title>
     <desc lang="pt">No Como Fazer... Você aprende em passos rápidos e fáceis dicas de receitas, maquiagem, artesanato e soft skills! Venha aprender a Como Fazer!</desc>
     <length units="minutes">91</length>
-    <episode-num system="xmltv_ns">1.80.</episode-num>
+    <episode-num system="xmltv_ns">1.81.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260531084855 -0300" stop="20260531091645 -0300" channel="LMC+HD">
     <title lang="pt">10.000 Rpm</title>
-    <desc lang="pt">Viajamos no tempo para mostrar como a Ford Ranger evoluiu</desc>
+    <desc lang="pt">Confira a 2ª bateria da 5ª etapa de gold fusca no campeonato catarinense de automobilismo</desc>
     <length units="minutes">1670</length>
     <episode-num system="xmltv_ns">8.151.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260531091645 -0300" stop="20260531094113 -0300" channel="LMC+HD">
     <title lang="pt">10.000 Rpm</title>
-    <desc lang="pt">Viajamos no tempo para mostrar como a Ford Ranger evoluiu</desc>
+    <desc lang="pt">Confira a 2ª bateria da 5ª etapa de gold fusca no campeonato catarinense de automobilismo</desc>
     <length units="minutes">1468</length>
     <episode-num system="xmltv_ns">9.151.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260531094113 -0300" stop="20260531094645 -0300" channel="LMC+HD">
     <title lang="pt">Magipsi</title>
     <desc lang="pt">A fada Magipsi vai te guiar por um mundo de aventuras incríveis e ensinamentos valiosos, chaves para uma educação baseada na leitura e artes. Prepare-se para uma Jornada Mágica de Aprendizado e Diversão com a encantadora f...</desc>
     <length units="minutes">332</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140143,7 +140149,7 @@
     <title lang="pt">Magipsi</title>
     <desc lang="pt">A fada Magipsi vai te guiar por um mundo de aventuras incríveis e ensinamentos valiosos, chaves para uma educação baseada na leitura e artes. Prepare-se para uma Jornada Mágica de Aprendizado e Diversão com a encantadora f...</desc>
     <length units="minutes">268</length>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140163,7 +140169,7 @@
     <sub-title lang="pt">Esconde-Esconde</sub-title>
     <desc lang="pt">Teatro Gil e Cris apresenta quadros divertidos e educativos com Atores e Bonecos.</desc>
     <length units="minutes">1937</length>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140172,7 +140178,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">520</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">10.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140181,7 +140187,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1480</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">10.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140189,9 +140195,9 @@
   <programme start="20260531111628 -0300" stop="20260531112953 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">805</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140210,7 +140216,7 @@
     <sub-title lang="pt">Descida Radical</sub-title>
     <desc lang="pt">Uma pausa no dia para se inspirar a dar o primeiro passo rumo à sua próxima aventura. Inspire-se com personalidades que desafiam os limites e criam histórias inesquecíveis.</desc>
     <length units="minutes">332</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140219,14 +140225,14 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">475</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">12.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260531121919 -0300" stop="20260531122224 -0300" channel="LMC+HD">
     <title lang="pt">Momento Com A Paz</title>
-    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;Acordei do meu sonho quando a luz do sol entrou pela janela...&quot;</desc>
+    <desc lang="pt">Wai Lana Insights revela a essência do estilo de vida iogue, tornando a sabedoria atemporal e prática acessível a todos. &quot;A tartaruga é conhecida por ser constante e determinada. Devemos aprender...&quot;</desc>
     <length units="minutes">185</length>
     <episode-num system="xmltv_ns">12.151.</episode-num>
     <rating system="Brazil">
@@ -140255,7 +140261,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1637</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">13.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140264,7 +140270,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1583</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">14.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140295,20 +140301,20 @@
   </programme>
   <programme start="20260531203944 -0300" stop="20260531210729 -0300" channel="LMC+HD">
     <title lang="pt">10.000 Rpm</title>
-    <desc lang="pt">Viajamos no tempo para mostrar como a Ford Ranger evoluiu</desc>
+    <desc lang="pt">Confira a 2ª bateria da 5ª etapa de gold fusca no campeonato catarinense de automobilismo</desc>
     <length units="minutes">1665</length>
     <episode-num system="xmltv_ns">20.151.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260531210729 -0300" stop="20260531213142 -0300" channel="LMC+HD">
     <title lang="pt">10.000 Rpm</title>
-    <desc lang="pt">Viajamos no tempo para mostrar como a Ford Ranger evoluiu</desc>
+    <desc lang="pt">Confira a 2ª bateria da 5ª etapa de gold fusca no campeonato catarinense de automobilismo</desc>
     <length units="minutes">1453</length>
     <episode-num system="xmltv_ns">21.151.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
   <programme start="20260531213142 -0300" stop="20260531214754 -0300" channel="LMC+HD">
@@ -140331,7 +140337,7 @@
   </programme>
   <programme start="20260531220304 -0300" stop="20260531221147 -0300" channel="LMC+HD">
     <title lang="pt">Confederação Brasileira De Ciclismo</title>
-    <desc lang="pt">Acompanhe o que rolou no Brasileiro de Pista, nas categorias Elite e Sub23</desc>
+    <desc lang="pt">Acompanhe o que rolou na Copa de Paraciclismo, na prova Contrarrelógio</desc>
     <length units="minutes">523</length>
     <episode-num system="xmltv_ns">22.151.</episode-num>
     <rating system="Brazil">
@@ -140360,9 +140366,9 @@
   <programme start="20260531233520 -0300" stop="20260531233923 -0300" channel="LMC+HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <sub-title lang="pt">Caldas Novas</sub-title>
-    <desc lang="pt">Conheça os lugares mais fantásticos e imperdíveis do planeta!</desc>
+    <desc lang="pt">Um giro contemplativo pelos lugares mais fantásticos e imperdíveis do planeta!</desc>
     <length units="minutes">243</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -140371,7 +140377,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1487</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">23.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
@@ -140380,7 +140386,7 @@
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
     <length units="minutes">1487</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="xmltv_ns">23.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
