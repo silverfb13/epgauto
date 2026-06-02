@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-01 17:30:44" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-01 20:31:08" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -83364,57 +83364,51 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260602140000 -0300" stop="20260602163000 -0300" channel="ESPN 2">
-    <title lang="pt">MMA: Legacy Fighting Alliance: LFA 234</title>
-    <desc lang="pt">O LFA 234 vai estremecer o octógono e provar, mais uma vez, por que é o palco onde nascem as lendas do MMA!</desc>
-    <length units="minutes">9000</length>
-    <previously-shown/>
+  <programme start="20260602140000 -0300" stop="20260602150000 -0300" channel="ESPN 2">
+    <title lang="pt">Destaques da Conmebol Libertadores</title>
+    <desc lang="pt">Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">84.153.</episode-num>
   </programme>
-  <programme start="20260602163000 -0300" stop="20260602183000 -0300" channel="ESPN 2">
-    <title lang="pt">Brighton x Manchester City</title>
-    <desc lang="pt">É a principal categoria da modalidade na Inglaterra e reúne as melhores equipes do país, que disputam o título e a classificação para a Champions League.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260602150000 -0300" stop="20260602190000 -0300" channel="ESPN 2">
+    <title lang="pt">Tênis - Roland Garros 2026 - Quartas-de - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">É o torneio do saibro! Com uma ligação especial com os torcedores do Brasil, Roland Garros é o segundo Grand Slam da temporada.</desc>
+    <length units="minutes">14400</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260602183000 -0300" stop="20260602193000 -0300" channel="ESPN 2">
+  <programme start="20260602190000 -0300" stop="20260602200000 -0300" channel="ESPN 2">
     <title lang="pt">Pelas Quadras de Roland Garros - ao vivo</title>
     <desc lang="pt">Os especialistas da ESPN trazem análise, opinião, reportagens especiais e o melhor do que acontece durante todas os dias durante Wimbledon.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.153.</episode-num>
-  </programme>
-  <programme start="20260602193000 -0300" stop="20260602194500 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter Abre o Jogo: NBB - ao vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">89.153.</episode-num>
   </programme>
-  <programme start="20260602194500 -0300" stop="20260602220000 -0300" channel="ESPN 2">
-    <title lang="pt">NBB - Jogo 2 - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260602200000 -0300" stop="20260602203000 -0300" channel="ESPN 2">
+    <title lang="pt">Último Trem para a América do Norte</title>
+    <desc lang="pt">A série exibe a preparação conjunta de Estados Unidos, México e Canadá para a Copa do Mundo FIFA 2026.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260602220000 -0300" stop="20260602223000 -0300" channel="ESPN 2">
+  <programme start="20260602203000 -0300" stop="20260602210000 -0300" channel="ESPN 2">
     <title lang="pt">ESPN League - ao vivo</title>
     <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
     <length units="minutes">1800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">22.153.</episode-num>
+    <episode-num system="xmltv_ns">20.153.</episode-num>
   </programme>
-  <programme start="20260602223000 -0300" stop="20260603003000 -0300" channel="ESPN 2">
-    <title lang="pt">Alemanha x Finlândia</title>
-    <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260602210000 -0300" stop="20260603000000 -0300" channel="ESPN 2">
+    <title lang="pt">NHL: Vegas Golden Knights x Carolina Hurricanes - ao vivo</title>
+    <desc lang="pt">&quot;A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.&quot;</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260602223000 -0300" stop="20260603003000 -0300" channel="ESPN 2">
-    <title lang="pt">Alemanha x Finlândia</title>
-    <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260603000000 -0300" stop="20260603003000 -0300" channel="ESPN 2">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">1800</length>
   </programme>
   <programme start="20260603003000 -0300" stop="20260603013000 -0300" channel="ESPN 2">
     <title lang="pt">Sportscenter</title>
@@ -84095,16 +84089,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602200000 -0300" stop="20260602210000 -0300" channel="ESPN 3">
+  <programme start="20260602200000 -0300" stop="20260602230000 -0300" channel="ESPN 3">
+    <title lang="pt">MLB: Cleveland Guardians x New York Yankees - ao vivo</title>
+    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260602230000 -0300" stop="20260603000000 -0300" channel="ESPN 3">
     <title lang="pt">Hipismo: Chio Aachen</title>
     <desc lang="pt">É uma verdadeira festa hípica na Argentina. Cavaleiros e amazonas de todas as partes do mundo participam deste torneio de saltos, que cresce e ganha cada vez mais prestígio ano após ano.</desc>
     <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260602210000 -0300" stop="20260603000000 -0300" channel="ESPN 3">
-    <title lang="pt">NHL: Vegas Golden Knights x Carolina Hurricanes - ao vivo</title>
-    <desc lang="pt">&quot;A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.&quot;</desc>
-    <length units="minutes">10800</length>
-    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260603000000 -0300" stop="20260603010000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - ao vivo</title>
@@ -183870,80 +183864,74 @@
     <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260601220000 -0300" stop="20260601223000 -0300" channel="SPORTV">
+  <programme start="20260601220000 -0300" stop="20260601224000 -0300" channel="SPORTV">
     <title lang="pt">Copa e Cozinha</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+    <desc lang="pt">Às vésperas da Copa de 2026, vamos unir grandes paixões do Brasil: futebol, comida e humor. Com apresentação de Fábio Porchat, &quot;Copa e Cozinha&quot; mistura a divertida resenha do vestiário com variados sabo...</desc>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">82.3.</episode-num>
   </programme>
-  <programme start="20260601223000 -0300" stop="20260601230000 -0300" channel="SPORTV">
+  <programme start="20260601224000 -0300" stop="20260602001000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - ao vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">82.152.</episode-num>
+  </programme>
+  <programme start="20260601224000 -0300" stop="20260602001000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - ao vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">82.152.</episode-num>
+  </programme>
+  <programme start="20260602001000 -0300" stop="20260602004000 -0300" channel="SPORTV">
     <title lang="pt">Copa e Cozinha</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Às vésperas da Copa de 2026, vamos unir grandes paixões do Brasil: futebol, comida e humor. Com apresentação de Fábio Porchat, &quot;Copa e Cozinha&quot; mistura a divertida resenha do vestiário com variados sabo...</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.4.</episode-num>
+    <episode-num system="xmltv_ns">80.4.</episode-num>
   </programme>
-  <programme start="20260601230000 -0300" stop="20260602003000 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes - ao vivo</title>
-    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.152.</episode-num>
-  </programme>
-  <programme start="20260601230000 -0300" stop="20260602003000 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes - ao vivo</title>
-    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.152.</episode-num>
-  </programme>
-  <programme start="20260602003000 -0300" stop="20260602011500 -0300" channel="SPORTV">
+  <programme start="20260602004000 -0300" stop="20260602012500 -0300" channel="SPORTV">
     <title lang="pt">Denilson Neles</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">2700</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">80.153.</episode-num>
   </programme>
-  <programme start="20260602011500 -0300" stop="20260602021500 -0300" channel="SPORTV">
+  <programme start="20260602012500 -0300" stop="20260602021500 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">18ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3000</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">81.153.</episode-num>
+  </programme>
+  <programme start="20260602021500 -0300" stop="20260602031500 -0300" channel="SPORTV">
     <title lang="pt">Que Copa É Essa?: Copa do Mundo de 2010</title>
     <desc lang="pt">A vez da África! Teve vuvuzela, Jabulani, Mandela... mas a Seleção de Dunga não refletiu a alegria da Copa e caiu diante da Holanda. Melhor para a Espanha, campeã pela primeira vez.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.11.</episode-num>
+    <episode-num system="xmltv_ns">82.11.</episode-num>
   </programme>
-  <programme start="20260602021500 -0300" stop="20260602031500 -0300" channel="SPORTV">
+  <programme start="20260602031500 -0300" stop="20260602041500 -0300" channel="SPORTV">
     <title lang="pt">Brasil x Panamá</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260602031500 -0300" stop="20260602041500 -0300" channel="SPORTV">
+  <programme start="20260602041500 -0300" stop="20260602051500 -0300" channel="SPORTV">
     <title lang="pt">Colômbia x Costa Rica</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260602041500 -0300" stop="20260602051500 -0300" channel="SPORTV">
+  <programme start="20260602051500 -0300" stop="20260602061500 -0300" channel="SPORTV">
     <title lang="pt">Polônia x Ucrânia</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260602051500 -0300" stop="20260602054500 -0300" channel="SPORTV">
-    <title lang="pt">Palmeiras x Chapecoense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260602054500 -0300" stop="20260602061500 -0300" channel="SPORTV">
-    <title lang="pt">Bragantino x Internacional</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -232680,8 +232668,8 @@
     <episode-num system="xmltv_ns">85.152.</episode-num>
   </programme>
   <programme start="20260601160000 -0300" stop="20260601170000 -0300" channel="Xsports HD">
-    <title lang="pt">Hull City x Middlesbrough</title>
-    <desc lang="pt">EFL Championship: Segunda divisão inglesa com jogos intensos, gols emocionantes e clubes lutando pelo acesso à Premiere League.</desc>
+    <title lang="pt">Blumenau x São Caetano</title>
+    <desc lang="pt">Blumenau e São Caetano jogam pela Liga Nacional de Futsal.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
@@ -232699,9 +232687,10 @@
     <episode-num system="xmltv_ns">89.152.</episode-num>
   </programme>
   <programme start="20260601210000 -0300" stop="20260601230000 -0300" channel="Xsports HD">
-    <title lang="pt">Conmebol Libertadores de Futsal</title>
-    <desc lang="pt">As maiores estrelas do futsal da América do Sul se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futsal.</desc>
+    <title lang="pt">Carlos Barbosa x Magnus</title>
+    <desc lang="pt">Carlos Barbosa e Magnus jogam Final da Libertadores de Futsal.</desc>
     <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260601230000 -0300" stop="20260602003000 -0300" channel="Xsports HD">
     <title lang="pt">Especial Cblol 2026: Split 1: Retrospectiva</title>
@@ -232736,7 +232725,7 @@
     </rating>
   </programme>
   <programme start="20260602051500 -0300" stop="20260602070000 -0300" channel="Xsports HD">
-    <title lang="pt">Portland Thorns x Utah Royals</title>
+    <title lang="pt">Orlando Pride x Bay FC</title>
     <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
     <length units="minutes">6300</length>
     <previously-shown/>
