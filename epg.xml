@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-02 11:30:59" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-02 14:30:45" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -25372,9 +25372,31 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">1.155.</episode-num>
   </programme>
-  <programme start="20260605003000 -0300" stop="20260605040500 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação indisponível</title>
-    <length units="minutes">12900</length>
+  <programme start="20260605003000 -0300" stop="20260605013000 -0300" channel="CANAL UOL">
+    <title lang="pt">Enquadrado</title>
+    <desc lang="pt">De uma forma bem descontraída, Roberto Sadovski e Yuri Moraes trazem as estreias do cinema e do mundo dos streamings.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260605013000 -0300" stop="20260605023000 -0300" channel="CANAL UOL">
+    <title lang="pt">UOL News </title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.156.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605023000 -0300" stop="20260605033000 -0300" channel="CANAL UOL">
+    <title lang="pt">Frente a Frente Com Dani Lima - Gravado</title>
+    <desc lang="pt">Frente a Frente é uma parceria entre o UOL e a Folha de São Paulo, onde a cada semana, ao vivo, direto dos estúdios do UOL, os jornalistas Daniela Lima do UOL e Fábio Zanini da Folha, entrevistam figuras chave do jogo pol...</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260605033000 -0300" stop="20260605040500 -0300" channel="CANAL UOL">
+    <title lang="pt">O Impensável</title>
+    <desc lang="pt">O programa apresentado pelo professor Gil Giardelli traz o que há de mais recente no universo da tecnologia e como isso impacta a vida do ser humano e do planeta. Ele tem a companhia de robôs na apresentação do programa.</desc>
+    <length units="minutes">2100</length>
+    <episode-num system="xmltv_ns">1.156.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260605040500 -0300" stop="20260605050000 -0300" channel="CANAL UOL">
     <title lang="pt">UOL News </title>
@@ -53384,7 +53406,7 @@
     <title lang="pt">Ashley Cain: Into the Danger Zone</title>
     <desc lang="pt">Sem julgamento, sem agenda. Ashley Cain entra em um mundo diferente com regras diferentes, em alguns dos lugares mais brutais e intensos para ser jovem. O que é preciso para sobreviver?</desc>
     <length units="minutes">3060</length>
-    <episode-num system="xmltv_ns">27.221.</episode-num>
+    <episode-num system="xmltv_ns">3.221.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
@@ -166971,640 +166993,491 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260602233000 -0300" stop="20260603001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260602233000 -0300" stop="20260603003000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Grêmio x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260602233000 -0300" stop="20260603001000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260602233000 -0300" stop="20260603003000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Grêmio x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603001000 -0300" stop="20260603004000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Vitória</title>
+  <programme start="20260603003000 -0300" stop="20260603013000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Palmeiras x Vitória</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603004000 -0300" stop="20260603011000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Fluminense</title>
+  <programme start="20260603013000 -0300" stop="20260603023000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Flamengo x Internacional</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603011000 -0300" stop="20260603014000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x São Paulo</title>
+  <programme start="20260603023000 -0300" stop="20260603033000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bahia x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603014000 -0300" stop="20260603021000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Botafogo</title>
+  <programme start="20260603033000 -0300" stop="20260603043000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603021000 -0300" stop="20260603024000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Athletico-PR x Mirassol</title>
+  <programme start="20260603043000 -0300" stop="20260603053000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Athletico-PR x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603024000 -0300" stop="20260603031000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Internacional</title>
+  <programme start="20260603053000 -0300" stop="20260603063000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Coritiba</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603031000 -0300" stop="20260603040000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260603063000 -0300" stop="20260603073000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Remo x Mirassol</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603073000 -0300" stop="20260603083000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">18ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3000</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.154.</episode-num>
-  </programme>
-  <programme start="20260603040000 -0300" stop="20260603043000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Corinthians x Atlético-MG</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603043000 -0300" stop="20260603050000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Athletico-PR</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603050000 -0300" stop="20260603053000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603053000 -0300" stop="20260603060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Santos</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603060000 -0300" stop="20260603063000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bahia</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603063000 -0300" stop="20260603070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Bragantino</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603070000 -0300" stop="20260603080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">18ª Rodada</sub-title>
+    <sub-title lang="pt">2ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">87.154.</episode-num>
   </programme>
-  <programme start="20260603080000 -0300" stop="20260603083000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Corinthians</title>
+  <programme start="20260603083000 -0300" stop="20260603093000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">São Paulo x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603083000 -0300" stop="20260603090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Vitória</title>
+  <programme start="20260603093000 -0300" stop="20260603103000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Mirassol x Cruzeiro</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603090000 -0300" stop="20260603093000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Fluminense</title>
+  <programme start="20260603103000 -0300" stop="20260603113000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vasco x Bahia</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603093000 -0300" stop="20260603100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x São Paulo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603100000 -0300" stop="20260603103000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Botafogo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603103000 -0300" stop="20260603110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Athletico-PR x Mirassol</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603110000 -0300" stop="20260603113000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Internacional</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260603113000 -0300" stop="20260603123000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">18ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Atlético-MG x Remo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.154.</episode-num>
-  </programme>
-  <programme start="20260603123000 -0300" stop="20260603130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Corinthians x Atlético-MG</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260603130000 -0300" stop="20260603133000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Athletico-PR</title>
+  <programme start="20260603123000 -0300" stop="20260603133000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Chapecoense x Coritiba</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603133000 -0300" stop="20260603140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603140000 -0300" stop="20260603143000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Santos</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603143000 -0300" stop="20260603150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bahia</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603150000 -0300" stop="20260603153000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Bragantino</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603153000 -0300" stop="20260603160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Botafogo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603160000 -0300" stop="20260603163000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Fluminense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603163000 -0300" stop="20260603170000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vitória x Internacional</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603170000 -0300" stop="20260603180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">16ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603133000 -0300" stop="20260603143000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vitória x Flamengo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603143000 -0300" stop="20260603153000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Corinthians x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603153000 -0300" stop="20260603163000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Fluminense x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603163000 -0300" stop="20260603173000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Athletico-PR x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603173000 -0300" stop="20260603180000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">3ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">87.154.</episode-num>
   </programme>
   <programme start="20260603180000 -0300" stop="20260603190000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">17ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.154.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260603190000 -0300" stop="20260603200000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260603210000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603210000 -0300" stop="20260603220000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603220000 -0300" stop="20260603230000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260603230000 -0300" stop="20260604000000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Remo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604010000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">18ª Rodada</sub-title>
+    <sub-title lang="pt">4ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.154.</episode-num>
-  </programme>
-  <programme start="20260603200000 -0300" stop="20260603203000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Palmeiras x Chapecoense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603203000 -0300" stop="20260603210000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Coritiba</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603210000 -0300" stop="20260603213000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Corinthians</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603213000 -0300" stop="20260603220000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Vitória</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603220000 -0300" stop="20260603223000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Cruzeiro x Fluminense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603223000 -0300" stop="20260603230000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x São Paulo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603230000 -0300" stop="20260603233000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Botafogo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260603233000 -0300" stop="20260604000000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Athletico-PR x Mirassol</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604000000 -0300" stop="20260604003000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604003000 -0300" stop="20260604010000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bahia</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">80.155.</episode-num>
   </programme>
   <programme start="20260604010000 -0300" stop="20260604013000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Athletico-PR</title>
+    <title lang="pt">Atlético-MG x Internacional</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604013000 -0300" stop="20260604020000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Botafogo</title>
+    <title lang="pt">Bahia x Vitória</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604020000 -0300" stop="20260604023000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
+    <title lang="pt">Flamengo x Cruzeiro</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604023000 -0300" stop="20260604030000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
+    <title lang="pt">Corinthians x Coritiba</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604030000 -0300" stop="20260604033000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Atlético-MG x Botafogo</title>
+    <title lang="pt">Remo x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604033000 -0300" stop="20260604040000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Palmeiras</title>
+    <title lang="pt">Vasco x Palmeiras</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604040000 -0300" stop="20260604043000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Bragantino</title>
+    <title lang="pt">São Paulo x Chapecoense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604043000 -0300" stop="20260604050000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Chapecoense</title>
+    <title lang="pt">Grêmio x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604050000 -0300" stop="20260604053000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Flamengo</title>
+    <title lang="pt">Athletico-PR x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604053000 -0300" stop="20260604060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260604053000 -0300" stop="20260604063000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">5ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604060000 -0300" stop="20260604063000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Cruzeiro</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">85.155.</episode-num>
   </programme>
   <programme start="20260604063000 -0300" stop="20260604070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Palmeiras</title>
+    <title lang="pt">Vitória x Atlético-MG</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604070000 -0300" stop="20260604073000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Chapecoense</title>
+    <title lang="pt">Fluminense x Athletico-PR</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604073000 -0300" stop="20260604080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x Vitória</title>
+    <title lang="pt">Santos x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604080000 -0300" stop="20260604083000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">16ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Internacional x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.155.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260604083000 -0300" stop="20260604090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Corinthians x Atlético-MG</title>
+    <title lang="pt">Palmeiras x Mirassol</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604090000 -0300" stop="20260604093000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Athletico-PR</title>
+    <title lang="pt">Coritiba x Remo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604093000 -0300" stop="20260604100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Palmeiras</title>
+    <title lang="pt">Bragantino x São Paulo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604100000 -0300" stop="20260604103000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Santos</title>
+    <title lang="pt">Cruzeiro x Vasco</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604103000 -0300" stop="20260604110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bahia</title>
+    <title lang="pt">Chapecoense x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604110000 -0300" stop="20260604113000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Bragantino</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260604110000 -0300" stop="20260604120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">6ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604113000 -0300" stop="20260604120000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Botafogo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">81.155.</episode-num>
   </programme>
   <programme start="20260604120000 -0300" stop="20260604123000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Fluminense</title>
+    <title lang="pt">Bahia x Bragantino</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604123000 -0300" stop="20260604130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vitória x Internacional</title>
+    <title lang="pt">Palmeiras x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604130000 -0300" stop="20260604140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">17ª Rodada</sub-title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260604130000 -0300" stop="20260604133000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Athletico-PR x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.155.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604133000 -0300" stop="20260604140000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Atlético-MG x São Paulo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260604140000 -0300" stop="20260604143000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Chapecoense x Remo</title>
+    <title lang="pt">Mirassol x Coritiba</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604143000 -0300" stop="20260604150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Fluminense x São Paulo</title>
+    <title lang="pt">Santos x Internacional</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604150000 -0300" stop="20260604153000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Palmeiras x Cruzeiro</title>
+    <title lang="pt">Vasco x Fluminense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604153000 -0300" stop="20260604160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Santos x Coritiba</title>
+    <title lang="pt">Grêmio x Vitória</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604160000 -0300" stop="20260604163000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bahia x Grêmio</title>
+    <title lang="pt">Flamengo x Remo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604163000 -0300" stop="20260604170000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Athletico-PR x Flamengo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604170000 -0300" stop="20260604173000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Vitória</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604173000 -0300" stop="20260604180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bragantino</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604180000 -0300" stop="20260604190000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20260604163000 -0300" stop="20260604173000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada: Brasileirão</title>
-    <sub-title lang="pt">16ª Rodada</sub-title>
+    <sub-title lang="pt">7ª Rodada</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.155.</episode-num>
+    <episode-num system="xmltv_ns">86.155.</episode-num>
+  </programme>
+  <programme start="20260604173000 -0300" stop="20260604180000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Bragantino x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604180000 -0300" stop="20260604183000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Vitória x Mirassol</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604183000 -0300" stop="20260604190000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Remo x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260604190000 -0300" stop="20260604193000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Corinthians x Atlético-MG</title>
+    <title lang="pt">Athletico-PR x Coritiba</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604193000 -0300" stop="20260604200000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Remo x Athletico-PR</title>
+    <title lang="pt">Vasco x Grêmio</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604200000 -0300" stop="20260604203000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Bragantino x Vitória</title>
+    <title lang="pt">Internacional x Chapecoense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604203000 -0300" stop="20260604210000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Flamengo x Palmeiras</title>
+    <title lang="pt">Cruzeiro x Santos</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604210000 -0300" stop="20260604213000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Grêmio x Santos</title>
+    <title lang="pt">Corinthians x Flamengo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604213000 -0300" stop="20260604220000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Coritiba x Bahia</title>
+    <title lang="pt">São Paulo x Palmeiras</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604220000 -0300" stop="20260604223000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vasco x Bragantino</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260604220000 -0300" stop="20260604230000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Giro da Rodada: Brasileirão</title>
+    <sub-title lang="pt">8ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604223000 -0300" stop="20260604230000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">São Paulo x Botafogo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">82.155.</episode-num>
   </programme>
   <programme start="20260604230000 -0300" stop="20260604233000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Mirassol x Fluminense</title>
+    <title lang="pt">Botafogo x Mirassol</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260604233000 -0300" stop="20260605000000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Vitória x Internacional</title>
+    <title lang="pt">Internacional x São Paulo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
@@ -183887,7 +183760,7 @@
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">4800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -183899,11 +183772,11 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260603183000 -0300" stop="20260603193000 -0300" channel="SPORTV 2">
-    <title lang="pt">Faixa Olímpica: Lanternas: Tuskers Volleyball Club</title>
+    <title lang="pt">Lanternas: Tuskers Volleyball Club</title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.154.</episode-num>
+    <episode-num system="xmltv_ns">88.2.</episode-num>
   </programme>
   <programme start="20260603193000 -0300" stop="20260603220000 -0300" channel="SPORTV 2">
     <title lang="pt">Brasil x Holanda - ao vivo</title>
@@ -183911,395 +183784,280 @@
     <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260603220000 -0300" stop="20260604013000 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x Bulgária - ao vivo</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">12600</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260603220000 -0300" stop="20260604013000 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x Bulgária - ao vivo</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">12600</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260604013000 -0300" stop="20260604033000 -0300" channel="SPORTV 2">
-    <title lang="pt">Bulgária x Brasil</title>
+  <programme start="20260603220000 -0300" stop="20260604000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Itália x Bulgária</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604033000 -0300" stop="20260604045500 -0300" channel="SPORTV 2">
-    <title lang="pt">Canadá x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
-    <length units="minutes">5100</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604045500 -0300" stop="20260604053000 -0300" channel="SPORTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.2.</episode-num>
-  </programme>
-  <programme start="20260604053000 -0300" stop="20260604073000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x China</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
+  <programme start="20260604000000 -0300" stop="20260604020000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Holanda</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604073000 -0300" stop="20260604100500 -0300" channel="SPORTV 2">
-    <title lang="pt">França x Brasil</title>
+  <programme start="20260604020000 -0300" stop="20260604040000 -0300" channel="SPORTV 2">
+    <title lang="pt">República Dominicana x Turquia</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">9300</length>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604100500 -0300" stop="20260604113000 -0300" channel="SPORTV 2">
-    <title lang="pt">Canadá x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
-    <length units="minutes">5100</length>
+  <programme start="20260604040000 -0300" stop="20260604060000 -0300" channel="SPORTV 2">
+    <title lang="pt">Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260604113000 -0300" stop="20260604120000 -0300" channel="SPORTV 2">
-    <title lang="pt">Lendas: Michael Phelps</title>
+  <programme start="20260604060000 -0300" stop="20260604082000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Holanda</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">8400</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604082000 -0300" stop="20260604103000 -0300" channel="SPORTV 2">
+    <title lang="pt">China x Tailândia - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260604103000 -0300" stop="20260604123000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Holanda</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260604123000 -0300" stop="20260604130000 -0300" channel="SPORTV 2">
+    <title lang="pt">Baú do Esporte</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.155.</episode-num>
+    <episode-num system="xmltv_ns">82.155.</episode-num>
   </programme>
-  <programme start="20260604120000 -0300" stop="20260604123000 -0300" channel="SPORTV 2">
-    <title lang="pt">Maria Lenk, de Braços Abertos</title>
-    <desc lang="pt">Esse episódio conta a história da família de imigrantes alemães que vem se estabelecer no Brasil. Aqui, Paul Lenk fica viúvo e passa a se corresponder com sua enteada, Rosa, na Alemanha.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260604123000 -0300" stop="20260604125500 -0300" channel="SPORTV 2">
-    <title lang="pt">Maria Lenk, de Braços Abertos</title>
-    <desc lang="pt">&quot;Maria Lenk, de Braços Abertos&quot; traz o romantismo do rio Tietê, ainda não poluído, no início do Sec XX e as competições que levavam multidões às suas margens.</desc>
-    <length units="minutes">1500</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260604125500 -0300" stop="20260604150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Mare Nostrum: Dia 4 - Canet - ao vivo</title>
+  <programme start="20260604130000 -0300" stop="20260604135500 -0300" channel="SPORTV 2">
+    <title lang="pt">Clássicas: Futebol Masculino Rio 2016</title>
     <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">Acompanhe agora o Mare Nostrum de Natação. Todo segundo é valioso! Um Show de velocidade na sua tela!</desc>
-    <length units="minutes">7500</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260604150000 -0300" stop="20260604153000 -0300" channel="SPORTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <desc lang="pt">Ano olímpico. Vamos a Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL. O palco é o Maracan...</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260604153000 -0300" stop="20260604161000 -0300" channel="SPORTV 2">
-    <title lang="pt">Sem Bloqueio: O Mundo Mágico de Macau</title>
-    <desc lang="pt">Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL. É a hora do Brasil enfrentar o Japão e a Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo l...</desc>
-    <length units="minutes">2400</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260604161000 -0300" stop="20260604164500 -0300" channel="SPORTV 2">
-    <title lang="pt">Minha História Nas Copas</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">86.155.</episode-num>
-  </programme>
-  <programme start="20260604164500 -0300" stop="20260604190000 -0300" channel="SPORTV 2">
-    <title lang="pt">Magnus x Nacional - ao vivo</title>
-    <desc lang="pt">Magnus e Nacional enfrentam-se na quartas de final da Libertadores de Futsal.</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260604190000 -0300" stop="20260604194500 -0300" channel="SPORTV 2">
-    <title lang="pt">Minha História Nas Copas</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.155.</episode-num>
-  </programme>
-  <programme start="20260604194500 -0300" stop="20260604220000 -0300" channel="SPORTV 2">
-    <title lang="pt">NBB: Franca x Brasília - ao vivo</title>
-    <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
-    <length units="minutes">8100</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260604220000 -0300" stop="20260604223000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hortência e Paula: Rivais</title>
-    <desc lang="pt">Hortência e Paula tornam-se ícones do basquete feminino e encantam o Brasil. A rivalidade atravessa clubes, Seleção e família, e no Mundial de 1983, Magic Paula e a Rainha Hortência ganham o mundo.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.1.</episode-num>
-  </programme>
-  <programme start="20260604223000 -0300" stop="20260604230000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hortência e Paula: Parceiras</title>
-    <desc lang="pt">Em meio à febre do basquete feminino, guerras de torcida marcam os campeonatos em SP. Na Seleção, a rivalidade vira parceria rumo à final histórica do Pan de Havana, em 1991.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.2.</episode-num>
-  </programme>
-  <programme start="20260604230000 -0300" stop="20260605010000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 1ª Etapa - Xangai, China</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260604230000 -0300" stop="20260605010000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 1ª Etapa - Xangai, China</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605010000 -0300" stop="20260605032000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 2ª Etapa - Xangai, China</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">8400</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605032000 -0300" stop="20260605044000 -0300" channel="SPORTV 2">
-    <title lang="pt">Japão x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">4800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605044000 -0300" stop="20260605070000 -0300" channel="SPORTV 2">
-    <title lang="pt">Polônia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">8400</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605070000 -0300" stop="20260605082500 -0300" channel="SPORTV 2">
-    <title lang="pt">Canadá x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
-    <length units="minutes">5100</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605082500 -0300" stop="20260605090000 -0300" channel="SPORTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <desc lang="pt">Ano olímpico. Vamos a Turquia, onde Zé Roberto treina 3 das nossas atletas. Macris, com hérnia, luta contra o tempo.  No Fenerbahçe, Ana Cristina segue em recuperação. No Rio, inicia a VNL. O palco é o Maracan...</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260605090000 -0300" stop="20260605095500 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
+    <desc lang="pt">Os melhores momentos da histórica conquista do ouro do Brasil no futebol olímpico, nos Jogos Rio 2016.</desc>
     <length units="minutes">3300</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">83.155.</episode-num>
   </programme>
-  <programme start="20260605095500 -0300" stop="20260605101000 -0300" channel="SPORTV 2">
-    <title lang="pt">Heróis do Futuro: Rosamaria: Vôlei</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">5.95.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260605101000 -0300" stop="20260605102500 -0300" channel="SPORTV 2">
-    <title lang="pt">Heróis do Futuro: Fernando Rufino: Canoagem Paralímpica</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">5.101.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260605102500 -0300" stop="20260605120000 -0300" channel="SPORTV 2">
-    <title lang="pt">Canoagem Slalom Kayak: Ljubljana, Eslôvenia - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">As grandes estrelas da Canoagem você só vê aqui no SporTV.</desc>
-    <length units="minutes">5700</length>
+  <programme start="20260604135500 -0300" stop="20260604162000 -0300" channel="SPORTV 2">
+    <title lang="pt">Andorra x Liechtenstein - ao vivo</title>
+    <desc lang="pt">Andorra e Liechtenstein jogam o Amistoso Internacional.</desc>
+    <length units="minutes">8700</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260605120000 -0300" stop="20260605135500 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Alemanha</title>
+  <programme start="20260604162000 -0300" stop="20260604183000 -0300" channel="SPORTV 2">
+    <title lang="pt">Turquia x Holanda - ao vivo</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">6900</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605135500 -0300" stop="20260605161500 -0300" channel="SPORTV 2">
-    <title lang="pt">Escalada Feminina: Boulder - Madri, Espanha - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">As grandes estrelas da Escalada se encontram em mais uma etapa da Copa do Mundo de Escalada! Acompanhe o melhor da Escalada, aqui no sportv.</desc>
-    <length units="minutes">8400</length>
+    <length units="minutes">7800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260605161500 -0300" stop="20260605163000 -0300" channel="SPORTV 2">
-    <title lang="pt">Anatomy Of 3: Escalada, 100m e Wrestling</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">86.1.</episode-num>
-  </programme>
-  <programme start="20260605163000 -0300" stop="20260605183000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Japão</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605183000 -0300" stop="20260605203000 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260605203000 -0300" stop="20260605213000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello L.A</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
+  <programme start="20260604183000 -0300" stop="20260604193000 -0300" channel="SPORTV 2">
+    <title lang="pt">The Z Team: Vôlei Com Jackie Silva</title>
+    <desc lang="pt">A campeã olímpica Jackie Silva ajuda um time brasileiro de vôlei a lutar por seu primeiro título</desc>
     <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">88.2.</episode-num>
+  </programme>
+  <programme start="20260604193000 -0300" stop="20260604220000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260604220000 -0300" stop="20260605000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Turquia x Holanda</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605000000 -0300" stop="20260605020000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605020000 -0300" stop="20260605040000 -0300" channel="SPORTV 2">
+    <title lang="pt">Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605040000 -0300" stop="20260605060000 -0300" channel="SPORTV 2">
+    <title lang="pt">Itália x Bulgária</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605060000 -0300" stop="20260605082000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">8400</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260605082000 -0300" stop="20260605103000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sérvia x Polônia - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260605103000 -0300" stop="20260605110000 -0300" channel="SPORTV 2">
+    <title lang="pt">Fome De Medalha: Vôlei De Praia</title>
+    <desc lang="pt">Episódio 1 - Vôlei De Praia.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">80.156.</episode-num>
   </programme>
-  <programme start="20260605213000 -0300" stop="20260605223000 -0300" channel="SPORTV 2">
-    <title lang="pt">Time Machine</title>
-    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial das competições!</desc>
+  <programme start="20260605110000 -0300" stop="20260605120000 -0300" channel="SPORTV 2">
+    <title lang="pt">As Bicampeãs</title>
+    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.3.</episode-num>
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260605223000 -0300" stop="20260606003000 -0300" channel="SPORTV 2">
-    <title lang="pt">NBB: Franca x Brasília - ao vivo</title>
-    <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260605120000 -0300" stop="20260605150000 -0300" channel="SPORTV 2">
+    <title lang="pt">Grand Prix Taekwondo: Roma, Itália - ao vivo</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Os principais nomes do taekwondo mundial entram em combate em disputas marcadas por velocidade, técnica e golpes impressionantes. É o Grand Prix de Taekwondo, aqui no sportv!</desc>
+    <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260605223000 -0300" stop="20260606003000 -0300" channel="SPORTV 2">
-    <title lang="pt">NBB: Franca x Brasília - ao vivo</title>
-    <desc lang="pt">É o maior e melhor basquete do mundo aqui no sportv! Tá na NBB, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260606003000 -0300" stop="20260606015000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Alemanha</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+  <programme start="20260605150000 -0300" stop="20260605162000 -0300" channel="SPORTV 2">
+    <title lang="pt">Pesagem Jungle Fight 151 - ao vivo</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
     <length units="minutes">4800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260606015000 -0300" stop="20260606040000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Japão</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260606040000 -0300" stop="20260606061000 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260606061000 -0300" stop="20260606093000 -0300" channel="SPORTV 2">
-    <title lang="pt">Ginástica Artística: Koper, Eslovênia - ao vivo</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">As maiores atletas da Ginástica se encontram na Copa do mundo de Ginástica e você acompanha aqui no sportv!</desc>
-    <length units="minutes">12000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260606093000 -0300" stop="20260606110000 -0300" channel="SPORTV 2">
-    <title lang="pt">Canoagem Slalom Canoa: Ljubljana, Eslôvenia - ao vivo</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">As grandes estrelas da Canoagem você só vê aqui no SporTV.</desc>
+  <programme start="20260605162000 -0300" stop="20260605183000 -0300" channel="SPORTV 2">
+    <title lang="pt">República Dominicana x Bulgária - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260605183000 -0300" stop="20260605190000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">88.1.</episode-num>
+  </programme>
+  <programme start="20260605190000 -0300" stop="20260605193000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">89.2.</episode-num>
+  </programme>
+  <programme start="20260605193000 -0300" stop="20260605220000 -0300" channel="SPORTV 2">
+    <title lang="pt">Holanda x Itália - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260605220000 -0300" stop="20260605233000 -0300" channel="SPORTV 2">
+    <title lang="pt">França x EUA - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260606110000 -0300" stop="20260606115500 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello L.A</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
-    <length units="minutes">3300</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.157.</episode-num>
-  </programme>
-  <programme start="20260606115500 -0300" stop="20260606140000 -0300" channel="SPORTV 2">
-    <title lang="pt">Mare Nostrum: Dia 4 - Barcelona, ESP - ao vivo</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">Acompanhe agora o Mare Nostrum de Natação. Todo segundo é valioso! Um Show de velocidade na sua tela!</desc>
-    <length units="minutes">7500</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260606140000 -0300" stop="20260606145000 -0300" channel="SPORTV 2">
-    <title lang="pt">Amazing Riders: O Salto Impossível</title>
-    <desc lang="pt">O superatleta Caio Afeto realiza pela 1a vez o salto de base jump do topo da Cachoeira do Eldorado na Amazônia, a maior queda d'água do Brasil, com mais de 350 metros.</desc>
-    <length units="minutes">3000</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.1.</episode-num>
-  </programme>
-  <programme start="20260606145000 -0300" stop="20260606170000 -0300" channel="SPORTV 2">
-    <title lang="pt">Despedida Camila Brait - ao vivo</title>
-    <desc lang="pt">Uma das grandes líberos da história do vôlei brasileiro se despede das quadras em um momento marcado por emoção e homenagens. É a despedida de Camila Brait, aqui no sportv!</desc>
-    <length units="minutes">7800</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">84.157.</episode-num>
-  </programme>
-  <programme start="20260606170000 -0300" stop="20260606190000 -0300" channel="SPORTV 2">
-    <title lang="pt">Conmebol Libertadores de Futsal - ao vivo</title>
-    <desc lang="pt">As maiores estrelas do futsal da América do Sul se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futsal.</desc>
+  <programme start="20260605233000 -0300" stop="20260606013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260606190000 -0300" stop="20260606194500 -0300" channel="SPORTV 2">
-    <title lang="pt">Cara a Cara</title>
-    <desc lang="pt">Palmeiras x Santos/2015 - A primeira final da Copa do Brasil decidida na disputa de pênaltis.</desc>
+  <programme start="20260605233000 -0300" stop="20260606013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260606013000 -0300" stop="20260606033000 -0300" channel="SPORTV 2">
+    <title lang="pt">Holanda x Itália</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260606033000 -0300" stop="20260606053000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sérvia x Polônia</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260606053000 -0300" stop="20260606074500 -0300" channel="SPORTV 2">
+    <title lang="pt">República Dominicana x Bulgária</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260606074500 -0300" stop="20260606080000 -0300" channel="SPORTV 2">
+    <title lang="pt">Momentos Olímpicos Inesquecíveis: Vancouver 2010 Parte 1</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">87.157.</episode-num>
+  </programme>
+  <programme start="20260606080000 -0300" stop="20260606084500 -0300" channel="SPORTV 2">
+    <title lang="pt">Momentos Olímpicos Inesquecíveis: Vancouver 2010 Parte 2</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <length units="minutes">2700</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.4.</episode-num>
+    <episode-num system="xmltv_ns">88.157.</episode-num>
   </programme>
-  <programme start="20260606194500 -0300" stop="20260606213000 -0300" channel="SPORTV 2">
-    <title lang="pt">Conmebol Libertadores de Futsal - ao vivo</title>
-    <desc lang="pt">As maiores estrelas do futsal da América do Sul se encontram aqui. Confira agora mais um jogão da Copa Libertadores de Futsal.</desc>
+  <programme start="20260606084500 -0300" stop="20260606103000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x República Dominicana</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">6300</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260606103000 -0300" stop="20260606130000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Bulgária - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260606213000 -0300" stop="20260606233000 -0300" channel="SPORTV 2">
-    <title lang="pt">Despedida Camila Brait</title>
-    <desc lang="pt">Uma das grandes líberos da história do vôlei brasileiro se despede das quadras em um momento marcado por emoção e homenagens. É a despedida de Camila Brait, aqui no sportv!</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260606130000 -0300" stop="20260606152000 -0300" channel="SPORTV 2">
+    <title lang="pt">Holanda x Itália</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">8400</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.157.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260606233000 -0300" stop="20260607013000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Alemanha</title>
+  <programme start="20260606152000 -0300" stop="20260606205000 -0300" channel="SPORTV 2">
+    <title lang="pt">Itália x Turquia - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">19800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260606205000 -0300" stop="20260606230000 -0300" channel="SPORTV 2">
+    <title lang="pt">Alemanha x Japão - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260606230000 -0300" stop="20260607010000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Bulgária</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
