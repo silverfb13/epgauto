@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-02 20:30:54" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-02 23:30:56" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -216619,10 +216619,14 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602013500 -0300" stop="20260602023000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602013500 -0300" stop="20260602014000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">300</length>
+  </programme>
+  <programme start="20260602014000 -0300" stop="20260602023000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Viaje al Centro de La Tele</title>
     <desc lang="pt">Uma nova incursão no Arquivo da RTVE através do olhar desconstrutivo do programa dirigido por Pedro Santos, comentado por Santiago Segura e com grafismos de Forges.</desc>
-    <length units="minutes">3300</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">1.153.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -216658,19 +216662,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260602095500 -0300" stop="20260602103500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602095500 -0300" stop="20260602103000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Telediario 1ª Edición</title>
     <desc lang="pt">O programa apresenta notícias importantes e matérias informativas sobre diferentes questões.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2100</length>
     <episode-num system="xmltv_ns">89.153.</episode-num>
   </programme>
-  <programme start="20260602103500 -0300" stop="20260602104000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602103000 -0300" stop="20260602103500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Deportes 1</title>
     <desc lang="pt">Inserções diárias com as mais repletas informações esportivas.</desc>
     <length units="minutes">300</length>
     <episode-num system="xmltv_ns">80.153.</episode-num>
   </programme>
-  <programme start="20260602104000 -0300" stop="20260602104500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602103500 -0300" stop="20260602104000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">El Tiempo</title>
     <desc lang="pt">Espaço de informação meteorológica.</desc>
     <length units="minutes">300</length>
@@ -216678,10 +216682,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602104500 -0300" stop="20260602105500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Esto Es España</title>
-    <desc lang="pt">Uma série documental de 13 episódios para conhecer a Espanha de hoje e promover o novo turismo, incluindo diversidade, sustentabilidade e engajamento social ativo.</desc>
-    <length units="minutes">600</length>
+  <programme start="20260602104000 -0300" stop="20260602105500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Aqui La Tierra</title>
+    <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">10.153.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216703,16 +216708,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602134000 -0300" stop="20260602142500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602134000 -0300" stop="20260602143000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Saber y Ganar</title>
     <desc lang="pt">Concorrentes enfrentam testes de conhecimento cultural e agilidade mental, mas também precisam superar obstáculos lançados por seus colegas e rivais do grupo.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">13.153.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602142500 -0300" stop="20260602143500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602143000 -0300" stop="20260602144000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Aqui La Tierra</title>
     <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
     <length units="minutes">600</length>
@@ -216721,10 +216726,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602143500 -0300" stop="20260602152000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602144000 -0300" stop="20260602152000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Malas Lenguas</title>
     <desc lang="pt">Contra a desinformação e os boatos, Malas Lenguas é o novo programa diário de atualidades da tarde, comprometido com o rigor jornalístico e o espírito crítico.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216738,16 +216743,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602155500 -0300" stop="20260602163500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602155500 -0300" stop="20260602164000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Telediario 2ª Edición</title>
     <desc lang="pt">O programa apresenta notícias importantes e matérias informativas sobre diferentes questões.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">85.153.</episode-num>
   </programme>
-  <programme start="20260602163500 -0300" stop="20260602164500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602164000 -0300" stop="20260602164500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Deportes 2</title>
     <desc lang="pt">Inserções diárias com as mais repletas informações esportivas.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">300</length>
     <episode-num system="xmltv_ns">86.153.</episode-num>
   </programme>
   <programme start="20260602164500 -0300" stop="20260602171500 -0300" channel="TVE INTERNATIONAL">
@@ -216766,16 +216771,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260602175000 -0300" stop="20260602184500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602175000 -0300" stop="20260602184000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Valle Salvaje</title>
     <desc lang="pt">Ambientada em 1763, &quot;Valle Salvaje&quot; conta a história de Adriana Salcedo de la Cruz, que é forçada a deixar Madri e viajar para o norte da Espanha para cumprir um casamento arranjado em segredo.</desc>
-    <length units="minutes">3300</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">17.153.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260602184500 -0300" stop="20260602194500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602184000 -0300" stop="20260602194000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">La Promesa</title>
     <desc lang="pt">Jana está sozinha no mundo e tudo é culpa dos marqueses de Luján, mas chegou a hora de se vingar e encontrar seu irmão. Mas surge um problema: ela não esperava se apaixonar por Manuel, filho do Marquês de Luján.</desc>
     <length units="minutes">3600</length>
@@ -216784,10 +216789,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260602194500 -0300" stop="20260602202500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602194000 -0300" stop="20260602201500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Sukha</title>
     <desc lang="pt">Um espaço diário dedicado ao conhecimento e ao bem-estar. Um programa que aborda a cultura e a saúde com uma visão ampla e divertida, com humor, novos formatos, debates e arte ao vivo.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2100</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260602201500 -0300" stop="20260602202500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Esto Es España</title>
+    <desc lang="pt">Uma série documental de 13 episódios para conhecer a Espanha de hoje e promover o novo turismo, incluindo diversidade, sustentabilidade e engajamento social ativo.</desc>
+    <length units="minutes">600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216807,43 +216820,34 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">81.153.</episode-num>
   </programme>
-  <programme start="20260602213000 -0300" stop="20260602224500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260602213000 -0300" stop="20260602224000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">La Revuelta</title>
     <desc lang="pt">Um grupo de grandes comediantes acompanha David Broncano, que entrevista pessoas famosas em um teatro no centro de Madri, de modo que, no final, o protagonista é um dos membros da plateia sentado na terceira fileira.</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">4200</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260602224500 -0300" stop="20260603005500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Premios de La Academia de La Musica 2026</title>
-    <desc lang="pt">Gala de Entrega dos Prêmios da Academia de Música de 2026.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260602224000 -0300" stop="20260603003500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Al Cielo Con Ella</title>
+    <desc lang="pt">A comediante e escritora Henar Álvarez está sentada no trono de &quot;Al cielo con ella&quot;, o novo programa da RTVE. Um programa de entrevistas que é irreverente, transgressor e questionador no mais puro estilo Henar.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260602224500 -0300" stop="20260603005500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Premios de La Academia de La Musica 2026</title>
-    <desc lang="pt">Gala de Entrega dos Prêmios da Academia de Música de 2026.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260602224000 -0300" stop="20260603003500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Al Cielo Con Ella</title>
+    <desc lang="pt">A comediante e escritora Henar Álvarez está sentada no trono de &quot;Al cielo con ella&quot;, o novo programa da RTVE. Um programa de entrevistas que é irreverente, transgressor e questionador no mais puro estilo Henar.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260603005500 -0300" stop="20260603010000 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Programa a Determinar</title>
-    <desc lang="pt">Programação a Determinar.</desc>
-    <length units="minutes">300</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260603010000 -0300" stop="20260603023000 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Programa a Determinar</title>
-    <desc lang="pt">Programação a Determinar.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">1.154.</episode-num>
+  <programme start="20260603003500 -0300" stop="20260603023000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Premios Max 2026</title>
+    <desc lang="pt">Cerimônia de premiação da XXVIII edição do Max Theatre Awards em Tenerife.</desc>
+    <length units="minutes">6900</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216878,19 +216882,19 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260603095500 -0300" stop="20260603103500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603095500 -0300" stop="20260603103000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Telediario 1ª Edición</title>
     <desc lang="pt">O programa apresenta notícias importantes e matérias informativas sobre diferentes questões.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2100</length>
     <episode-num system="xmltv_ns">89.154.</episode-num>
   </programme>
-  <programme start="20260603103500 -0300" stop="20260603104000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603103000 -0300" stop="20260603103500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Deportes 1</title>
     <desc lang="pt">Inserções diárias com as mais repletas informações esportivas.</desc>
     <length units="minutes">300</length>
     <episode-num system="xmltv_ns">80.154.</episode-num>
   </programme>
-  <programme start="20260603104000 -0300" stop="20260603104500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603103500 -0300" stop="20260603104000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">El Tiempo</title>
     <desc lang="pt">Espaço de informação meteorológica.</desc>
     <length units="minutes">300</length>
@@ -216898,10 +216902,11 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603104500 -0300" stop="20260603105500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">Esto Es España</title>
-    <desc lang="pt">Uma série documental de 13 episódios para conhecer a Espanha de hoje e promover o novo turismo, incluindo diversidade, sustentabilidade e engajamento social ativo.</desc>
-    <length units="minutes">600</length>
+  <programme start="20260603104000 -0300" stop="20260603105500 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Aqui La Tierra</title>
+    <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">10.154.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216923,16 +216928,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603134000 -0300" stop="20260603142500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603134000 -0300" stop="20260603143000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Saber y Ganar</title>
     <desc lang="pt">Concorrentes enfrentam testes de conhecimento cultural e agilidade mental, mas também precisam superar obstáculos lançados por seus colegas e rivais do grupo.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">13.154.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603142500 -0300" stop="20260603143500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603143000 -0300" stop="20260603144000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Aqui La Tierra</title>
     <desc lang="pt">Revista sobre a natureza e informação meteorológica.</desc>
     <length units="minutes">600</length>
@@ -216941,10 +216946,10 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603143500 -0300" stop="20260603152000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603144000 -0300" stop="20260603152000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Malas Lenguas</title>
     <desc lang="pt">Contra a desinformação e os boatos, Malas Lenguas é o novo programa diário de atualidades da tarde, comprometido com o rigor jornalístico e o espírito crítico.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2400</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -216958,16 +216963,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603155500 -0300" stop="20260603163500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603155500 -0300" stop="20260603164000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Telediario 2ª Edición</title>
     <desc lang="pt">O programa apresenta notícias importantes e matérias informativas sobre diferentes questões.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">85.154.</episode-num>
   </programme>
-  <programme start="20260603163500 -0300" stop="20260603164500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603164000 -0300" stop="20260603164500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Deportes 2</title>
     <desc lang="pt">Inserções diárias com as mais repletas informações esportivas.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">300</length>
     <episode-num system="xmltv_ns">86.154.</episode-num>
   </programme>
   <programme start="20260603164500 -0300" stop="20260603171500 -0300" channel="TVE INTERNATIONAL">
@@ -217004,18 +217009,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260603194000 -0300" stop="20260603202000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603194000 -0300" stop="20260603201500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Sukha</title>
     <desc lang="pt">Um espaço diário dedicado ao conhecimento e ao bem-estar. Um programa que aborda a cultura e a saúde com uma visão ampla e divertida, com humor, novos formatos, debates e arte ao vivo.</desc>
-    <length units="minutes">2400</length>
+    <length units="minutes">2100</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260603202000 -0300" stop="20260603202500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603201500 -0300" stop="20260603202500 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Esto Es España</title>
     <desc lang="pt">Uma série documental de 13 episódios para conhecer a Espanha de hoje e promover o novo turismo, incluindo diversidade, sustentabilidade e engajamento social ativo.</desc>
-    <length units="minutes">300</length>
+    <length units="minutes">600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -217035,27 +217040,27 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">81.154.</episode-num>
   </programme>
-  <programme start="20260603213000 -0300" stop="20260603224500 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603213000 -0300" stop="20260603224000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">La Revuelta</title>
     <desc lang="pt">Um grupo de grandes comediantes acompanha David Broncano, que entrevista pessoas famosas em um teatro no centro de Madri, de modo que, no final, o protagonista é um dos membros da plateia sentado na terceira fileira.</desc>
-    <length units="minutes">4500</length>
+    <length units="minutes">4200</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260603224500 -0300" stop="20260604003000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603224000 -0300" stop="20260604004000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">El Juicio</title>
     <desc lang="pt">&quot;El Juicio&quot; é um programa dinâmico e reflexivo sobre grandes questões sociais que afetam a população espanhola, apresentado por José Luis Sastre.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">22.154.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260603224500 -0300" stop="20260604003000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20260603224000 -0300" stop="20260604004000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">El Juicio</title>
     <desc lang="pt">&quot;El Juicio&quot; é um programa dinâmico e reflexivo sobre grandes questões sociais que afetam a população espanhola, apresentado por José Luis Sastre.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">22.154.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
