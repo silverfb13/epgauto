@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-05 14:30:58" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-05 17:30:46" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -103937,7 +103937,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">4.24.</episode-num>
+    <episode-num system="xmltv_ns">5.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -103947,7 +103947,7 @@
     <sub-title lang="pt">Vai Que Cola II</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">3.31.</episode-num>
+    <episode-num system="xmltv_ns">5.31.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104130,7 +104130,7 @@
     <sub-title lang="pt">Vai Que Cola I</sub-title>
     <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
     <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">4.24.</episode-num>
+    <episode-num system="xmltv_ns">5.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -104197,21 +104197,27 @@
     <length units="minutes">2400</length>
     <episode-num system="xmltv_ns">83.157.</episode-num>
   </programme>
-  <programme start="20260606140500 -0300" stop="20260606143500 -0300" channel="GLOBO_SÃO_PAULO">
+  <programme start="20260606140500 -0300" stop="20260606144000 -0300" channel="GLOBO_SÃO_PAULO">
     <title lang="pt">Além do Tempo</title>
     <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2100</length>
     <episode-num system="xmltv_ns">84.157.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260606143500 -0300" stop="20260606155500 -0300" channel="GLOBO_SÃO_PAULO">
-    <title lang="pt">Sessão de Sábado: O Mentiroso</title>
-    <desc lang="pt">No aniversário, Max deseja que seu pai só fale a verdade por um dia. O desejo se realiza e Fletcher enfrenta problemas por não conseguir mentir.</desc>
-    <length units="minutes">4800</length>
+  <programme start="20260606144000 -0300" stop="20260606152000 -0300" channel="GLOBO_SÃO_PAULO">
+    <title lang="pt">Paulistar</title>
+    <desc lang="pt">Comandada pela jornalista Valéria Almeida, a atração semanal fará um mergulho na cultura, gastronomia, arte e, principalmente, nas histórias de vida que pulsam nas regiões contempladas.</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">84.157.</episode-num>
+  </programme>
+  <programme start="20260606152000 -0300" stop="20260606155500 -0300" channel="GLOBO_SÃO_PAULO">
+    <title lang="pt">Camisa do Coração</title>
+    <desc lang="pt">&quot;Camisa do Coração&quot; é um programa que mergulha no amor do brasileiro pela Seleção Brasileira por meio das histórias de três jogadores que nasceram e cresceram no maior caldeirão cultural do pa...</desc>
+    <length units="minutes">2100</length>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260606155500 -0300" stop="20260606173000 -0300" channel="GLOBO_SÃO_PAULO">
@@ -121124,27 +121130,33 @@
     </rating>
   </programme>
   <programme start="20260605210000 -0300" stop="20260605215500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">Novatos</sub-title>
+    <desc lang="pt">Duas estrelas rivais do hóquei, no auge de suas carreiras, vivenciam uma conexão emocional inesperada, desafiando suas trajetórias profissionais e contrariando as expectativas do mundo do esporte.</desc>
     <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260605215500 -0300" stop="20260605224500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">Olímpicos</sub-title>
+    <desc lang="pt">Shane e Ilya mantêm vivo o seu caso secreto enquanto a conexão crescente entre eles é posta à prova por pressões pessoais e profissionais.</desc>
     <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260605224500 -0300" stop="20260605234000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">Hunter</sub-title>
+    <desc lang="pt">Uma carreira de grandes apostas cruza o caminho do amor quando um encontro casual desperta uma faísca.</desc>
     <length units="minutes">3300</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
   <programme start="20260605234000 -0300" stop="20260606013500 -0300" channel="HBO">
@@ -121227,53 +121239,63 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606184000 -0300" stop="20260606210000 -0300" channel="HBO">
+  <programme start="20260606184000 -0300" stop="20260606210500 -0300" channel="HBO">
     <title lang="pt">O Morro dos Ventos Uivantes</title>
     <desc lang="pt">Uma história de amor apaixonada e tumultuada, ambientada no cenário dos charnecas de Yorkshire, explorando a relação intensa e destrutiva entre Heathcliff e Catherine Earnshaw.</desc>
-    <length units="minutes">8400</length>
+    <length units="minutes">8700</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260606210000 -0300" stop="20260606215000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3000</length>
+  <programme start="20260606210500 -0300" stop="20260606215400 -0300" channel="HBO">
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">Rose</sub-title>
+    <desc lang="pt">Um momento de vulnerabilidade inesperada e um romance de grande repercussão desencadeiam uma tempestade de turbulência para Shane e Ilya.</desc>
+    <length units="minutes">2940</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260606215000 -0300" stop="20260606225000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260606215400 -0300" stop="20260606225700 -0300" channel="HBO">
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">Vou Acreditar em Qualquer Coisa</sub-title>
+    <desc lang="pt">Shane, Ilya e Scott enfrentam, cada um, decisões pessoais cruciais.</desc>
+    <length units="minutes">3780</length>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260606225000 -0300" stop="20260606234500 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260606225700 -0300" stop="20260606234500 -0300" channel="HBO">
+    <title lang="pt">Rivalidade Ardente</title>
+    <sub-title lang="pt">A Cabana</sub-title>
+    <desc lang="pt">Shane e Ilya se afastam dos holofotes, mas precisam enfrentar decisões difíceis que podem mudar tudo em relação ao futuro e à vida que compartilham.</desc>
+    <length units="minutes">2880</length>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260606234500 -0300" stop="20260607041000 -0300" channel="HBO">
+  <programme start="20260606234500 -0300" stop="20260607040800 -0300" channel="HBO">
     <title lang="pt">O Senhor dos Anéis: O Retorno do Rei</title>
     <desc lang="pt">Última parte da trilogia que revolucionou o gênero de fantasia e aventura. Encerrando com cenas gloriosas a jornada de Frodo e Sam para destruir o Anel.</desc>
-    <length units="minutes">15900</length>
+    <length units="minutes">15780</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606234500 -0300" stop="20260607041000 -0300" channel="HBO">
+  <programme start="20260606234500 -0300" stop="20260607040800 -0300" channel="HBO">
     <title lang="pt">O Senhor dos Anéis: O Retorno do Rei</title>
     <desc lang="pt">Última parte da trilogia que revolucionou o gênero de fantasia e aventura. Encerrando com cenas gloriosas a jornada de Frodo e Sam para destruir o Anel.</desc>
-    <length units="minutes">15900</length>
+    <length units="minutes">15780</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
+  </programme>
+  <programme start="20260607040800 -0300" stop="20260607041000 -0300" channel="HBO">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20260607041000 -0300" stop="20260607060000 -0300" channel="HBO">
     <title lang="pt">Faça Elar</title>
@@ -174023,7 +174045,15 @@
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">89.156.</episode-num>
   </programme>
-  <programme start="20260605203000 -0300" stop="20260605213000 -0300" channel="REDE TV! HD">
+  <programme start="20260605203000 -0300" stop="20260605203400 -0300" channel="REDE TV! HD">
+    <title lang="pt">Pronunciamento do Ministro de Estado do Meio Ambiente e Mudança do Clima</title>
+    <desc lang="pt">Pronunciamento do Ministro de Estado do Meio Ambiente e Mudança do Clima, João Paulo Ribeiro Capobianco.</desc>
+    <length units="minutes">240</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260605203400 -0300" stop="20260605213400 -0300" channel="REDE TV! HD">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
     <length units="minutes">3600</length>
@@ -174032,7 +174062,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260605213000 -0300" stop="20260605214000 -0300" channel="REDE TV! HD">
+  <programme start="20260605213400 -0300" stop="20260605214400 -0300" channel="REDE TV! HD">
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
     <length units="minutes">600</length>
@@ -174040,28 +174070,28 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260605214000 -0300" stop="20260605224500 -0300" channel="REDE TV! HD">
+  <programme start="20260605214400 -0300" stop="20260605225000 -0300" channel="REDE TV! HD">
     <title lang="pt">TV Fama</title>
     <desc lang="pt">Seu acesso às festas mais badaladas, aos bastidores dos eventos exclusivos e às casas dos mais ricos e famosos. O que acontece no mundo da moda, beleza, estilo e comportamento de um jeito único.</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">3960</length>
     <episode-num system="xmltv_ns">21.156.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260605224500 -0300" stop="20260606003000 -0300" channel="REDE TV! HD">
+  <programme start="20260605225000 -0300" stop="20260606003000 -0300" channel="REDE TV! HD">
     <title lang="pt">Operação de Risco</title>
     <desc lang="pt">OPERAÇÃO DE RISCO é o reality policial pioneiro da TV brasileira que te coloca dentro das viaturas que atendem ocorrências em todo o país. Perseguições, ações policiais e muita ação, sem corte...</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6000</length>
     <episode-num system="xmltv_ns">22.156.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260605224500 -0300" stop="20260606003000 -0300" channel="REDE TV! HD">
+  <programme start="20260605225000 -0300" stop="20260606003000 -0300" channel="REDE TV! HD">
     <title lang="pt">Operação de Risco</title>
     <desc lang="pt">OPERAÇÃO DE RISCO é o reality policial pioneiro da TV brasileira que te coloca dentro das viaturas que atendem ocorrências em todo o país. Perseguições, ações policiais e muita ação, sem corte...</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6000</length>
     <episode-num system="xmltv_ns">22.156.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -174190,29 +174220,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260606130000 -0300" stop="20260606133000 -0300" channel="REDE TV! HD">
+  <programme start="20260606130000 -0300" stop="20260606150000 -0300" channel="REDE TV! HD">
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">13.157.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606133000 -0300" stop="20260606153000 -0300" channel="REDE TV! HD">
+  <programme start="20260606150000 -0300" stop="20260606173000 -0300" channel="REDE TV! HD">
     <title lang="pt">Show da Saúde</title>
     <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">13.157.</episode-num>
+    <length units="minutes">9000</length>
+    <episode-num system="xmltv_ns">15.157.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260606153000 -0300" stop="20260606180000 -0300" channel="REDE TV! HD">
+  <programme start="20260606173000 -0300" stop="20260606180000 -0300" channel="REDE TV! HD">
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
-    <length units="minutes">9000</length>
-    <episode-num system="xmltv_ns">15.157.</episode-num>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">17.157.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -181323,7 +181353,7 @@
   </programme>
   <programme start="20260607220000 -0300" stop="20260608000000 -0300" channel="SPORTV">
     <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.158.</episode-num>
@@ -181350,14 +181380,14 @@
     <previously-shown/>
   </programme>
   <programme start="20260608023000 -0300" stop="20260608033000 -0300" channel="SPORTV">
-    <title lang="pt">Colômbia x Jordânia</title>
+    <title lang="pt">Brasil x Egito</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
   <programme start="20260608033000 -0300" stop="20260608043000 -0300" channel="SPORTV">
-    <title lang="pt">Japão x Islândia</title>
+    <title lang="pt">Colômbia x Jordânia</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
@@ -181371,18 +181401,25 @@
     <previously-shown/>
   </programme>
   <programme start="20260608053000 -0300" stop="20260608063000 -0300" channel="SPORTV">
-    <title lang="pt">Colômbia x Costa Rica</title>
+    <title lang="pt">Japão x Islândia</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260608063000 -0300" stop="20260608083000 -0300" channel="SPORTV">
-    <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">86.159.</episode-num>
+  <programme start="20260608063000 -0300" stop="20260608073000 -0300" channel="SPORTV">
+    <title lang="pt">Dinamarca x Ucrânia</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260608073000 -0300" stop="20260608083000 -0300" channel="SPORTV">
+    <title lang="pt">Croácia x Eslovênia</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260608083000 -0300" stop="20260608100000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - ao vivo</title>
@@ -181427,28 +181464,35 @@
   </programme>
   <programme start="20260608181000 -0300" stop="20260608200000 -0300" channel="SPORTV">
     <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
     <length units="minutes">6600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.159.</episode-num>
   </programme>
-  <programme start="20260608200000 -0300" stop="20260608223000 -0300" channel="SPORTV">
+  <programme start="20260608200000 -0300" stop="20260608220000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - ao vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.159.</episode-num>
   </programme>
-  <programme start="20260608223000 -0300" stop="20260609010000 -0300" channel="SPORTV">
+  <programme start="20260608220000 -0300" stop="20260608230000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento sporTV - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">82.159.</episode-num>
+  </programme>
+  <programme start="20260608230000 -0300" stop="20260609010000 -0300" channel="SPORTV">
     <title lang="pt">Espanha x Peru - ao vivo</title>
     <desc lang="pt">Espanha e Peru jogam o Amistoso Internacional.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260608223000 -0300" stop="20260609010000 -0300" channel="SPORTV">
+  <programme start="20260608230000 -0300" stop="20260609010000 -0300" channel="SPORTV">
     <title lang="pt">Espanha x Peru - ao vivo</title>
     <desc lang="pt">Espanha e Peru jogam o Amistoso Internacional.</desc>
-    <length units="minutes">9000</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260609010000 -0300" stop="20260609013000 -0300" channel="SPORTV">
@@ -181508,7 +181552,7 @@
   </programme>
   <programme start="20260609170000 -0300" stop="20260609184500 -0300" channel="SPORTV">
     <title lang="pt">Radar da Seleção - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
     <length units="minutes">6300</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">87.160.</episode-num>
@@ -181527,7 +181571,7 @@
   </programme>
   <programme start="20260609233000 -0300" stop="20260610083000 -0300" channel="SPORTV">
     <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
     <length units="minutes">32400</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">83.160.</episode-num>
@@ -196160,231 +196204,231 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260606060000 -0300" stop="20260606080700 -0300" channel="TNT SERIES HD">
+  <programme start="20260606060000 -0300" stop="20260606064500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Herring</sub-title>
     <desc lang="pt">Jane e sua equipe são chamados para investigar o assassinato de Gabriel Barge.</desc>
-    <length units="minutes">7620</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606080700 -0300" stop="20260606085400 -0300" channel="TNT SERIES HD">
+  <programme start="20260606064500 -0300" stop="20260606073100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Code Red</sub-title>
     <desc lang="pt">Depois de ser intoxicado com uma toxina, a pesquisadora de armas nucleares, Dra. Alicia Seberg, pede a Jane e a CBI que encontrem o bioterrorista responsável pelo ataque.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606085400 -0300" stop="20260606093900 -0300" channel="TNT SERIES HD">
+  <programme start="20260606073100 -0300" stop="20260606081900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Box</sub-title>
     <desc lang="pt">Jane e a equipe investigam o assassinato de um tutor. Logo a investigação se transforma em uma caçada por um anel de valor incalculável roubado do British Museum.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606093900 -0300" stop="20260606102500 -0300" channel="TNT SERIES HD">
+  <programme start="20260606081900 -0300" stop="20260606090900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Aingavite Baa</sub-title>
     <desc lang="pt">Sofrendo com amnésia após ter sobrevivido a uma tentativa de assassinato, Jane, Lisbon e o resto da equipe ajudam uma desconhecida a se lembrar do que aconteceu.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">2.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606102500 -0300" stop="20260606110900 -0300" channel="TNT SERIES HD">
+  <programme start="20260606090900 -0300" stop="20260606095700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Design</sub-title>
     <desc lang="pt">Benson salva April Troost de cometer suicídio, mas se sente culpada quando Troost morre durante o julgamento do homem que ela está acusando de tê-la estuprado e deixado-a grávida.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">7.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606110900 -0300" stop="20260606115400 -0300" channel="TNT SERIES HD">
+  <programme start="20260606095700 -0300" stop="20260606104800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Alien</sub-title>
     <desc lang="pt">Um esfaqueamento no pátio de uma escola leva os detetives Benson e Stabler a uma menina traumatizada.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">7.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606115400 -0300" stop="20260606123800 -0300" channel="TNT SERIES HD">
+  <programme start="20260606104800 -0300" stop="20260606113900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Ripped</sub-title>
     <desc lang="pt">Um amigo do filho adolescente de Stabler é acusado de atacar uma colega de classe. Por não conseguir tratar o caso sem se envolver pessoalmente, Stabler é afastado da investigação.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">7.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606123800 -0300" stop="20260606132200 -0300" channel="TNT SERIES HD">
+  <programme start="20260606113900 -0300" stop="20260606122800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Demons</sub-title>
     <desc lang="pt">Elliot tem que lidar com seus &quot;demônios&quot; pessoais.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606132200 -0300" stop="20260606140600 -0300" channel="TNT SERIES HD">
+  <programme start="20260606122800 -0300" stop="20260606131700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Strain</sub-title>
     <desc lang="pt">A equipe de investigações tem um obstáculo durante um caso: eles descobrem a presença de um vírus mortal nas vítimas e o filho de Tutuola pode estar envolvido.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">7.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606140600 -0300" stop="20260606145300 -0300" channel="TNT SERIES HD">
+  <programme start="20260606131700 -0300" stop="20260606140800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Shore Leave</sub-title>
     <desc lang="pt">A equipe investiga um caso de 1951, quando um marinheiro desapareceu e nunca mais foi chamado para assumir o posto depois do desembarque.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606145300 -0300" stop="20260606153900 -0300" channel="TNT SERIES HD">
+  <programme start="20260606140800 -0300" stop="20260606145900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">The Dealer</sub-title>
     <desc lang="pt">O assassinato de uma mãe solteira que desapareceu em 1981 é investigado quando seu corpo é encontrado no porta-malas de um carro. O inquérito revela que a vítima trabalhava em uma revenda de carros falida.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606153900 -0300" stop="20260606162600 -0300" channel="TNT SERIES HD">
+  <programme start="20260606145900 -0300" stop="20260606155100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">One Small Step</sub-title>
     <desc lang="pt">A equipe reabre o caso de um garoto de 12 anos que morreu em 1969, quando um detetive aposentado (que originalmente trabalhou no caso) recebe uma nova pista: um foguete de brinquedo com o nome da vítima.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">6.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606162600 -0300" stop="20260606171200 -0300" channel="TNT SERIES HD">
+  <programme start="20260606155100 -0300" stop="20260606164300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Triple Threat</sub-title>
     <desc lang="pt">A equipe reabre um assassinato de 1989, no qual morreu uma jovem estrela da ópera russa que foi desertada e mandada para os Estados Unidos. Ela e sua família procuraram asilo na delegacia de polícia onde Nick Vera trabalhou.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">6.8.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606171200 -0300" stop="20260606175800 -0300" channel="TNT SERIES HD">
+  <programme start="20260606164300 -0300" stop="20260606173600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Pin Up Girl</sub-title>
     <desc lang="pt">A equipe reabre o caso do assassinato de uma modelo ocorrido em 1953, quando uma fotografia antiga fornece uma nova e importante evidência.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3180</length>
     <episode-num system="xmltv_ns">6.9.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606175800 -0300" stop="20260606184300 -0300" channel="TNT SERIES HD">
+  <programme start="20260606173600 -0300" stop="20260606182500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Blood In, Blood Out</sub-title>
     <desc lang="pt">Jane fica sozinha com Cho, que ajuda a polícia na investigação de um assassinato - a vítima era companheira de gangue em sua juventude, e também seu melhor amigo.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606184300 -0300" stop="20260606192800 -0300" channel="TNT SERIES HD">
+  <programme start="20260606182500 -0300" stop="20260606191400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Herring</sub-title>
     <desc lang="pt">Jane e sua equipe são chamados para investigar o assassinato de Gabriel Barge.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606192800 -0300" stop="20260606201200 -0300" channel="TNT SERIES HD">
+  <programme start="20260606191400 -0300" stop="20260606200200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Code Red</sub-title>
     <desc lang="pt">Depois de ser intoxicado com uma toxina, a pesquisadora de armas nucleares, Dra. Alicia Seberg, pede a Jane e a CBI que encontrem o bioterrorista responsável pelo ataque.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606201200 -0300" stop="20260606205700 -0300" channel="TNT SERIES HD">
+  <programme start="20260606200200 -0300" stop="20260606205100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Red Box</sub-title>
     <desc lang="pt">Jane e a equipe investigam o assassinato de um tutor. Logo a investigação se transforma em uma caçada por um anel de valor incalculável roubado do British Museum.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606205700 -0300" stop="20260606214300 -0300" channel="TNT SERIES HD">
+  <programme start="20260606205100 -0300" stop="20260606214100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Aingavite Baa</sub-title>
     <desc lang="pt">Sofrendo com amnésia após ter sobrevivido a uma tentativa de assassinato, Jane, Lisbon e o resto da equipe ajudam uma desconhecida a se lembrar do que aconteceu.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">2.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606214300 -0300" stop="20260606223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260606214100 -0300" stop="20260606223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Trojan Horse</sub-title>
     <desc lang="pt">Finch se infiltra em uma empresa de tecnologia para observar um vice-presidente em ascensão. A empresa parece estar infestada de agentes que servem de fachada para algo mais sinistro.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606223000 -0300" stop="20260606231600 -0300" channel="TNT SERIES HD">
+  <programme start="20260606223000 -0300" stop="20260606231900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">In Extremis</sub-title>
     <desc lang="pt">Um médico respeitado é envenenado com polônio e tem apenas 24 horas para ajudar Reese a encontrar seu assassino. Carter, de luto pela morte de Cal Beecher, ajuda Fusco quando o RH vira a Corregedoria contra ele.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606231600 -0300" stop="20260607000200 -0300" channel="TNT SERIES HD">
+  <programme start="20260606231900 -0300" stop="20260607000700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Zero Day</sub-title>
     <desc lang="pt">Eles esperam dez dias por um novo número devido a um vírus no sistema, suspeitando que o problema seja o Root. É para Ernest Thornhill, que não é quem, ou o que, deveria ser.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606231600 -0300" stop="20260607000200 -0300" channel="TNT SERIES HD">
+  <programme start="20260606231900 -0300" stop="20260607000700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Zero Day</sub-title>
     <desc lang="pt">Eles esperam dez dias por um novo número devido a um vírus no sistema, suspeitando que o problema seja o Root. É para Ernest Thornhill, que não é quem, ou o que, deveria ser.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -224624,77 +224668,77 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606104900 -0300" stop="20260606114500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606104900 -0300" stop="20260606111300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Walnuts and Demerol</sub-title>
     <desc lang="pt">Charlie descobre que será o anfitrião de uma festa natalina não planejada e não desejada em sua casa. Ao descobrir quem é a nova namorada de Charlie, Evelyn quer separá-los antes que seu relacionamento vá longe d...</desc>
-    <length units="minutes">3360</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606114500 -0300" stop="20260606120700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606111300 -0300" stop="20260606113800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Castrating Sheep in Montana</sub-title>
     <desc lang="pt">Quando Berta descobre que Alan está saindo às escondidas com sua filha, Naomi, Alan espera por problemas. Porém, a reação de Berta é surpreendente, e muito pior, de qualquer uma que Alan pudesse imaginar.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606120700 -0300" stop="20260606123200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606113800 -0300" stop="20260606120200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Don't Worry, Speed Racer</sub-title>
     <desc lang="pt">Jake conta para Charlie e Alan que, freqüentemente, ouve Judith e seu namorado Herb, mantendo relações, e formula uma teoria sobre o porquê sua mãe estar sempre dando instruções a Herb na cama.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606123200 -0300" stop="20260606125600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606120200 -0300" stop="20260606122700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Pants Alternative</sub-title>
     <desc lang="pt">Os amigos tentam ajudar Sheldon a superar o medo de falar em público.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606125600 -0300" stop="20260606131900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606122700 -0300" stop="20260606125100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Wheaton Recurrence</sub-title>
     <desc lang="pt">Sheldon se prepara para acertar as contas com o arqui-inimigo Wil Wheaton, na quadra de boliche, enquanto Penny e Leonard enfrentam sua própria briga.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606131900 -0300" stop="20260606133900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606125100 -0300" stop="20260606131300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Spaghetti Catalysis</sub-title>
     <desc lang="pt">Já que Leonard e Penny não se falam mais, Sheldon faz de tudo para que estejam felizes, mas acaba preso numa grande mentira.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606133900 -0300" stop="20260606140200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606131300 -0300" stop="20260606133800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Plimpton Stimulation</sub-title>
     <desc lang="pt">Leonard e Sheldon fazem de tudo para ganhar a atenção da famosa cientista, a Dra. Elizabeth Plimpton.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606140200 -0300" stop="20260606142500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606133800 -0300" stop="20260606140100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Staircase Implementation</sub-title>
     <desc lang="pt">Leonard conta para Penny como começou sua amizade com Sheldon; e ainda descobriremos o que aconteceu no elevador do edifício.</desc>
@@ -224704,7 +224748,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606142500 -0300" stop="20260606144800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606140100 -0300" stop="20260606142400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Lunar Excitation</sub-title>
     <desc lang="pt">Raj e Howard colocam o perfil de Sheldon na internet para ajudá-lo a conseguir um encontro.</desc>
@@ -224714,97 +224758,106 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606144800 -0300" stop="20260606164300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606142400 -0300" stop="20260606162100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Jack, O Caçador De Gigantes</title>
     <desc lang="pt">O camponês Jack e a princesa Isabelle cresceram ouvindo histórias sobre gigantes, seres sedentos por sangue que vivem entre o céu e a terra.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">7020</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260606164300 -0300" stop="20260606190600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606162100 -0300" stop="20260606184800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Shazam! Fúria dos Deuses</title>
     <desc lang="pt">Basta para o adolescente órfão Billy Batson gritar uma palavra com poderes especias que recebeu de um antigo mago, para que o jovem se transforme no super-herói adulto Shazam.</desc>
-    <length units="minutes">8580</length>
+    <length units="minutes">8820</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606190600 -0300" stop="20260606193000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606184800 -0300" stop="20260606185200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Inside Warner: Supergirl</title>
+    <desc lang="pt">Bastidores e entrevistas do filme Supergirl.</desc>
+    <length units="minutes">240</length>
+    <episode-num system="xmltv_ns">18.157.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260606185200 -0300" stop="20260606191700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">That's Summer Sausage, Not Salami</sub-title>
     <desc lang="pt">Charlie arma para Alan com sua nova vizinha, mas acaba ficando com ciúmes quando a armação parece dar certo.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606193000 -0300" stop="20260606195400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606191700 -0300" stop="20260606194200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">My Damn Stalker</sub-title>
     <desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">4.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606195400 -0300" stop="20260606201700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606194200 -0300" stop="20260606200600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Young People Have Phlegm Too</sub-title>
     <desc lang="pt">A jovem e sexy namorada de Charlie o leva para um novo clube. Ela convida Alan para conhecer uma de suas amigas, mas ele fica chocado quando sabe que é considerado &quot;velho&quot;.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">4.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606201700 -0300" stop="20260606203800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606200600 -0300" stop="20260606203000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Pants Alternative</sub-title>
     <desc lang="pt">Os amigos tentam ajudar Sheldon a superar o medo de falar em público.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606203800 -0300" stop="20260606210200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606203000 -0300" stop="20260606205200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Wheaton Recurrence</sub-title>
     <desc lang="pt">Sheldon se prepara para acertar as contas com o arqui-inimigo Wil Wheaton, na quadra de boliche, enquanto Penny e Leonard enfrentam sua própria briga.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">3.19.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606210200 -0300" stop="20260606212500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606205200 -0300" stop="20260606211900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Spaghetti Catalysis</sub-title>
     <desc lang="pt">Já que Leonard e Penny não se falam mais, Sheldon faz de tudo para que estejam felizes, mas acaba preso numa grande mentira.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">3.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606212500 -0300" stop="20260606214700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606211900 -0300" stop="20260606214400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Plimpton Stimulation</sub-title>
     <desc lang="pt">Leonard e Sheldon fazem de tudo para ganhar a atenção da famosa cientista, a Dra. Elizabeth Plimpton.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606214700 -0300" stop="20260606220700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606214400 -0300" stop="20260606220700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Staircase Implementation</sub-title>
     <desc lang="pt">Leonard conta para Penny como começou sua amizade com Sheldon; e ainda descobriremos o que aconteceu no elevador do edifício.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -224820,18 +224873,18 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260606223000 -0300" stop="20260607011200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606223000 -0300" stop="20260607011400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Matrix Resurrections</title>
     <desc lang="pt">Retorne a um mundo de duas realidades: uma, a vida cotidiana; o outro, o que está por trás dele.</desc>
-    <length units="minutes">9720</length>
+    <length units="minutes">9840</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260606223000 -0300" stop="20260607011200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260606223000 -0300" stop="20260607011400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Matrix Resurrections</title>
     <desc lang="pt">Retorne a um mundo de duas realidades: uma, a vida cotidiana; o outro, o que está por trás dele.</desc>
-    <length units="minutes">9720</length>
+    <length units="minutes">9840</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
