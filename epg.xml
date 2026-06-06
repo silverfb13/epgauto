@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-06 11:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-06 14:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13370,26 +13370,23 @@
     <episode-num system="xmltv_ns">5.159.</episode-num>
   </programme>
   <programme start="20260608060000 -0300" stop="20260608063000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Gearing Up</title>
-    <desc lang="pt">Tudo sobre as competições mais eletrizantes do universo dos esportes a motor.</desc>
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
     <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">6.159.</episode-num>
   </programme>
   <programme start="20260608063000 -0300" stop="20260608073000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MX2: Corrida 2</title>
+    <title lang="pt">Mundial de Motocross: Letônia MXGP: Corrida 2</title>
     <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.159.</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20260608073000 -0300" stop="20260608083000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MXGP: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <title lang="pt">Esporte Agora</title>
+    <desc lang="pt">Isabella Ayami e Thais Baffini atualizam as principais notícias do universo esportivo. O programa sempre trará os fatos mais quentes do dia, além de muita resenha e análises, mas sem enrolação.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">7.159.</episode-num>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">87.159.</episode-num>
   </programme>
   <programme start="20260608083000 -0300" stop="20260608090000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Bandsports News - ao vivo</title>
@@ -13399,9 +13396,9 @@
     <episode-num system="xmltv_ns">88.159.</episode-num>
   </programme>
   <programme start="20260608090000 -0300" stop="20260608114500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">PBR Brasil - 5ª Etapa Divinópolis-MG</title>
+    <title lang="pt">PBR Brasil - 6ª Etapa Americana-SP</title>
     <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">A PBR Brazil desembarca em Divinópolis (MG) para mais uma etapa imperdível da temporada. Divinópolis volta ao calendário com uma etapa que promete alto nível dentro da arena.</desc>
+    <desc lang="pt">A PBR Brazil desembarca em Americana (SP) para mais uma etapa imperdível da temporada. Americana volta ao calendário com uma etapa que promete alto nível dentro da arena.</desc>
     <length units="minutes">9900</length>
     <previously-shown/>
   </programme>
@@ -13419,18 +13416,18 @@
     <episode-num system="xmltv_ns">12.159.</episode-num>
   </programme>
   <programme start="20260608140000 -0300" stop="20260608153000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Sail GP: Etapa Nova Iorque: Dia 2</title>
-    <desc lang="pt">SailGP é uma competição internacional de vela que apresenta catamarãs F50 de alto desempenho, onde as equipes competem em uma temporada de vários Grandes Prêmios em todo o mundo.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">14.159.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260608153000 -0300" stop="20260608170000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Sala do Esporte - ao vivo</title>
     <desc lang="pt">Veja tudo o que aconteceu em rodadas esportivas mundo afora, de maneira descontraída e bem-humorada.</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">85.159.</episode-num>
+    <episode-num system="xmltv_ns">84.159.</episode-num>
+  </programme>
+  <programme start="20260608153000 -0300" stop="20260608170000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">AMG Cup: 6ª Etapa Interlagos: Corridas 1 e 2</title>
+    <desc lang="pt">AMG Cup é a categoria oficial de automobilismo Mercedes-AMG. É dividida em duas categorias: C300 Cup e CLA AMG Cup.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">15.159.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260608170000 -0300" stop="20260608180000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Donos da Bola</title>
@@ -13460,56 +13457,66 @@
     <episode-num system="xmltv_ns">81.159.</episode-num>
   </programme>
   <programme start="20260608223000 -0300" stop="20260608230000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">The Golf Brasil</title>
-    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+    <title lang="pt">Pra Vencer Tem Que Lutar</title>
+    <desc lang="pt">Com exibição quinzenal, a atração une esporte, entretenimento e impacto social ao acompanhar projetos ligados às artes marciais em comunidades brasileiras.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.159.</episode-num>
-  </programme>
-  <programme start="20260608230000 -0300" stop="20260609003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Sail GP: Etapa Nova Iorque: Dia 2</title>
-    <desc lang="pt">SailGP é uma competição internacional de vela que apresenta catamarãs F50 de alto desempenho, onde as equipes competem em uma temporada de vários Grandes Prêmios em todo o mundo.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">23.159.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260608230000 -0300" stop="20260609003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Sail GP: Etapa Nova Iorque: Dia 2</title>
-    <desc lang="pt">SailGP é uma competição internacional de vela que apresenta catamarãs F50 de alto desempenho, onde as equipes competem em uma temporada de vários Grandes Prêmios em todo o mundo.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">23.159.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260609003000 -0300" stop="20260609004500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Oléé</title>
-    <desc lang="pt">Programa comandado por Beetto Saad pra falar da gestão do futebol, sempre com grandes convidados para dividir experiências de como comandar o esporte.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">80.160.</episode-num>
-  </programme>
-  <programme start="20260609004500 -0300" stop="20260609021500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Tempo Técnico</title>
-    <desc lang="pt">Comandado por Elia Junior, o Tempo Técnico terá na bancada os comentaristas Jorge Nicola e Sálvio Spínola. O programa foca em análises táticas, debates e entrevistas com os principais técnicos do futebol brasileiro.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">80.160.</episode-num>
-  </programme>
-  <programme start="20260609021500 -0300" stop="20260609031500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Depois do Jogo</title>
-    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">82.160.</episode-num>
-  </programme>
-  <programme start="20260609031500 -0300" stop="20260609034500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">A Nova Geração</title>
-    <desc lang="pt">Na série A Nova Geração, acompanhamos os bastidores da abertura da temporada 2025 e o início de uma importante transição na principal categoria do automobilismo brasileiro. Mudanças que prometem marcar o futuro d...</desc>
-    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">22.159.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260609034500 -0300" stop="20260609054500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">FIA WEC: 6 Horas de Spa-Francorchamps</title>
-    <desc lang="pt">O FIA WEC vai até à Bélgica para a terceira etapa da temporada de 2025 - as 6 Horas de Spa-Francorchamps.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260608230000 -0300" stop="20260608233000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.159.</episode-num>
+  </programme>
+  <programme start="20260608233000 -0300" stop="20260608234500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Oléé</title>
+    <desc lang="pt">Programa comandado por Beetto Saad pra falar da gestão do futebol, sempre com grandes convidados para dividir experiências de como comandar o esporte.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">83.159.</episode-num>
+  </programme>
+  <programme start="20260608234500 -0300" stop="20260609021500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">PBR Brasil - 6ª Etapa Americana-SP</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A PBR Brazil desembarca em Americana (SP) para mais uma etapa imperdível da temporada. Americana volta ao calendário com uma etapa que promete alto nível dentro da arena.</desc>
+    <length units="minutes">9000</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260608234500 -0300" stop="20260609021500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">PBR Brasil - 6ª Etapa Americana-SP</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A PBR Brazil desembarca em Americana (SP) para mais uma etapa imperdível da temporada. Americana volta ao calendário com uma etapa que promete alto nível dentro da arena.</desc>
+    <length units="minutes">9000</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260609021500 -0300" stop="20260609034500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Tempo Técnico</title>
+    <desc lang="pt">Comandado por Elia Junior, o Tempo Técnico terá na bancada os comentaristas Jorge Nicola e Sálvio Spínola. O programa foca em análises táticas, debates e entrevistas com os principais técnicos do futebol brasileiro.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">82.160.</episode-num>
+  </programme>
+  <programme start="20260609034500 -0300" stop="20260609044500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">83.160.</episode-num>
+  </programme>
+  <programme start="20260609044500 -0300" stop="20260609051500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">84.160.</episode-num>
+  </programme>
+  <programme start="20260609051500 -0300" stop="20260609054500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Pra Vencer Tem Que Lutar</title>
+    <desc lang="pt">Com exibição quinzenal, a atração une esporte, entretenimento e impacto social ao acompanhar projetos ligados às artes marciais em comunidades brasileiras.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">5.160.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260609054500 -0300" stop="20260609060000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Oléé</title>
@@ -13518,8 +13525,8 @@
     <episode-num system="xmltv_ns">85.160.</episode-num>
   </programme>
   <programme start="20260609060000 -0300" stop="20260609073000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Sail GP: Etapa Nova Iorque: Dia 2</title>
-    <desc lang="pt">SailGP é uma competição internacional de vela que apresenta catamarãs F50 de alto desempenho, onde as equipes competem em uma temporada de vários Grandes Prêmios em todo o mundo.</desc>
+    <title lang="pt">AMG Cup: 6ª Etapa Interlagos: Corridas 1 e 2</title>
+    <desc lang="pt">AMG Cup é a categoria oficial de automobilismo Mercedes-AMG. É dividida em duas categorias: C300 Cup e CLA AMG Cup.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">6.160.</episode-num>
     <previously-shown/>
@@ -13544,8 +13551,8 @@
     <episode-num system="xmltv_ns">89.160.</episode-num>
   </programme>
   <programme start="20260609103000 -0300" stop="20260609104500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
+    <title lang="pt">Tour da Bola</title>
+    <desc lang="pt">Leonardo Jens analisa tudo sobre os principais campeonatos ao redor do planeta.</desc>
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">80.160.</episode-num>
   </programme>
@@ -13568,25 +13575,24 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">12.160.</episode-num>
   </programme>
-  <programme start="20260609140000 -0300" stop="20260609150000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Aragão: WorldSBK: Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">14.160.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260609150000 -0300" stop="20260609153000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Copa do Mundo R3: 2ª Etapa Aragão: Corrida 2</title>
-    <desc lang="pt">Acompanhe no BandSports a transmissão da segunda corrida da nova temporada. Corrida 1 da Copa do Mundo FIM R3 BLU CRU 2026.</desc>
-    <length units="minutes">1800</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260609153000 -0300" stop="20260609170000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260609140000 -0300" stop="20260609153000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Sala do Esporte - ao vivo</title>
     <desc lang="pt">Veja tudo o que aconteceu em rodadas esportivas mundo afora, de maneira descontraída e bem-humorada.</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">85.160.</episode-num>
+    <episode-num system="xmltv_ns">84.160.</episode-num>
+  </programme>
+  <programme start="20260609153000 -0300" stop="20260609161500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Fórmula 4 Espanhola: Etapa Portimão Corrida 3</title>
+    <desc lang="pt">As etapas de Fórmula 4 no Autódromo Internacional do Algarve são uma tradição no calendário de formação de novos talentos. O circuito recebe as categorias de acesso e as emocionantes corridas do Campeonato d...</desc>
+    <length units="minutes">2700</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260609161500 -0300" stop="20260609170000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Eurocup-3: Etapa Portimão: Corrida 2</title>
+    <desc lang="pt">A Eurocup-3 é um campeonato europeu de monolugares fundado em 2023 como uma alternativa acessível e competitiva às séries Regionais de Fórmula existentes.</desc>
+    <length units="minutes">2700</length>
+    <previously-shown/>
   </programme>
   <programme start="20260609170000 -0300" stop="20260609180000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Donos da Bola</title>
@@ -13623,25 +13629,28 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260609230000 -0300" stop="20260609233000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260609230000 -0300" stop="20260609231500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Africa Eco Racing</title>
+    <desc lang="pt">Prepare-se para a Africa Eco Race, o lendário rali que se mantém fiel ao espírito original do Dakar. Um desafio de 6.000 km pelos desertos e dunas de Marrocos, Mauritânia e Senegal, com chegada ao mítico Lac Rose, em Dakar.</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260609231500 -0300" stop="20260609233000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Tour da Bola</title>
+    <desc lang="pt">Leonardo Jens analisa tudo sobre os principais campeonatos ao redor do planeta.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">83.160.</episode-num>
+  </programme>
+  <programme start="20260609233000 -0300" stop="20260610003000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Destaques do Sail GP: Etapa Nova York</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">23.160.</episode-num>
   </programme>
   <programme start="20260609233000 -0300" stop="20260610003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MXGP: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <title lang="pt">Destaques do Sail GP: Etapa Nova York</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">23.160.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260609233000 -0300" stop="20260610003000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MXGP: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">23.160.</episode-num>
-    <previously-shown/>
   </programme>
   <programme start="20260610003000 -0300" stop="20260610004500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Oléé</title>
@@ -13650,12 +13659,19 @@
     <episode-num system="xmltv_ns">80.161.</episode-num>
   </programme>
   <programme start="20260610004500 -0300" stop="20260610014500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Depois do Jogo</title>
-    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
+    <title lang="pt">Mundial de Motocross: Letônia MXGP: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">80.161.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260610014500 -0300" stop="20260610024500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Mundial de Motocross: Letônia EMX250: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.161.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260610024500 -0300" stop="20260610034500 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Papo de Paddock</title>
     <desc lang="pt">Um programa de entrevistas que oferece uma visão única e privilegiada do mundo das corridas. Combinando análise técnica aprofundada e curiosidades fascinantes.</desc>
     <length units="minutes">3600</length>
@@ -13663,25 +13679,21 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260610024500 -0300" stop="20260610034500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha EMX250: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">2.161.</episode-num>
-    <previously-shown/>
-  </programme>
   <programme start="20260610034500 -0300" stop="20260610044500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MX2: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">3.161.</episode-num>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">83.161.</episode-num>
   </programme>
-  <programme start="20260610044500 -0300" stop="20260610054500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: Alemanha MXGP: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">4.161.</episode-num>
+  <programme start="20260610044500 -0300" stop="20260610050000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Africa Eco Racing</title>
+    <desc lang="pt">Prepare-se para a Africa Eco Race, o lendário rali que se mantém fiel ao espírito original do Dakar. Um desafio de 6.000 km pelos desertos e dunas de Marrocos, Mauritânia e Senegal, com chegada ao mítico Lac Rose, em Dakar.</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260610050000 -0300" stop="20260610054500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Fórmula 4 Espanhola: Etapa Portimão Corrida 1</title>
+    <desc lang="pt">As etapas de Fórmula 4 no Autódromo Internacional do Algarve são uma tradição no calendário de formação de novos talentos. O circuito recebe as categorias de acesso e as emocionantes corridas do Campeonato d...</desc>
+    <length units="minutes">2700</length>
     <previously-shown/>
   </programme>
   <programme start="20260610054500 -0300" stop="20260610060000 -0300" channel="BAND SPORTS HD">
@@ -13690,17 +13702,16 @@
     <length units="minutes">900</length>
     <episode-num system="xmltv_ns">85.161.</episode-num>
   </programme>
-  <programme start="20260610060000 -0300" stop="20260610063000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Copa do Mundo R3: 2ª Etapa Aragão: Corrida 2</title>
-    <desc lang="pt">Acompanhe no BandSports a transmissão da segunda corrida da nova temporada. Corrida 1 da Copa do Mundo FIM R3 BLU CRU 2026.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260610060000 -0300" stop="20260610064500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Fórmula 4 Espanhola: Etapa Portimão Corrida 3</title>
+    <desc lang="pt">As etapas de Fórmula 4 no Autódromo Internacional do Algarve são uma tradição no calendário de formação de novos talentos. O circuito recebe as categorias de acesso e as emocionantes corridas do Campeonato d...</desc>
+    <length units="minutes">2700</length>
     <previously-shown/>
   </programme>
-  <programme start="20260610063000 -0300" stop="20260610073000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Aragão: WorldSBK: Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">6.161.</episode-num>
+  <programme start="20260610064500 -0300" stop="20260610073000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Eurocup-3: Etapa Portimão: Corrida 2</title>
+    <desc lang="pt">A Eurocup-3 é um campeonato europeu de monolugares fundado em 2023 como uma alternativa acessível e competitiva às séries Regionais de Fórmula existentes.</desc>
+    <length units="minutes">2700</length>
     <previously-shown/>
   </programme>
   <programme start="20260610073000 -0300" stop="20260610083000 -0300" channel="BAND SPORTS HD">
@@ -13717,12 +13728,10 @@
     <episode-num system="xmltv_ns">88.161.</episode-num>
   </programme>
   <programme start="20260610090000 -0300" stop="20260610100000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Papo de Paddock</title>
-    <desc lang="pt">Um programa de entrevistas que oferece uma visão única e privilegiada do mundo das corridas. Combinando análise técnica aprofundada e curiosidades fascinantes.</desc>
+    <title lang="pt">Na Reta dos Boxes</title>
+    <desc lang="pt">Programa pós Grande Prêmio reunindo especialistas e apaixonados por Fórmula 1 para comentar sobre o desempenho das equipes, pilotos e, claro, os bastidores do fim de semana de corrida de forma leve e descontraída.</desc>
     <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">89.161.</episode-num>
   </programme>
   <programme start="20260610100000 -0300" stop="20260610110000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Esporte Total</title>
@@ -13749,26 +13758,19 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">12.161.</episode-num>
   </programme>
-  <programme start="20260610140000 -0300" stop="20260610144500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Aragão: WorldSSP: Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.161.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260610144500 -0300" stop="20260610153000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Superbike: Etapa Aragão: WorldSPB: Corrida 2</title>
-    <desc lang="pt">As feras do motociclismo mundial aceleram no Mundial de Superbike e você acompanha tudo aqui no BandSports.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">14.161.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260610153000 -0300" stop="20260610170000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260610140000 -0300" stop="20260610153000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Sala do Esporte - ao vivo</title>
     <desc lang="pt">Veja tudo o que aconteceu em rodadas esportivas mundo afora, de maneira descontraída e bem-humorada.</desc>
     <length units="minutes">5400</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">85.161.</episode-num>
+    <episode-num system="xmltv_ns">84.161.</episode-num>
+  </programme>
+  <programme start="20260610153000 -0300" stop="20260610170000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt"> Triathlon World Tour: São Francisco</title>
+    <desc lang="pt">O T100 Triathlon World Tour é a principal série global de triatlo para atletas amadores, com eventos em locais icônicos e corridas intensas.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">99..</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260610170000 -0300" stop="20260610180000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Donos da Bola</title>
@@ -13804,7 +13806,12 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.161.</episode-num>
   </programme>
-  <programme start="20260610233000 -0300" stop="20260611001500 -0300" channel="BAND SPORTS HD">
+  <programme start="20260610233000 -0300" stop="20260610234500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <desc lang="pt">Parceria do BandSports com o Comitê Olímpico Brasileiro (COB) que apresentará conteúdos com bastidores da preparação dos atletas brasileiros para os Jogos Pan-Americanos também para as Olimpíadas de Los Ange...</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260610234500 -0300" stop="20260611003000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Mundo PBR</title>
     <desc lang="pt">Atração semanal dedicada ao universo da Professional Bull Riders (PBR), focada em trazer os melhores momentos, matérias especiais e destaques da montaria em touros no Brasil e no mundo.</desc>
     <length units="minutes">2700</length>
