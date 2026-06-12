@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-12 14:30:52" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-12 17:30:50" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -187757,14 +187757,12 @@
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
   </programme>
   <programme start="20260612233000 -0300" stop="20260613013000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP do Canadá</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
   </programme>
   <programme start="20260613013000 -0300" stop="20260613035500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Mônaco</title>
@@ -187777,7 +187775,6 @@
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
   </programme>
   <programme start="20260613055500 -0300" stop="20260613061000 -0300" channel="SPORTV 3">
     <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
@@ -187832,12 +187829,35 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260613125500 -0300" stop="20260613180000 -0300" channel="SPORTV 3">
+  <programme start="20260613125500 -0300" stop="20260613150000 -0300" channel="SPORTV 3">
     <title lang="pt">Skate: Semi Park - Roma, Itália - ao vivo</title>
     <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
-    <length units="minutes">18300</length>
+    <length units="minutes">7500</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260613150000 -0300" stop="20260613153000 -0300" channel="SPORTV 3">
+    <title lang="pt">Skate Para Sempre: Park</title>
+    <desc lang="pt">Nesta série, vamos contar a história do fenômeno Gui Khury. O prodígio que vem superando os &quot;limites&quot; do skate e que bateu o recorde de mais de 20 anos da lenda Tony Hawk ao completar o 1080 graus.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260613153000 -0300" stop="20260613173000 -0300" channel="SPORTV 3">
+    <title lang="pt">Copa do Mundo de Skate - ao vivo</title>
+    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260613173000 -0300" stop="20260613180000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas: Ayrton Senna</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">87.164.</episode-num>
   </programme>
   <programme start="20260613180000 -0300" stop="20260613193000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 3º Treino Livre</title>
