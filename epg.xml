@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-06-16 14:30:39" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-06-16 20:30:53" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -56311,42 +56311,49 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260616180000 -0300" stop="20260616200000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Troca de Passes - Copa do Mundo</title>
-    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
+    <title lang="pt">Seleção Copa - ao vivo</title>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
     <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.167.</episode-num>
   </programme>
   <programme start="20260616200000 -0300" stop="20260616210000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Radar da Seleção - ao vivo</title>
-    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
+    <title lang="pt">Que Copa É Essa?</title>
+    <sub-title lang="pt">Copas do Mundo de 1990 e 1994</sub-title>
+    <desc lang="pt">Acabou! É tetra! Após 24 anos de espera, o Brasil conquistou a Copa graças ao talento de Bebeto, Romário e companhia. Antes, em 1990, uma doída eliminação diante da Argentina.</desc>
     <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.167.</episode-num>
+    <episode-num system="xmltv_ns">80.7.</episode-num>
   </programme>
-  <programme start="20260616210000 -0300" stop="20260616220000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260616210000 -0300" stop="20260616223000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Troca de Passes - Copa do Mundo</title>
+    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">81.167.</episode-num>
   </programme>
-  <programme start="20260616220000 -0300" stop="20260617000000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Bélgica x Egito - ao vivo</title>
-    <desc lang="pt">Copa do Mundo FIFA Bélgica e Egito jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no Lumen Field, em Seattle, EUA.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260616223000 -0300" stop="20260616233000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Que Copa É Essa?</title>
+    <sub-title lang="pt">Copa do Mundo de 1998</sub-title>
+    <desc lang="pt">Mistério em Saint-Denis! O Brasil era só otimismo antes de enfrentar a França na final da Copa de 98. Mas a convulsão de Ronaldo e os gols de Zidane adiaram o sonho do penta, dando o 1º título aos anfitriões.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.8.</episode-num>
   </programme>
-  <programme start="20260617000000 -0300" stop="20260617005000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
-    <length units="minutes">3000</length>
+  <programme start="20260616233000 -0300" stop="20260617000000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Lendas - Pelé - Parte 1</title>
+    <desc lang="pt">O maior atleta do século XX tem sua vida e obra revisitadas neste especial do Baú do Esporte, dividido em duas partes. Nesse episódio falamos do surgimento e do auge da carreira de Edson Arantes do Nascimento.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.167.</episode-num>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617010000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Aquecimento sportv - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">80.168.</episode-num>
   </programme>
-  <programme start="20260617005000 -0300" stop="20260617030000 -0300" channel="Claro TV+ 4K">
+  <programme start="20260617010000 -0300" stop="20260617030000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Áustria x Jordânia - ao vivo</title>
     <desc lang="pt">Áustria e Jordânia jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no Levis Stadium, em Santa Clara, EUA.</desc>
-    <length units="minutes">7800</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260617030000 -0300" stop="20260617050000 -0300" channel="Claro TV+ 4K">
@@ -56381,18 +56388,18 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.168.</episode-num>
   </programme>
-  <programme start="20260617103000 -0300" stop="20260617133000 -0300" channel="Claro TV+ 4K">
+  <programme start="20260617103000 -0300" stop="20260617123000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Arábia Saudita x Uruguai</title>
+    <desc lang="pt">Arábia Saudita e Uruguai jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617153000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Partiu Copa - ao vivo</title>
     <desc lang="pt">Kelly, Joanna de Assis, Maurício Paulucci e Lucas Gutierrez comandam a resenha com informação, bastidores e tudo que movimenta a Copa do Mundo. É o Partiu Copa, No sportv!</desc>
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.168.</episode-num>
-  </programme>
-  <programme start="20260617133000 -0300" stop="20260617153000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">França x Senegal</title>
-    <desc lang="pt">França e Senegal jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+    <episode-num system="xmltv_ns">82.168.</episode-num>
   </programme>
   <programme start="20260617153000 -0300" stop="20260617170000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Aquecimento sportv - ao vivo</title>
@@ -56407,22 +56414,22 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260617190000 -0300" stop="20260617210000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Troca de Passes - Copa do Mundo</title>
-    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">89.168.</episode-num>
-  </programme>
-  <programme start="20260617210000 -0300" stop="20260617220000 -0300" channel="Claro TV+ 4K">
-    <title lang="pt">Radar da Seleção - ao vivo</title>
-    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.168.</episode-num>
-  </programme>
-  <programme start="20260617220000 -0300" stop="20260617230000 -0300" channel="Claro TV+ 4K">
+  <programme start="20260617190000 -0300" stop="20260617201500 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Seleção Copa - ao vivo</title>
     <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
+    <length units="minutes">4500</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">89.168.</episode-num>
+  </programme>
+  <programme start="20260617201500 -0300" stop="20260617220000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Troca de Passes - Copa do Mundo</title>
+    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">80.168.</episode-num>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617230000 -0300" channel="Claro TV+ 4K">
+    <title lang="pt">Aquecimento sportv - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.168.</episode-num>
@@ -129878,16 +129885,16 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260616200000 -0300" stop="20260616220000 -0300" channel="HBO Mundi">
+  <programme start="20260616200000 -0300" stop="20260616220500 -0300" channel="HBO Mundi">
     <title lang="pt">De ao Mar</title>
     <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">Depois de viver uma vida no limite em Londres, Rona tenta aceitar o seu passado conturbado. Ela retorna à beleza selvagem das Ilhas Orkney, na Escócia onde cresceu na esperança de se curar.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7500</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260616220000 -0300" stop="20260617001500 -0300" channel="HBO Mundi">
+  <programme start="20260616220500 -0300" stop="20260617002000 -0300" channel="HBO Mundi">
     <title lang="pt">Anônimo</title>
     <desc lang="pt">Um drama que questiona um assunto que intriga acadêmicos e mentes brilhantes até hoje: Quem foi o autor das obras atribuídas a Shakespeare? Eward De Vere é apresentado como o verdadeiro autor do trabalho do escritor.</desc>
     <length units="minutes">8100</length>
@@ -129895,7 +129902,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260616220000 -0300" stop="20260617001500 -0300" channel="HBO Mundi">
+  <programme start="20260616220500 -0300" stop="20260617002000 -0300" channel="HBO Mundi">
     <title lang="pt">Anônimo</title>
     <desc lang="pt">Um drama que questiona um assunto que intriga acadêmicos e mentes brilhantes até hoje: Quem foi o autor das obras atribuídas a Shakespeare? Eward De Vere é apresentado como o verdadeiro autor do trabalho do escritor.</desc>
     <length units="minutes">8100</length>
@@ -129903,10 +129910,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617001500 -0300" stop="20260617010800 -0300" channel="HBO Mundi">
+  <programme start="20260617002000 -0300" stop="20260617010800 -0300" channel="HBO Mundi">
     <title lang="pt">Orgulho</title>
     <desc lang="pt">Quando sua vida despreocupada se transforma após uma tragédia familiar inesperada, Filip precisa amadurecer para não perder tudo o que lhe resta.</desc>
-    <length units="minutes">3180</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
@@ -129928,15 +129935,15 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617060000 -0300" stop="20260617072000 -0300" channel="HBO Mundi">
+  <programme start="20260617060000 -0300" stop="20260617072500 -0300" channel="HBO Mundi">
     <title lang="pt">33 Fotos do Gueto</title>
     <desc lang="pt">Este documentário apresenta uma série de fotos tiradas secretamente durante a Revolta do Gueto de Varsóvia em 1943 e as histórias extraordinárias e comoventes por trás de um dos momentos mais sombrios da Segunda Guerr...</desc>
-    <length units="minutes">4800</length>
+    <length units="minutes">5100</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617072000 -0300" stop="20260617103000 -0300" channel="HBO Mundi">
+  <programme start="20260617072500 -0300" stop="20260617103500 -0300" channel="HBO Mundi">
     <title lang="pt">Magnólia</title>
     <desc lang="pt">Vale de São Fernando, Califórnia. As dores e angústias de diversos personagens se entrecruzam em um só dia.</desc>
     <length units="minutes">11400</length>
@@ -129944,7 +129951,7 @@
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260617103000 -0300" stop="20260617124000 -0300" channel="HBO Mundi">
+  <programme start="20260617103500 -0300" stop="20260617124500 -0300" channel="HBO Mundi">
     <title lang="pt">Roman J. Israel</title>
     <desc lang="pt">Roman J. Israel é um advogado idealista cuja vida muda completamente quando seu professor, um ícone de direitos civis, morre.</desc>
     <length units="minutes">7800</length>
@@ -129952,7 +129959,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617124000 -0300" stop="20260617150500 -0300" channel="HBO Mundi">
+  <programme start="20260617124500 -0300" stop="20260617151000 -0300" channel="HBO Mundi">
     <title lang="pt">A Cozinha</title>
     <desc lang="pt">A vida em uma cozinha de restaurante de Nova York durante o horário de pico do almoço mostra uma mistura de culturas de todo o mundo.</desc>
     <length units="minutes">8700</length>
@@ -129960,7 +129967,7 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260617150500 -0300" stop="20260617165000 -0300" channel="HBO Mundi">
+  <programme start="20260617151000 -0300" stop="20260617165500 -0300" channel="HBO Mundi">
     <title lang="pt">Eu Vi o Brilho da TV</title>
     <desc lang="pt">Um adolescente está tentando sobreviver à vida nos subúrbios quando uma colega de classe apresenta a ele um misterioso programa televisivo noturno.</desc>
     <length units="minutes">6300</length>
@@ -129968,7 +129975,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617165000 -0300" stop="20260617191500 -0300" channel="HBO Mundi">
+  <programme start="20260617165500 -0300" stop="20260617192000 -0300" channel="HBO Mundi">
     <title lang="pt">Tudo em Todo o Lugar ao Mesmo Tempo</title>
     <desc lang="pt">Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido.</desc>
     <length units="minutes">8700</length>
@@ -129976,10 +129983,10 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617191500 -0300" stop="20260617201500 -0300" channel="HBO Mundi">
+  <programme start="20260617192000 -0300" stop="20260617201500 -0300" channel="HBO Mundi">
     <title lang="pt">O Imortal</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
@@ -129993,15 +130000,15 @@
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260617220000 -0300" stop="20260617233500 -0300" channel="HBO Mundi">
+  <programme start="20260617220000 -0300" stop="20260617234500 -0300" channel="HBO Mundi">
     <title lang="pt">O Susurro</title>
     <desc lang="pt">Lucía e Adrián fogem de seu pai violento para uma mansão. Lá, eles descobrem uma rede de filmes snuff e uma maldição familiar.</desc>
-    <length units="minutes">5700</length>
+    <length units="minutes">6300</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260617233500 -0300" stop="20260618010500 -0300" channel="HBO Mundi">
+  <programme start="20260617234500 -0300" stop="20260618011500 -0300" channel="HBO Mundi">
     <title lang="pt">A Morte do Demônio</title>
     <desc lang="pt">Cinco amigos vão a uma cabana no bosque, onde encontrarão Necromicon, o livro dos mortos, e a tradução do texto gravado numa fita. Ao reproduzi-la, o mal será liberado e , um a um, serão possuídos por espíri...</desc>
     <length units="minutes">5400</length>
@@ -130009,7 +130016,7 @@
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260617233500 -0300" stop="20260618010500 -0300" channel="HBO Mundi">
+  <programme start="20260617234500 -0300" stop="20260618011500 -0300" channel="HBO Mundi">
     <title lang="pt">A Morte do Demônio</title>
     <desc lang="pt">Cinco amigos vão a uma cabana no bosque, onde encontrarão Necromicon, o livro dos mortos, e a tradução do texto gravado numa fita. Ao reproduzi-la, o mal será liberado e , um a um, serão possuídos por espíri...</desc>
     <length units="minutes">5400</length>
@@ -184408,7 +184415,7 @@
   </programme>
   <programme start="20260617134500 -0300" stop="20260617153000 -0300" channel="SBT">
     <title lang="pt">Meu Coração é Teu</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Leon leva Maurício na escola quando recebe uma ligação de Fanny, quem lhe diz que já sabe do beijo dele e de Laura.</desc>
     <length units="minutes">6300</length>
     <episode-num system="xmltv_ns">83.168.</episode-num>
     <rating system="Brazil">
@@ -184451,7 +184458,7 @@
   </programme>
   <programme start="20260617204500 -0300" stop="20260617220000 -0300" channel="SBT">
     <title lang="pt">A História de Joana - A Virgem</title>
-    <desc lang="pt">Juana, uma virgem, é inseminada artificialmente por engano após uma confusão na clínica. Sua vida vira de cabeça para baixo com a gravidez inesperada, especialmente quando ela se apaixona pelo pai biológico do beb...</desc>
+    <desc lang="pt">Joana conta à mãe que conseguiu um emprego, mas perde o entusiasmo ao descobrir que trabalhará justamente na cervejaria.</desc>
     <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">80.168.</episode-num>
     <rating system="Brazil">
@@ -188785,45 +188792,38 @@
     <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260616180000 -0300" stop="20260616195500 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes: Copa do Mundo</title>
-    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260616180000 -0300" stop="20260616200000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção Copa</title>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">88.167.</episode-num>
   </programme>
-  <programme start="20260616195500 -0300" stop="20260616200000 -0300" channel="SPORTV">
-    <title lang="pt">Pílula Copa do Mundo: Gol de Falta Ronaldinho Vs Inglaterra (2002)</title>
-    <desc lang="pt">Pílula Copa do Mundo 2026</desc>
-    <length units="minutes">300</length>
+  <programme start="20260616200000 -0300" stop="20260616210000 -0300" channel="SPORTV">
+    <title lang="pt">França x Senegal</title>
+    <desc lang="pt">França e Senegal jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.167.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260616200000 -0300" stop="20260616215500 -0300" channel="SPORTV">
-    <title lang="pt">Radar da Seleção - ao vivo</title>
-    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
-    <length units="minutes">6900</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.167.</episode-num>
-  </programme>
-  <programme start="20260616215500 -0300" stop="20260616220000 -0300" channel="SPORTV">
-    <title lang="pt">Pílula Copa do Mundo: Golaço de Maradona Vs Inglaterra (1986)</title>
-    <desc lang="pt">Pílula Copa do Mundo 2026</desc>
-    <length units="minutes">300</length>
+  <programme start="20260616210000 -0300" stop="20260616223000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes: Copa do Mundo</title>
+    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
+    <length units="minutes">5400</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">81.167.</episode-num>
   </programme>
-  <programme start="20260616220000 -0300" stop="20260616235500 -0300" channel="SPORTV">
-    <title lang="pt">Radar da Seleção</title>
-    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260616223000 -0300" stop="20260616230000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Copa</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">82.167.</episode-num>
   </programme>
-  <programme start="20260616235500 -0300" stop="20260617000000 -0300" channel="SPORTV">
-    <title lang="pt">Pílula Copa do Mundo: Gol do Ronaldo Vs Turquia (2002)</title>
-    <desc lang="pt">Pílula Copa do Mundo 2026</desc>
-    <length units="minutes">300</length>
+  <programme start="20260616230000 -0300" stop="20260617000000 -0300" channel="SPORTV">
+    <title lang="pt">Radar da Seleção</title>
+    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">83.167.</episode-num>
   </programme>
@@ -188869,25 +188869,18 @@
     <previously-shown/>
   </programme>
   <programme start="20260617070000 -0300" stop="20260617073000 -0300" channel="SPORTV">
-    <title lang="pt">Copa e Cozinha</title>
-    <desc lang="pt">Às vésperas da Copa de 2026, vamos unir grandes paixões do Brasil: futebol, comida e humor. Com apresentação de Fábio Porchat, &quot;Copa e Cozinha&quot; mistura a divertida resenha do vestiário com variados sabo...</desc>
+    <title lang="pt">Fifa Movies</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.1.</episode-num>
+    <episode-num system="xmltv_ns">87.168.</episode-num>
   </programme>
-  <programme start="20260617073000 -0300" stop="20260617080000 -0300" channel="SPORTV">
-    <title lang="pt">Copa e Cozinha</title>
-    <desc lang="pt">Às vésperas da Copa de 2026, vamos unir grandes paixões do Brasil: futebol, comida e humor. Com apresentação de Fábio Porchat, &quot;Copa e Cozinha&quot; mistura a divertida resenha do vestiário com variados sabo...</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260617073000 -0300" stop="20260617083000 -0300" channel="SPORTV">
+    <title lang="pt">França x Senegal</title>
+    <desc lang="pt">França e Senegal jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.2.</episode-num>
-  </programme>
-  <programme start="20260617080000 -0300" stop="20260617083000 -0300" channel="SPORTV">
-    <title lang="pt">Copa e Cozinha</title>
-    <desc lang="pt">Às vésperas da Copa de 2026, vamos unir grandes paixões do Brasil: futebol, comida e humor. Com apresentação de Fábio Porchat, &quot;Copa e Cozinha&quot; mistura a divertida resenha do vestiário com variados sabo...</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.3.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260617083000 -0300" stop="20260617103000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - ao vivo</title>
@@ -188896,26 +188889,19 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">88.168.</episode-num>
   </programme>
-  <programme start="20260617103000 -0300" stop="20260617133000 -0300" channel="SPORTV">
+  <programme start="20260617103000 -0300" stop="20260617123000 -0300" channel="SPORTV">
+    <title lang="pt">Radar da Seleção</title>
+    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">80.168.</episode-num>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617153000 -0300" channel="SPORTV">
     <title lang="pt">Partiu Copa - ao vivo</title>
     <desc lang="pt">Kelly, Joanna de Assis, Maurício Paulucci e Lucas Gutierrez comandam a resenha com informação, bastidores e tudo que movimenta a Copa do Mundo. É o Partiu Copa, No sportv!</desc>
     <length units="minutes">10800</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.168.</episode-num>
-  </programme>
-  <programme start="20260617133000 -0300" stop="20260617143000 -0300" channel="SPORTV">
-    <title lang="pt">Seleção Copa</title>
-    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.168.</episode-num>
-  </programme>
-  <programme start="20260617143000 -0300" stop="20260617153000 -0300" channel="SPORTV">
-    <title lang="pt">Seleção Copa</title>
-    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.168.</episode-num>
+    <episode-num system="xmltv_ns">82.168.</episode-num>
   </programme>
   <programme start="20260617153000 -0300" stop="20260617170000 -0300" channel="SPORTV">
     <title lang="pt">Aquecimento sportv - ao vivo</title>
@@ -188924,43 +188910,29 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">85.168.</episode-num>
   </programme>
-  <programme start="20260617170000 -0300" stop="20260617185500 -0300" channel="SPORTV">
+  <programme start="20260617170000 -0300" stop="20260617190000 -0300" channel="SPORTV">
     <title lang="pt">Inglaterra x Croácia - ao vivo</title>
     <desc lang="pt">Inglaterra e Croácia jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260617185500 -0300" stop="20260617190000 -0300" channel="SPORTV">
-    <title lang="pt">França x Senegal</title>
-    <desc lang="pt">França e Senegal jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
-    <length units="minutes">300</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260617190000 -0300" stop="20260617205500 -0300" channel="SPORTV">
-    <title lang="pt">Troca de Passes: Copa do Mundo</title>
-    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260617190000 -0300" stop="20260617201500 -0300" channel="SPORTV">
+    <title lang="pt">Seleção Copa</title>
+    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
+    <length units="minutes">4500</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">89.168.</episode-num>
   </programme>
-  <programme start="20260617205500 -0300" stop="20260617210000 -0300" channel="SPORTV">
-    <title lang="pt">Áustria x Jordânia</title>
-    <desc lang="pt">Áustria e Jordânia jogam pela 1ª rodada da fase de grupos da Copa do Mundo da FIFA 2026, no Levis Stadium, em Santa Clara, EUA.</desc>
-    <length units="minutes">300</length>
+  <programme start="20260617201500 -0300" stop="20260617220000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes: Copa do Mundo</title>
+    <desc lang="pt">Felipe Diniz, Carlos Eduardo Mansur e Alex Meschini troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada. Veja os melhores momentos, tire as dúvidas daquele lance polêmico.</desc>
+    <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260617210000 -0300" stop="20260617220000 -0300" channel="SPORTV">
-    <title lang="pt">Radar da Seleção - ao vivo</title>
-    <desc lang="pt">Acompanhe o dia a dia, os bastidores e tudo que movimenta a Seleção Brasileira durante a Copa do Mundo. Aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">81.168.</episode-num>
+    <episode-num system="xmltv_ns">80.168.</episode-num>
   </programme>
   <programme start="20260617220000 -0300" stop="20260617230000 -0300" channel="SPORTV">
-    <title lang="pt">Seleção Copa - ao vivo</title>
-    <desc lang="pt">Debates, análises e tudo sobre a preparação da Seleção Brasileira para a Copa do Mundo, é o Seleção Copa, aqui no sportv!</desc>
+    <title lang="pt">Aquecimento sportv - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.168.</episode-num>
@@ -190059,7 +190031,7 @@
     <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.15.</episode-num>
+    <episode-num system="xmltv_ns">82.16.</episode-num>
   </programme>
   <programme start="20260616233000 -0300" stop="20260617013000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
@@ -190172,296 +190144,279 @@
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260618014000 -0300" stop="20260618022500 -0300" channel="SPORTV 3">
+  <programme start="20260618014000 -0300" stop="20260618034000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP da Austrália</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260618034000 -0300" stop="20260618044000 -0300" channel="SPORTV 3">
     <title lang="pt">Na Ponta dos Dedos</title>
     <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.15.</episode-num>
-  </programme>
-  <programme start="20260618022500 -0300" stop="20260618042500 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe: Melhores Momentos - Etapa da Nova Zelândia</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260618042500 -0300" stop="20260618062500 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe: Melhores Momentos - Etapa da Nova Zelândia</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260618062500 -0300" stop="20260618082500 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe: Melhores Momentos - Etapa da Nova Zelândia</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260618082500 -0300" stop="20260618085500 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260618085500 -0300" stop="20260618093000 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">8.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260618093000 -0300" stop="20260618193000 -0300" channel="SPORTV 3">
-    <title lang="pt">Circuito Mundial de Surfe: Etapa de Punta Roca - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">36000</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260618193000 -0300" stop="20260618201500 -0300" channel="SPORTV 3">
-    <title lang="pt">Amazing Riders: O Salto Impossível</title>
-    <desc lang="pt">O superatleta Caio Afeto realiza pela 1a vez o salto de base jump do topo da Cachoeira do Eldorado na Amazônia, a maior queda d'água do Brasil, com mais de 350 metros.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.1.</episode-num>
-  </programme>
-  <programme start="20260618201500 -0300" stop="20260618210000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL Replay 2026: Rip Curl Pro Bells Beach</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260618210000 -0300" stop="20260618220000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL Replay 2026: Etapa Nova Zelândia</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.16.</episode-num>
   </programme>
-  <programme start="20260618220000 -0300" stop="20260619000000 -0300" channel="SPORTV 3">
+  <programme start="20260618044000 -0300" stop="20260618051500 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">84.1.</episode-num>
+  </programme>
+  <programme start="20260618051500 -0300" stop="20260618091000 -0300" channel="SPORTV 3">
+    <title lang="pt">Jungle Fight 150: Fight do Milhão</title>
+    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
+    <length units="minutes">14100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260618091000 -0300" stop="20260618113500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Grand Slam de Judô: Astana, Cazaquistão</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
+    <length units="minutes">8700</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260618113500 -0300" stop="20260618125500 -0300" channel="SPORTV 3">
+    <title lang="pt">One Fight Night 42</title>
+    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
+    <length units="minutes">4800</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260618125500 -0300" stop="20260618134000 -0300" channel="SPORTV 3">
+    <title lang="pt">Acesso Total: Ippon</title>
+    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.2.</episode-num>
+  </programme>
+  <programme start="20260618134000 -0300" stop="20260618141500 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.1.</episode-num>
+  </programme>
+  <programme start="20260618141500 -0300" stop="20260618142500 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Combate: Mike Tyson</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">84.169.</episode-num>
+  </programme>
+  <programme start="20260618142500 -0300" stop="20260618164500 -0300" channel="SPORTV 3">
+    <title lang="pt">Escalada Feminina: Boulder - República Tcheca - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As grandes estrelas da Escalada se encontram em mais uma etapa da Copa do Mundo de Escalada! Acompanhe o melhor da Escalada, aqui no sportv.</desc>
+    <length units="minutes">8400</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260618164500 -0300" stop="20260618184500 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Diamond League: 6ª Etapa - Oslo, Noruega</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">22.169.</episode-num>
+    <episode-num system="xmltv_ns">16.169.</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260619000000 -0300" stop="20260619020000 -0300" channel="SPORTV 3">
+  <programme start="20260618184500 -0300" stop="20260618204500 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Diamond League: 5ª Etapa - Estocolmo, Suécia</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260619020000 -0300" stop="20260619022500 -0300" channel="SPORTV 3">
-    <title lang="pt">Momentos Olímpicos Inesquecíveis: Turim 2006</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1500</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">82.170.</episode-num>
-  </programme>
-  <programme start="20260619022500 -0300" stop="20260619032500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Canadá - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260618204500 -0300" stop="20260618224500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Diamond League: 4ª Etapa - Roma, Itália</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260619032500 -0300" stop="20260619055000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">8700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260619055000 -0300" stop="20260619070000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 2: GP de Barcelona-Catalunha - Treino Livre - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">4200</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260619070000 -0300" stop="20260619080000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Canadá - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260618224500 -0300" stop="20260619004500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Diamond League: 3ª Etapa - Rabat, Marrocos</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260619080000 -0300" stop="20260619093000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 1º Treino Livre - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260619093000 -0300" stop="20260619104500 -0300" channel="SPORTV 3">
-    <title lang="pt">Na Ponta dos Dedos</title>
-    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
-    <length units="minutes">4500</length>
+  <programme start="20260618224500 -0300" stop="20260619004500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Diamond League: 3ª Etapa - Rabat, Marrocos</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.15.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260619104500 -0300" stop="20260619113000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 2: GP de Barcelona-Catalunha - Classificação - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260619004500 -0300" stop="20260619024500 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Diamond League: 6ª Etapa - Oslo, Noruega</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260619113000 -0300" stop="20260619130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 2º Treino Livre - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260619130000 -0300" stop="20260619193000 -0300" channel="SPORTV 3">
-    <title lang="pt">Circuito Mundial de Surfe: Etapa de Punta Roca - ao vivo</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">23400</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260619193000 -0300" stop="20260619200500 -0300" channel="SPORTV 3">
-    <title lang="pt">Meu Nome É João Chianca</title>
-    <desc lang="pt">Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
+  <programme start="20260619024500 -0300" stop="20260619032000 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
     <length units="minutes">2100</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.170.</episode-num>
+    <episode-num system="xmltv_ns">82.1.</episode-num>
   </programme>
-  <programme start="20260619200500 -0300" stop="20260619213000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 1º Treino Livre</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+  <programme start="20260619032000 -0300" stop="20260619040500 -0300" channel="SPORTV 3">
+    <title lang="pt">Acesso Total: Ippon</title>
+    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
+    <length units="minutes">2700</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.2.</episode-num>
+  </programme>
+  <programme start="20260619040500 -0300" stop="20260619070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Oktagon 88</title>
+    <desc lang="pt">Grandes nomes do MMA europeu se enfrentam em um card marcado por rivalidade, pressão e combates decisivos. acompanhe o Oktagon 88 aqui no Combate!</desc>
+    <length units="minutes">10500</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260619070000 -0300" stop="20260619082500 -0300" channel="SPORTV 3">
+    <title lang="pt">One Fight Night 42</title>
+    <desc lang="pt">Terceira maior franquia de MMA mundial e a principal da Ásia, presente em mais de 170 países, o One é a liga esportiva de diferentes modalidades além do MMA como: Grappling, Muay Thai, Kickboxing.</desc>
     <length units="minutes">5100</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260619213000 -0300" stop="20260619223000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 2º Treino Livre</title>
+  <programme start="20260619082500 -0300" stop="20260619092000 -0300" channel="SPORTV 3">
+    <title lang="pt">The Z Team: Ginástica Com Margarita Mamun</title>
+    <desc lang="pt">A evolução tecnológica do esporte: túneis para testes aerodinâmicos; análise muscular; câmeras olho de águia; cadeiras de rodas de alto rendimento; monitor de ácido lático.</desc>
+    <length units="minutes">3300</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">88.7.</episode-num>
+  </programme>
+  <programme start="20260619092000 -0300" stop="20260619093500 -0300" channel="SPORTV 3">
+    <title lang="pt">Heróis do Futuro: Arthur Zanetti: Ginástica Artística</title>
+    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+    <length units="minutes">900</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">19.92.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260619093500 -0300" stop="20260619130000 -0300" channel="SPORTV 3">
+    <title lang="pt">Ginástica Artística: Finail Individual Geral Masculino - ao vivo</title>
+    <desc lang="pt">As melhores seleções do continente disputam o título nas finais por equipes. É o Campeonato Pan-Americano de Ginástica Artística, aqui no sportv!</desc>
+    <length units="minutes">12300</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260619130000 -0300" stop="20260619133000 -0300" channel="SPORTV 3">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">Os resultados dos Jogos Olímpicos de Paris 24 levaram a ginástica artística feminina brasileira ao topo do esporte mundial. Tal qual uma final de Copa do Mundo, o país parou para torcer por Rebeca Andrade, Jade Barbosa.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.1.</episode-num>
+  </programme>
+  <programme start="20260619133000 -0300" stop="20260619140000 -0300" channel="SPORTV 3">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">Os resultados dos Jogos Olímpicos de Paris 24 levaram a ginástica artística feminina brasileira ao topo do esporte mundial. Tal qual uma final de Copa do Mundo, o país parou para torcer por Rebeca Andrade, Jade Barbosa.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">83.2.</episode-num>
+  </programme>
+  <programme start="20260619140000 -0300" stop="20260619160500 -0300" channel="SPORTV 3">
+    <title lang="pt">Diamond League: 7ª Etapa - Doha, Catar - ao vivo</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7500</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260619160500 -0300" stop="20260620011500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: On the Records Atletismo</title>
+    <desc lang="pt">Eddie Tolan, Dick Fosbury, Michael Johnson e Usain Bolt estão entre os recordistas do atletismo retratados neste episódio.</desc>
+    <length units="minutes">33000</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">16.170.</episode-num>
+  </programme>
+  <programme start="20260619160500 -0300" stop="20260620011500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: On the Records Atletismo</title>
+    <desc lang="pt">Eddie Tolan, Dick Fosbury, Michael Johnson e Usain Bolt estão entre os recordistas do atletismo retratados neste episódio.</desc>
+    <length units="minutes">33000</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">16.170.</episode-num>
+  </programme>
+  <programme start="20260620011500 -0300" stop="20260620042000 -0300" channel="SPORTV 3">
+    <title lang="pt">FMS Fight Night 8</title>
+    <desc lang="pt">O maior evento de influenciadores da América Latina, traz em mais uma edição, uma luta histórica no Paraná! São 10 lutas de MMA e 3 lutas de Boxe que prometem muito!</desc>
+    <length units="minutes">11100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260620042000 -0300" stop="20260620071500 -0300" channel="SPORTV 3">
+    <title lang="pt">Oktagon 87: República Tcheca</title>
+    <desc lang="pt">Grandes nomes do MMA europeu se enfrentam em um card marcado por rivalidade, pressão e combates decisivos. acompanhe o Oktagon 88 aqui no Combate!</desc>
+    <length units="minutes">10500</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260620071500 -0300" stop="20260620075000 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">87.1.</episode-num>
+  </programme>
+  <programme start="20260620075000 -0300" stop="20260620095000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260619223000 -0300" stop="20260619233000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Mônaco - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260619233000 -0300" stop="20260620013000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Canadá</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260619233000 -0300" stop="20260620013000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP do Canadá</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260620013000 -0300" stop="20260620035500 -0300" channel="SPORTV 3">
+  <programme start="20260620095000 -0300" stop="20260620121500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Mônaco</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">8700</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260620035500 -0300" stop="20260620055500 -0300" channel="SPORTV 3">
+  <programme start="20260620121500 -0300" stop="20260620141500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Miami</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260620055500 -0300" stop="20260620061000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
-    <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260620061000 -0300" stop="20260620071500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Mônaco - Melhores Momentos</title>
+  <programme start="20260620141500 -0300" stop="20260620162000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP do Canadá</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">7500</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260620071500 -0300" stop="20260620083000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 3º Treino Livre - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">4500</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260620083000 -0300" stop="20260620090000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 2: GP de Barcelona-Catalunha - Classificação</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260620090000 -0300" stop="20260620100000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 2: GP de Barcelona-Catalunha - Corrida Sprint - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260620100000 -0300" stop="20260620110000 -0300" channel="SPORTV 3">
-    <title lang="pt">Aquecimento sportv - ao vivo</title>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">80.171.</episode-num>
-  </programme>
-  <programme start="20260620110000 -0300" stop="20260620121500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - Classificação - ao vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">4500</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260620121500 -0300" stop="20260620125500 -0300" channel="SPORTV 3">
-    <title lang="pt">Skate Para Sempre: Vertical</title>
-    <desc lang="pt">Nesta série, vamos contar a história do fenômeno Gui Khury. O prodígio que vem superando os &quot;limites&quot; do skate e que bateu o recorde de mais de 20 anos da lenda Tony Hawk ao completar o 1080 graus.</desc>
-    <length units="minutes">2400</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">12.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260620125500 -0300" stop="20260620180000 -0300" channel="SPORTV 3">
-    <title lang="pt">Skate: Semi Park - Roma, Itália - ao vivo</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
-    <length units="minutes">18300</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260620180000 -0300" stop="20260620193000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - 3º Treino Livre</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5400</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260620193000 -0300" stop="20260620203000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha - Classificação</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260620203000 -0300" stop="20260620213500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Mônaco - Melhores Momentos</title>
+  <programme start="20260620162000 -0300" stop="20260620183000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP do Japão</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">7800</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260620213500 -0300" stop="20260620233500 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Diamond League: 6ª Etapa - Oslo, Noruega</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+  <programme start="20260620183000 -0300" stop="20260620203000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">21.171.</episode-num>
-    <previously-shown/>
   </programme>
-  <programme start="20260620233500 -0300" stop="20260621013500 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Diamond League: 5ª Etapa - Estocolmo, Suécia</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260620203000 -0300" stop="20260620213000 -0300" channel="SPORTV 3">
+    <title lang="pt">Tênis de Mesa: Zagreb, Croácia</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <previously-shown/>
+  </programme>
+  <programme start="20260620213000 -0300" stop="20260620223000 -0300" channel="SPORTV 3">
+    <title lang="pt">Tênis de Mesa: Zagreb, Croácia</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260620223000 -0300" stop="20260620233000 -0300" channel="SPORTV 3">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Não perca o podcast focado em esportes a motor, cobrindo Fórmula 1 e categorias juniores, o programa traz entrevistas exclusivas, análises técnicas e bastidores.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.16.</episode-num>
+  </programme>
+  <programme start="20260620233000 -0300" stop="20260621013500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <length units="minutes">7500</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260615223500 -0300" stop="20260616005500 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Queen &amp; Slim - Os Perseguidos</title>
@@ -203762,207 +203717,213 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617060000 -0300" stop="20260617062800 -0300" channel="TNT SERIES HD">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <sub-title lang="pt">Dependent</sub-title>
-    <desc lang="pt">Um advogado é atacado em casa, na frente de seu filho. O menino fica traumatizado e os detetives começam a procurar pela irmã do garoto, que estava na casa de uma amiga durante o crime.</desc>
-    <length units="minutes">1680</length>
-    <episode-num system="xmltv_ns">8.15.</episode-num>
+  <programme start="20260617060000 -0300" stop="20260617060400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">240</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617062800 -0300" stop="20260617071300 -0300" channel="TNT SERIES HD">
+  <programme start="20260617060400 -0300" stop="20260617060600 -0300" channel="TNT SERIES HD">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
+    <length units="minutes">120</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260617060600 -0300" stop="20260617065300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Outsider</sub-title>
     <desc lang="pt">Tutuola faz dupla com um detetive de outro distrito para investigar o estupro de uma universitária.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">8.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617071300 -0300" stop="20260617081300 -0300" channel="TNT SERIES HD">
+  <programme start="20260617065300 -0300" stop="20260617073900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">A Rose Is A Rose</sub-title>
     <desc lang="pt">No começo da temporada, Major Crimes investiga um duplo homicídio nas montanhas de Hollywood. Enquanto isso, Sanchez tenta se reincorporar na divisão logo após sua suspensão.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617081300 -0300" stop="20260617085700 -0300" channel="TNT SERIES HD">
+  <programme start="20260617073900 -0300" stop="20260617082400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Sorry I Missed You</sub-title>
     <desc lang="pt">Quando um corpo aprece no porta-malas de um carro logo após uma persecução, Major Crimes precisa descobrir conexões entre diferentes pessoas e diferentes profissões.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617085700 -0300" stop="20260617094000 -0300" channel="TNT SERIES HD">
+  <programme start="20260617082400 -0300" stop="20260617091000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Time To Crime</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617094000 -0300" stop="20260617102800 -0300" channel="TNT SERIES HD">
+  <programme start="20260617091000 -0300" stop="20260617100000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Revolution</sub-title>
     <desc lang="pt">Rush e a equipe investigam o assassinato por estrangulamento, em 1969, de Ellie McCormick (Sarah Lee Jones), de 19 anos, cujo corpo foi encontrado no apartamento de seu namorado.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617102800 -0300" stop="20260617111400 -0300" channel="TNT SERIES HD">
+  <programme start="20260617100000 -0300" stop="20260617104800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Wishing</sub-title>
     <desc lang="pt">A morte de um adolescente com transtornos mentais é investigada novamente quando novas evidências revelam que ele pode ter sido assassinado.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617111400 -0300" stop="20260617120000 -0300" channel="TNT SERIES HD">
+  <programme start="20260617104800 -0300" stop="20260617113600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Guilty</sub-title>
     <desc lang="pt">Quando a Máquina envia Finch à sua missão mais complicada até hoje  uma audiência no tribunal -, ele começa a suspeitar que um jurado esteja pronto para sabotar o processo.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617120000 -0300" stop="20260617124500 -0300" channel="TNT SERIES HD">
+  <programme start="20260617113600 -0300" stop="20260617122300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Q&amp;a</sub-title>
     <desc lang="pt">Reese protege uma programadora de software que leva uma vida secreta. Mas ele não consegue descobrir de qual lado está a ameaça.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">4.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617124500 -0300" stop="20260617132900 -0300" channel="TNT SERIES HD">
+  <programme start="20260617122300 -0300" stop="20260617130900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Blast</sub-title>
     <desc lang="pt">Um menino presencia o assassinato de sua mãe e os detetives são levados à clínica de reabilitação onde sua mãe havia feito um tratamento.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">7.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617132900 -0300" stop="20260617141400 -0300" channel="TNT SERIES HD">
+  <programme start="20260617130900 -0300" stop="20260617135600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Taboo</sub-title>
     <desc lang="pt">Uma mulher é acusada de abandono de bebês recém-nascidos e a defesa pretende alegar depressão pós-parto.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">7.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617141400 -0300" stop="20260617145900 -0300" channel="TNT SERIES HD">
+  <programme start="20260617135600 -0300" stop="20260617144300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Politicamente Correto</sub-title>
     <desc lang="pt">Os detetives investigam o assassinato de uma mulher que sangrou pelo pescoço até a morte. Eles suspeitam de um vocalista de uma banda de rock que quer parecer um vampiro e morde o pescoço de garotas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">11.23.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260617145900 -0300" stop="20260617154200 -0300" channel="TNT SERIES HD">
+  <programme start="20260617144300 -0300" stop="20260617152800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Salvador</sub-title>
     <desc lang="pt">O assassinato em série de prostitutas jovens tem um elemento em comum: cartões com mensagens religiosas presos ao corpo das vítimas. Os detetives tentam obter pistas com o testemunho da única sobrevivente.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">11.24.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260617154200 -0300" stop="20260617162600 -0300" channel="TNT SERIES HD">
+  <programme start="20260617152800 -0300" stop="20260617161700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Time To Crime</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617162600 -0300" stop="20260617171400 -0300" channel="TNT SERIES HD">
+  <programme start="20260617161700 -0300" stop="20260617171100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Revolution</sub-title>
     <desc lang="pt">Rush e a equipe investigam o assassinato por estrangulamento, em 1969, de Ellie McCormick (Sarah Lee Jones), de 19 anos, cujo corpo foi encontrado no apartamento de seu namorado.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3240</length>
     <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617171400 -0300" stop="20260617180100 -0300" channel="TNT SERIES HD">
+  <programme start="20260617171100 -0300" stop="20260617180100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Wishing</sub-title>
     <desc lang="pt">A morte de um adolescente com transtornos mentais é investigada novamente quando novas evidências revelam que ele pode ter sido assassinado.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617180100 -0300" stop="20260617182700 -0300" channel="TNT SERIES HD">
+  <programme start="20260617180100 -0300" stop="20260617182600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Lapa e Santa Tereza</sub-title>
     <desc lang="pt">A boemia, a celebração da vida, a felicidade e a boa malandragem... Poucos locais são tão representativos de tudo isso como os bairros de Santa Tereza e Lapa, na região central do Rio de Janeiro.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">5.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617182700 -0300" stop="20260617185100 -0300" channel="TNT SERIES HD">
+  <programme start="20260617182600 -0300" stop="20260617185300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Body By Beth</title>
     <sub-title lang="pt">(Nem) Tudo Pode Mudar</sub-title>
     <desc lang="pt">A equipe trabalha na renovação da academia. O novo letreiro incomoda Ronaldo. Um bug no computador atrapalha a agenda de Beth.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617185100 -0300" stop="20260617191200 -0300" channel="TNT SERIES HD">
+  <programme start="20260617185300 -0300" stop="20260617191800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Body By Beth</title>
     <sub-title lang="pt">Cheia de Charme... e Seguidores</sub-title>
     <desc lang="pt">Carol apresenta o novo app da academia para a equipe, mas Daniel se sente excluído. Ronaldo e Ri-Man reencontram velhos amigos. Daniel pede para Beth gravar um vídeo, mas a gravação termina em caos.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617191200 -0300" stop="20260617193400 -0300" channel="TNT SERIES HD">
+  <programme start="20260617191800 -0300" stop="20260617194200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Body By Beth</title>
     <sub-title lang="pt">Faroeste Fitness</sub-title>
     <desc lang="pt">Maria Amélia e Soraya escutam barulhos estranhos no banheiro da academia. Carol fica preocupada e instala câmeras. Cíntia encontra imagens comprometedoras nas gravações. Carol e Beth planejam como derrotar a Fitness World.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617193400 -0300" stop="20260617195900 -0300" channel="TNT SERIES HD">
+  <programme start="20260617194200 -0300" stop="20260617200700 -0300" channel="TNT SERIES HD">
     <title lang="pt">Body By Beth</title>
     <sub-title lang="pt">Somos Quem Podemos Ser... Em Outra Vida</sub-title>
     <desc lang="pt">Ri-Man treina escondido de Ronaldo. Daniel cria um canal no Youtube para mostrar sua luta para ganhar massa muscular e Lu se surpreende quando um influenciador fitness compartilha seu vídeo.</desc>
@@ -203972,91 +203933,101 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617195900 -0300" stop="20260617202300 -0300" channel="TNT SERIES HD">
+  <programme start="20260617200700 -0300" stop="20260617203400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Body By Beth</title>
     <sub-title lang="pt">Menor Abandonado</sub-title>
     <desc lang="pt">Beth concorda em dar uma oportunidade para Lu e Daniel e eles vão almoçar juntos. Carol examina os currículos de possíveis instrutores. Bráulio oferece um remédio para Ri-Man superar seu término com Ronaldo.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617202300 -0300" stop="20260617203300 -0300" channel="TNT SERIES HD">
+  <programme start="20260617203400 -0300" stop="20260617204300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Buzum</title>
     <sub-title lang="pt">Um Dia de Cão</sub-title>
     <desc lang="pt">Saulo e Belo são dois amigos religiosos que estão em busca de novos fundos para sua Igreja, então se juntam para pedir dinheiro aos passageiros do Buzum.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">540</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617203300 -0300" stop="20260617205700 -0300" channel="TNT SERIES HD">
+  <programme start="20260617204300 -0300" stop="20260617210800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Transando Por Tabela</sub-title>
     <desc lang="pt">Lara e Mila descobrem que deram match com o mesmo músico. Já o hipocondríaco Benjamin realiza uma fantasia e dá match com uma médica.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617205700 -0300" stop="20260617212100 -0300" channel="TNT SERIES HD">
+  <programme start="20260617210800 -0300" stop="20260617213400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Matches</title>
     <sub-title lang="pt">Príncipe Encantado...</sub-title>
     <desc lang="pt">Lara coincidentemente dá match com Felipe, um cliente da agência. Mila sugere que ela transe com Felipe para que elas consigam a conta.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617212100 -0300" stop="20260617215000 -0300" channel="TNT SERIES HD">
+  <programme start="20260617213400 -0300" stop="20260617220100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Mapa do Pop</title>
     <sub-title lang="pt">Filmes de Las Vegas</sub-title>
     <desc lang="pt">Um passeio pelo mundo do entretenimento através de locais icônicos da cultura pop. Locações, personagens, cenas inesquecíveis, hits de sucesso e filmes que atravessam gerações. Tudo isso é assunto para o Map...</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">6.68.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617215000 -0300" stop="20260617223400 -0300" channel="TNT SERIES HD">
+  <programme start="20260617220100 -0300" stop="20260617221400 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Buzum</title>
+    <sub-title lang="pt">Agora é Que São Elas</sub-title>
+    <desc lang="pt">Buzum é uma série de ficção inspirada nas incríveis histórias (sur)reais que ocorrem constantemente nos surpreendentes transportes públicos das metrópoles brasileiras.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260617221400 -0300" stop="20260617230600 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Alert</sub-title>
     <desc lang="pt">Quando Patrick Jane e seus colegas da CBI são feitos reféns de um homem armado acusado de assassinato, o &quot;mentalista&quot; deve pensar rápido para garantir a segurança de todos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617223400 -0300" stop="20260617231900 -0300" channel="TNT SERIES HD">
+  <programme start="20260617230600 -0300" stop="20260617235500 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Nothing Gold Can Stay</sub-title>
     <desc lang="pt">Jane toma medidas drásticas quando tenta apreender uma gangue armada de ladrões de carros, antes que o desespero dos criminosos que continuam livres custe mais vidas de inocentes.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">7.10.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617231900 -0300" stop="20260618000200 -0300" channel="TNT SERIES HD">
+  <programme start="20260617235500 -0300" stop="20260618004300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Byzantium</sub-title>
     <desc lang="pt">Um jovem alegando ter poderes psíquicos oferece ajuda ao FBI para a resolução de um par de assassinatos, mas quando ele os leva a outras vítimas, Jane e sua equipe começam a suspeitar que ele é na verdade o assassino.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">7.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617231900 -0300" stop="20260618000200 -0300" channel="TNT SERIES HD">
+  <programme start="20260617235500 -0300" stop="20260618004300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Byzantium</sub-title>
     <desc lang="pt">Um jovem alegando ter poderes psíquicos oferece ajuda ao FBI para a resolução de um par de assassinatos, mas quando ele os leva a outras vítimas, Jane e sua equipe começam a suspeitar que ele é na verdade o assassino.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">7.11.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -237609,25 +237580,34 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260617060000 -0300" stop="20260617064700 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">The Vampire Diaries</title>
-    <sub-title lang="pt">Rose</sub-title>
-    <desc lang="pt">Jeremy se une a Bonnie depois que ela fez um feitiço dificílimo. Stefan e Damon socorrem Elena e descobrem novas informações sobre vampiros, pessoas e eventos de um passado distante.</desc>
-    <length units="minutes">2820</length>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+  <programme start="20260617060000 -0300" stop="20260617060700 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">420</length>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260617064700 -0300" stop="20260617090300 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">O Último Grande Herói</title>
-    <desc lang="pt">Sargento persegue bandidos só com seu revólver e nunca perde batalha na guerra com o crime, transformando-se em herói dos filmes de ação.</desc>
-    <length units="minutes">8160</length>
+  <programme start="20260617060700 -0300" stop="20260617063000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Miracle Workers</title>
+    <sub-title lang="pt">The Matrixxx</sub-title>
+    <desc lang="pt">Sid e Freya tentam melhorar sua vida sexual fazendo terapia de casal. Morris vai à reunião de ex-alunos do seu antigo colégio.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617090300 -0300" stop="20260617092700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617063000 -0300" stop="20260617084400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">O Último Grande Herói</title>
+    <desc lang="pt">Sargento persegue bandidos só com seu revólver e nunca perde batalha na guerra com o crime, transformando-se em herói dos filmes de ação.</desc>
+    <length units="minutes">8040</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260617084400 -0300" stop="20260617090800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">We Called It Mr. Pinky</sub-title>
     <desc lang="pt">Quando os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake, Alan procura a ajuda de Charlie, e os dois se aproximam de Herb na tentativa de melhorar seu relacionamento com Jake.</desc>
@@ -237637,67 +237617,67 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617092700 -0300" stop="20260617095100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617090800 -0300" stop="20260617093300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Hi, Mr. Horned One</sub-title>
     <desc lang="pt">Charlie acredita estar no céu quando ele começa a sair com Isabella, uma selvagem mulher que não tem nenhuma inibição sexual, até que Alan observa que ela o está levando para muito perto do inferno.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617095100 -0300" stop="20260617101200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617093300 -0300" stop="20260617095700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Sleep Tight, Puddin' Pop</sub-title>
     <desc lang="pt">Enquanto comemora o aniversário de sua perseguidora, Rose, Charlie se embebeda e acaba passando a noite com ela, o que o deixa em uma posição bastante comprometedora.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617101200 -0300" stop="20260617103500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617095700 -0300" stop="20260617102100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">That Voodoo That I Do</sub-title>
     <desc lang="pt">Depois de ter rejeitado suas cartadas românticas em direção a Mia, uma atraente professora de balé, Charlie tenta demonstrar para Alan que pode persuadí-la a sair para um encontro com ele.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617103500 -0300" stop="20260617105900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617102100 -0300" stop="20260617104400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Pilot For Air</sub-title>
     <desc lang="pt">Na estreia de série, conhecemos Sheldon Cooper com nove anos de idade, um garoto capaz de solucionar questões avançadas de ciências e matemática que logo descobre que isso não é grande coisa no leste do Texas.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617105900 -0300" stop="20260617112000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617104400 -0300" stop="20260617110400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Rockets, Communist, and the Dewey Decimal System</sub-title>
     <desc lang="pt">Para tranquilizar sua mãe, Sheldon aplica as técnicas de um livro de autoajuda para fazer uma amizade.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617112000 -0300" stop="20260617114000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617110400 -0300" stop="20260617112700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Poker, Face And Eggs</sub-title>
     <desc lang="pt">Quando George Sr. vai parar no pronto-socorro, Meemaw assume o cargo de babá. As crianças vivem uma aventura quando vão ao hospital sozinhas.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617114000 -0300" stop="20260617120100 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617112700 -0300" stop="20260617114800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">A Therapist, A Comic Book, And A Breakfast Sausage</sub-title>
     <desc lang="pt">Depois de sufocar com uma salsicha no café da manhã, Sheldon lida com o medo de alimentos sólidos e descobre os quadrinhos pela primeira vez.</desc>
@@ -237707,17 +237687,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617120100 -0300" stop="20260617122500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617114800 -0300" stop="20260617121000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Bakersfield Expedition</sub-title>
     <desc lang="pt">Enquanto os rapazes fazem uma viagem a uma convenção de quadrinhos vestidos como os personagens de &quot;Star Trek: The Next Generation&quot;, as meninas ficam em casa e tentam interpretar uma história em quadrinhos.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">6.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617122500 -0300" stop="20260617124800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617121000 -0300" stop="20260617123300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Cooper/Kripke Inversion</sub-title>
     <desc lang="pt">Sheldon é forçado a trabalhar com Barry Kripke e enfrenta uma crise de confiança. Enquanto isso, Howard e Raj gastam $1.000 em figuras de ação de si mesmos.</desc>
@@ -237727,17 +237707,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617124800 -0300" stop="20260617130900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617123300 -0300" stop="20260617125500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Spoiler Alert Segmentation</sub-title>
     <desc lang="pt">Uma briga entre Sheldon e Leonard impacta as condições de vida de Amy e Penny; enquanto Howard está longe, Raj fica de olho na Sra. Wolowitz.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">6.15.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617130900 -0300" stop="20260617133200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617125500 -0300" stop="20260617131800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Tangible Affection Proof</sub-title>
     <desc lang="pt">Enquanto os rapazes tentam dar a suas namoradas o Dia dos Namorados perfeito, Raj e Stuart fazem uma festa de &quot;pessoas solitárias&quot; na loja de quadrinhos.</desc>
@@ -237747,37 +237727,37 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617133200 -0300" stop="20260617135500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617131800 -0300" stop="20260617134000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Monster Isolation</sub-title>
     <desc lang="pt">Depois de um encontro ruim, Koothrappali decide nunca mais sair de seu apartamento; as habilidades de atuação de Penny impressionam Sheldon.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617135500 -0300" stop="20260617141800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617134000 -0300" stop="20260617140200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Contractual Obligation Implementation</sub-title>
     <desc lang="pt">Leonard e Sheldon são dois cientistas brilhantes: gênios no laboratório, mas socialmente ineptos. É aí que entra a bela e despreocupada vizinha Penny, que promete ensinar algumas coisinhas sobre a vida aos dois.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617141800 -0300" stop="20260617144000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617140200 -0300" stop="20260617142800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">We Called It Mr. Pinky</sub-title>
     <desc lang="pt">Quando os planos do casamento de Judith e Herb se vêem ameaçados pelo desprezo de Jake, Alan procura a ajuda de Charlie, e os dois se aproximam de Herb na tentativa de melhorar seu relacionamento com Jake.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1560</length>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617144000 -0300" stop="20260617150400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617142800 -0300" stop="20260617145200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Hi, Mr. Horned One</sub-title>
     <desc lang="pt">Charlie acredita estar no céu quando ele começa a sair com Isabella, uma selvagem mulher que não tem nenhuma inibição sexual, até que Alan observa que ela o está levando para muito perto do inferno.</desc>
@@ -237787,17 +237767,17 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617150400 -0300" stop="20260617152900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617145200 -0300" stop="20260617151600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Sleep Tight, Puddin' Pop</sub-title>
     <desc lang="pt">Enquanto comemora o aniversário de sua perseguidora, Rose, Charlie se embebeda e acaba passando a noite com ela, o que o deixa em uma posição bastante comprometedora.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617152900 -0300" stop="20260617155400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617151600 -0300" stop="20260617154100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">That Voodoo That I Do</sub-title>
     <desc lang="pt">Depois de ter rejeitado suas cartadas românticas em direção a Mia, uma atraente professora de balé, Charlie tenta demonstrar para Alan que pode persuadí-la a sair para um encontro com ele.</desc>
@@ -237807,43 +237787,43 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617155400 -0300" stop="20260617161800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617154100 -0300" stop="20260617160400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Madame And Her Special Friend</sub-title>
     <desc lang="pt">Um das vizinhas mais antigas de Charlie tenta seduzir Alan, enquanto Charlie tenta fazer com que Jake não dê dinheiro a um televangelista.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617161800 -0300" stop="20260617181900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617160400 -0300" stop="20260617180600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Robin Hood: A Origem</title>
     <desc lang="pt">Após anos lutando nas Cruzadas, Robin retorna à Inglaterra e descobre que tudo mudou em Nottingham. Buscando justiça, ele decide roubar dos ricos para dar aos pobres.</desc>
-    <length units="minutes">7260</length>
+    <length units="minutes">7320</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260617181900 -0300" stop="20260617201700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617180600 -0300" stop="20260617200600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Agente 86</title>
     <desc lang="pt">Depois do ataque à sede da CONTROL, agência secreta de espionagem norte-americana, o Agente 86, Maxwell Smart, e a sexy Agente 99 deverão salvar o mundo do mal gerado pela KAOS, a agência rival.</desc>
-    <length units="minutes">7080</length>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617201700 -0300" stop="20260617203700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617200600 -0300" stop="20260617203000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Bakersfield Expedition</sub-title>
     <desc lang="pt">Enquanto os rapazes fazem uma viagem a uma convenção de quadrinhos vestidos como os personagens de &quot;Star Trek: The Next Generation&quot;, as meninas ficam em casa e tentam interpretar uma história em quadrinhos.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">6.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617203700 -0300" stop="20260617210000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617203000 -0300" stop="20260617205300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Cooper/Kripke Inversion</sub-title>
     <desc lang="pt">Sheldon é forçado a trabalhar com Barry Kripke e enfrenta uma crise de confiança. Enquanto isso, Howard e Raj gastam $1.000 em figuras de ação de si mesmos.</desc>
@@ -237853,7 +237833,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617210000 -0300" stop="20260617212400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617205300 -0300" stop="20260617211700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Spoiler Alert Segmentation</sub-title>
     <desc lang="pt">Uma briga entre Sheldon e Leonard impacta as condições de vida de Amy e Penny; enquanto Howard está longe, Raj fica de olho na Sra. Wolowitz.</desc>
@@ -237863,48 +237843,48 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617212400 -0300" stop="20260617214700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617211700 -0300" stop="20260617214200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Tangible Affection Proof</sub-title>
     <desc lang="pt">Enquanto os rapazes tentam dar a suas namoradas o Dia dos Namorados perfeito, Raj e Stuart fazem uma festa de &quot;pessoas solitárias&quot; na loja de quadrinhos.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617214700 -0300" stop="20260617220600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617214200 -0300" stop="20260617220500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Monster Isolation</sub-title>
     <desc lang="pt">Depois de um encontro ruim, Koothrappali decide nunca mais sair de seu apartamento; as habilidades de atuação de Penny impressionam Sheldon.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617220600 -0300" stop="20260617223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617220500 -0300" stop="20260617223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Contractual Obligation Implementation</sub-title>
     <desc lang="pt">Leonard e Sheldon são dois cientistas brilhantes: gênios no laboratório, mas socialmente ineptos. É aí que entra a bela e despreocupada vizinha Penny, que promete ensinar algumas coisinhas sobre a vida aos dois.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1500</length>
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260617223000 -0300" stop="20260618002500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617223000 -0300" stop="20260618002600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Peter Pan</title>
     <desc lang="pt">Peter é um menino travesso de 12 anos que vive em um sombrio orfanato em Londres, no período da Segunda Guerra Mundial.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260617223000 -0300" stop="20260618002500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260617223000 -0300" stop="20260618002600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Peter Pan</title>
     <desc lang="pt">Peter é um menino travesso de 12 anos que vive em um sombrio orfanato em Londres, no período da Segunda Guerra Mundial.</desc>
-    <length units="minutes">6900</length>
+    <length units="minutes">6960</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
