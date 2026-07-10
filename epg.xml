@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-09 20:31:33" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-09 23:30:47" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -17889,10 +17889,18 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
-  <programme start="20260710030000 -0300" stop="20260710050000 -0300" channel="BLOOMBERG TV">
+  <programme start="20260710030000 -0300" stop="20260710043000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Bloomberg The Opening Trade</title>
     <desc lang="pt">Tudo o que você precisa saber sobre a abertura dos mercados na Europa. Com análises sobre as maiores histórias do dia e conversamos com os principais convidados que estão envolvidos no ramo.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">5400</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710043000 -0300" stop="20260710050000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Tech: Europe</title>
+    <desc lang="pt">Bloomberg Tech: Europe destaca os maiores nomes e as principais tendências que estão moldando o ecossistema tecnológico europeu. Apresentado por Tom Mackenzie em Londres.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -17906,108 +17914,72 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710060000 -0300" stop="20260710130000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Markets</title>
-    <desc lang="pt">Bloomberg Markets é um programa focado em trazer os assuntos mais importantes do mercado global, seus mercados  e informação atualizada.</desc>
-    <length units="minutes">25200</length>
+  <programme start="20260710060000 -0300" stop="20260710070000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Brief</title>
+    <desc lang="pt">O Bloomberg Brief oferece notícias, dados e análises de mercado que você precisa para definir sua agenda.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.191.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710130000 -0300" stop="20260710133000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">The Cost of Brexit</title>
-    <desc lang="pt">Uma década após o Reino Unido ter votado a favor da saída da União Europeia, a Bloomberg Originals analisa as consequências econômicas do Brexit e as forças políticas que ele desencadeou.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710070000 -0300" stop="20260710100000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Surveillance</title>
+    <desc lang="pt">Vigilância da Bloomberg. Ao vivo de Londres e Nova York, trazendo informações sobre os mercados globais e as principais histórias de negócios do dia.</desc>
+    <length units="minutes">10800</length>
+    <episode-num system="xmltv_ns">87.191.</episode-num>
+  </programme>
+  <programme start="20260710100000 -0300" stop="20260710120000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Open Interest</title>
+    <desc lang="pt">Bloomberg Open Interest fornece as notícias que movimentam o mercado que você precisa saber para começar bem o dia de negociações nos EUA.</desc>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710133000 -0300" stop="20260710140000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Tech: Decoding the Future</title>
-    <desc lang="pt">O conteúdo, o capital e a conectividade que impulsionam as ideias mais inovadoras do setor de tecnologia, desde robôs industriais e eletrônicos de consumo de última geração até os custos de implantação ...</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">83.191.</episode-num>
+  <programme start="20260710120000 -0300" stop="20260710130000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Tech</title>
+    <desc lang="pt">Programa com foco em atualidades, reportagens que movimentam o mercado e análises de empresas e histórias globais de tecnologia. Entrevistas com os maiores nomes do setor, análises aprofundadas e percepções críticas.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
-  <programme start="20260710140000 -0300" stop="20260710143000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Leaders With Francine Lacqua: The Podcast: Kristalina Georgieva</title>
-    <desc lang="pt">A diretora-geral do Fundo Monetário Internacional, Kristalina Georgieva, fala sobre o papel do FMI, a importância da confiança na implementação de reformas difíceis e por que os líderes devem proteger os mais vul...</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710130000 -0300" stop="20260710140000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Money</title>
+    <desc lang="pt">Tom Keene e Scarlet Fu exploram como as pessoas ganham, gastam e acumulam riqueza, com análises perspicazes e reportagens que ajudam os telespectadores a traçar seu futuro financeiro.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">13.191.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710143000 -0300" stop="20260710150000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Leaders With Francine Lacqua: The Podcast: Mike Henry</title>
-    <desc lang="pt">Lacqua conversa com Mike Henry, diretor executivo da BHP que está deixando o cargo, sobre como liderar a maior empresa de mineração do mundo em um momento em que os minerais essenciais estão no centro das dinâmicas geopol...</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710140000 -0300" stop="20260710150000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Balance of Power</title>
+    <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">14.191.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710150000 -0300" stop="20260710153000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">The Circuit: Anthropic Co-Founders Dario and Daniela Amodei (Part 1)</title>
-    <desc lang="pt">Chang conversa com os cofundadores da Anthropic em uma aprofundada discussão sobre a história da startup, suas disputas com o Pentágono e como a empresa afirma que pretende priorizar a segurança na acirrada corrida pela IA.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">5.3.</episode-num>
+  <programme start="20260710150000 -0300" stop="20260710160000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Businessweek Daily</title>
+    <desc lang="pt">Carol Massar e Tim Stenovec trazem a você as reportagens da revista que ajuda os líderes globais a se manterem à frente, além de insights sobre pessoas, empresas e tendências que moldam a complexa economia atual.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">85.191.</episode-num>
+  </programme>
+  <programme start="20260710160000 -0300" stop="20260710180000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg The Close</title>
+    <desc lang="pt">Sintetiza as principais notícias nas horas críticas do dia de negociação - com as principais percepções de investidores, estrategistas e empresas de hoje e de amanhã.</desc>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710153000 -0300" stop="20260710160000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">The Circuit: Anthropic Co-Founders Dario and Daniela Amodei (Part 2)</title>
-    <desc lang="pt">Chang conversa com os cofundadores da Anthropic em uma aprofundada discussão sobre a história da startup, suas disputas com o Pentágono e como a empresa afirma que pretende priorizar a segurança na acirrada corrida pela IA.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">5.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710160000 -0300" stop="20260710163000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Wealth With David Rubenstein: Rick Wurster</title>
-    <desc lang="pt">Rick Wurster, Presidente e CEO da Charles Schwab.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710163000 -0300" stop="20260710170000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Wealth With David Rubenstein: Rob Wallace</title>
-    <desc lang="pt">Rob Wallace, CEO da Stanford Management Company.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710170000 -0300" stop="20260710173000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Wealth With David Rubenstein: Jeff Aronson</title>
-    <desc lang="pt">Jeff Aronson, CEO do Centerbridge.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710173000 -0300" stop="20260710180000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Latitude</title>
-    <desc lang="pt">Poder, dinheiro, cultura. Haslinda Amin conta a história da ascensão da Ásia através das pessoas que ajudaram a moldá-la.</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710180000 -0300" stop="20260710183000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Bloomberg Tech: Decoding the Future</title>
-    <desc lang="pt">O conteúdo, o capital e a conectividade que impulsionam as ideias mais inovadoras do setor de tecnologia, desde robôs industriais e eletrônicos de consumo de última geração até os custos de implantação ...</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.191.</episode-num>
-  </programme>
-  <programme start="20260710183000 -0300" stop="20260710190000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">The Cost of Brexit</title>
-    <desc lang="pt">Uma década após o Reino Unido ter votado a favor da saída da União Europeia, a Bloomberg Originals analisa as consequências econômicas do Brexit e as forças políticas que ele desencadeou.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710180000 -0300" stop="20260710190000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Bloomberg Balance of Power</title>
+    <desc lang="pt">Bloomberg: Balance of Power enfoca a política e as políticas que estão sendo moldadas pela agenda da administração do presidente Biden.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">18.191.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -18022,12 +17994,10 @@
     </rating>
   </programme>
   <programme start="20260710200000 -0300" stop="20260710203000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">VivaTech x Bloomberg Awards</title>
-    <desc lang="pt">A VivaTech e a Bloomberg unem forças para criar uma nova plataforma global de prémios destinada a homenagear não só quem está a ter sucesso no setor da tecnologia, mas também quem está a moldar o futuro desta ...</desc>
+    <title lang="pt">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="pt">O conteúdo, o capital e a conectividade que impulsionam as ideias mais inovadoras do setor de tecnologia, desde robôs industriais e eletrônicos de consumo de última geração até os custos de implantação ...</desc>
     <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">80.191.</episode-num>
   </programme>
   <programme start="20260710203000 -0300" stop="20260710210000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">The Mishal Husain Show</title>
@@ -18039,6 +18009,14 @@
     </rating>
   </programme>
   <programme start="20260710210000 -0300" stop="20260710213000 -0300" channel="BLOOMBERG TV">
+    <title lang="pt">Leaders With Francine Lacqua: The Podcast: Rafael Nadal</title>
+    <desc lang="pt">Francine Lacqua conversa com a lenda do ténis Rafael Nadal sobre a mentalidade que impulsionou a sua extraordinária carreira. Ele fala sobre como resiliência, a insegurança e determinação inabalável.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710213000 -0300" stop="20260710220000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Leaders With Francine Lacqua: The Podcast: Mike Henry</title>
     <desc lang="pt">Lacqua conversa com Mike Henry, diretor executivo da BHP que está deixando o cargo, sobre como liderar a maior empresa de mineração do mundo em um momento em que os minerais essenciais estão no centro das dinâmicas geopol...</desc>
     <length units="minutes">1800</length>
@@ -18046,20 +18024,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710213000 -0300" stop="20260710220000 -0300" channel="BLOOMBERG TV">
-    <title lang="pt">Leaders With Francine Lacqua: The Podcast: Kristalina Georgieva</title>
-    <desc lang="pt">A diretora-geral do Fundo Monetário Internacional, Kristalina Georgieva, fala sobre o papel do FMI, a importância da confiança na implementação de reformas difíceis e por que os líderes devem proteger os mais vul...</desc>
-    <length units="minutes">1800</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20260710220000 -0300" stop="20260710223000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">The David Rubenstein Show, Peer to Peer Conversations</title>
-    <sub-title lang="pt">Nik Storonsky</sub-title>
-    <desc lang="pt">Nik Storonsky, CEO da Revolut.</desc>
+    <sub-title lang="pt">Raj Subramaniam</sub-title>
+    <desc lang="pt">Raj Subramaniam, presidente e diretor executivo da FedEx.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">11.20.</episode-num>
+    <episode-num system="xmltv_ns">11.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -28438,21 +28408,21 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710074700 -0300" stop="20260710080200 -0300" channel="CARTOON HD">
+  <programme start="20260710074700 -0300" stop="20260710075600 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel</title>
     <sub-title lang="pt">Dormindo Acordado Dormindo</sub-title>
     <desc lang="pt">Enquanto tenta assistir o momento exato em que a noite vira dia, Irmão do Jorel não sabe mais se está acordado dormindo ou dormindo acordado.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">540</length>
     <episode-num system="xmltv_ns">2.151.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710080200 -0300" stop="20260710081100 -0300" channel="CARTOON HD">
+  <programme start="20260710075600 -0300" stop="20260710081100 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Villains In A Van Getting Gelato</sub-title>
     <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <length units="minutes">540</length>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">6.304.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -28488,47 +28458,37 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710084700 -0300" stop="20260710090000 -0300" channel="CARTOON HD">
+  <programme start="20260710084700 -0300" stop="20260710090400 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Aniversário Do Mutano E Do Robin</sub-title>
     <desc lang="pt">Quando não é convidado para uma festa de aniversário de Mutano, Robin faz sua própria balada, com direito ao convidado especial Bob Uecker.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1020</length>
     <episode-num system="xmltv_ns">5.225.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710090000 -0300" stop="20260710091100 -0300" channel="CARTOON HD">
+  <programme start="20260710090400 -0300" stop="20260710091600 -0300" channel="CARTOON HD">
     <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
     <sub-title lang="pt">Guerra de Cafeteiras</sub-title>
     <desc lang="pt">Uma cafeteria rival chega à cidade.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710091100 -0300" stop="20260710092400 -0300" channel="CARTOON HD">
+  <programme start="20260710091600 -0300" stop="20260710092700 -0300" channel="CARTOON HD">
     <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
     <sub-title lang="pt">Boba ou Mascote</sub-title>
     <desc lang="pt">Mordecai e Rigby precisam descarregar uma grande quantidade de boba.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710092400 -0300" stop="20260710093000 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <sub-title lang="pt">Flor Cadáver</sub-title>
-    <desc lang="pt">Algumas flores têm um cheiro muito ruim.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710093000 -0300" stop="20260710094200 -0300" channel="CARTOON HD">
+  <programme start="20260710092700 -0300" stop="20260710093900 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">O Hambúrguer</sub-title>
     <desc lang="pt">Gumball e Darwin buscam jantar saudável, mas um consórcio domina toda a comida da cidade.</desc>
@@ -28538,7 +28498,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710094200 -0300" stop="20260710095500 -0300" channel="CARTOON HD">
+  <programme start="20260710093900 -0300" stop="20260710095200 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">O Retrato</sub-title>
     <desc lang="pt">Nicole quer um novo retrato de família com todos sorrindo e de rosto inteiro.</desc>
@@ -28548,21 +28508,21 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710095500 -0300" stop="20260710100000 -0300" channel="CARTOON HD">
+  <programme start="20260710095200 -0300" stop="20260710100300 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Coisa</sub-title>
     <desc lang="pt">Ricardo revive memórias para descobrir o que é &quot;a coisa&quot; e salvar o jantar com Jo Jo.</desc>
-    <length units="minutes">300</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710100000 -0300" stop="20260710101000 -0300" channel="CARTOON HD">
+  <programme start="20260710100300 -0300" stop="20260710101000 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Aniversário de Amizade</sub-title>
     <desc lang="pt">Mutano e Ciborgue comemoram o aniversário da sua amizade.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">420</length>
     <episode-num system="xmltv_ns">4.201.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -28598,291 +28558,241 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710104700 -0300" stop="20260710110000 -0300" channel="CARTOON HD">
+  <programme start="20260710104700 -0300" stop="20260710110700 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">O Rancho</sub-title>
     <desc lang="pt">Os Titãs precisam ajudar a equipe de Os Jovens Titãs em Ação a se mudar para o novo estúdio.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">8.403.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710110000 -0300" stop="20260710111000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">A Mentira Tem Pernas Curtas</sub-title>
-    <desc lang="pt">Estelar é a única Titã convidada para o Baile Anual do Leste e Mutano a ensina a mentir para que ela possa poupar os sentimentos dos outros Titãs.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710111000 -0300" stop="20260710112200 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Mani-pedi</sub-title>
-    <desc lang="pt">A diversão continua com Os Jovens Titãs em Ação, com novas aventuras divertidas que mostram exatamente como é a vida dos jovens super-heróis.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">9.504.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710112200 -0300" stop="20260710113300 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Chowda</sub-title>
-    <desc lang="pt">A diversão continua com Os Jovens Titãs em Ação, com novas aventuras divertidas que mostram exatamente como é a vida dos jovens super-heróis.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">9.505.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710113300 -0300" stop="20260710114500 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Não é Um Especial de Halloween</sub-title>
-    <desc lang="pt">Os Titãs decidem não fazer um especial de Halloween esse ano mas logo percebem que podem não ter escolha.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">9.506.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710114500 -0300" stop="20260710120000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Desmascarar - A História dos Jovens Titãs</sub-title>
-    <desc lang="pt">Um pouco dos bastidores da história dos Jovens Titãs em Ação!</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">9.507.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710120000 -0300" stop="20260710121100 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Ataque Na Festa Do Quarteirão</sub-title>
-    <desc lang="pt">Clarence, Jeff e Sumo investigam uma festa no fim da rua - que eles confundiram com uma invasão alienígena.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">2.62.</episode-num>
+  <programme start="20260710110700 -0300" stop="20260710112900 -0300" channel="CARTOON HD">
+    <title lang="pt">Ilha dos Desafios</title>
+    <sub-title lang="pt">Parecem Perdedores</sub-title>
+    <desc lang="pt">Restam apenas 3 participantes e, se algum deles sobreviver ao desafio final, poderá ganhar o milhão de dólares que Chris prometeu a eles.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710121100 -0300" stop="20260710122400 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Isolado</sub-title>
-    <desc lang="pt">Exausto depois de tantas aventuras, Clarêncio se esforça para relaxar e não fazer nada.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">2.76.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710122400 -0300" stop="20260710123000 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Garota Misteriosa</sub-title>
-    <desc lang="pt">Quando Clarêncio e seus amigos ligam para números aleatórios para passar trotes, Clarêncio acaba conhecendo uma garota. Mas será que essa ligação de longa distância irá durar?</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">2.73.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710123000 -0300" stop="20260710124100 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <sub-title lang="pt">A Professora</sub-title>
-    <desc lang="pt">Gumball busca se vingar da Srta. Simian após punição por causa da calculadora.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710124100 -0300" stop="20260710125400 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <sub-title lang="pt">A Coisa</sub-title>
-    <desc lang="pt">Ricardo revive memórias para descobrir o que é &quot;a coisa&quot; e salvar o jantar com Jo Jo.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710125400 -0300" stop="20260710130000 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <sub-title lang="pt">A Tripa</sub-title>
-    <desc lang="pt">A barriga de Richard ganha vida e Anais deve escolher entre ela e seu pai.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710130000 -0300" stop="20260710131200 -0300" channel="CARTOON HD">
-    <title lang="pt">Irmão do Jorel</title>
-    <sub-title lang="pt">O Rapto Das Cores</sub-title>
-    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e desua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo alu...</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">4.202.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710131200 -0300" stop="20260710133000 -0300" channel="CARTOON HD">
-    <title lang="pt">Irmão do Jorel</title>
-    <sub-title lang="pt">Último dos Românticos</sub-title>
-    <desc lang="pt">Billy Doidão convence Irmão do Jorel a dar um presente para Ana Catarina.</desc>
-    <length units="minutes">1080</length>
-    <episode-num system="xmltv_ns">5.21.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710133000 -0300" stop="20260710134500 -0300" channel="CARTOON HD">
+  <programme start="20260710112900 -0300" stop="20260710114000 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <sub-title lang="pt">Pesadelo de Unboxing</sub-title>
-    <desc lang="pt">Com o objetivo de fazer um vídeo para bombar seu canal, Any Malu e seus amigos invadem a sala proibida da Universidade, mas eles mal sabem que seus maiores medos os aguardam.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710134500 -0300" stop="20260710135600 -0300" channel="CARTOON HD">
-    <title lang="pt">O Submarino do Jim</title>
-    <sub-title lang="pt">The Expert</sub-title>
-    <desc lang="pt">Jim, um golfinho ingênuo, é encarregado de pilotar o primeiro submarino com rodas do mundo. O protagonista é acompanhado por seus melhores amigos Bianca, uma orca destemida e comissária de bordo, e Cyril, uma pequena anchova.</desc>
+    <sub-title lang="pt">Nani?</sub-title>
+    <desc lang="pt">Any Malu e seus amigos têm nas mãos a tarefa de fazer uma abertura de anime, e vão contar com a &quot;ajuda&quot; de Baka Hanpanai, o novo professor da matéria.</desc>
     <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710135600 -0300" stop="20260710140000 -0300" channel="CARTOON HD">
-    <title lang="pt">O Submarino do Jim</title>
-    <sub-title lang="pt">Portrait Of A Captain</sub-title>
-    <desc lang="pt">Jim, um golfinho ingênuo, é encarregado de pilotar o primeiro submarino com rodas do mundo. O protagonista é acompanhado por seus melhores amigos Bianca, uma orca destemida e comissária de bordo, e Cyril, uma pequena anchova.</desc>
-    <length units="minutes">240</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710140000 -0300" stop="20260710141100 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <sub-title lang="pt">Guerra de Cafeteiras</sub-title>
-    <desc lang="pt">Uma cafeteria rival chega à cidade.</desc>
-    <length units="minutes">660</length>
+  <programme start="20260710114000 -0300" stop="20260710115300 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Stalker</sub-title>
+    <desc lang="pt">Any Malu descobre que tem um stalker e fica obcecada em desvendar a identidade do seu primeiro admirador.</desc>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
-      <value>[10]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710141100 -0300" stop="20260710142200 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <sub-title lang="pt">Boba ou Mascote</sub-title>
-    <desc lang="pt">Mordecai e Rigby precisam descarregar uma grande quantidade de boba.</desc>
+  <programme start="20260710115300 -0300" stop="20260710120400 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Garoto #2</sub-title>
+    <desc lang="pt">O grupo se desentende, e a única pessoa que pode resolver a situação não é a melhor comunicadora.</desc>
     <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710142200 -0300" stop="20260710143000 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <sub-title lang="pt">Flor Cadáver</sub-title>
-    <desc lang="pt">Algumas flores têm um cheiro muito ruim.</desc>
-    <length units="minutes">480</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710143000 -0300" stop="20260710144100 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas Um Show</title>
-    <sub-title lang="pt">Espiada</sub-title>
-    <desc lang="pt">Furioso com a preguiça constante de Mordecai e Rigby, Benson dá ordens ao sistema de vigilância &quot;Espiadinhas&quot; para que os forcem a trabalhar.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710144100 -0300" stop="20260710145400 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas Um Show</title>
-    <sub-title lang="pt">O Diário</sub-title>
-    <desc lang="pt">Os caras tentam consertar a fechadura do diário de Margarete antes que ela volte de uma viagem.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">3.32.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710145400 -0300" stop="20260710150000 -0300" channel="CARTOON HD">
-    <title lang="pt">Apenas Um Show</title>
-    <sub-title lang="pt">Irmãos de Baia</sub-title>
-    <desc lang="pt">Musculoso quer provar que é muito mais do que músculos e arruma um emprego num escritório corporativo.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">7.220.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710150000 -0300" stop="20260710151100 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Villains In A Van Getting Gelato</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">6.304.</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710151100 -0300" stop="20260710152200 -0300" channel="CARTOON HD">
+  <programme start="20260710120400 -0300" stop="20260710122800 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">O Gesso</sub-title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.293.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710122800 -0300" stop="20260710125000 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">O Mago Dos Fantoches</sub-title>
     <desc lang="pt">Uma espiada na rica vida interior de Silkie.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">1.26.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710152200 -0300" stop="20260710153500 -0300" channel="CARTOON HD">
+  <programme start="20260710125000 -0300" stop="20260710130100 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Coisa de Macho</sub-title>
-    <desc lang="pt">Apesar dos protestos dos Titãs, Mutano se convence de que trocar partes do seu corpo por membros robóticos o tornará mais másculo.</desc>
+    <sub-title lang="pt">Herói Com Vários Poderes</sub-title>
+    <desc lang="pt">Kid Flash quer fazer parte da equipe dos Titãs, mas Robin insiste que ele não pode por não ser muito talentoso.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">2.44.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710130100 -0300" stop="20260710131200 -0300" channel="CARTOON HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <sub-title lang="pt">O Rapto Das Cores</sub-title>
+    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e desua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo alu...</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">4.202.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710131200 -0300" stop="20260710133500 -0300" channel="CARTOON HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <sub-title lang="pt">Último dos Românticos</sub-title>
+    <desc lang="pt">Billy Doidão convence Irmão do Jorel a dar um presente para Ana Catarina.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">5.21.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710133500 -0300" stop="20260710134800 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+    <sub-title lang="pt">A Síntese</sub-title>
+    <desc lang="pt">No Dia das Carreiras, Nicole e Yuki tentam impressionar seus filhos e descobrem de onde vem o verdadeiro poder.</desc>
     <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">2.27.</episode-num>
+    <episode-num system="xmltv_ns">2.30.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710153500 -0300" stop="20260710154700 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Doomsday Preppers</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+  <programme start="20260710134800 -0300" stop="20260710135900 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+    <sub-title lang="pt">O Líder de Torcida</sub-title>
+    <desc lang="pt">Gumball quer pôr Ricardo no time de torcida para quebrar o trauma da família.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710135900 -0300" stop="20260710141100 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Conserte Aquela Fita / Lual do Saltitão</sub-title>
+    <desc lang="pt">Uma fita VHS quebrada precisa ser consertada.</desc>
     <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">7.336.</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710141100 -0300" stop="20260710142300 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Boba ou Mascote</sub-title>
+    <desc lang="pt">Mordecai e Rigby precisam descarregar uma grande quantidade de boba.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710142300 -0300" stop="20260710143400 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Flor Cadáver</sub-title>
+    <desc lang="pt">Algumas flores têm um cheiro muito ruim.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710143400 -0300" stop="20260710144600 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">Charlie</sub-title>
+    <desc lang="pt">Sabe aquele amigo chato que não se toca? Esse é o Charlie, o Pé Grande. Os ursos o conhecem quando ele se inscreve num site para passar um fim de semana com os três.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710154700 -0300" stop="20260710160000 -0300" channel="CARTOON HD">
+  <programme start="20260710144600 -0300" stop="20260710145800 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">Na Boia</sub-title>
+    <desc lang="pt">Em busca de aventura, os ursos descem um rio perigoso dentro de um tubo.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">3.94.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710145800 -0300" stop="20260710150000 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso - Curtas</title>
+    <sub-title lang="pt">Sonhum</sub-title>
+    <desc lang="pt">Panda usa um aplicativo de relaxamento para adormecer. Mas os diferentes sons do aplicativo mais prejudicam do que ajudam.</desc>
+    <length units="minutes">120</length>
+    <episode-num system="xmltv_ns">2.37.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710150000 -0300" stop="20260710151100 -0300" channel="CARTOON HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <sub-title lang="pt">Namorados</sub-title>
+    <desc lang="pt">Quando Clarêncio percebe que sua professora, a Srta. Baker, é a única da sala que não tem um namorado este ano, ele decide pedir ajuda a Sumo para apresentá-la ao professor dele, o Sr. Mozer!</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">3.98.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710151100 -0300" stop="20260710152400 -0300" channel="CARTOON HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <sub-title lang="pt">Festa do Pijama</sub-title>
+    <desc lang="pt">Clarêncio se esforça para participar de uma festa do pijama só para meninas, deixando Sumo e Jeff em uma situação esquisita sem ele.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710152400 -0300" stop="20260710153600 -0300" channel="CARTOON HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <sub-title lang="pt">Feira Medieval</sub-title>
+    <desc lang="pt">Clarêncio e seus amigos se aventuram na Feira Renascentista de Aberdale. Mas Clarêncio confunde uma peça medieval com a realidade e jura que irá impedir o &quot;diabólico' cavaleiro negro de capturar a princesa.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">2.56.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710153600 -0300" stop="20260710154800 -0300" channel="CARTOON HD">
+    <title lang="pt">O Submarino do Jim</title>
+    <sub-title lang="pt">The Lake Break</sub-title>
+    <desc lang="pt">Jim, um golfinho ingênuo, é encarregado de pilotar o primeiro submarino com rodas do mundo. O protagonista é acompanhado por seus melhores amigos Bianca, uma orca destemida e comissária de bordo, e Cyril, uma pequena anchova.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710154800 -0300" stop="20260710155900 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Aniversário Do Mutano E Do Robin</sub-title>
     <desc lang="pt">Quando não é convidado para uma festa de aniversário de Mutano, Robin faz sua própria balada, com direito ao convidado especial Bob Uecker.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">5.225.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710160000 -0300" stop="20260710161100 -0300" channel="CARTOON HD">
+  <programme start="20260710155900 -0300" stop="20260710161100 -0300" channel="CARTOON HD">
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <sub-title lang="pt">O</sub-title>
     <desc lang="pt">Final - Os Wattersons se surpreendem ao descobrir que seus atos do passado têm consequências.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">2.38.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -28898,77 +28808,67 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710162400 -0300" stop="20260710163000 -0300" channel="CARTOON HD">
+  <programme start="20260710162400 -0300" stop="20260710163500 -0300" channel="CARTOON HD">
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <sub-title lang="pt">O Inimigo</sub-title>
     <desc lang="pt">Gumball e Darwin ficam frente à frente com seu arqui-inimigo, ou pelo menos com alguém que está tentando ser.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">4.60.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710163000 -0300" stop="20260710164200 -0300" channel="CARTOON HD">
+  <programme start="20260710163500 -0300" stop="20260710164800 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">O Hambúrguer</sub-title>
     <desc lang="pt">Gumball e Darwin buscam jantar saudável, mas um consórcio domina toda a comida da cidade.</desc>
-    <length units="minutes">720</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710164200 -0300" stop="20260710165500 -0300" channel="CARTOON HD">
+  <programme start="20260710164800 -0300" stop="20260710170000 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">O Retrato</sub-title>
     <desc lang="pt">Nicole quer um novo retrato de família com todos sorrindo e de rosto inteiro.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710165500 -0300" stop="20260710170000 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <sub-title lang="pt">A Coisa</sub-title>
-    <desc lang="pt">Ricardo revive memórias para descobrir o que é &quot;a coisa&quot; e salvar o jantar com Jo Jo.</desc>
-    <length units="minutes">300</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710170000 -0300" stop="20260710171500 -0300" channel="CARTOON HD">
+  <programme start="20260710170000 -0300" stop="20260710171200 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
     <sub-title lang="pt">Neide, Me Faça Popular</sub-title>
     <desc lang="pt">Any Malu conta com uma ajudinha especial para bombar seu canal.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710171500 -0300" stop="20260710172200 -0300" channel="CARTOON HD">
+  <programme start="20260710171200 -0300" stop="20260710171800 -0300" channel="CARTOON HD">
     <title lang="pt">Maluzinha</title>
     <sub-title lang="pt">Fiquei Presa No Elevador</sub-title>
     <desc lang="pt">Finalmente meu novo episódio está no ar. E por falar em ar, que falta de ar nesse elevador!</desc>
-    <length units="minutes">420</length>
+    <length units="minutes">360</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710172200 -0300" stop="20260710173000 -0300" channel="CARTOON HD">
+  <programme start="20260710171800 -0300" stop="20260710172500 -0300" channel="CARTOON HD">
     <title lang="pt">Maluzinha</title>
     <sub-title lang="pt">Pesadelo no Cinema</sub-title>
     <desc lang="pt">Tudo que eu queria era assistir ao filme em paz! Que bagunça esse cinema!</desc>
-    <length units="minutes">480</length>
+    <length units="minutes">420</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710173000 -0300" stop="20260710174100 -0300" channel="CARTOON HD">
+  <programme start="20260710172500 -0300" stop="20260710173600 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel</title>
     <sub-title lang="pt">Escola de Idosos</sub-title>
     <desc lang="pt">Todos os idosos são obrigados a frequentar novamente a escola. Gigi se enturma com senhorinhas mais populares e Juju faz amizade com Dona Lurdinha.</desc>
@@ -28978,7 +28878,7 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710174100 -0300" stop="20260710175400 -0300" channel="CARTOON HD">
+  <programme start="20260710173600 -0300" stop="20260710174900 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel</title>
     <sub-title lang="pt">Shostners em Crise</sub-title>
     <desc lang="pt">Dra Suzana demitiu vários executivos de uma vez, o que gerou um problema grave: executivos vagando pelas ruas desesperados motivação e produtividade.</desc>
@@ -28988,11 +28888,11 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710175400 -0300" stop="20260710180000 -0300" channel="CARTOON HD">
+  <programme start="20260710174900 -0300" stop="20260710180000 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel</title>
     <sub-title lang="pt">Procura-se Suzana Desesperadamente</sub-title>
     <desc lang="pt">Dra Suzana é demitida e se vê obrigada a enfrentar uma jornada de autoconhecimento tendo apenas uma limusine infinita e Yuki como companhia.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -29018,262 +28918,192 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710182400 -0300" stop="20260710183000 -0300" channel="CARTOON HD">
+  <programme start="20260710182400 -0300" stop="20260710183500 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Tripa</sub-title>
     <desc lang="pt">A barriga de Richard ganha vida e Anais deve escolher entre ela e seu pai.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710183000 -0300" stop="20260710184000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Aniversário de Amizade</sub-title>
-    <desc lang="pt">Mutano e Ciborgue comemoram o aniversário da sua amizade.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">4.201.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710184000 -0300" stop="20260710185400 -0300" channel="CARTOON HD">
+  <programme start="20260710183500 -0300" stop="20260710185700 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Amor no Lago</sub-title>
     <desc lang="pt">Robin se apaixona por uma peixinha no lago e precisa escolher entre ela e os Titãs.</desc>
-    <length units="minutes">840</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">9.498.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710185400 -0300" stop="20260710190000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">O Sujismundo</sub-title>
-    <desc lang="pt">Quando os Titãs tentam fazer Mutano limpar seu quarto, eles descobrem que existe muito mais coisa no lixo do que o próprio lixo.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">2.39.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710190000 -0300" stop="20260710191100 -0300" channel="CARTOON HD">
+  <programme start="20260710185700 -0300" stop="20260710190900 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">Chapéu Tartaruga</sub-title>
     <desc lang="pt">Enquanto lê uma mensagem confusa na sala de aula, a Srta. Baker sem querer dá aos alunos um trabalho sobre 'chapéus de tartaruga'.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.34.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710191100 -0300" stop="20260710191500 -0300" channel="CARTOON HD">
+  <programme start="20260710190900 -0300" stop="20260710192200 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">Show de Rock</sub-title>
     <desc lang="pt">A banda de Chadão, a Dogmon, vai fazer um show pela primeira vez em anos, dando a Clarêncio e Mari uma chance de se divertir a valer.</desc>
-    <length units="minutes">240</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">3.95.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710191500 -0300" stop="20260710193000 -0300" channel="CARTOON HD">
+  <programme start="20260710192200 -0300" stop="20260710193500 -0300" channel="CARTOON HD">
     <title lang="pt">Summer Memories</title>
     <sub-title lang="pt">O Prêmio Anual para Crianças</sub-title>
     <desc lang="pt">Jason é nomeado ao prêmio infantil e aprende a se valorizar.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710193000 -0300" stop="20260710194500 -0300" channel="CARTOON HD">
-    <title lang="pt">Big Blue: O Grande Oceano</title>
-    <sub-title lang="pt">Planta nos Canos</sub-title>
-    <desc lang="pt">Quando a tripulação descobre que sua embarcação, Lemo quer ajudar, mas sem saber cria um problema maior do que o esperado.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710194500 -0300" stop="20260710195700 -0300" channel="CARTOON HD">
-    <title lang="pt">A Jornada Heróica do Valente Príncipe Ivandoé</title>
-    <sub-title lang="pt">O Príncipe e o Gnomo Solitário</sub-title>
-    <desc lang="pt">Hansi, um gnomo atrevido, foi deixado sozinho pelos seus irmãos.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">4.24.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710195700 -0300" stop="20260710200000 -0300" channel="CARTOON HD">
-    <title lang="pt">A Jornada Heróica do Valente Príncipe Ivandoé</title>
-    <sub-title lang="pt">O Príncipe e o Casamento Maluco</sub-title>
-    <desc lang="pt">O príncipe Ivandoe é enganado e se torna prisioneiro e noivo da temperamental princesa Sprinklejoy no Reinado do Red Squirrel.</desc>
-    <length units="minutes">180</length>
-    <episode-num system="xmltv_ns">3.23.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710200000 -0300" stop="20260710201100 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <sub-title lang="pt">Conheça os Almeidas</sub-title>
-    <desc lang="pt">Any Malu cria um canal de Toontube para passar de ano com tranquilidade, ou sem humilhação, na Universidade para Desenhos Animados.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710201100 -0300" stop="20260710201500 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <sub-title lang="pt">Garoto #2</sub-title>
-    <desc lang="pt">O grupo se desentende, e a única pessoa que pode resolver a situação não é a melhor comunicadora.</desc>
-    <length units="minutes">240</length>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710201500 -0300" stop="20260710202200 -0300" channel="CARTOON HD">
-    <title lang="pt">Maluzinha</title>
-    <sub-title lang="pt">Fiquei Presa No Elevador</sub-title>
-    <desc lang="pt">Finalmente meu novo episódio está no ar. E por falar em ar, que falta de ar nesse elevador!</desc>
-    <length units="minutes">420</length>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710202200 -0300" stop="20260710203200 -0300" channel="CARTOON HD">
-    <title lang="pt">Maluzinha</title>
-    <sub-title lang="pt">Professora Substituta</sub-title>
-    <desc lang="pt">Socorro, genteee! Minha mãe como professora substituta?!</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710203200 -0300" stop="20260710215800 -0300" channel="CARTOON HD">
+  <programme start="20260710193500 -0300" stop="20260710210200 -0300" channel="CARTOON HD">
     <title lang="pt">A Jornada de Vivo</title>
     <desc lang="pt">Vivo é um jupará apaixonado por música que parte de Havana para Miami com uma importante missão: entregar uma canção de amor a pedido de um grande amigo.</desc>
-    <length units="minutes">5160</length>
+    <length units="minutes">5220</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710215800 -0300" stop="20260710221000 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Os Sereiursos</sub-title>
-    <desc lang="pt">Para conseguir sobreviver embaixo d'água, os ursos deverão se transformar em sereias.</desc>
-    <length units="minutes">720</length>
+  <programme start="20260710210200 -0300" stop="20260710211500 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+    <sub-title lang="pt">A Síntese</sub-title>
+    <desc lang="pt">No Dia das Carreiras, Nicole e Yuki tentam impressionar seus filhos e descobrem de onde vem o verdadeiro poder.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">2.30.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710211500 -0300" stop="20260710212600 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+    <sub-title lang="pt">O Tráfego</sub-title>
+    <desc lang="pt">Os Watterson precisam levar Anais ao Daisyland antes que o parque feche para sempre.</desc>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710221000 -0300" stop="20260710222100 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Dia de Festa</sub-title>
-    <desc lang="pt">Os ursos se divertem com uma pinhata; Pardo deseja que o Fiesta Day aconteça todos os dias.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710222100 -0300" stop="20260710223000 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">A Casa da Baba Yaga</sub-title>
-    <desc lang="pt">Squatter Otter tenta ganhar a confiança de Panda e convence os ursos a morar numa casa misteriosa.</desc>
-    <length units="minutes">540</length>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710223000 -0300" stop="20260710224100 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Ataque Na Festa Do Quarteirão</sub-title>
-    <desc lang="pt">Clarence, Jeff e Sumo investigam uma festa no fim da rua - que eles confundiram com uma invasão alienígena.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">2.62.</episode-num>
+  <programme start="20260710212600 -0300" stop="20260710213800 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Conserte Aquela Fita / Lual do Saltitão</sub-title>
+    <desc lang="pt">Uma fita VHS quebrada precisa ser consertada.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260710224100 -0300" stop="20260710225400 -0300" channel="CARTOON HD">
+  <programme start="20260710213800 -0300" stop="20260710215000 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Jogos Afiados</sub-title>
+    <desc lang="pt">Benson aprende uma forma melhor de motivar.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710215000 -0300" stop="20260710220100 -0300" channel="CARTOON HD">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+    <sub-title lang="pt">Cantinho do Cochilo</sub-title>
+    <desc lang="pt">Um esconderijo secreto para cochilos causa grandes problemas.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710220100 -0300" stop="20260710222500 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">O Gesso</sub-title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">6.293.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710222500 -0300" stop="20260710224800 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">Ursos Bebês No Avião</sub-title>
+    <desc lang="pt">Os bebês ursos vivem uma aventura no céu enquanto viajam de avião até a Suécia. Eles são obrigados a se sentar em diferentes seções do avião e as coisas ficam um pouco caóticas para todos a bordo.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.40.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710224800 -0300" stop="20260710230000 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">Passeio</sub-title>
+    <desc lang="pt">Chloe e os ursos partem numa viagem para assistir a uma chuva de meteoros. Polar, o único que pode dirigir, fica na liderança, o que é mais difícil do que ele imaginava.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710230000 -0300" stop="20260710231100 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Mini Escola Natal</sub-title>
+    <desc lang="pt">Bem-vindo a Mini Escola Natal, um lugar na Terra em que Gems de todo o universo aprendem a conviver umas com as outras pacificamente! Mas há uma Gem que se recusa a frequentar.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710231100 -0300" stop="20260710232300 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo</title>
+    <sub-title lang="pt">Longe Demais</sub-title>
+    <desc lang="pt">Ametista e Steven se envolvem numa fofoca.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710232300 -0300" stop="20260710233500 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo</title>
+    <sub-title lang="pt">Poder Político</sub-title>
+    <desc lang="pt">As Gems acabam com a energia elétrica em Beach City e Steven ajuda o prefeito a resolver a situação.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.50.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710233500 -0300" stop="20260710234700 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Isolado</sub-title>
-    <desc lang="pt">Exausto depois de tantas aventuras, Clarêncio se esforça para relaxar e não fazer nada.</desc>
+    <sub-title lang="pt">Suspenso</sub-title>
+    <desc lang="pt">Clarêncio e Sumo acham que se deram bem quando são suspensos por uma semana e aprendem um monte de coisas que nunca haviam aprendido em aula.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.31.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260710234700 -0300" stop="20260711000000 -0300" channel="CARTOON HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <sub-title lang="pt">A Separação</sub-title>
+    <desc lang="pt">Uma discussão tola entre Jeff e Sumo vira uma bola de neve e eles juram que nunca mais irão se falar. No início, Clarêncio fica feliz com a separação, já que agora tem alguém com quem brincar.</desc>
     <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">2.76.</episode-num>
+    <episode-num system="xmltv_ns">1.50.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710225400 -0300" stop="20260710230000 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Garota Misteriosa</sub-title>
-    <desc lang="pt">Quando Clarêncio e seus amigos ligam para números aleatórios para passar trotes, Clarêncio acaba conhecendo uma garota. Mas será que essa ligação de longa distância irá durar?</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">2.73.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260710230000 -0300" stop="20260710231000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Alerta de Crime</sub-title>
-    <desc lang="pt">Robin está pronto para atender um alerta de crime mas os outros Titãs estão sem pressa.</desc>
-    <length units="minutes">600</length>
-    <episode-num system="xmltv_ns">9.503.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710231000 -0300" stop="20260710232200 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Mani-pedi</sub-title>
-    <desc lang="pt">A diversão continua com Os Jovens Titãs em Ação, com novas aventuras divertidas que mostram exatamente como é a vida dos jovens super-heróis.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">9.504.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710232200 -0300" stop="20260710233300 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Chowda</sub-title>
-    <desc lang="pt">A diversão continua com Os Jovens Titãs em Ação, com novas aventuras divertidas que mostram exatamente como é a vida dos jovens super-heróis.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">9.505.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710233300 -0300" stop="20260710234500 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Não é Um Especial de Halloween</sub-title>
-    <desc lang="pt">Os Titãs decidem não fazer um especial de Halloween esse ano mas logo percebem que podem não ter escolha.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">9.506.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710234500 -0300" stop="20260711000000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Desmascarar - A História dos Jovens Titãs</sub-title>
-    <desc lang="pt">Um pouco dos bastidores da história dos Jovens Titãs em Ação!</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">9.507.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260711000000 -0300" stop="20260711001000 -0300" channel="CARTOON HD">
@@ -43279,11 +43109,74 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260709183000 -0300" stop="20260710000000 -0300" channel="CGTN">
+  <programme start="20260709183000 -0300" stop="20260709190000 -0300" channel="CGTN">
     <title lang="pt">The Hub with Wang Guan</title>
     <desc lang="pt">The Hub cobre questões geopolíticas e econômicas, bem como histórias e tendências na cultura, educação, tecnologia e estilo de vida. Tem como objetivo conectar pessoas, culturas e sociedades em todo o Oriente e o...</desc>
-    <length units="minutes">19800</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">88.190.</episode-num>
+  </programme>
+  <programme start="20260709190000 -0300" stop="20260709193000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">89.190.</episode-num>
+  </programme>
+  <programme start="20260709193000 -0300" stop="20260709200000 -0300" channel="CGTN">
+    <title lang="pt">Rediscovering China</title>
+    <desc lang="pt">Com seu acesso incomparável às pessoas e lugares do país, Rediscovering China traz relatórios detalhados sobre os principais problemas que a China enfrenta em um momento de rápidas mudanças.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">89.190.</episode-num>
+  </programme>
+  <programme start="20260709200000 -0300" stop="20260709203000 -0300" channel="CGTN">
+    <title lang="pt">The Heat</title>
+    <desc lang="pt">Programa diário de notícias dedicado a entrevistas importantes, análises e debates envolventes sobre os EUA, a China e questões globais.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">20.190.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260709203000 -0300" stop="20260709210000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.190.</episode-num>
+  </programme>
+  <programme start="20260709210000 -0300" stop="20260709220000 -0300" channel="CGTN">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">O programa oferece uma análise aprofundada dos dados econômicos mais recentes, tendências de negócios e políticas de movimentação de mercado, mostrando como tudo isso afeta as pessoas comuns.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">21.190.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260709220000 -0300" stop="20260709223000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.190.</episode-num>
+  </programme>
+  <programme start="20260709223000 -0300" stop="20260709230000 -0300" channel="CGTN">
+    <title lang="pt">China 24</title>
+    <desc lang="pt">O China 24 é um programa de notícias no horário nobre da CGTN que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.190.</episode-num>
+  </programme>
+  <programme start="20260709230000 -0300" stop="20260709233000 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">83.190.</episode-num>
+  </programme>
+  <programme start="20260709233000 -0300" stop="20260710000000 -0300" channel="CGTN">
+    <title lang="pt">World Insight With Tian Wei</title>
+    <desc lang="pt">O programa combina debates equilibrados e perspicazes sobre os botões quentes globais e entrevistas exclusivas de alto perfil.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.190.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260710000000 -0300" stop="20260710001500 -0300" channel="CGTN">
     <title lang="pt">The World Today</title>
@@ -43292,12 +43185,10 @@
     <episode-num system="xmltv_ns">80.191.</episode-num>
   </programme>
   <programme start="20260710001500 -0300" stop="20260710003000 -0300" channel="CGTN">
-    <title lang="pt">Assignment Asia</title>
-    <desc lang="pt">O Assignment Asia é um premiado programa de documentários que conta a história do continente mais vibrante e diverso do mundo, a Ásia.</desc>
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.</desc>
     <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">80.191.</episode-num>
   </programme>
   <programme start="20260710003000 -0300" stop="20260710010000 -0300" channel="CGTN">
     <title lang="pt">The Point With Liu Xin</title>
@@ -43305,19 +43196,11 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">80.191.</episode-num>
   </programme>
-  <programme start="20260710010000 -0300" stop="20260710013000 -0300" channel="CGTN">
+  <programme start="20260710010000 -0300" stop="20260710020000 -0300" channel="CGTN">
     <title lang="pt">Global Watch</title>
     <desc lang="pt">O Global Watch leva você ao redor do mundo todos os dias na CGTN, trazendo as notícias mais recentes e chegando ao coração das notícias de última hora.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">1.191.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260710013000 -0300" stop="20260710020000 -0300" channel="CGTN">
-    <title lang="pt">The Vibe</title>
-    <desc lang="pt">Sinta a 'Vibe' para música, esportes radicais, entretenimento extremo para jovens extremos. The Vibe - CGTN.</desc>
-    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -43329,12 +43212,10 @@
     <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
   <programme start="20260710021500 -0300" stop="20260710023000 -0300" channel="CGTN">
-    <title lang="pt">Tech It Out</title>
-    <desc lang="pt">Acompanhe as últimas notícias sobre tecnologia, ciência, meio ambiente, saúde e jogos em todo o mundo, com um foco especial na China.</desc>
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.</desc>
     <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
   <programme start="20260710023000 -0300" stop="20260710030000 -0300" channel="CGTN">
     <title lang="pt">Assignment Asia</title>
@@ -43360,24 +43241,15 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710040000 -0300" stop="20260710041500 -0300" channel="CGTN">
+  <programme start="20260710040000 -0300" stop="20260710043000 -0300" channel="CGTN">
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">84.191.</episode-num>
   </programme>
-  <programme start="20260710041500 -0300" stop="20260710043000 -0300" channel="CGTN">
-    <title lang="pt">Assignment Asia</title>
-    <desc lang="pt">O Assignment Asia é um premiado programa de documentários que conta a história do continente mais vibrante e diverso do mundo, a Ásia.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">4.191.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
   <programme start="20260710043000 -0300" stop="20260710050000 -0300" channel="CGTN">
-    <title lang="pt">The Point With Liu Xin</title>
-    <desc lang="pt">O programa traz notícias globais através da perspectiva única de Liu Xin. Com duas décadas de experiência como âncora de notícias e correspondente no exterior, Liu Xin tem um estilo pessoal e envolvente.</desc>
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">O programa é especializado em fornecer notícias sobre atletas chineses, ligas e também sobre os concorrentes estrangeiros mais importantes que jogam no país mais populoso do mundo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">84.191.</episode-num>
   </programme>
@@ -43439,16 +43311,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710090000 -0300" stop="20260710093000 -0300" channel="CGTN">
-    <title lang="pt">China 24</title>
-    <desc lang="pt">O China 24 é um programa de notícias no horário nobre da CGTN que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710090000 -0300" stop="20260710091500 -0300" channel="CGTN">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">89.191.</episode-num>
   </programme>
-  <programme start="20260710093000 -0300" stop="20260710100000 -0300" channel="CGTN">
-    <title lang="pt">Rediscovering China</title>
-    <desc lang="pt">Com seu acesso incomparável às pessoas e lugares do país, Rediscovering China traz relatórios detalhados sobre os principais problemas que a China enfrenta em um momento de rápidas mudanças.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260710091500 -0300" stop="20260710100000 -0300" channel="CGTN">
+    <title lang="pt">China 24</title>
+    <desc lang="pt">O China 24 é um programa de notícias no horário nobre da CGTN que traz as histórias mais importantes deste país em rápida mudança, com mais de 1,3 bilhão de pessoas.</desc>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">89.191.</episode-num>
   </programme>
   <programme start="20260710100000 -0300" stop="20260710103000 -0300" channel="CGTN">
@@ -43606,19 +43478,11 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
-  <programme start="20260710230000 -0300" stop="20260710231500 -0300" channel="CGTN">
+  <programme start="20260710230000 -0300" stop="20260710233000 -0300" channel="CGTN">
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today fornece notícias de última hora, eventos ao vivo, relatórios detalhados, análise de especialistas e cobertura sustentada.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">83.191.</episode-num>
-  </programme>
-  <programme start="20260710231500 -0300" stop="20260710233000 -0300" channel="CGTN">
-    <title lang="pt">Tech It Out</title>
-    <desc lang="pt">Acompanhe as últimas notícias sobre tecnologia, ciência, meio ambiente, saúde e jogos em todo o mundo, com um foco especial na China.</desc>
-    <length units="minutes">900</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
   </programme>
   <programme start="20260710233000 -0300" stop="20260711000000 -0300" channel="CGTN">
     <title lang="pt">World Insight With Tian Wei</title>
@@ -45353,13 +45217,19 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.190.</episode-num>
   </programme>
-  <programme start="20260709230000 -0300" stop="20260709233000 -0300" channel="CNN BRASIL">
+  <programme start="20260709230000 -0300" stop="20260709231000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN na Copa</title>
+    <desc lang="pt">Ancorado pela jornalista Ludmila Candal, com um resumo completo dos principais acontecimentos, resultados e bastidores do Mundial.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">83.190.</episode-num>
+  </programme>
+  <programme start="20260709231000 -0300" stop="20260709234000 -0300" channel="CNN BRASIL">
     <title lang="pt">O Grande Debate</title>
     <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">83.190.</episode-num>
   </programme>
-  <programme start="20260709233000 -0300" stop="20260710000000 -0300" channel="CNN BRASIL">
+  <programme start="20260709234000 -0300" stop="20260710001000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
     <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
     <length units="minutes">1800</length>
@@ -45368,16 +45238,25 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710000000 -0300" stop="20260710020000 -0300" channel="CNN BRASIL">
+  <programme start="20260709234000 -0300" stop="20260710001000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
+    <desc lang="pt">Dr. Roberto Kalil recebe profissionais da medicina e de outros setores correlatos para um bate-papo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">23.190.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260710001000 -0300" stop="20260710020500 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time</title>
     <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6900</length>
     <episode-num system="xmltv_ns">80.191.</episode-num>
   </programme>
-  <programme start="20260710020000 -0300" stop="20260710040000 -0300" channel="CNN BRASIL">
+  <programme start="20260710020500 -0300" stop="20260710040000 -0300" channel="CNN BRASIL">
     <title lang="pt">Hora H</title>
     <desc lang="pt">O Hora H tem a missão de abordar temas relevantes e responder às questões do telespectador, com o aprofundamento necessário para entender os impactos sobre a sociedade.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6900</length>
     <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
   <programme start="20260710040000 -0300" stop="20260710055500 -0300" channel="CNN BRASIL">
@@ -45444,17 +45323,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260710150000 -0300" stop="20260710175500 -0300" channel="CNN BRASIL">
+  <programme start="20260710150000 -0300" stop="20260710175000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN 360º - ao vivo</title>
     <desc lang="pt">Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real.</desc>
-    <length units="minutes">10500</length>
+    <length units="minutes">10200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">85.191.</episode-num>
   </programme>
-  <programme start="20260710175500 -0300" stop="20260710180000 -0300" channel="CNN BRASIL">
+  <programme start="20260710175000 -0300" stop="20260710180000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Mercado - ao vivo</title>
     <desc lang="pt">Um guia sobre os acontecimentos mais relevantes do mercado financeiro. O espectador pode se informar sobre as expectativas para a abertura do mercado, as oscilações e notícias de destaque sobre a economia global.</desc>
-    <length units="minutes">300</length>
+    <length units="minutes">600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">17.191.</episode-num>
     <rating system="Brazil">
@@ -45496,22 +45375,28 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.191.</episode-num>
   </programme>
-  <programme start="20260710230000 -0300" stop="20260710233000 -0300" channel="CNN BRASIL">
+  <programme start="20260710230000 -0300" stop="20260710231000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN na Copa</title>
+    <desc lang="pt">Ancorado pela jornalista Ludmila Candal, com um resumo completo dos principais acontecimentos, resultados e bastidores do Mundial.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">83.191.</episode-num>
+  </programme>
+  <programme start="20260710231000 -0300" stop="20260710234000 -0300" channel="CNN BRASIL">
     <title lang="pt">O Grande Debate</title>
     <desc lang="pt">O Grande Debate coloca em pauta os temas de maior relevância no Brasil e no mundo. Dois debatedores de perfis opostos entre conservadores e progressistas trazem mais calor, mais opinião e mais contrapontos para a pauta do dia.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">83.191.</episode-num>
   </programme>
-  <programme start="20260710233000 -0300" stop="20260711013000 -0300" channel="CNN BRASIL">
+  <programme start="20260710234000 -0300" stop="20260711013500 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time</title>
     <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6900</length>
     <episode-num system="xmltv_ns">83.191.</episode-num>
   </programme>
-  <programme start="20260710233000 -0300" stop="20260711013000 -0300" channel="CNN BRASIL">
+  <programme start="20260710234000 -0300" stop="20260711013500 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time</title>
     <desc lang="pt">Márcio Gomes apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise dos nossos comentaristas ...</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">6900</length>
     <episode-num system="xmltv_ns">83.191.</episode-num>
   </programme>
   <programme start="20260711013000 -0300" stop="20260711033000 -0300" channel="CNN BRASIL">
