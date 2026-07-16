@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-16 11:30:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-16 14:30:52" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11834,19 +11834,10 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.199.</episode-num>
   </programme>
-  <programme start="20260718060000 -0300" stop="20260718063000 -0300" channel="BAND HD">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">6.199.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260718063000 -0300" stop="20260718070000 -0300" channel="BAND HD">
+  <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="BAND HD">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">6.199.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -86135,19 +86126,19 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">85.201.</episode-num>
   </programme>
-  <programme start="20260720163000 -0300" stop="20260720180000 -0300" channel="ESPN">
+  <programme start="20260720163000 -0300" stop="20260720173000 -0300" channel="ESPN">
     <title lang="pt">Sportscenter - ao vivo</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">86.201.</episode-num>
   </programme>
-  <programme start="20260720180000 -0300" stop="20260720200000 -0300" channel="ESPN">
+  <programme start="20260720173000 -0300" stop="20260720200000 -0300" channel="ESPN">
     <title lang="pt">Equipe F - ao vivo</title>
     <desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">88.201.</episode-num>
+    <episode-num system="xmltv_ns">87.201.</episode-num>
   </programme>
   <programme start="20260720200000 -0300" stop="20260720220000 -0300" channel="ESPN">
     <title lang="pt">Sportscenter - ao vivo</title>
@@ -87834,22 +87825,19 @@
     <episode-num system="xmltv_ns">5.197.</episode-num>
   </programme>
   <programme start="20260716080000 -0300" stop="20260716103000 -0300" channel="ESPN 5">
-    <title lang="pt">Tênis - Wimbledon 2026 Feminina</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">Tênis: Wimbledon: Karolina Muchova x Linda Noskova</title>
     <desc lang="pt">Disputado desde 1877, é o mais antigo torneio de tênis do mundo e o terceiro torneio Grand Slam da temporada.</desc>
     <length units="minutes">9000</length>
     <previously-shown/>
   </programme>
   <programme start="20260716103000 -0300" stop="20260716113000 -0300" channel="ESPN 5">
-    <title lang="pt">Tênis - Wimbledon 2026 Masculina</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">Tênis: Wimbledon: Jannik Sinner x Alexander Zverev</title>
     <desc lang="pt">Disputado desde 1877, é o mais antigo torneio de tênis do mundo e o terceiro torneio Grand Slam da temporada.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
   <programme start="20260716113000 -0300" stop="20260716140000 -0300" channel="ESPN 5">
-    <title lang="pt">Tênis - Wimbledon 2026 Masculina</title>
-    <sub-title lang="pt">Final</sub-title>
+    <title lang="pt">Tênis: Wimbledon: Jannik Sinner x Alexander Zverev</title>
     <desc lang="pt">Disputado desde 1877, é o mais antigo torneio de tênis do mundo e o terceiro torneio Grand Slam da temporada.</desc>
     <length units="minutes">9000</length>
     <previously-shown/>
@@ -88015,7 +88003,7 @@
     <episode-num system="xmltv_ns">83.198.</episode-num>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718030000 -0300" channel="ESPN 5">
-    <title lang="pt">Flamengo x Cusco FC</title>
+    <title lang="pt">Flamengo x Cusco</title>
     <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -88083,8 +88071,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718180000 -0300" channel="ESPN 5">
-    <title lang="pt">ESPN Originals</title>
-    <sub-title lang="pt">O Dia que Diego Maradona retornou para o Azteca</sub-title>
+    <title lang="pt">ESPN Originals: O Dia Que Diego Maradona Retornou Para O Azteca</title>
     <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
     <length units="minutes">3600</length>
     <rating system="Brazil">
@@ -88236,8 +88223,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260720143000 -0300" stop="20260720153000 -0300" channel="ESPN 5">
-    <title lang="pt">ESPN Originals</title>
-    <sub-title lang="pt">O Dia que Diego Maradona retornou para o Azteca</sub-title>
+    <title lang="pt">ESPN Originals: O Dia Que Diego Maradona Retornou Para O Azteca</title>
     <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
     <length units="minutes">3600</length>
     <rating system="Brazil">
@@ -88348,7 +88334,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260716170000 -0300" stop="20260716190000 -0300" channel="ESPN 6">
-    <title lang="pt">Flamengo x Cusco FC</title>
+    <title lang="pt">Flamengo x Cusco</title>
     <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -88444,7 +88430,7 @@
     <episode-num system="xmltv_ns">89.198.</episode-num>
   </programme>
   <programme start="20260717203000 -0300" stop="20260717223000 -0300" channel="ESPN 6">
-    <title lang="pt">Flamengo x Cusco FC</title>
+    <title lang="pt">Flamengo x Cusco</title>
     <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
@@ -88679,8 +88665,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260720170000 -0300" stop="20260720180000 -0300" channel="ESPN 6">
-    <title lang="pt">ESPN Originals</title>
-    <sub-title lang="pt">O Dia que Diego Maradona retornou para o Azteca</sub-title>
+    <title lang="pt">ESPN Originals: O Dia Que Diego Maradona Retornou Para O Azteca</title>
     <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
     <length units="minutes">3600</length>
     <rating system="Brazil">
@@ -212636,10 +212621,18 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260716000000 -0300" stop="20260716060000 -0300" channel="TV Camara">
+  <programme start="20260716000000 -0300" stop="20260716003000 -0300" channel="TV Camara">
+    <title lang="pt">Ponto de Vista</title>
+    <desc lang="pt">Programa que reúne os melhores pensadores sobre temas fundamentais para nossa sociedade.</desc>
+    <length units="minutes">1800</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716003000 -0300" stop="20260716060000 -0300" channel="TV Camara">
     <title lang="pt">Reapresentação do Plenário</title>
     <desc lang="pt">Confira ou reveja as sessões do plenário, congresso nacional, e comissão geral realizadas na Câmara dos Deputados.</desc>
-    <length units="minutes">21600</length>
+    <length units="minutes">19800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -212654,7 +212647,7 @@
   </programme>
   <programme start="20260716063000 -0300" stop="20260716070000 -0300" channel="TV Camara">
     <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">O Palavra Aberta é o espaço em que o parlamentar expõe suas ideias, fala de propostas que tramitam no Congresso Nacional e presta contas de sua atuação como deputado.</desc>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">6.197.</episode-num>
     <rating system="Brazil">
@@ -212671,7 +212664,7 @@
   </programme>
   <programme start="20260716073000 -0300" stop="20260716080000 -0300" channel="TV Camara">
     <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">O Palavra Aberta é o espaço em que o parlamentar expõe suas ideias, fala de propostas que tramitam no Congresso Nacional e presta contas de sua atuação como deputado.</desc>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">7.197.</episode-num>
     <rating system="Brazil">
@@ -212687,11 +212680,29 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260716090000 -0300" stop="20260716133000 -0300" channel="TV Camara">
-    <title lang="pt">Sessão Deliberativa Extraordinária</title>
-    <desc lang="pt">Acompanhe ao vivo o Plenário da Câmara dos Deputados.</desc>
-    <length units="minutes">16200</length>
+  <programme start="20260716090000 -0300" stop="20260716120000 -0300" channel="TV Camara">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt">Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
+    <length units="minutes">10800</length>
     <episode-num system="xmltv_ns">9.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716120000 -0300" stop="20260716130000 -0300" channel="TV Camara">
+    <title lang="pt">Expressão Nacional</title>
+    <desc lang="pt">Representantes do governo Federal, da sociedade civil organizada e deputados debatem ao vivo e de forma aprofundada assuntos como economia, política externa, meio ambiente e tecnologia, entre outros.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">12.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716130000 -0300" stop="20260716133000 -0300" channel="TV Camara">
+    <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">13.197.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -212702,11 +212713,49 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">83.197.</episode-num>
   </programme>
-  <programme start="20260716140000 -0300" stop="20260716180000 -0300" channel="TV Camara">
+  <programme start="20260716140000 -0300" stop="20260716141500 -0300" channel="TV Camara">
+    <title lang="pt">Documentário TV Câmara</title>
+    <sub-title lang="pt">Cacau de Tomé-Açú</sub-title>
+    <desc lang="pt">O documentário 'Cacau de Tomé-Açú' destaca a produção de amêndoas de cacau na Floresta Amazônica com a participação de japoneses, ribeirinhos e povos originários.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">14.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716141500 -0300" stop="20260716143000 -0300" channel="TV Camara">
+    <title lang="pt">Documentário TV Câmara</title>
+    <sub-title lang="pt">Acessível - Deficiência Intelectual</sub-title>
+    <desc lang="pt">Neste episódio da série Acessível, você conhece a inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de...</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">14.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716143000 -0300" stop="20260716163000 -0300" channel="TV Camara">
     <title lang="pt">Comissão</title>
     <desc lang="pt">Confira ou reveja as reuniões, audiências públicas ou seminários realizados pelas diversas comissões da Câmara dos Deputados.</desc>
-    <length units="minutes">14400</length>
+    <length units="minutes">7200</length>
     <episode-num system="xmltv_ns">14.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716163000 -0300" stop="20260716173000 -0300" channel="TV Camara">
+    <title lang="pt">Participação Popular</title>
+    <desc lang="pt">O que o cidadão comum acha dos temas que o Congresso discute? Nesse programa, populares, políticos e especialistas dão a sua visão do que movimenta os debates parlamentares.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">16.197.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260716173000 -0300" stop="20260716180000 -0300" channel="TV Camara">
+    <title lang="pt">Ponto de Vista</title>
+    <desc lang="pt">Programa que reúne os melhores pensadores sobre temas fundamentais para nossa sociedade.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">17.197.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -212756,8 +212805,8 @@
   </programme>
   <programme start="20260716203000 -0300" stop="20260716210000 -0300" channel="TV Camara">
     <title lang="pt">Documentário TV Câmara</title>
-    <sub-title lang="pt">O Futuro da Medicina</sub-title>
-    <desc lang="pt">São abordadas discussões sobre telemedicina, o uso de inteligência artificial em diagnósticos, cirurgias robóticas e a importância contínua do vínculo humano na relação médico-paciente.</desc>
+    <sub-title lang="pt">Aqui é Flamengo</sub-title>
+    <desc lang="pt">O Flamengo é o clube mais popular do Nordeste, mesmo que o Rio de Janeiro esteja a milhares de quilômetros de distância. No sertão do Ceará, há um lugarzinho onde a paixão beira a devoção.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">20.197.</episode-num>
     <rating system="Brazil">
@@ -212765,8 +212814,8 @@
     </rating>
   </programme>
   <programme start="20260716210000 -0300" stop="20260716220000 -0300" channel="TV Camara">
-    <title lang="pt">Participação Popular</title>
-    <desc lang="pt">O que o cidadão comum acha dos temas que o Congresso discute? Nesse programa, populares, políticos e especialistas dão a sua visão do que movimenta os debates parlamentares.</desc>
+    <title lang="pt">Encontro Com a Autora</title>
+    <desc lang="pt">Encontro com a Autora, programa feito numa parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">21.197.</episode-num>
     <rating system="Brazil">
@@ -212792,27 +212841,34 @@
   </programme>
   <programme start="20260716233000 -0300" stop="20260717000000 -0300" channel="TV Camara">
     <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">O Palavra Aberta é o espaço em que o parlamentar expõe suas ideias, fala de propostas que tramitam no Congresso Nacional e presta contas de sua atuação como deputado.</desc>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">23.197.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260717000000 -0300" stop="20260717061000 -0300" channel="TV Camara">
+  <programme start="20260717000000 -0300" stop="20260717050000 -0300" channel="TV Camara">
     <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt">Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-    <length units="minutes">22200</length>
+    <length units="minutes">18000</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260717061000 -0300" stop="20260717063000 -0300" channel="TV Camara">
-    <title lang="pt">Documentário TV Câmara</title>
-    <sub-title lang="pt">Donas da Terra</sub-title>
-    <desc lang="pt">Documentário sobre as mulheres indígenas Xokó e sua luta pela terra. O filme resgata as memórias, as tradições e o trabalho delas na construção da memória coletiva Xokó.</desc>
-    <length units="minutes">1200</length>
-    <episode-num system="xmltv_ns">6.198.</episode-num>
+  <programme start="20260717050000 -0300" stop="20260717060000 -0300" channel="TV Camara">
+    <title lang="pt">Expressão Nacional</title>
+    <desc lang="pt">Representantes do governo Federal, da sociedade civil organizada e deputados debatem ao vivo e de forma aprofundada assuntos como economia, política externa, meio ambiente e tecnologia, entre outros.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">5.198.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260717060000 -0300" stop="20260717063000 -0300" channel="TV Camara">
+    <title lang="pt">Câmara Debate</title>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo.</desc>
+    <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -212863,10 +212919,13 @@
     </rating>
   </programme>
   <programme start="20260717100000 -0300" stop="20260717120000 -0300" channel="TV Camara">
-    <title lang="pt">Câmara Agora</title>
-    <desc lang="pt">Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.leg.br</desc>
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt">Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
     <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">80.198.</episode-num>
+    <episode-num system="xmltv_ns">10.198.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260717120000 -0300" stop="20260717130000 -0300" channel="TV Camara">
     <title lang="pt">Participação Popular</title>
@@ -212891,20 +212950,11 @@
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">83.198.</episode-num>
   </programme>
-  <programme start="20260717140000 -0300" stop="20260717150000 -0300" channel="TV Camara">
-    <title lang="pt">Expressão Nacional</title>
-    <desc lang="pt">Representantes do governo Federal, da sociedade civil organizada e deputados debatem ao vivo e de forma aprofundada assuntos como economia, política externa, meio ambiente e tecnologia, entre outros.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">14.198.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260717150000 -0300" stop="20260717180000 -0300" channel="TV Camara">
+  <programme start="20260717140000 -0300" stop="20260717180000 -0300" channel="TV Camara">
     <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt">Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-    <length units="minutes">10800</length>
-    <episode-num system="xmltv_ns">15.198.</episode-num>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">14.198.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -212961,8 +213011,8 @@
   </programme>
   <programme start="20260717220000 -0300" stop="20260717230000 -0300" channel="TV Camara">
     <title lang="pt">Documentário TV Câmara</title>
-    <sub-title lang="pt">Futuro da Educação</sub-title>
-    <desc lang="pt">O documentário Futuro da Educação parte de um paradoxo na sociedade da informação, em que o conhecimento é o ativo mais importante, justamente a forma como adquirimos conhecimento está defasada.</desc>
+    <sub-title lang="pt">O Futuro do Agronegócio</sub-title>
+    <desc lang="pt">O documentário 'O Futuro do Agronegócio' explora a transformação da agricultura brasileira, do uso de tecnologias tropicais à agricultura digital.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">22.198.</episode-num>
     <rating system="Brazil">
