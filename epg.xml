@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-23 11:31:02" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-23 14:30:43" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -344,6 +344,9 @@
   </channel>
   <channel id="SBT NEWS HD">
     <display-name lang="pt">SBT NEWS HD</display-name>
+  </channel>
+  <channel id="SBT São Paulo">
+    <display-name lang="pt">SBT São Paulo</display-name>
   </channel>
   <channel id="SIC INTERNACIONAL">
     <display-name lang="pt">SIC INTERNACIONAL</display-name>
@@ -111275,17 +111278,129 @@
     <date>20260723</date>
     <episode-num system="xmltv_ns">83.205.</episode-num>
   </programme>
-  <programme start="20260724050000 -0300" stop="20260725060000 -0300" channel="GLOBONEWS">
+  <programme start="20260724050000 -0300" stop="20260724060000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews (5h) - ao vivo</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
-    <length units="minutes">90000</length>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260724050000 -0300" stop="20260725060000 -0300" channel="GLOBONEWS">
-    <title lang="pt">Jornal GloboNews (5h) - ao vivo</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
-    <length units="minutes">90000</length>
+  <programme start="20260724060000 -0300" stop="20260724070000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (6h) - ao vivo</title>
+    <desc lang="pt">As principais notícias da manhã, a agenda política que vai movimentar o dia e todas as informações que preparam o assinante para amanhecer bem-informado.</desc>
+    <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260724070000 -0300" stop="20260724093000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Ponto - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Mônica Waldvogel e Victor Boyadjian trazem pela manhã a análise aprofundada na economia e política, com entrevistados que apresentam todos os lados da notícia.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">87.205.</episode-num>
+  </programme>
+  <programme start="20260724093000 -0300" stop="20260724130000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Conexão GloboNews - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
+    <length units="minutes">12600</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">89.205.</episode-num>
+  </programme>
+  <programme start="20260724130000 -0300" stop="20260724160000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Estúdio i - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Andréia Sadi traz as notícias que pautam a imprensa em um noticiário quente, com análise profunda, leveza e um time de comentaristas que se complementa.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">83.205.</episode-num>
+  </programme>
+  <programme start="20260724160000 -0300" stop="20260724180000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Mais - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Um jornal com ritmo da tarde, com a política no dna e que traz também todos os fatos que importam. Apresentação de Júlia Duailibi.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">86.205.</episode-num>
+  </programme>
+  <programme start="20260724180000 -0300" stop="20260724200000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">88.205.</episode-num>
+  </programme>
+  <programme start="20260724200000 -0300" stop="20260724220000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">80.205.</episode-num>
+  </programme>
+  <programme start="20260724220000 -0300" stop="20260724233000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez - ao vivo</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">82.205.</episode-num>
+  </programme>
+  <programme start="20260724233000 -0300" stop="20260725000000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Diálogos Com Mario Sergio Conti - ao vivo</title>
+    <sub-title lang="pt">310</sub-title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">83.205.</episode-num>
+  </programme>
+  <programme start="20260725000000 -0300" stop="20260725010000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - ao vivo</title>
+    <sub-title lang="pt">Jornal GloboNews Edição Da Meia-Noite</sub-title>
+    <desc lang="pt">realizado em 24/07/2026 - Na medida certa para quem está ligado até mais tarde, o telejornal traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">80.206.</episode-num>
+  </programme>
+  <programme start="20260725010000 -0300" stop="20260725030000 -0300" channel="GLOBONEWS">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia e destaque para política, cenário internacional e cultura.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">news/current affairs (general)</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">81.206.</episode-num>
+  </programme>
+  <programme start="20260725030000 -0300" stop="20260725040000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal GloboNews (3h) - ao vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260725040000 -0300" stop="20260725043000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Diálogos Com Mario Sergio Conti</title>
+    <sub-title lang="pt">310</sub-title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">news/current affairs (general)</category>
+    <episode-num system="xmltv_ns">84.206.</episode-num>
+  </programme>
+  <programme start="20260725043000 -0300" stop="20260725060000 -0300" channel="GLOBONEWS">
+    <title lang="pt">Jornal Das Dez</title>
+    <sub-title lang="pt">realizado em 24/07/2026</sub-title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">news/current affairs (general)</category>
+    <date>20260724</date>
+    <episode-num system="xmltv_ns">84.206.</episode-num>
   </programme>
   <programme start="20260725060000 -0300" stop="20260725070000 -0300" channel="GLOBONEWS">
     <title lang="pt">Jornal GloboNews - Edição das 06h - ao vivo</title>
@@ -184243,6 +184358,587 @@
     <length units="minutes">14400</length>
     <category lang="en">news/current affairs (general)</category>
   </programme>
+  <programme start="20260723000000 -0300" stop="20260723010000 -0300" channel="SBT São Paulo">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010000 -0300" stop="20260723013000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.204.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260723013000 -0300" stop="20260723020000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Passe de Milhões</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.204.</episode-num>
+    <rating system="Brazil">
+      <value>[18]</value>
+    </rating>
+  </programme>
+  <programme start="20260723020000 -0300" stop="20260723060000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">82.204.</episode-num>
+  </programme>
+  <programme start="20260723060000 -0300" stop="20260723083000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">O programa aborda noticiário policial, temas das redes sociais e o cotidiano, com forte participação das afiliadas.</desc>
+    <length units="minutes">9000</length>
+    <episode-num system="xmltv_ns">86.204.</episode-num>
+  </programme>
+  <programme start="20260723083000 -0300" stop="20260723124500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+    <length units="minutes">15300</length>
+    <episode-num system="xmltv_ns">88.204.</episode-num>
+  </programme>
+  <programme start="20260723124500 -0300" stop="20260723140000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">12.204.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260723140000 -0300" stop="20260723144500 -0300" channel="SBT São Paulo">
+    <title lang="pt">A Desalmada</title>
+    <desc lang="pt">Abalada com a morte do pai, Fernanda decide vender o sítio e leva com ela apenas fotografias como recordação.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723144500 -0300" stop="20260723153000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Meu Coração é Teu</title>
+    <desc lang="pt">Perla diz a Leon que ele é o novo chefe do departamento de desenho gráfico. Fanny e Nando ajudam Ana a fazer um vídeo.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723153000 -0300" stop="20260723170000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">15.204.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260723170000 -0300" stop="20260723183000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Sortilégio</title>
+    <desc lang="pt">Emiliano diz a Helena que seu sobrinho confirmou presença na festa e que virá com seu amigo Alessandro Lombardo.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723183000 -0300" stop="20260723194500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">88.204.</episode-num>
+  </programme>
+  <programme start="20260723194500 -0300" stop="20260723204500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">89.204.</episode-num>
+  </programme>
+  <programme start="20260723204500 -0300" stop="20260723220000 -0300" channel="SBT São Paulo">
+    <title lang="pt">A História de Joana - A Virgem</title>
+    <desc lang="pt">Suspeitando que Paula tentará culpá-la pelo ataque contra Joana, Camila reúne todas as evidências possíveis para limpar seu nome.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">80.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723220000 -0300" stop="20260723231500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">22.204.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260723231500 -0300" stop="20260724004500 -0300" channel="SBT São Paulo">
+    <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt">O bom humor é o ingrediente mais precioso do programa. Entre os personagens que passeiam pelo programa estão desde tipos inocentes até personagens que satirizam a política nacional.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">23.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723231500 -0300" stop="20260724004500 -0300" channel="SBT São Paulo">
+    <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt">O bom humor é o ingrediente mais precioso do programa. Entre os personagens que passeiam pelo programa estão desde tipos inocentes até personagens que satirizam a política nacional.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">23.204.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260724004500 -0300" stop="20260724014500 -0300" channel="SBT São Paulo">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260724014500 -0300" stop="20260724021500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.205.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260724021500 -0300" stop="20260724060000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">13500</length>
+    <episode-num system="xmltv_ns">82.205.</episode-num>
+  </programme>
+  <programme start="20260724060000 -0300" stop="20260724083000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">O programa aborda noticiário policial, temas das redes sociais e o cotidiano, com forte participação das afiliadas.</desc>
+    <length units="minutes">9000</length>
+    <episode-num system="xmltv_ns">86.205.</episode-num>
+  </programme>
+  <programme start="20260724083000 -0300" stop="20260724124500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+    <length units="minutes">15300</length>
+    <episode-num system="xmltv_ns">88.205.</episode-num>
+  </programme>
+  <programme start="20260724124500 -0300" stop="20260724140000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">12.205.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724144500 -0300" channel="SBT São Paulo">
+    <title lang="pt">A Desalmada</title>
+    <desc lang="pt">Rafael se dá conta de que Fernanda não é a ladra e se desculpa. Mas é surpreendido com a reação dela que lhe dá um tapa.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.205.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260724144500 -0300" stop="20260724153000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Meu Coração é Teu</title>
+    <desc lang="pt">Fanny diz a Lenin que sonha em ter um casamento tão bonito quanto o de Jennifer e Johnny. Fernando está zangado, pois ainda não conseguir deter Henrique.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.205.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260724153000 -0300" stop="20260724170000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">15.205.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260724170000 -0300" stop="20260724183000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Sortilégio</title>
+    <desc lang="pt">Hernan comenta com Alessandro que além da falta da cicatriz, o corpo apresenta marcas de tatuagens que foram removidas com laser.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.205.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260724183000 -0300" stop="20260724194500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">88.205.</episode-num>
+  </programme>
+  <programme start="20260724194500 -0300" stop="20260724204500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">89.205.</episode-num>
+  </programme>
+  <programme start="20260724204500 -0300" stop="20260724220000 -0300" channel="SBT São Paulo">
+    <title lang="pt">A História de Joana - A Virgem</title>
+    <desc lang="pt">Joana consegue se salvar dos bandidos, mas acaba desmaiada, e Jenny descobre sinais de que a filha pode perder o bebê.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">80.205.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260724220000 -0300" stop="20260725000000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">22.205.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260725000000 -0300" stop="20260725010000 -0300" channel="SBT São Paulo">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260725010000 -0300" stop="20260725013000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.206.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260725013000 -0300" stop="20260725020000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Passe de Milhões</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">1.206.</episode-num>
+    <rating system="Brazil">
+      <value>[18]</value>
+    </rating>
+  </programme>
+  <programme start="20260725020000 -0300" stop="20260725060000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">82.206.</episode-num>
+  </programme>
+  <programme start="20260725060000 -0300" stop="20260725070000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">86.206.</episode-num>
+  </programme>
+  <programme start="20260725070000 -0300" stop="20260725110000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer!</desc>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">7.206.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260725110000 -0300" stop="20260725124500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias 1ª Edição</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">81.206.</episode-num>
+  </programme>
+  <programme start="20260725124500 -0300" stop="20260725144500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Clube do Chaves</title>
+    <desc lang="pt">A atração é um programa que reúne enquetes com personagens criados por Roberto Bolaños, como Chaves, Chapolin e Dr. Chapatin além de toda a turma do Chaves!</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">12.206.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260725144500 -0300" stop="20260725154500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Eita Lucas!</title>
+    <desc lang="pt">No Lucas Por Aí, ele vai rodar o Brasil atrás de pessoas que fazem a diferença na comunidade.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260725154500 -0300" stop="20260725180000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Cinema em Casa: Caçador de Recompensas</title>
+    <desc lang="pt">Milo, um caçador de recompensas que está na pior, consegue o trabalho dos seus sonhos quando é designado a capturar sua fugitiva ex-mulher, a repórter Nicole.</desc>
+    <length units="minutes">8100</length>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260725180000 -0300" stop="20260725194500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias 2ª Edição</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">6300</length>
+    <episode-num system="xmltv_ns">88.206.</episode-num>
+  </programme>
+  <programme start="20260725194500 -0300" stop="20260725204500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">89.206.</episode-num>
+  </programme>
+  <programme start="20260725204500 -0300" stop="20260725213000 -0300" channel="SBT São Paulo">
+    <title lang="pt">A História de Joana - A Virgem</title>
+    <desc lang="pt">Juana, uma virgem, é inseminada artificialmente por engano após uma confusão na clínica. Sua vida vira de cabeça para baixo com a gravidez inesperada, especialmente quando ela se apaixona pelo pai biológico do beb...</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">80.206.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260725213000 -0300" stop="20260725223000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Comédia SBT</title>
+    <desc lang="pt">Esqueça cenários luxuosos e roteiros engessados. Esse é o programa mais improvável da sua grade.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">21.206.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260725223000 -0300" stop="20260726000000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Viva a Noite</title>
+    <desc lang="pt">O programa traz convidados especiais, brincadeiras clássicas e quadros que marcaram os anos 80.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">22.206.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260726000000 -0300" stop="20260726010000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa do João</title>
+    <desc lang="pt">O Programa do João mistura passado e presente, trazendo boas conversas e histórias inesquecíveis com o carisma de João Silva. O programa aposta em entrevistas reveladoras.</desc>
+    <length units="minutes">3600</length>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260726010000 -0300" stop="20260726014500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">81.207.</episode-num>
+  </programme>
+  <programme start="20260726014500 -0300" stop="20260726060000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">15300</length>
+    <episode-num system="xmltv_ns">81.207.</episode-num>
+  </programme>
+  <programme start="20260726060000 -0300" stop="20260726070000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">86.207.</episode-num>
+  </programme>
+  <programme start="20260726070000 -0300" stop="20260726073000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Pé na Estrada</title>
+    <desc lang="pt">Com apresentação de Pedro Trucão, o programa Pé na Estrada é exibido aos domingos.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">87.207.</episode-num>
+  </programme>
+  <programme start="20260726073000 -0300" stop="20260726083000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Sports</title>
+    <desc lang="pt">O SBT Sports mostra tudo sobre os principais campeonatos do país e do mundo, traz análises dos jogos e comentários do elenco esportivo da emissora, além de informações exclusivas.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.207.</episode-num>
+  </programme>
+  <programme start="20260726083000 -0300" stop="20260726090000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Webmotors</title>
+    <desc lang="pt">A Webmotors TV traz o conteúdo produzido pelo maior portal de classificados de carros e motos do Brasil. Todo domingo, o programa traz avaliações dos principais lançamentos do País.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">8.207.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260726090000 -0300" stop="20260726093000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Box Aberto</title>
+    <desc lang="pt">O Box Aberto é um programa matinal do SBT focado em automotivo, serviços e curiosidades.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">9.207.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260726093000 -0300" stop="20260726101000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+    <length units="minutes">2400</length>
+    <episode-num system="xmltv_ns">9.207.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260726101000 -0300" stop="20260726110000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.</desc>
+    <length units="minutes">3000</length>
+    <episode-num system="xmltv_ns">80.207.</episode-num>
+  </programme>
+  <programme start="20260726110000 -0300" stop="20260726111500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Sorteio da Tele Sena</title>
+    <desc lang="pt">A Tele Sena é um título de capitalização de pagamento único, lançado em novembro de 1991 pela Liderança Capitalização S/A e com sorteios apresentados semanalmente por Silvio Santos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">11.207.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260726111500 -0300" stop="20260726181500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt">Apresentado por Celso Portioli, o programa conta com a presença de celebridades, brincadeiras e notícias de última hora, além de reportagens exclusivas.</desc>
+    <length units="minutes">25200</length>
+    <episode-num system="xmltv_ns">11.207.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260726181500 -0300" stop="20260726184500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Roda a Roda</title>
+    <desc lang="pt">Rebeca Abravanel comanda o Roda a Roda Jequiti, um programa único, que possibilita aos participantes concorrerem a prêmios especiais em barras de ouro.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">18.207.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260726184500 -0300" stop="20260727000000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa Silvio Santos com Patrícia Abravanel</title>
+    <desc lang="pt">As noites de domingo são muito mais alegres com o Programa Silvio Santos em várias horas de diversão garantida, games, convidados famosos, brincadeiras com o auditório, além de boas gargalhadas.</desc>
+    <length units="minutes">18900</length>
+    <episode-num system="xmltv_ns">18.207.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260727000000 -0300" stop="20260727020000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Titãs</title>
+    <desc lang="pt">Depois de se aventurar em carreira solo, o antigo parceiro do Batman, Dick Grayson, encontra um grupo de jovens heróis que precisam desesperadamente de um mentor.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[16]</value>
+    </rating>
+  </programme>
+  <programme start="20260727020000 -0300" stop="20260727060000 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">82.208.</episode-num>
+  </programme>
+  <programme start="20260727060000 -0300" stop="20260727083000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">O programa aborda noticiário policial, temas das redes sociais e o cotidiano, com forte participação das afiliadas.</desc>
+    <length units="minutes">9000</length>
+    <episode-num system="xmltv_ns">86.208.</episode-num>
+  </programme>
+  <programme start="20260727083000 -0300" stop="20260727124500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+    <length units="minutes">15300</length>
+    <episode-num system="xmltv_ns">88.208.</episode-num>
+  </programme>
+  <programme start="20260727124500 -0300" stop="20260727140000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">12.208.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260727140000 -0300" stop="20260727144500 -0300" channel="SBT São Paulo">
+    <title lang="pt">A Desalmada</title>
+    <desc lang="pt">Essa é a história de Fernanda, uma mulher em busca de vingança depois de ser vítima da crueldade de um homem que a feriu física e emocionalmente.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.208.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260727144500 -0300" stop="20260727153000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Meu Coração é Teu</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">84.208.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260727153000 -0300" stop="20260727170000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">15.208.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260727170000 -0300" stop="20260727183000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Sortilégio</title>
+    <desc lang="pt">A trama conta uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">87.208.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260727183000 -0300" stop="20260727194500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">88.208.</episode-num>
+  </programme>
+  <programme start="20260727194500 -0300" stop="20260727204500 -0300" channel="SBT São Paulo">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">89.208.</episode-num>
+  </programme>
+  <programme start="20260727204500 -0300" stop="20260727220000 -0300" channel="SBT São Paulo">
+    <title lang="pt">A História de Joana - A Virgem</title>
+    <desc lang="pt">Juana, uma virgem, é inseminada artificialmente por engano após uma confusão na clínica. Sua vida vira de cabeça para baixo com a gravidez inesperada, especialmente quando ela se apaixona pelo pai biológico do beb...</desc>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">80.208.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260727220000 -0300" stop="20260727230000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">22.208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260727230000 -0300" stop="20260728000000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Galvão F.C.</title>
+    <desc lang="pt">A atração, focada no público esportivo, mistura debates, análises, convidados especiais e premiações, indo ao ar às noites de segunda-feira.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">23.208.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
   <programme start="20260722234500 -0300" stop="20260723003000 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Casados À Primeira Vista</title>
     <desc lang="pt">Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
@@ -187641,8 +188337,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260724003000 -0300" stop="20260724013000 -0300" channel="SPORTV">
-    <title lang="pt">Flamengo x Santos</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Santos e Vasco jogam a rodada de ida da Semifinal do Campeonato Brasileiro Sub-20, no Vila Belmiro, em Santos (SP).</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
@@ -187676,16 +188372,18 @@
     <previously-shown/>
   </programme>
   <programme start="20260724040000 -0300" stop="20260724050000 -0300" channel="SPORTV">
-    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Santos e Vasco jogam a rodada de ida da Semifinal do Campeonato Brasileiro Sub-20, no Vila Belmiro, em Santos (SP).</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260724050000 -0300" stop="20260724060000 -0300" channel="SPORTV">
-    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
+    <title lang="pt">Bragantino x Palmeiras</title>
+    <desc lang="pt">Bragantino e Palmeiras jogam a rodada de ida da Semifinal do Campeonato Brasileiro Sub-20, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
   <programme start="20260724060000 -0300" stop="20260724063000 -0300" channel="SPORTV">
     <title lang="pt">Chapecoense x Flamengo</title>
@@ -187744,10 +188442,11 @@
     <episode-num system="xmltv_ns">85.205.</episode-num>
   </programme>
   <programme start="20260724161500 -0300" stop="20260724183000 -0300" channel="SPORTV">
-    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20 - ao vivo</title>
-    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-20! Venha testemunhar as estrelas que será o futuro do futebol.</desc>
+    <title lang="pt">Tá na Área - ao vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
     <length units="minutes">8100</length>
     <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">86.205.</episode-num>
   </programme>
   <programme start="20260724183000 -0300" stop="20260724210000 -0300" channel="SPORTV">
     <title lang="pt">Flamengo x Grêmio - ao vivo</title>
@@ -188748,61 +189447,91 @@
     <length units="minutes">3900</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260723120000 -0300" stop="20260723130000 -0300" channel="SPORTV 3">
+  <programme start="20260723120000 -0300" stop="20260723132000 -0300" channel="SPORTV 3">
     <title lang="pt">Circuito Mundial de Tênis de Mesa - ao vivo</title>
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4800</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260723130000 -0300" stop="20260723140000 -0300" channel="SPORTV 3">
+  <programme start="20260723132000 -0300" stop="20260723143000 -0300" channel="SPORTV 3">
     <title lang="pt">Circuito Mundial de Tênis de Mesa - ao vivo</title>
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260723140000 -0300" stop="20260723150000 -0300" channel="SPORTV 3">
+  <programme start="20260723143000 -0300" stop="20260723150500 -0300" channel="SPORTV 3">
     <title lang="pt">Circuito Mundial de Tênis de Mesa - ao vivo</title>
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">2100</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260723150000 -0300" stop="20260723160000 -0300" channel="SPORTV 3">
-    <title lang="pt">Circuito Mundial de Tênis de Mesa - ao vivo</title>
-    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
+  <programme start="20260723150500 -0300" stop="20260723153000 -0300" channel="SPORTV 3">
+    <title lang="pt">Land Of Legends - Supremacia No Esporte: Tênis De Mesa Na China</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
+    <length units="minutes">1500</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">85.1.</episode-num>
   </programme>
-  <programme start="20260723160000 -0300" stop="20260723173000 -0300" channel="SPORTV 3">
+  <programme start="20260723153000 -0300" stop="20260723155500 -0300" channel="SPORTV 3">
+    <title lang="pt">Olympic Rowing Champion Sizwe Ndlovu Visits Refugees In Greece</title>
+    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial de competições!</desc>
+    <length units="minutes">1500</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">85.3.</episode-num>
+  </programme>
+  <programme start="20260723155500 -0300" stop="20260723173500 -0300" channel="SPORTV 3">
     <title lang="pt">Canoagem Slalom Kayak: Oklahoma, EUA - ao vivo</title>
     <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">As grandes estrelas da Canoagem você só vê aqui no SporTV.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">6000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260723173000 -0300" stop="20260723190000 -0300" channel="SPORTV 3">
-    <title lang="pt">Canoagem Slalom Equipe Canoa: Oklahoma, EUA</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">As grandes estrelas da Canoagem você só vê aqui no SporTV.</desc>
-    <length units="minutes">5400</length>
+  <programme start="20260723173500 -0300" stop="20260723181000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260723190000 -0300" stop="20260723195500 -0300" channel="SPORTV 3">
-    <title lang="pt">Road To Glory: Esportes Aquáticos</title>
-    <desc lang="pt">As melhores histórias de saltos ornamentais, natação e polo aquático das Olimpíadas, incluindo Dawn Fraser, Greg Louganis e Michael Phelps.</desc>
+  <programme start="20260723181000 -0300" stop="20260723184500 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260723184500 -0300" stop="20260723192000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260723192000 -0300" stop="20260723195500 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260723195500 -0300" stop="20260723203000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260723203000 -0300" stop="20260723210500 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260723210500 -0300" stop="20260723220000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
     <length units="minutes">3300</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.3.</episode-num>
   </programme>
-  <programme start="20260723195500 -0300" stop="20260723222000 -0300" channel="SPORTV 3">
+  <programme start="20260723220000 -0300" stop="20260723235500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP de Mônaco</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">8700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260723222000 -0300" stop="20260723235500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5700</length>
+    <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260723235500 -0300" stop="20260724015000 -0300" channel="SPORTV 3">
@@ -188859,22 +189588,22 @@
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260724103000 -0300" stop="20260724105000 -0300" channel="SPORTV 3">
+  <programme start="20260724103000 -0300" stop="20260724104500 -0300" channel="SPORTV 3">
     <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
     <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260724105000 -0300" stop="20260724113500 -0300" channel="SPORTV 3">
+  <programme start="20260724104500 -0300" stop="20260724112500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 2: GP da Hungria - Classificação - ao vivo</title>
     <desc lang="pt">Os pilotos vão à pista para os testes de pré-temporada da Fórmula 1, e você acompanha tudo aqui no sportv.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260724113500 -0300" stop="20260724130000 -0300" channel="SPORTV 3">
+  <programme start="20260724112500 -0300" stop="20260724130000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP da Hungria - 2º Treino - ao vivo</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5100</length>
+    <length units="minutes">5700</length>
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260724130000 -0300" stop="20260724140000 -0300" channel="SPORTV 3">
