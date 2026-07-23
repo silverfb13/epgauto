@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-23 17:30:56" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-23 20:31:17" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -13562,22 +13562,22 @@
     <length units="minutes">9000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260726003000 -0300" stop="20260726013000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">TCR South America: 5ª Etapa Velocitta-SP: Corrida 1</title>
-    <desc lang="pt">A terceira temporada do TCR South America têm casa nova para as transmissões televisivas em 2026. As corridas passam a ser todas transmitidas pelo BandSports.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260726003000 -0300" stop="20260726012000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 1</title>
+    <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
+    <length units="minutes">3000</length>
     <previously-shown/>
   </programme>
-  <programme start="20260726013000 -0300" stop="20260726023000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260726012000 -0300" stop="20260726023000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula E: E-Prix de Tóquio: Treino Livre 3 - ao vivo</title>
     <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4200</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">1.207.</episode-num>
   </programme>
   <programme start="20260726023000 -0300" stop="20260726033000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 1</title>
-    <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
+    <title lang="pt">Fórmula 4 Brasil: Etapa Velocitta: Corrida 1</title>
+    <desc lang="pt">A Fórmula 4 Brasil, nova categoria de base do automobilismo nacional, é certificada pela FIA e chega para suprir uma carência no Brasil, que é o passo seguinte aos pilotos que saem do kart.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">2.207.</episode-num>
     <previously-shown/>
@@ -13589,10 +13589,17 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">3.207.</episode-num>
   </programme>
-  <programme start="20260726044500 -0300" stop="20260726064500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 3</title>
-    <desc lang="pt">A PBR Brazil desembarca em Sorriso-MT para mais uma etapa imperdível da temporada.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260726044500 -0300" stop="20260726051500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">4.207.</episode-num>
+  </programme>
+  <programme start="20260726051500 -0300" stop="20260726064500 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Sail GP: Etapa Grã-Bretanha: Regata 1</title>
+    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">5.207.</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20260726064500 -0300" stop="20260726074500 -0300" channel="BAND SPORTS HD">
@@ -13646,8 +13653,8 @@
     <episode-num system="xmltv_ns">12.207.</episode-num>
   </programme>
   <programme start="20260726133000 -0300" stop="20260726140000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
+    <title lang="pt">Magazine TCR Brasil</title>
+    <desc lang="pt">Não perca o primeiro episódio do Magazine TCR Brasil com tudo o que aconteceu na primeira etapa do ano em Interlagos, Brasil.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">13.207.</episode-num>
   </programme>
@@ -13686,54 +13693,52 @@
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">17.207.</episode-num>
   </programme>
-  <programme start="20260726180000 -0300" stop="20260726184500 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Lendas do Motocross Brasileiro</title>
-    <desc lang="pt">Reviva a emocionante jornada do motocross, o icônico esporte radical que cativa o Brasil por mais de 50 anos. Desde seu humilde começo em 1971 até a vibrante cena atual.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260726184500 -0300" stop="20260726213000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">PBR Brasil - Etapa Sorriso-MT - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">A PBR Brazil desembarca em Sorriso-MT para mais uma etapa imperdível da temporada.</desc>
-    <length units="minutes">9900</length>
-    <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260726213000 -0300" stop="20260726223000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Mundial de Motocross: República Tcheca MXGP: Corrida 2</title>
-    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">21.207.</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260726223000 -0300" stop="20260727000000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260726180000 -0300" stop="20260726193000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Sail GP: Etapa Grã-Bretanha: Regata 2</title>
     <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">22.207.</episode-num>
+    <episode-num system="xmltv_ns">18.207.</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260727000000 -0300" stop="20260727010000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260726193000 -0300" stop="20260726203000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Mundial de Motocross: República Tcheca MXGP: Corrida 2</title>
+    <desc lang="pt">O Mundial de Motocross é o maior evento da categoria realizado pela FIM (Federação Internacional de Motociclismo).</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">19.207.</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260726203000 -0300" stop="20260726213000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">Encontro de Craques</title>
+    <desc lang="pt">Encontro de Craques traz o que há de melhor no esporte de forma irreverente e descontraída. Acompanhe aqui no BandSports.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">80.207.</episode-num>
+  </programme>
+  <programme start="20260726213000 -0300" stop="20260727003000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">PBR Brasil - Etapa Sorriso-MT - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A PBR Brazil desembarca em Sorriso-MT para mais uma etapa imperdível da temporada.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260726213000 -0300" stop="20260727003000 -0300" channel="BAND SPORTS HD">
+    <title lang="pt">PBR Brasil - Etapa Sorriso-MT - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">A PBR Brazil desembarca em Sorriso-MT para mais uma etapa imperdível da temporada.</desc>
+    <length units="minutes">10800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260727003000 -0300" stop="20260727013000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 2</title>
     <desc lang="pt">Conheça o grid mais competitivo do automobilismo, onde qualquer piloto tem a chance de subir ao degrau mais alto do pódio. É composta por pilotos de classe mundial com habilidades de todo o espectro do automobilismo.</desc>
     <length units="minutes">3600</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727010000 -0300" stop="20260727023000 -0300" channel="BAND SPORTS HD">
+  <programme start="20260727013000 -0300" stop="20260727030000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Stock Car: 6ª Etapa: Velocitta-SP: Corrida</title>
     <desc lang="pt">O encontro marcará o retorno da principal categoria brasileira ao Autódromo do Velocitta, situado em Mogi Guaçu-SP.</desc>
     <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">1.208.</episode-num>
     <previously-shown/>
-  </programme>
-  <programme start="20260727023000 -0300" stop="20260727030000 -0300" channel="BAND SPORTS HD">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt">Rubens Barrichello, Gerson Campos e uma super equipe aceleram superesportivos importados, clássicos do passado e as últimas novidades do mercado nacional, trazendo sempre velocidade, emoção e informação sobre quatro e...</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">2.208.</episode-num>
   </programme>
   <programme start="20260727030000 -0300" stop="20260727050000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">SFT Combat</title>
@@ -109657,269 +109662,309 @@
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260725000000 -0300" stop="20260725010000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">80.206.</episode-num>
+  <programme start="20260725000000 -0300" stop="20260725020000 -0300" channel="GE TV HD">
+    <title lang="pt">Remo x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260725010000 -0300" stop="20260725040000 -0300" channel="GE TV HD">
-    <title lang="pt">Ucrânia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">10800</length>
+  <programme start="20260725020000 -0300" stop="20260725040000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Estudiantes La Plata</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260725040000 -0300" stop="20260725060000 -0300" channel="GE TV HD">
-    <title lang="pt">Alemanha x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <title lang="pt">Palmeiras x Cerro Porteño</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260725060000 -0300" stop="20260725070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Copa</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">86.206.</episode-num>
   </programme>
-  <programme start="20260725070000 -0300" stop="20260725090000 -0300" channel="GE TV HD">
-    <title lang="pt">Alemanha x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260725090000 -0300" stop="20260725110000 -0300" channel="GE TV HD">
-    <title lang="pt">EUA x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260725110000 -0300" stop="20260725120000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">81.206.</episode-num>
-  </programme>
-  <programme start="20260725120000 -0300" stop="20260725123000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+  <programme start="20260725070000 -0300" stop="20260725073000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.206.</episode-num>
+    <episode-num system="xmltv_ns">87.206.</episode-num>
   </programme>
-  <programme start="20260725123000 -0300" stop="20260725143000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Marrocos</title>
-    <desc lang="pt">França e Marrocos jogam a Quartas de Final da Copa do Mundo da FIFA 2026, no Gillette Stadium, em Foxborough, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260725143000 -0300" stop="20260725163000 -0300" channel="GE TV HD">
-    <title lang="pt">Inglaterra x Argentina</title>
-    <desc lang="pt">Inglaterra e Argentina jogam a Semifinal da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260725163000 -0300" stop="20260725180000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
+  <programme start="20260725073000 -0300" stop="20260725080000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-jogo - ao vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260725080000 -0300" stop="20260725100000 -0300" channel="GE TV HD">
+    <title lang="pt">Liga das Nações Feminina de Vôlei - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260725100000 -0300" stop="20260725113000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <episode-num system="xmltv_ns">80.206.</episode-num>
   </programme>
-  <programme start="20260725180000 -0300" stop="20260725200000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <length units="minutes">7200</length>
-  </programme>
-  <programme start="20260725200000 -0300" stop="20260725210000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260725210000 -0300" stop="20260725230000 -0300" channel="GE TV HD">
-    <title lang="pt">Inglaterra x Argentina</title>
-    <desc lang="pt">Inglaterra e Argentina jogam a Semifinal da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
+  <programme start="20260725113000 -0300" stop="20260725133000 -0300" channel="GE TV HD">
+    <title lang="pt">São Paulo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260725230000 -0300" stop="20260726010000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Inglaterra</title>
-    <desc lang="pt">França e Inglaterra jogam a Disputa de 3º Lugar da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
+  <programme start="20260725133000 -0300" stop="20260725153000 -0300" channel="GE TV HD">
+    <title lang="pt">São Paulo x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260725230000 -0300" stop="20260726010000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Inglaterra</title>
-    <desc lang="pt">França e Inglaterra jogam a Disputa de 3º Lugar da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
+  <programme start="20260725153000 -0300" stop="20260725173000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Vasco</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260726010000 -0300" stop="20260726030000 -0300" channel="GE TV HD">
-    <title lang="pt">Portugal x Espanha</title>
-    <desc lang="pt">Portugal e Espanha jogam a Oitavas de Final da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
+  <programme start="20260725173000 -0300" stop="20260725193000 -0300" channel="GE TV HD">
+    <title lang="pt">Grêmio x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260726030000 -0300" stop="20260726060000 -0300" channel="GE TV HD">
-    <title lang="pt">Ucrânia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">10800</length>
+  <programme start="20260725193000 -0300" stop="20260725213000 -0300" channel="GE TV HD">
+    <title lang="pt">Fluminense x Deportivo La Guaira</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
+  </programme>
+  <programme start="20260725213000 -0300" stop="20260725233000 -0300" channel="GE TV HD">
+    <title lang="pt">Santa Fe x Corinthians</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260725233000 -0300" stop="20260726013000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Estudiantes La Plata</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260725233000 -0300" stop="20260726013000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Estudiantes La Plata</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260726013000 -0300" stop="20260726033000 -0300" channel="GE TV HD">
+    <title lang="pt">Palmeiras x Cerro Porteño</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260726033000 -0300" stop="20260726053000 -0300" channel="GE TV HD">
+    <title lang="pt">Remo x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260726053000 -0300" stop="20260726060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">85.207.</episode-num>
   </programme>
   <programme start="20260726060000 -0300" stop="20260726070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Copa</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">86.207.</episode-num>
   </programme>
-  <programme start="20260726070000 -0300" stop="20260726090000 -0300" channel="GE TV HD">
-    <title lang="pt">Alemanha x Brasil</title>
+  <programme start="20260726070000 -0300" stop="20260726080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.207.</episode-num>
+  </programme>
+  <programme start="20260726080000 -0300" stop="20260726083000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-jogo - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260726083000 -0300" stop="20260726103000 -0300" channel="GE TV HD">
+    <title lang="pt">Liga das Nações Feminina de Vôlei - ao vivo</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260726103000 -0300" stop="20260726123000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Japão</title>
     <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260726090000 -0300" stop="20260726100000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">89.207.</episode-num>
+  <programme start="20260726123000 -0300" stop="20260726140000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">82.207.</episode-num>
   </programme>
-  <programme start="20260726100000 -0300" stop="20260726120000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Inglaterra</title>
-    <desc lang="pt">França e Inglaterra jogam a Disputa de 3º Lugar da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260726140000 -0300" stop="20260726143000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">84.207.</episode-num>
   </programme>
-  <programme start="20260726120000 -0300" stop="20260726140000 -0300" channel="GE TV HD">
-    <title lang="pt">Portugal x Espanha</title>
-    <desc lang="pt">Portugal e Espanha jogam a Oitavas de Final da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260726140000 -0300" stop="20260726160000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7200</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260726143000 -0300" stop="20260726160000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Bahia x Corinthians - ao vivo</title>
+    <desc lang="pt">Bahia e Corinthians jogam pela 20ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260726160000 -0300" stop="20260726180000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+    <title lang="pt">Bahia x Corinthians - ao vivo</title>
+    <desc lang="pt">Bahia e Corinthians jogam pela 20ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
     <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260726180000 -0300" stop="20260726200000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação GE TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Tropa GE Tv - ao vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
     <length units="minutes">7200</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">88.207.</episode-num>
   </programme>
-  <programme start="20260726200000 -0300" stop="20260726220000 -0300" channel="GE TV HD">
-    <title lang="pt">Argentina x Egito</title>
-    <desc lang="pt">Argentina e Egito jogam a Oitavas de Final da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
+  <programme start="20260726200000 -0300" stop="20260726203000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">80.207.</episode-num>
+  </programme>
+  <programme start="20260726203000 -0300" stop="20260726223000 -0300" channel="GE TV HD">
+    <title lang="pt">Grêmio x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260726220000 -0300" stop="20260727000000 -0300" channel="GE TV HD">
-    <title lang="pt">Espanha x Argentina</title>
-    <desc lang="pt">Espanha e Argentina jogam a grande Final da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
+  <programme start="20260726223000 -0300" stop="20260727003000 -0300" channel="GE TV HD">
+    <title lang="pt">São Paulo x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727000000 -0300" stop="20260727021000 -0300" channel="GE TV HD">
-    <title lang="pt">Alemanha x Paraguai</title>
-    <desc lang="pt">Alemanha e Paraguai enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Gillette Stadium, em Foxborough, EUA.</desc>
-    <length units="minutes">7800</length>
+  <programme start="20260726223000 -0300" stop="20260727003000 -0300" channel="GE TV HD">
+    <title lang="pt">São Paulo x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727021000 -0300" stop="20260727044000 -0300" channel="GE TV HD">
-    <title lang="pt">Bélgica x Senegal</title>
-    <desc lang="pt">Bélgica e Senegal enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Lumen Field, em Seattle, EUA.</desc>
-    <length units="minutes">9000</length>
+  <programme start="20260727003000 -0300" stop="20260727023000 -0300" channel="GE TV HD">
+    <title lang="pt">Flamengo x Vasco</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727044000 -0300" stop="20260727060000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Copa</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">4800</length>
+  <programme start="20260727023000 -0300" stop="20260727043000 -0300" channel="GE TV HD">
+    <title lang="pt">Remo x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260727043000 -0300" stop="20260727050000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">84.208.</episode-num>
   </programme>
+  <programme start="20260727050000 -0300" stop="20260727060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">85.208.</episode-num>
+  </programme>
   <programme start="20260727060000 -0300" stop="20260727070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Copa</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">86.208.</episode-num>
   </programme>
   <programme start="20260727070000 -0300" stop="20260727080000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">87.208.</episode-num>
   </programme>
-  <programme start="20260727080000 -0300" stop="20260727100000 -0300" channel="GE TV HD">
-    <title lang="pt">Portugal x Espanha</title>
-    <desc lang="pt">Portugal e Espanha jogam a Oitavas de Final da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
+  <programme start="20260727080000 -0300" stop="20260727103000 -0300" channel="GE TV HD">
+    <title lang="pt">Alemanha x Brasil</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">9000</length>
+    <previously-shown/>
+  </programme>
+  <programme start="20260727103000 -0300" stop="20260727123000 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Japão</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727100000 -0300" stop="20260727110000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">80.208.</episode-num>
-  </programme>
-  <programme start="20260727110000 -0300" stop="20260727130000 -0300" channel="GE TV HD">
-    <title lang="pt">Inglaterra x Argentina</title>
-    <desc lang="pt">Inglaterra e Argentina jogam a Semifinal da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260727123000 -0300" stop="20260727130000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.208.</episode-num>
   </programme>
   <programme start="20260727130000 -0300" stop="20260727150000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Inglaterra</title>
-    <desc lang="pt">França e Inglaterra jogam a Disputa de 3º Lugar da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
+    <title lang="pt">São Paulo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260727150000 -0300" stop="20260727170000 -0300" channel="GE TV HD">
-    <title lang="pt">Espanha x Argentina</title>
-    <desc lang="pt">Espanha e Argentina jogam a grande Final da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
+    <title lang="pt">São Paulo x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260727170000 -0300" stop="20260727190000 -0300" channel="GE TV HD">
-    <title lang="pt">Panela sportv</title>
+    <title lang="pt">Panela sportv - ao vivo</title>
     <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
     <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">87.208.</episode-num>
   </programme>
   <programme start="20260727190000 -0300" stop="20260727200000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Copa do Mundo 2026</title>
-    <sub-title lang="pt">Oitavas de Final</sub-title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <sub-title lang="pt">19ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.208.</episode-num>
   </programme>
   <programme start="20260727200000 -0300" stop="20260727220000 -0300" channel="GE TV HD">
-    <title lang="pt">França x Inglaterra</title>
-    <desc lang="pt">França e Inglaterra jogam a Disputa de 3º Lugar da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
+    <title lang="pt">Flamengo x Vasco</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727220000 -0300" stop="20260728010000 -0300" channel="GE TV HD">
-    <title lang="pt">Portugal x Espanha</title>
-    <desc lang="pt">Portugal e Espanha jogam a Oitavas de Final da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
-    <length units="minutes">10800</length>
+  <programme start="20260727220000 -0300" stop="20260728000000 -0300" channel="GE TV HD">
+    <title lang="pt">Grêmio x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260722234500 -0300" stop="20260723003000 -0300" channel="GLOBO SP">
@@ -164634,51 +164679,63 @@
     <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
     <length units="minutes">5400</length>
   </programme>
-  <programme start="20260723003000 -0300" stop="20260723020000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Giro Copa</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias da Copa de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">80.204.</episode-num>
-  </programme>
-  <programme start="20260723020000 -0300" stop="20260723023000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260723000000 -0300" stop="20260723003000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">BTS Hugo Souza</sub-title>
+    <desc lang="pt">O &quot;Bolívia Talk Show&quot; de hoje traz um BAITA papo com HUGO SOUZA, goleiro do Corinthians e da Seleção Brasileiro!</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.204.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260723023000 -0300" stop="20260723043000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Alemanha x Paraguai</title>
-    <desc lang="pt">Alemanha e Paraguai enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Gillette Stadium, em Foxborough, EUA.</desc>
+  <programme start="20260723003000 -0300" stop="20260723010000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Fala Que Eu Discuto / Brasil Pode ser Campeão do Mundo com Neymar?</sub-title>
+    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; volta com Bolívia, Chico e Chorume do Grêmio respondendo: &quot;COM NEYMAR, O BRASIL TEM CHANCES DE GANHAR A COPA DO MUNDO?&quot;</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260723010000 -0300" stop="20260723020000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Rolê Zika / Fim do tabu do Arsenal! Bolívia e Paulo Andrade mergulham em histórias do futebol de Londres!</sub-title>
+    <desc lang="pt">No episódio de hoje, a nave do Bolívia chega a capital inglesa junto a Paulo Andrade, senhor Premier League, pra um baita papo sobre futebol londrino e inglês!</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260723020000 -0300" stop="20260723033000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... Luisão</title>
+    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">1.41.</episode-num>
+  </programme>
+  <programme start="20260723033000 -0300" stop="20260723050000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Vai, Gabi! na Copa</title>
+    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
+    <length units="minutes">5400</length>
+    <episode-num system="xmltv_ns">3.204.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260723050000 -0300" stop="20260723070000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Flamengo x Palmeiras</title>
+    <desc lang="pt">Flamengo e Palmeiras jogam a Final da Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260723043000 -0300" stop="20260723053000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
+  <programme start="20260723070000 -0300" stop="20260723080000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.204.</episode-num>
+    <episode-num system="xmltv_ns">87.204.</episode-num>
   </programme>
-  <programme start="20260723053000 -0300" stop="20260723064500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
-    <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">85.204.</episode-num>
-  </programme>
-  <programme start="20260723064500 -0300" stop="20260723083000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">6300</length>
-    <episode-num system="xmltv_ns">86.204.</episode-num>
-  </programme>
-  <programme start="20260723083000 -0300" stop="20260723090000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260723080000 -0300" stop="20260723090000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Lei em Campo</title>
+    <desc lang="pt">O Lei em Campo no Ar terá um encontro semanal entre dois universos que, cada vez mais, caminham juntos: o direito e o esporte.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">88.204.</episode-num>
   </programme>
   <programme start="20260723090000 -0300" stop="20260723110000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Costa do Marfim x Noruega</title>
-    <desc lang="pt">Costa do Marfim e Noruega enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
+    <title lang="pt">Atlético-MG x Vitória</title>
+    <desc lang="pt">O melhor da Copa do Brasil Feminina você vê aqui na N Sports!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
@@ -164699,37 +164756,48 @@
     </rating>
   </programme>
   <programme start="20260723123000 -0300" stop="20260723143000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Inglaterra x Argentina</title>
-    <desc lang="pt">Inglaterra e Argentina jogam a Semifinal da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
+    <title lang="pt">Argentina x Cabo Verde</title>
+    <desc lang="pt">Argentina e Cabo Verde enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Hard Rock Stadium, em Miami, EUA.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260723143000 -0300" stop="20260723153000 -0300" channel="NSPORTS HD">
+  <programme start="20260723143000 -0300" stop="20260723150000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Cerro Porteño x Boca Juniors</title>
+    <desc lang="pt">O melhor da Copa Libertadores de Futsal você vê aqui na N Sports!</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260723150000 -0300" stop="20260723153000 -0300" channel="NSPORTS HD">
     <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
-    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
-    <length units="minutes">3600</length>
+    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
+    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
+    <length units="minutes">1800</length>
   </programme>
-  <programme start="20260723153000 -0300" stop="20260723173000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Flamengo x Peñarol</title>
-    <desc lang="pt">Flamengo e Peñarol jogam a Semifinal do Campeonato Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
+  <programme start="20260723153000 -0300" stop="20260723160000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Puro Suco / Chegou a Hora do Yamal Devolver o Banho no Messi?</sub-title>
+    <desc lang="pt">Novo &quot;Puro Suco&quot; no ar em reta final de Copa: com tudo definido, quem será campeão? Tem a entregada histórica da Inglaterra, Messi x Yamal na decisão, o Cucurella verso e é claro: A VOLTA DO FUTEBOL BRASILEIRO!</desc>
+    <length units="minutes">1800</length>
   </programme>
-  <programme start="20260723173000 -0300" stop="20260723174500 -0300" channel="NSPORTS HD">
+  <programme start="20260723160000 -0300" stop="20260723164500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Futebol Pelo Mundo</title>
+    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">86.204.</episode-num>
+  </programme>
+  <programme start="20260723164500 -0300" stop="20260723170000 -0300" channel="NSPORTS HD">
     <title lang="pt">Vai, Gabi! na Copa</title>
     <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
     <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">17.204.</episode-num>
+    <episode-num system="xmltv_ns">16.204.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260723174500 -0300" stop="20260723190000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
-    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
-    <length units="minutes">4500</length>
+  <programme start="20260723170000 -0300" stop="20260723190000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Flamengo x 3B da Amazônia</title>
+    <desc lang="pt">O melhor da Copa do Brasil Feminina você vê aqui na N Sports!</desc>
+    <length units="minutes">7200</length>
+    <previously-shown/>
   </programme>
   <programme start="20260723190000 -0300" stop="20260723200000 -0300" channel="NSPORTS HD">
     <title lang="pt">Deu Jogo</title>
@@ -164737,103 +164805,103 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.204.</episode-num>
   </programme>
-  <programme start="20260723200000 -0300" stop="20260723213000 -0300" channel="NSPORTS HD">
-    <title lang="pt">MTB Cicloturismo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260723200000 -0300" stop="20260723203000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
+    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260723203000 -0300" stop="20260723210000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Puro Suco / Chegou a Hora do Yamal Devolver o Banho no Messi?</sub-title>
+    <desc lang="pt">Novo &quot;Puro Suco&quot; no ar em reta final de Copa: com tudo definido, quem será campeão? Tem a entregada histórica da Inglaterra, Messi x Yamal na decisão, o Cucurella verso e é claro: A VOLTA DO FUTEBOL BRASILEIRO!</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260723210000 -0300" stop="20260723213000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Futebol Pelo Mundo</title>
+    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">81.204.</episode-num>
   </programme>
   <programme start="20260723213000 -0300" stop="20260723230000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Tomer Savoia</title>
+    <title lang="pt">Um Assado Para... Até de Fusca Nós Iremos</title>
     <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
     <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">1.45.</episode-num>
+    <episode-num system="xmltv_ns">1.46.</episode-num>
   </programme>
-  <programme start="20260723230000 -0300" stop="20260723233000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vai, Gabi! na Copa</title>
-    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">23.204.</episode-num>
+  <programme start="20260723230000 -0300" stop="20260724000000 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria</title>
+    <desc lang="pt">O melhor do Jiu Jitsu é no BJJ Cria aqui na N Sports!</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260723233000 -0300" stop="20260724003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa - ao vivo</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.204.</episode-num>
-  </programme>
-  <programme start="20260723233000 -0300" stop="20260724003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa - ao vivo</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.204.</episode-num>
-  </programme>
-  <programme start="20260724003000 -0300" stop="20260724020000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Giro Copa</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias da Copa de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">80.205.</episode-num>
-  </programme>
-  <programme start="20260724020000 -0300" stop="20260724023000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260724000000 -0300" stop="20260724003000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">BTS - Carlos Prates</sub-title>
+    <desc lang="pt">O &quot;Bolívia Talk Show&quot; de hoje chega com um convidado mil grau: Carlos Prates, lutador e nº2 no ranking dos meio-médios do UFC! Colamos até Taubaté pra falar com um lutador em um papo absurdo.</desc>
     <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260724003000 -0300" stop="20260724010000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Fala Que Eu Discuto - Time do Brasil reserva ou titular, qual é a melhor opção para a Copa do Mundo?</sub-title>
+    <desc lang="pt">Novo &quot;Fala Que eu Discuto&quot; na área! Em clima de Copa do Mundo e em sábado de último amistoso da Seleção Brasileira, Bolívia e Chico perguntam: o time reserva do Brasil é melhor que a equipe titular?</desc>
+    <length units="minutes">1800</length>
+  </programme>
+  <programme start="20260724010000 -0300" stop="20260724020000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Rolê Zika - André Hernan</sub-title>
+    <desc lang="pt">O Rolê Zica de hoje sobrevoa até o leste europeu para chegar em SÃO PETERSBURGO, segunda maior cidade da Rússia. Bolívia e André Hernan detalham a história da cidade, o crescimento do Zenit, clube local, e MUITAS...</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260724020000 -0300" stop="20260724033000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <length units="minutes">5400</length>
     <episode-num system="xmltv_ns">82.205.</episode-num>
   </programme>
-  <programme start="20260724023000 -0300" stop="20260724043000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Costa do Marfim x Noruega</title>
-    <desc lang="pt">Costa do Marfim e Noruega enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260724043000 -0300" stop="20260724053000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
+  <programme start="20260724033000 -0300" stop="20260724043000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">O programa Acelerados testa carros do dia a dia, superesportivos e de corrida, focando em desempenho, frenagem e voltas rápidas.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.205.</episode-num>
-  </programme>
-  <programme start="20260724053000 -0300" stop="20260724063000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
-    <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">85.205.</episode-num>
-  </programme>
-  <programme start="20260724063000 -0300" stop="20260724064500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vai, Gabi! na Copa</title>
-    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">6.205.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260724064500 -0300" stop="20260724074500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">86.205.</episode-num>
+  <programme start="20260724043000 -0300" stop="20260724063000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para</title>
+    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">84.205.</episode-num>
   </programme>
-  <programme start="20260724074500 -0300" stop="20260724083000 -0300" channel="NSPORTS HD">
+  <programme start="20260724063000 -0300" stop="20260724064500 -0300" channel="NSPORTS HD">
     <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Puro Suco / A &quot;Argentina&quot; é Real ou é só Choro de Brasileiro?</sub-title>
-    <desc lang="pt">A ARGENTINA VAI SER CAMPEÃ DA COPA DO MUNDO? &quot;O Puro Suco&quot; de hoje chega com o pior da Copa essa semana: hermanos avançando, Messi voando, arbitragem ajudando.</desc>
-    <length units="minutes">2700</length>
+    <sub-title lang="pt">Na Copa / Fizemos zica reversa no Messi na ilha das bonecas</sub-title>
+    <desc lang="pt">O DESIMPEDIDOS TENTOU ZICAR O MESSI E A ARGENTINA? A Copa do Mundo no México segue e é óbvio que a gente tinha que colar em mais rolês F0D4S.</desc>
+    <length units="minutes">900</length>
   </programme>
-  <programme start="20260724083000 -0300" stop="20260724090000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260724064500 -0300" stop="20260724070000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Na Copa / Fizemos o Desafio do Casemiro com Torcedores</sub-title>
+    <desc lang="pt">A SELEÇÃO BRASILEIRA GOLEOU O HAITI, O ENDRICK ESTREOU NA COPA DO MUNDO E O DESIMPEDIDOS FEZ UM ROLÊ ZICA PRA ACOMPANHAR! No México, Bolívia e Chico colaram na fan fest pra reunir torcedores malucos de TODO O MUNDO.</desc>
+    <length units="minutes">900</length>
+  </programme>
+  <programme start="20260724070000 -0300" stop="20260724080000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">87.205.</episode-num>
+  </programme>
+  <programme start="20260724080000 -0300" stop="20260724090000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Lei em Campo</title>
+    <desc lang="pt">O Lei em Campo no Ar terá um encontro semanal entre dois universos que, cada vez mais, caminham juntos: o direito e o esporte.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">88.205.</episode-num>
   </programme>
   <programme start="20260724090000 -0300" stop="20260724110000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Bélgica x Senegal</title>
-    <desc lang="pt">Bélgica e Senegal enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Lumen Field, em Seattle, EUA.</desc>
+    <title lang="pt">Espanha x Áustria</title>
+    <desc lang="pt">Espanha e Áustria enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no SoFi Stadium, em Inglewood, EUA.</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
@@ -164845,95 +164913,62 @@
     <episode-num system="xmltv_ns">81.205.</episode-num>
   </programme>
   <programme start="20260724120000 -0300" stop="20260724140000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Alemanha x Paraguai</title>
-    <desc lang="pt">Alemanha e Paraguai enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Gillette Stadium, em Foxborough, EUA.</desc>
+    <title lang="pt">Peñarol x Seleção do Paraguai</title>
+    <desc lang="pt">O melhor da Ladies Cup você vê aqui na N Sports!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260724140000 -0300" stop="20260724150000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo</title>
-    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <title lang="pt">Fantasma Morales x Carlos Barbosa</title>
+    <desc lang="pt">O melhor da Copa Libertadores de Futsal você vê aqui na N Sports!</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.205.</episode-num>
-  </programme>
-  <programme start="20260724150000 -0300" stop="20260724153000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vai, Gabi! na Copa</title>
-    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">15.205.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260724153000 -0300" stop="20260724173000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Palmeiras x Seleção do Paraguai</title>
-    <desc lang="pt">Palmeiras e Seleção do Paraguai jogam a Semifinal do Campeonato Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
-    <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260724173000 -0300" stop="20260724183000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Podcast Sport Insider</title>
-    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+  <programme start="20260724150000 -0300" stop="20260724160000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
+    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">87.205.</episode-num>
   </programme>
-  <programme start="20260724183000 -0300" stop="20260724190000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo</title>
-    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">88.205.</episode-num>
+  <programme start="20260724160000 -0300" stop="20260724181500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Espanha x Bélgica</title>
+    <desc lang="pt">Espanha e Bélgica jogam a Quartas de Final da Copa do Mundo da FIFA 2026, no SoFi Stadium, em Inglewood, EUA.</desc>
+    <length units="minutes">8100</length>
+    <previously-shown/>
   </programme>
-  <programme start="20260724190000 -0300" stop="20260724200000 -0300" channel="NSPORTS HD">
+  <programme start="20260724181500 -0300" stop="20260724193000 -0300" channel="NSPORTS HD">
     <title lang="pt">Deu Jogo</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">89.205.</episode-num>
+    <length units="minutes">4500</length>
+    <episode-num system="xmltv_ns">88.205.</episode-num>
   </programme>
-  <programme start="20260724200000 -0300" stop="20260724203000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Documentário: FIFA Miami</title>
-    <desc lang="pt">Doc especial da FIFA &quot;Stories From the Cities&quot;</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260724193000 -0300" stop="20260724213000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Internacional x Fluminense - ao vivo</title>
+    <desc lang="pt">O melhor da Copa do Brasil Feminina você vê aqui na N Sports!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260724213000 -0300" stop="20260724223000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider - Isabela e Mia</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <length units="minutes">3600</length>
+    <episode-num system="xmltv_ns">1.38.</episode-num>
+  </programme>
+  <programme start="20260724223000 -0300" stop="20260725003000 -0300" channel="NSPORTS HD">
+    <title lang="pt">MTB Cicloturismo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260724203000 -0300" stop="20260724211500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Campeão do Mundo</title>
-    <desc lang="pt">Campeão do Mundo com Galvão.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">80.205.</episode-num>
-  </programme>
-  <programme start="20260724211500 -0300" stop="20260724223000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Podcast Sport Insider</title>
-    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">81.205.</episode-num>
-  </programme>
-  <programme start="20260724223000 -0300" stop="20260724230000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
-    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
-    <length units="minutes">1800</length>
-  </programme>
-  <programme start="20260724230000 -0300" stop="20260724233000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo</title>
-    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">83.205.</episode-num>
-  </programme>
-  <programme start="20260724233000 -0300" stop="20260725003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa - ao vivo</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.205.</episode-num>
-  </programme>
-  <programme start="20260724233000 -0300" stop="20260725003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa - ao vivo</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
-    <episode-num system="xmltv_ns">83.205.</episode-num>
+  <programme start="20260724223000 -0300" stop="20260725003000 -0300" channel="NSPORTS HD">
+    <title lang="pt">MTB Cicloturismo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">7200</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
   <programme start="20260725003000 -0300" stop="20260725020000 -0300" channel="NSPORTS HD">
     <title lang="pt">Giro Copa</title>
@@ -164960,7 +164995,7 @@
     <episode-num system="xmltv_ns">84.206.</episode-num>
   </programme>
   <programme start="20260725053000 -0300" stop="20260725063000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
+    <title lang="pt">Deu Jogo modo Copa</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">85.206.</episode-num>
@@ -165001,7 +165036,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260725110000 -0300" stop="20260725120000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo - ao vivo</title>
+    <title lang="pt">Deu Jogo modo Copa - ao vivo</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
@@ -165063,7 +165098,7 @@
     </rating>
   </programme>
   <programme start="20260725203000 -0300" stop="20260725213000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
+    <title lang="pt">Deu Jogo modo Copa</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.206.</episode-num>
@@ -165113,7 +165148,7 @@
     <episode-num system="xmltv_ns">84.207.</episode-num>
   </programme>
   <programme start="20260726053000 -0300" stop="20260726063000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
+    <title lang="pt">Deu Jogo modo Copa</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">85.207.</episode-num>
@@ -165152,7 +165187,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260726110000 -0300" stop="20260726120000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo - ao vivo</title>
+    <title lang="pt">Deu Jogo modo Copa - ao vivo</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
@@ -165198,12 +165233,12 @@
   </programme>
   <programme start="20260726183000 -0300" stop="20260726190000 -0300" channel="NSPORTS HD">
     <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Na Copa</sub-title>
-    <desc lang="pt">Bolívia Talk Show na N Sports!</desc>
+    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
+    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
     <length units="minutes">1800</length>
   </programme>
   <programme start="20260726190000 -0300" stop="20260726200000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
+    <title lang="pt">Deu Jogo modo Copa</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.207.</episode-num>
@@ -165215,10 +165250,10 @@
     <episode-num system="xmltv_ns">80.207.</episode-num>
   </programme>
   <programme start="20260726203000 -0300" stop="20260726223000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Copa do Mundo FIFA 2026 SBT + N SPORTS</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Espanha x Argentina</title>
+    <desc lang="pt">Espanha e Argentina jogam a grande Final da Copa do Mundo da FIFA 2026, no MetLife Stadium, em East Rutherford, EUA.</desc>
     <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">80.207.</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260726223000 -0300" stop="20260726230000 -0300" channel="NSPORTS HD">
     <title lang="pt">Documentário: FIFA Miami</title>
@@ -165230,72 +165265,67 @@
   </programme>
   <programme start="20260726230000 -0300" stop="20260726233000 -0300" channel="NSPORTS HD">
     <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Na Copa</sub-title>
-    <desc lang="pt">Bolívia Talk Show na N Sports!</desc>
+    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
+    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
     <length units="minutes">1800</length>
   </programme>
-  <programme start="20260726233000 -0300" stop="20260727003000 -0300" channel="NSPORTS HD">
+  <programme start="20260726233000 -0300" stop="20260727000000 -0300" channel="NSPORTS HD">
     <title lang="pt">Balanço da Copa</title>
     <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.207.</episode-num>
-  </programme>
-  <programme start="20260726233000 -0300" stop="20260727003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">83.207.</episode-num>
-  </programme>
-  <programme start="20260727003000 -0300" stop="20260727020000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Giro Copa</title>
-    <desc lang="pt">Sua fonte de informações com um resumo diário das principais notícias da Copa de um jeito dinâmico e com tudo o que você precisa saber para estar por dentro de todos os assuntos relevantes.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">80.208.</episode-num>
-  </programme>
-  <programme start="20260727020000 -0300" stop="20260727023000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">82.208.</episode-num>
+    <episode-num system="xmltv_ns">83.207.</episode-num>
   </programme>
-  <programme start="20260727023000 -0300" stop="20260727043000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Alemanha x Paraguai</title>
-    <desc lang="pt">Alemanha e Paraguai enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no Gillette Stadium, em Foxborough, EUA.</desc>
+  <programme start="20260727000000 -0300" stop="20260727010000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
+    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
+    <length units="minutes">3600</length>
+  </programme>
+  <programme start="20260727010000 -0300" stop="20260727014500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos BTS Alexandre Pato</title>
+    <desc lang="pt">Neste BTS o Bolívia recebe Alexandre Pato para contar histórias de Milão.</desc>
+    <length units="minutes">2700</length>
+  </programme>
+  <programme start="20260727014500 -0300" stop="20260727034500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... Anderson Polga</title>
+    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <length units="minutes">7200</length>
+    <episode-num system="xmltv_ns">1.43.</episode-num>
+  </programme>
+  <programme start="20260727034500 -0300" stop="20260727050000 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria</title>
+    <desc lang="pt">O melhor do Jiu Jitsu é no BJJ Cria aqui na N Sports!</desc>
+    <length units="minutes">4500</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260727050000 -0300" stop="20260727070000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Holanda x Polônia</title>
+    <desc lang="pt">O melhor das Eliminatórias da Copa você vê aqui na N Sports!</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727043000 -0300" stop="20260727053000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
+  <programme start="20260727070000 -0300" stop="20260727080000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.208.</episode-num>
+    <episode-num system="xmltv_ns">87.208.</episode-num>
   </programme>
-  <programme start="20260727053000 -0300" stop="20260727064500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
-    <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-    <length units="minutes">4500</length>
-    <episode-num system="xmltv_ns">85.208.</episode-num>
-  </programme>
-  <programme start="20260727064500 -0300" stop="20260727083000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">6300</length>
-    <episode-num system="xmltv_ns">86.208.</episode-num>
-  </programme>
-  <programme start="20260727083000 -0300" stop="20260727090000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vem Pro Jogo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260727080000 -0300" stop="20260727090000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Lei em Campo</title>
+    <desc lang="pt">O Lei em Campo no Ar terá um encontro semanal entre dois universos que, cada vez mais, caminham juntos: o direito e o esporte.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">88.208.</episode-num>
   </programme>
   <programme start="20260727090000 -0300" stop="20260727110000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Costa do Marfim x Noruega</title>
-    <desc lang="pt">Costa do Marfim e Noruega enfrentam-se na fase 16-avos da Copa do Mundo da FIFA 2026, no AT&amp;T Stadium, em Arlington, EUA.</desc>
+    <title lang="pt">Flamengo x Peñarol</title>
+    <desc lang="pt">Flamengo e Peñarol jogam a Semifinal do Campeonato Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
     <length units="minutes">7200</length>
     <previously-shown/>
   </programme>
   <programme start="20260727110000 -0300" stop="20260727120000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo - ao vivo</title>
+    <title lang="pt">Deu Jogo modo Copa - ao vivo</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
@@ -165310,73 +165340,61 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260727123000 -0300" stop="20260727143000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Inglaterra x Argentina</title>
-    <desc lang="pt">Inglaterra e Argentina jogam a Semifinal da Copa do Mundo da FIFA 2026, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260727123000 -0300" stop="20260727144500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Palmeiras x Seleção do Paraguai</title>
+    <desc lang="pt">Palmeiras e Seleção do Paraguai jogam a Semifinal do Campeonato Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
+    <length units="minutes">8100</length>
     <previously-shown/>
   </programme>
-  <programme start="20260727143000 -0300" stop="20260727153000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
-    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
-    <length units="minutes">3600</length>
-  </programme>
-  <programme start="20260727153000 -0300" stop="20260727173000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Flamengo x Peñarol</title>
-    <desc lang="pt">Flamengo e Peñarol jogam a Semifinal do Campeonato Brasil Ladies Cup, no Brinco de Ouro, em Campinas (SP).</desc>
-    <length units="minutes">7200</length>
-    <previously-shown/>
-  </programme>
-  <programme start="20260727173000 -0300" stop="20260727174500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Vai, Gabi! na Copa</title>
-    <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <length units="minutes">900</length>
-    <episode-num system="xmltv_ns">17.208.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260727174500 -0300" stop="20260727190000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos</title>
-    <sub-title lang="pt">Fala Que Eu Discuto / Mbappé, Messi, Yamal ou Haaland? Quem Leva a Copa?</sub-title>
-    <desc lang="pt">O &quot;Fala Que eu Discuto&quot; chega com mais uma live F0D4 pra comentar tudo sobre as quartas com DOUGLAS MAESTRO, ex-Corinthians e Grêmio.</desc>
-    <length units="minutes">4500</length>
-  </programme>
-  <programme start="20260727190000 -0300" stop="20260727200000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
+  <programme start="20260727144500 -0300" stop="20260727154500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Deu Jogo modo Copa</title>
     <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
     <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">89.208.</episode-num>
+    <episode-num system="xmltv_ns">84.208.</episode-num>
   </programme>
-  <programme start="20260727200000 -0300" stop="20260727213000 -0300" channel="NSPORTS HD">
-    <title lang="pt">MTB Cicloturismo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">5400</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+  <programme start="20260727154500 -0300" stop="20260727180000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Coritiba x Internacional - ao vivo</title>
+    <desc lang="pt">O melhor da Copa do Brasil Feminina você vê aqui na N Sports!</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260727213000 -0300" stop="20260727230000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Tomer Savoia</title>
-    <desc lang="pt">&quot;Um Assado Para…&quot; com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <length units="minutes">5400</length>
-    <episode-num system="xmltv_ns">1.45.</episode-num>
-  </programme>
-  <programme start="20260727230000 -0300" stop="20260727233000 -0300" channel="NSPORTS HD">
+  <programme start="20260727180000 -0300" stop="20260727183000 -0300" channel="NSPORTS HD">
     <title lang="pt">Vai, Gabi! na Copa</title>
     <desc lang="pt">Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">23.208.</episode-num>
+    <episode-num system="xmltv_ns">18.208.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260727233000 -0300" stop="20260728003000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Balanço da Copa - ao vivo</title>
-    <desc lang="pt">O Balanço da Copa é o programa diário e noturno de resenha, debates e análises do SBT durante a Copa do Mundo. O programa é exibido diariamente por volta da meia-noite em parceria com a N Sports, trazendo o resumo completo.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260727183000 -0300" stop="20260727211500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Flamengo x 3B da Amazônia - ao vivo</title>
+    <desc lang="pt">O melhor da Copa do Brasil Feminina você vê aqui na N Sports!</desc>
+    <length units="minutes">9900</length>
     <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260727211500 -0300" stop="20260727214500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Futebol Pelo Mundo</title>
+    <desc lang="pt">Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">81.208.</episode-num>
+  </programme>
+  <programme start="20260727214500 -0300" stop="20260727223000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos</title>
+    <sub-title lang="pt">Puro Suco / Neymar e Vini Jr., Hexa em 2030?</sub-title>
+    <desc lang="pt">Puro Suco especial Copa do Mundo NO AR! Bolívia e Chico chegam com o pior das quartas de final e da semi: afinal, quem passa entre Argentina e Inglaterra? França e Espanha?</desc>
+    <length units="minutes">2700</length>
+  </programme>
+  <programme start="20260727223000 -0300" stop="20260727230000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Campeão do Mundo</title>
+    <desc lang="pt">Campeão do Mundo com Galvão.</desc>
+    <length units="minutes">1800</length>
+    <episode-num system="xmltv_ns">82.208.</episode-num>
+  </programme>
+  <programme start="20260727230000 -0300" stop="20260728000000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.208.</episode-num>
   </programme>
   <programme start="20260722235600 -0300" stop="20260723002100 -0300" channel="OFF HD">
@@ -188516,11 +188534,18 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260723141500 -0300" stop="20260723200000 -0300" channel="SPORTV 2">
-    <title lang="pt">Troféu Brasil de Atletismo</title>
+  <programme start="20260723141500 -0300" stop="20260723193000 -0300" channel="SPORTV 2">
+    <title lang="pt">Troféu Brasil de Atletismo - ao vivo</title>
     <desc lang="pt">O sportv transmite o Troféu Brasil de Atletismo 2026. A competição ocorre de 23 a 26 de julho na nova pista do Ibirapuera, em São Paulo.</desc>
-    <length units="minutes">20700</length>
+    <length units="minutes">18900</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260723193000 -0300" stop="20260723200000 -0300" channel="SPORTV 2">
+    <title lang="pt">Lendas: Usain Bolt</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">89.204.</episode-num>
   </programme>
   <programme start="20260723200000 -0300" stop="20260723221500 -0300" channel="SPORTV 2">
     <title lang="pt">Brasil x Peru - ao vivo</title>
@@ -188633,7 +188658,7 @@
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -188808,7 +188833,7 @@
     <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
+    <episode-num system="xmltv_ns">24.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
