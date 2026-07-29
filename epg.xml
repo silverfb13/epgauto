@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-29 11:30:47" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-29 14:30:44" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -210174,7 +210174,8 @@
   </programme>
   <programme start="20260729050000 -0300" stop="20260729053000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Chapada Diamantina Parte 1</sub-title>
+    <desc lang="pt">Com imensos cânions, desfiladeiros, rios e cachoeiras a Chapada Diamantina, no coração do da Bahia, é um paraíso para aventureiros e ecoturistas. Uma terra de diamantes que se transformou em cartão postal.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.210.</episode-num>
     <rating system="Brazil">
@@ -210183,7 +210184,8 @@
   </programme>
   <programme start="20260729053000 -0300" stop="20260729060000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Os Encantos Do Arquipélago de Marajó</sub-title>
+    <desc lang="pt">Marajó, no extremo norte do Pará, é a maior ilha flúvio-marítima do mundo. Famosa pela cerâmica indígena e pelo gigantesco rebanho de búfalos, a localidade está salpicada de belas praias e muito verde.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.210.</episode-num>
     <rating system="Brazil">
@@ -210235,14 +210237,23 @@
   </programme>
   <programme start="20260729071900 -0300" stop="20260729072700 -0300" channel="TV BRASIL">
     <title lang="pt">Zoopedia</title>
-    <sub-title lang="pt">Como Nascem as Borboletas</sub-title>
-    <desc lang="pt">Quatro jovens filhotes exploram territórios desconhecidos a partir de uma enciclopédia, aprendendo sobre animais e ecossistemas, e fazendo muitas amizades em cada aventura.</desc>
+    <sub-title lang="pt">Burro</sub-title>
+    <desc lang="pt">Quatro jovens filhotes exploram territórios desconhecidos a partir de  uma enciclopédia, aprendendo sobre animais e ecossistemas, e fazendo muitas amizades em cada aventura.</desc>
     <length units="minutes">480</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729072700 -0300" stop="20260729073900 -0300" channel="TV BRASIL">
+  <programme start="20260729072700 -0300" stop="20260729073500 -0300" channel="TV BRASIL">
+    <title lang="pt">Zoopedia</title>
+    <sub-title lang="pt">João de Barro</sub-title>
+    <desc lang="pt">Quatro jovens filhotes exploram territórios desconhecidos a partir de  uma enciclopédia, aprendendo sobre animais e ecossistemas, e fazendo muitas amizades em cada aventura.</desc>
+    <length units="minutes">480</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260729073500 -0300" stop="20260729074700 -0300" channel="TV BRASIL">
     <title lang="pt">Sol em Dó Ré Mi</title>
     <desc lang="pt">Sol, de 6 anos, encontra um piano mágico que a leva ao mundo de Do Ré Mi. Lá, enfrenta desafios do dia a dia com a ajuda de amigos instrumentos, sempre terminando com um show musical!</desc>
     <length units="minutes">720</length>
@@ -210250,7 +210261,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729073900 -0300" stop="20260729074300 -0300" channel="TV BRASIL">
+  <programme start="20260729074700 -0300" stop="20260729075100 -0300" channel="TV BRASIL">
     <title lang="pt">Mundo Bita</title>
     <desc lang="pt">Criado por Chaps Melo, o Mundo Bita é um universo musical e colorido onde Bita e os amigos Lila, Dan e Tito vivem aventuras cheias de imaginação, alegria, amor e aprendizado.</desc>
     <length units="minutes">240</length>
@@ -210259,7 +210270,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729074300 -0300" stop="20260729075500 -0300" channel="TV BRASIL">
+  <programme start="20260729075100 -0300" stop="20260729080300 -0300" channel="TV BRASIL">
     <title lang="pt">Massinhas</title>
     <desc lang="pt">Massinhas escapam da mochila para explorar a sala. Ao investigar um controle remoto, a curiosidade vira aprendizado e o grupo percebe como pequenas ações podem gerar grandes transformações.</desc>
     <length units="minutes">720</length>
@@ -210267,16 +210278,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729075500 -0300" stop="20260729080800 -0300" channel="TV BRASIL">
+  <programme start="20260729080300 -0300" stop="20260729081600 -0300" channel="TV BRASIL">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
     <desc lang="pt">A bebê Lupita é como uma astronauta, porque cada ambiente para ela é como um planeta a ser explorado. Suas aventuras são com as cores, os sons, as texturas, o ambiente e seus objetos.</desc>
     <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">7.210.</episode-num>
+    <episode-num system="xmltv_ns">8.210.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729080800 -0300" stop="20260729081900 -0300" channel="TV BRASIL">
+  <programme start="20260729081600 -0300" stop="20260729082700 -0300" channel="TV BRASIL">
     <title lang="pt">Sonhos e Sapatilhas</title>
     <desc lang="pt">Sonhos e Sapatilhas segue as aventuras de Serafina, Sílvio e o Vovô Armando, em histórias reimaginadas da literatura infantil, que exploram temas como amizade, solidariedade e amor à natureza.</desc>
     <length units="minutes">660</length>
@@ -210284,7 +210295,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729081900 -0300" stop="20260729082700 -0300" channel="TV BRASIL">
+  <programme start="20260729082700 -0300" stop="20260729083500 -0300" channel="TV BRASIL">
     <title lang="pt">Os Chocolix</title>
     <desc lang="pt">&quot;Os Chocolix&quot; é uma uma série de animação, que conta a história de uma  família de chocolates de cores diferentes que vivem no esplendido Reino de Chocolândia. O programa prioriza a diversidade e a prev...</desc>
     <length units="minutes">480</length>
@@ -210292,7 +210303,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729082700 -0300" stop="20260729083800 -0300" channel="TV BRASIL">
+  <programme start="20260729083500 -0300" stop="20260729084600 -0300" channel="TV BRASIL">
     <title lang="pt">O Portão Mágico</title>
     <desc lang="pt">Uma turma de amigos, de diferentes regiões do Brasil, descobre um portão mágico que, ao ser ultrapassado, transporta todos para um mundo de fantasias, onde todas as suas questões podem ser resolvidas.</desc>
     <length units="minutes">660</length>
@@ -210301,7 +210312,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729083800 -0300" stop="20260729084200 -0300" channel="TV BRASIL">
+  <programme start="20260729084600 -0300" stop="20260729085000 -0300" channel="TV BRASIL">
     <title lang="pt">Mundo Bita</title>
     <desc lang="pt">Criado por Chaps Melo, o Mundo Bita é um universo musical e colorido onde Bita e os amigos Lila, Dan e Tito vivem aventuras cheias de imaginação, alegria, amor e aprendizado.</desc>
     <length units="minutes">240</length>
@@ -210310,21 +210321,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260729084200 -0300" stop="20260729084900 -0300" channel="TV BRASIL">
+  <programme start="20260729085000 -0300" stop="20260729085700 -0300" channel="TV BRASIL">
     <title lang="pt">Conta Comigo</title>
     <sub-title lang="pt">Sem Manual</sub-title>
     <desc lang="pt">Mobi convidou seus amigos para uma festa do pijama em sua nova barraca, mas parece que o tempo vai mudar e eles precisam seguir as instruções e montar a barraca rapidamente antes de chover.</desc>
     <length units="minutes">420</length>
     <episode-num system="xmltv_ns">8.210.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260729084900 -0300" stop="20260729085700 -0300" channel="TV BRASIL">
-    <title lang="pt">As Microaventuras de Tito e Muda</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">480</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210495,7 +210497,8 @@
   </programme>
   <programme start="20260729140000 -0300" stop="20260729143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Chapada Diamantina Parte 2</sub-title>
+    <desc lang="pt">A região da Bahia que gera riquezas através do turismo e da agricultura. O paraíso para mergulhadores que exploram belíssimas grutas, uma delas com a fama de ter a água mais cristalina do mundo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">14.210.</episode-num>
     <rating system="Brazil">
@@ -210504,16 +210507,18 @@
   </programme>
   <programme start="20260729143000 -0300" stop="20260729150000 -0300" channel="TV BRASIL">
     <title lang="pt">Ayrton: Retratos e Memórias</title>
+    <sub-title lang="pt">Vida de Campeão</sub-title>
     <desc lang="pt">Uma reveladora viagem pelos bastidores da vida de Ayrton Senna, entrevistas inéditas com pilotos, ex-pilotos, correspondentes internacionais, pessoas que trabalharam com ele, artistas e personalidades da mídia.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">28.143.</episode-num>
+    <episode-num system="xmltv_ns">29.143.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260729150000 -0300" stop="20260729153000 -0300" channel="TV BRASIL">
     <title lang="pt">Parques do Brasil</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <sub-title lang="pt">Parque Nacional de Boa Nova e Chapada Diamantina</sub-title>
+    <desc lang="pt">A expedição é até o parque nacional e o refúgio da vida silvestre de Boa Nova. Depois, na Chapada Diamantina, os aventureiros passam pelo Sertão até esbarrar num paredão de pedra imponente: a Serra do Sincor...</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">15.210.</episode-num>
     <rating system="Brazil">
@@ -210522,7 +210527,8 @@
   </programme>
   <programme start="20260729153000 -0300" stop="20260729160000 -0300" channel="TV BRASIL">
     <title lang="pt">Expedições</title>
-    <desc lang="pt">O EXPEDIÇÕES é o resultado de um trabalho de mais de 30 anos de documentação do Brasil e suas populações, realizado pela jornalista Paula Saldanha e pelo biólogo Roberto Werneck.</desc>
+    <sub-title lang="pt">Travessia Planalto Goiás</sub-title>
+    <desc lang="pt">O espigão mestre da Serra Geral de Goiás, o bordo do Planalto Central. Uma travessia de 3 dias, de Goiás para os Gerais da Bahia. O objetivo é chegar à região das &quot;Sete ilhas&quot;, em Correntina, no coraç...</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">15.210.</episode-num>
     <rating system="Brazil">
@@ -210541,7 +210547,8 @@
   </programme>
   <programme start="20260729180000 -0300" stop="20260729183000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Manaus, a Paris dos Trópicos</sub-title>
+    <desc lang="pt">Manaus, a capital do Amazonas, é a maior cidade do norte do país. Nela, os suntuosos palácios erguidos durante o ciclo da borracha se misturam a construções modernas, como a Arena do Amazonas.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">18.210.</episode-num>
     <rating system="Brazil">
@@ -210587,8 +210594,8 @@
   </programme>
   <programme start="20260729230000 -0300" stop="20260729233000 -0300" channel="TV BRASIL">
     <title lang="pt">Trilha de Letras</title>
-    <sub-title lang="pt">Daniela Arbex</sub-title>
-    <desc lang="pt">Daniela Arbex aborda seu mais recente livro, o título &quot;Longe do Ninho&quot;, sobre o incêndio que matou dez jovens atletas das categorias de base do Flamengo.</desc>
+    <sub-title lang="pt">Alberto Mussa</sub-title>
+    <desc lang="pt">O premiado escritor fala sobre seu livro que foi enredo da Grande Rio na Marquês de Sapucaí. Além disso, compartilha suas origens libanesas e ameríndias, assim como sua rotina influenciada pela cultura negra.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">23.210.</episode-num>
     <rating system="Brazil">
@@ -210624,8 +210631,8 @@
   </programme>
   <programme start="20260730023000 -0300" stop="20260730030000 -0300" channel="TV BRASIL">
     <title lang="pt">Trilha de Letras</title>
-    <sub-title lang="pt">Daniela Arbex</sub-title>
-    <desc lang="pt">Daniela Arbex aborda seu mais recente livro, o título &quot;Longe do Ninho&quot;, sobre o incêndio que matou dez jovens atletas das categorias de base do Flamengo.</desc>
+    <sub-title lang="pt">Alberto Mussa</sub-title>
+    <desc lang="pt">O premiado escritor fala sobre seu livro que foi enredo da Grande Rio na Marquês de Sapucaí. Além disso, compartilha suas origens libanesas e ameríndias, assim como sua rotina influenciada pela cultura negra.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">2.211.</episode-num>
     <rating system="Brazil">
@@ -210650,7 +210657,8 @@
   </programme>
   <programme start="20260730050000 -0300" stop="20260730053000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Chapada Diamantina Parte 2</sub-title>
+    <desc lang="pt">A região da Bahia que gera riquezas através do turismo e da agricultura. O paraíso para mergulhadores que exploram belíssimas grutas, uma delas com a fama de ter a água mais cristalina do mundo.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.211.</episode-num>
     <rating system="Brazil">
@@ -210659,7 +210667,8 @@
   </programme>
   <programme start="20260730053000 -0300" stop="20260730060000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Manaus, a Paris dos Trópicos</sub-title>
+    <desc lang="pt">Manaus, a capital do Amazonas, é a maior cidade do norte do país. Nela, os suntuosos palácios erguidos durante o ciclo da borracha se misturam a construções modernas, como a Arena do Amazonas.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">5.211.</episode-num>
     <rating system="Brazil">
@@ -210711,14 +210720,23 @@
   </programme>
   <programme start="20260730071900 -0300" stop="20260730072700 -0300" channel="TV BRASIL">
     <title lang="pt">Zoopedia</title>
-    <sub-title lang="pt">Porco? Eu não sou porco, não!</sub-title>
+    <sub-title lang="pt">Arraias</sub-title>
     <desc lang="pt">Quatro jovens filhotes exploram territórios desconhecidos a partir de  uma enciclopédia, aprendendo sobre animais e ecossistemas, e fazendo muitas amizades em cada aventura.</desc>
     <length units="minutes">480</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730072700 -0300" stop="20260730073900 -0300" channel="TV BRASIL">
+  <programme start="20260730072700 -0300" stop="20260730073500 -0300" channel="TV BRASIL">
+    <title lang="pt">Zoopedia</title>
+    <sub-title lang="pt">Camaleão</sub-title>
+    <desc lang="pt">Quatro jovens filhotes exploram territórios desconhecidos a partir de  uma enciclopédia, aprendendo sobre animais e ecossistemas, e fazendo muitas amizades em cada aventura.</desc>
+    <length units="minutes">480</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260730073500 -0300" stop="20260730074700 -0300" channel="TV BRASIL">
     <title lang="pt">Sol em Dó Ré Mi</title>
     <desc lang="pt">Sol, de 6 anos, encontra um piano mágico que a leva ao mundo de Do Ré Mi. Lá, enfrenta desafios do dia a dia com a ajuda de amigos instrumentos, sempre terminando com um show musical!</desc>
     <length units="minutes">720</length>
@@ -210726,7 +210744,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730073900 -0300" stop="20260730074300 -0300" channel="TV BRASIL">
+  <programme start="20260730074700 -0300" stop="20260730075100 -0300" channel="TV BRASIL">
     <title lang="pt">Mundo Bita</title>
     <desc lang="pt">Criado por Chaps Melo, o Mundo Bita é um universo musical e colorido onde Bita e os amigos Lila, Dan e Tito vivem aventuras cheias de imaginação, alegria, amor e aprendizado.</desc>
     <length units="minutes">240</length>
@@ -210735,7 +210753,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730074300 -0300" stop="20260730075500 -0300" channel="TV BRASIL">
+  <programme start="20260730075100 -0300" stop="20260730080300 -0300" channel="TV BRASIL">
     <title lang="pt">Massinhas</title>
     <desc lang="pt">Massinhas escapam da mochila para explorar a sala. Ao investigar um controle remoto, a curiosidade vira aprendizado e o grupo percebe como pequenas ações podem gerar grandes transformações.</desc>
     <length units="minutes">720</length>
@@ -210743,16 +210761,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730075500 -0300" stop="20260730080800 -0300" channel="TV BRASIL">
+  <programme start="20260730080300 -0300" stop="20260730081600 -0300" channel="TV BRASIL">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
     <desc lang="pt">A bebê Lupita é como uma astronauta, porque cada ambiente para ela é como um planeta a ser explorado. Suas aventuras são com as cores, os sons, as texturas, o ambiente e seus objetos.</desc>
     <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">7.211.</episode-num>
+    <episode-num system="xmltv_ns">8.211.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730080800 -0300" stop="20260730081900 -0300" channel="TV BRASIL">
+  <programme start="20260730081600 -0300" stop="20260730082700 -0300" channel="TV BRASIL">
     <title lang="pt">Sonhos e Sapatilhas</title>
     <desc lang="pt">Sonhos e Sapatilhas segue as aventuras de Serafina, Sílvio e o Vovô Armando, em histórias reimaginadas da literatura infantil, que exploram temas como amizade, solidariedade e amor à natureza.</desc>
     <length units="minutes">660</length>
@@ -210760,7 +210778,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730081900 -0300" stop="20260730082700 -0300" channel="TV BRASIL">
+  <programme start="20260730082700 -0300" stop="20260730083500 -0300" channel="TV BRASIL">
     <title lang="pt">Os Chocolix</title>
     <desc lang="pt">&quot;Os Chocolix&quot; é uma uma série de animação, que conta a história de uma  família de chocolates de cores diferentes que vivem no esplendido Reino de Chocolândia. O programa prioriza a diversidade e a prev...</desc>
     <length units="minutes">480</length>
@@ -210768,7 +210786,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730082700 -0300" stop="20260730083800 -0300" channel="TV BRASIL">
+  <programme start="20260730083500 -0300" stop="20260730084600 -0300" channel="TV BRASIL">
     <title lang="pt">O Portão Mágico</title>
     <desc lang="pt">Uma turma de amigos, de diferentes regiões do Brasil, descobre um portão mágico que, ao ser ultrapassado, transporta todos para um mundo de fantasias, onde todas as suas questões podem ser resolvidas.</desc>
     <length units="minutes">660</length>
@@ -210777,7 +210795,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730083800 -0300" stop="20260730084200 -0300" channel="TV BRASIL">
+  <programme start="20260730084600 -0300" stop="20260730085000 -0300" channel="TV BRASIL">
     <title lang="pt">Mundo Bita</title>
     <desc lang="pt">Criado por Chaps Melo, o Mundo Bita é um universo musical e colorido onde Bita e os amigos Lila, Dan e Tito vivem aventuras cheias de imaginação, alegria, amor e aprendizado.</desc>
     <length units="minutes">240</length>
@@ -210786,21 +210804,12 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260730084200 -0300" stop="20260730084900 -0300" channel="TV BRASIL">
+  <programme start="20260730085000 -0300" stop="20260730085700 -0300" channel="TV BRASIL">
     <title lang="pt">Conta Comigo</title>
     <sub-title lang="pt">Mel Maravilha</sub-title>
     <desc lang="pt">As crianças preparam um show para os pais no quintal de Mindi, mas Mel é a única que não teve tempo de ensaiar. Na hora de se equilibrar na &quot;corda bamba&quot;, ela precisará da ajuda de seus amigos!</desc>
     <length units="minutes">420</length>
     <episode-num system="xmltv_ns">8.211.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260730084900 -0300" stop="20260730085700 -0300" channel="TV BRASIL">
-    <title lang="pt">As Microaventuras de Tito e Muda</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">480</length>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210971,7 +210980,8 @@
   </programme>
   <programme start="20260730140000 -0300" stop="20260730143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Costa do Petróleo</sub-title>
+    <desc lang="pt">A região do petróleo é o nosso destino de hoje: Campos dos Goytacazes, Macaé, São João da Barra, Rio das Ostras. Uma das regiões que mais cresce, mas que ainda conserva lugares de natureza intocada.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">14.211.</episode-num>
     <rating system="Brazil">
@@ -210980,16 +210990,18 @@
   </programme>
   <programme start="20260730143000 -0300" stop="20260730150000 -0300" channel="TV BRASIL">
     <title lang="pt">Ayrton: Retratos e Memórias</title>
+    <sub-title lang="pt">Ímola</sub-title>
     <desc lang="pt">Uma reveladora viagem pelos bastidores da vida de Ayrton Senna, entrevistas inéditas com pilotos, ex-pilotos, correspondentes internacionais, pessoas que trabalharam com ele, artistas e personalidades da mídia.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">28.143.</episode-num>
+    <episode-num system="xmltv_ns">30.143.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260730150000 -0300" stop="20260730153000 -0300" channel="TV BRASIL">
     <title lang="pt">Parques do Brasil</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <sub-title lang="pt">Parque Nacional do Pau Brasil, Serra das Lontras e Una</sub-title>
+    <desc lang="pt">Neste episódio de Parques do Brasil, nossa equipe visita importantes reservas ambientais localizadas na Bahia - Pau Brasil, Serra das Lontras e Una -, e apresenta suas peculiaridades.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">15.211.</episode-num>
     <rating system="Brazil">
@@ -210998,7 +211010,8 @@
   </programme>
   <programme start="20260730153000 -0300" stop="20260730160000 -0300" channel="TV BRASIL">
     <title lang="pt">Expedições</title>
-    <desc lang="pt">O EXPEDIÇÕES é o resultado de um trabalho de mais de 30 anos de documentação do Brasil e suas populações, realizado pela jornalista Paula Saldanha e pelo biólogo Roberto Werneck.</desc>
+    <sub-title lang="pt">Restinga de Superagui</sub-title>
+    <desc lang="pt">Uma aventura de Cananeia, litoral de São Paulo, até a Restinga de Superagui, no Paraná. Os expedicionários percorrem a região conhecida como Lagamar. Navegam pelos rios e canais desse complexo estuarino-lagunar</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">15.211.</episode-num>
     <rating system="Brazil">
@@ -211017,7 +211030,8 @@
   </programme>
   <programme start="20260730180000 -0300" stop="20260730183000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+    <sub-title lang="pt">Parintins, a Ilha da Magia</sub-title>
+    <desc lang="pt">Em pleno rio Amazonas, junto à fronteira com o Pará, surge Parintins, a ilha da alegria. A cidade, que se desenvolveu durante o ciclo da borracha, é palco de um festival folclórico famoso em todo país.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">18.211.</episode-num>
     <rating system="Brazil">
@@ -211045,20 +211059,20 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260730210000 -0300" stop="20260730224500 -0300" channel="TV BRASIL">
-    <title lang="pt">Sessão de Cinema: A Praia do Fim do Mundo</title>
-    <desc lang="pt">Em Ciarema, o avanço do mar destrói casas. Alice quer partir, mas sua mãe doente insiste em ficar. Entre perdas e afetos, ambas enfrentam o inevitável e seus próprios destinos.</desc>
-    <length units="minutes">6300</length>
+  <programme start="20260730210000 -0300" stop="20260730220000 -0300" channel="TV BRASIL">
+    <title lang="pt">Brasil no Mundo</title>
+    <desc lang="pt">Vamos conhecer os quais são os benefícios e impactos das relações internacionais entre o Brasil e os outros países no dia a dia da população.</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260730224500 -0300" stop="20260730230000 -0300" channel="TV BRASIL">
-    <title lang="pt">Sessão de Cinema: O Mundo Sem Nós</title>
-    <desc lang="pt">O mundo desmorona e divide-se em vários fragmentos. Parece não ser possível continuar existindo.</desc>
-    <length units="minutes">900</length>
+  <programme start="20260730220000 -0300" stop="20260730230000 -0300" channel="TV BRASIL">
+    <title lang="pt">Documentário: O Brasil Visto do Alto</title>
+    <desc lang="pt">Uma viagem de Norte a Sul do Brasil, sobrevoando as mais belas paisagens naturais e urbanas do país. Um olhar diferenciado, conhecendo a história, cultura e geografia de uma pais conhecido por suas paisagens deslumbrantes.</desc>
+    <length units="minutes">3600</length>
     <rating system="Brazil">
-      <value>[14]</value>
+      <value>[L]</value>
     </rating>
   </programme>
   <programme start="20260730230000 -0300" stop="20260730233000 -0300" channel="TV BRASIL">
