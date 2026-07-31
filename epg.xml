@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-07-31 17:30:46" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-07-31 20:31:17" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -44797,23 +44797,23 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.213.</episode-num>
   </programme>
-  <programme start="20260801120000 -0300" stop="20260801133000 -0300" channel="CNN BRASIL">
+  <programme start="20260801120000 -0300" stop="20260801132500 -0300" channel="CNN BRASIL">
     <title lang="pt">Agora CNN - ao vivo</title>
     <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">5100</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">82.213.</episode-num>
   </programme>
-  <programme start="20260801133000 -0300" stop="20260801143000 -0300" channel="CNN BRASIL">
+  <programme start="20260801132500 -0300" stop="20260801144000 -0300" channel="CNN BRASIL">
     <title lang="pt">WW: Edição Especial</title>
     <desc lang="pt">Programa de entrevistas que aprofunda análises sobre o principal tema da semana no Brasil e no mundo, sempre por meio de uma interação entre o apresentador, William Waack, e convidados de alto nível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">4500</length>
     <episode-num system="xmltv_ns">83.213.</episode-num>
   </programme>
-  <programme start="20260801143000 -0300" stop="20260801153000 -0300" channel="CNN BRASIL">
+  <programme start="20260801144000 -0300" stop="20260801153000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">14.213.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -44836,8 +44836,8 @@
     <episode-num system="xmltv_ns">86.213.</episode-num>
   </programme>
   <programme start="20260801171500 -0300" stop="20260801174500 -0300" channel="CNN BRASIL">
-    <title lang="pt">É Negócio</title>
-    <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <title lang="pt">É Negócio: Marcelo Altieri</title>
+    <desc lang="pt">Nesta semana Carlos Sambarana recebe Marcelo Altieri, presidente da Yara Brasil.</desc>
     <length units="minutes">1800</length>
     <episode-num system="xmltv_ns">17.213.</episode-num>
     <rating system="Brazil">
@@ -44852,7 +44852,7 @@
     <episode-num system="xmltv_ns">87.213.</episode-num>
   </programme>
   <programme start="20260801180000 -0300" stop="20260801184500 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Esportes S/A</title>
+    <title lang="pt">CNN Esportes S/A: Edinho, Ex-Goleiro do Santos</title>
     <desc lang="pt">O CNN Esportes S/A fala sobre um mercado que movimenta bilhões e é um dos mais lucrativos do mundo: o futebol. Em pauta, os assuntos mais quentes da indústria do mundo da bola, na perspectiva de Economia e Negócios.</desc>
     <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">88.213.</episode-num>
@@ -44886,16 +44886,7 @@
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">81.213.</episode-num>
   </programme>
-  <programme start="20260801220000 -0300" stop="20260801225000 -0300" channel="CNN BRASIL">
-    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
-    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
-    <length units="minutes">3000</length>
-    <episode-num system="xmltv_ns">22.213.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801225000 -0300" stop="20260801233500 -0300" channel="CNN BRASIL">
+  <programme start="20260801220000 -0300" stop="20260801224500 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
     <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
     <length units="minutes">2700</length>
@@ -44904,17 +44895,30 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801233500 -0300" stop="20260802003500 -0300" channel="CNN BRASIL">
+  <programme start="20260801224500 -0300" stop="20260801233000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
+    <desc lang="pt">A jornalista e influencer Daniela Filomeno descobre destinos fascinantes e desvenda os segredos da gastronomia ao redor do mundo.</desc>
+    <length units="minutes">2700</length>
+    <episode-num system="xmltv_ns">22.213.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801233000 -0300" stop="20260802003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.213.</episode-num>
   </programme>
-  <programme start="20260801233500 -0300" stop="20260802003500 -0300" channel="CNN BRASIL">
+  <programme start="20260801233000 -0300" stop="20260802003000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Prime Time - Edição de Sábado</title>
     <desc lang="pt">O Prime Time apresenta os fatos mais importantes do dia no Brasil e no mundo. Com uma equipe de repórteres espalhados pelo país, Estados Unidos e Europa. As notícias de Brasília com a análise de nossos comentaristas de pol...</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">83.213.</episode-num>
+  </programme>
+  <programme start="20260802003000 -0300" stop="20260802003500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">300</length>
   </programme>
   <programme start="20260802003500 -0300" stop="20260802012000 -0300" channel="CNN BRASIL">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
@@ -45615,10 +45619,9 @@
     <episode-num system="xmltv_ns">82.213.</episode-num>
   </programme>
   <programme start="20260801124500 -0300" stop="20260801131500 -0300" channel="CNN Brasil Money HD">
-    <title lang="pt">Números Que Falam</title>
-    <desc lang="pt">O programa destrincha os principais indicadores do balanço das companhias e, também, os dados macroeconômicos que são determinantes para cada operação.</desc>
+    <title lang="pt">Café com Investidor</title>
+    <desc lang="pt">Exibido quinzenalmente, o programa receberá importantes gestores do mercado financeiro que compartilham visões estratégicas e dicas de investimentos.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">12.213.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -198612,16 +198615,16 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260731061500 -0300" stop="20260731062800 -0300" channel="TNT SERIES HD">
+  <programme start="20260731061500 -0300" stop="20260731063000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">6.122.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260731062800 -0300" stop="20260731071300 -0300" channel="TNT SERIES HD">
+  <programme start="20260731063000 -0300" stop="20260731071500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Citizen's Arrest</sub-title>
     <desc lang="pt">Um corpo sem vida dentro de um contêiner de metal leva a Crimes Graves à trama de um sequestro, e a equipe vai correr contra o relógio para encontrar a jovem vítima antes que seja assassinada.</desc>
@@ -198631,7 +198634,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731071300 -0300" stop="20260731080000 -0300" channel="TNT SERIES HD">
+  <programme start="20260731071500 -0300" stop="20260731080200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Witness Protection</sub-title>
     <desc lang="pt">Um pai de família foi assassinado e seu filho desapareceu depois de os dois terem entrado no programa de proteção às testemunhas enquanto esperavam para testemunhar contra um líder da máfia.</desc>
@@ -198641,7 +198644,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731080000 -0300" stop="20260731084800 -0300" channel="TNT SERIES HD">
+  <programme start="20260731080200 -0300" stop="20260731085000 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Jackals</sub-title>
     <desc lang="pt">Um caso de 1976 é reaberto quando uma foto indica que uma garota de 17 anos que foi asassinada naquele ano tinha envolvimento com uma gangue de motoqueiros.</desc>
@@ -198651,11 +198654,11 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731084800 -0300" stop="20260731093800 -0300" channel="TNT SERIES HD">
+  <programme start="20260731085000 -0300" stop="20260731093800 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Officer Down</sub-title>
     <desc lang="pt">Em vez de abrir um arquivo morto, a equipe precisa se concentrar em assuntos mais urgentes quando um dos investigadores é ferido em uma loja de conveniências.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -198671,21 +198674,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731102700 -0300" stop="20260731111400 -0300" channel="TNT SERIES HD">
+  <programme start="20260731102700 -0300" stop="20260731111600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Person of Interest</title>
     <sub-title lang="pt">Proteus</sub-title>
     <desc lang="pt">Quando a Máquina revela seis números de uma só vez, Reese e Finch saem à caça de um assassino sem nome e sem rosto, durante uma tempestade severa.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731111400 -0300" stop="20260731120100 -0300" channel="TNT SERIES HD">
+  <programme start="20260731111600 -0300" stop="20260731120100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <sub-title lang="pt">Baixaria</sub-title>
     <desc lang="pt">O caso de uma mulher violentada faz Olivia perceber que o ataque que sofreu tem afetado sua performance no trabalho.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">10.10.</episode-num>
     <rating system="Brazil">
       <value>[16]</value>
@@ -198731,17 +198734,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731151400 -0300" stop="20260731160300 -0300" channel="TNT SERIES HD">
+  <programme start="20260731151400 -0300" stop="20260731160200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Jackals</sub-title>
     <desc lang="pt">Um caso de 1976 é reaberto quando uma foto indica que uma garota de 17 anos que foi asassinada naquele ano tinha envolvimento com uma gangue de motoqueiros.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">6.16.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731160300 -0300" stop="20260731165500 -0300" channel="TNT SERIES HD">
+  <programme start="20260731160200 -0300" stop="20260731165400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Officer Down</sub-title>
     <desc lang="pt">Em vez de abrir um arquivo morto, a equipe precisa se concentrar em assuntos mais urgentes quando um dos investigadores é ferido em uma loja de conveniências.</desc>
@@ -198751,7 +198754,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731165500 -0300" stop="20260731174300 -0300" channel="TNT SERIES HD">
+  <programme start="20260731165400 -0300" stop="20260731174200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red, White And Blue</sub-title>
     <desc lang="pt">A equipe do CBI investiga quando o corpo de uma médica do exército que trabalhava com soldados que sofriam de transtorno pós-traumático é encontrado perto de uma base militar.</desc>
@@ -198761,17 +198764,17 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731174300 -0300" stop="20260731183000 -0300" channel="TNT SERIES HD">
+  <programme start="20260731174200 -0300" stop="20260731183100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Behind The Red Curtain</sub-title>
     <desc lang="pt">A equipe do CBI investiga uma morte em uma produção de teatro local. Enquanto isso, Jane espera obter mais informações sobre Red John com Jason Lennon, que está em coma.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731183000 -0300" stop="20260731191700 -0300" channel="TNT SERIES HD">
+  <programme start="20260731183100 -0300" stop="20260731191800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Hot</sub-title>
     <desc lang="pt">Um prédio explode com Jane e a equipe do CBI dentro dele, investigando uma ameaça de morte. Lisbon se encontra mais uma vez com o milionário Walter Mashburn e faíscas voam.</desc>
@@ -198781,7 +198784,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731191700 -0300" stop="20260731200300 -0300" channel="TNT SERIES HD">
+  <programme start="20260731191800 -0300" stop="20260731200400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Ball of Fire</sub-title>
     <desc lang="pt">A equipe do CBI deve voltar no tempo quando Jane é sequestrado. A lista de suspeitos é extremamente longa quando eles percebem que todos que já passaram por sua vida podem querer prejudicá-lo.</desc>
@@ -198791,31 +198794,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731200300 -0300" stop="20260731205200 -0300" channel="TNT SERIES HD">
+  <programme start="20260731200400 -0300" stop="20260731205400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red, White And Blue</sub-title>
     <desc lang="pt">A equipe do CBI investiga quando o corpo de uma médica do exército que trabalhava com soldados que sofriam de transtorno pós-traumático é encontrado perto de uma base militar.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">5.17.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731205200 -0300" stop="20260731214100 -0300" channel="TNT SERIES HD">
+  <programme start="20260731205400 -0300" stop="20260731214200 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Behind The Red Curtain</sub-title>
     <desc lang="pt">A equipe do CBI investiga uma morte em uma produção de teatro local. Enquanto isso, Jane espera obter mais informações sobre Red John com Jason Lennon, que está em coma.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.18.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260731214100 -0300" stop="20260731223000 -0300" channel="TNT SERIES HD">
+  <programme start="20260731214200 -0300" stop="20260731223000 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red Hot</sub-title>
     <desc lang="pt">Um prédio explode com Jane e a equipe do CBI dentro dele, investigando uma ameaça de morte. Lisbon se encontra mais uma vez com o milionário Walter Mashburn e faíscas voam.</desc>
-    <length units="minutes">2940</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">3.7.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -198931,113 +198934,106 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801060000 -0300" stop="20260801060200 -0300" channel="TNT SERIES HD">
-    <title lang="pt">TNT Buzz</title>
-    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">120</length>
+  <programme start="20260801060000 -0300" stop="20260801060800 -0300" channel="TNT SERIES HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">480</length>
+    <episode-num system="xmltv_ns">6.126.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801060200 -0300" stop="20260801060400 -0300" channel="TNT SERIES HD">
-    <title lang="pt">TNT Buzz</title>
-    <desc lang="pt">TNT Buzz, o seu ponto de encontro sobre o melhor do mundo do entretenimento.  Aqui vamos opinar, falar bem, falar mal, e dar risada do mundo pop e resumir todo o barulho que o mundo do entretenimento faz.</desc>
-    <length units="minutes">120</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801060400 -0300" stop="20260801072600 -0300" channel="TNT SERIES HD">
+  <programme start="20260801060800 -0300" stop="20260801065300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red John's Rules</sub-title>
     <desc lang="pt">No emocionante episódio final da quinta temporada, Jane diminui a lista de Red John para sete suspeitos e o criminoso ataca novamente. A vítima estaria ligada ao passado de Jane.</desc>
-    <length units="minutes">4920</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">5.22.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801072600 -0300" stop="20260801081000 -0300" channel="TNT SERIES HD">
+  <programme start="20260801065300 -0300" stop="20260801073800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Desert Rose</sub-title>
     <desc lang="pt">Jane e Lisbon continuam secretamente a missão perigosa de afunilar a lista dos sete suspeitos ao mesmo tempo em que investigam o assassinato de um homem que estava desaparecido nos últimos dois anos.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2700</length>
     <episode-num system="xmltv_ns">6.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801081000 -0300" stop="20260801085700 -0300" channel="TNT SERIES HD">
+  <programme start="20260801073800 -0300" stop="20260801082400 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Black-Winged Redbird</sub-title>
     <desc lang="pt">Jane descobre uma importante pista dos métodos de Red John enquanto o time bate de frente com quatro dos suspeitos.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2760</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801085700 -0300" stop="20260801094200 -0300" channel="TNT SERIES HD">
+  <programme start="20260801082400 -0300" stop="20260801091300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Wedding In Red</sub-title>
     <desc lang="pt">Jane envolve o CBI em um caso em Napa, para se centrar no xerife McAllister enquanto Van Pelt e Rigsby finalmente se casam.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801094200 -0300" stop="20260801103000 -0300" channel="TNT SERIES HD">
+  <programme start="20260801091300 -0300" stop="20260801100200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Reloaded</sub-title>
     <desc lang="pt">Ainda abalado pela recente partida da subchefe Brenda Lee Johnson, o departamento de polícia não facilita a transição da recém-designada chefe da Divisão de Crimes Graves Sharon Raydor.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801103000 -0300" stop="20260801111700 -0300" channel="TNT SERIES HD">
+  <programme start="20260801100200 -0300" stop="20260801105400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Before and After</sub-title>
     <desc lang="pt">A Capitã Raydor toma as rédeas da divisão de Crimes Graves para o desprazer de Provenza ao investigar um tiroteio em um estacionamento.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801111700 -0300" stop="20260801120300 -0300" channel="TNT SERIES HD">
+  <programme start="20260801105400 -0300" stop="20260801114300 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Medical Causes</sub-title>
     <desc lang="pt">Os fatos se tornam confusos em um caso que envolve um acidente de carro fatal em uma discoteca. Enquanto isso Rusty finalmente espera a volta da mãe.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801120300 -0300" stop="20260801125300 -0300" channel="TNT SERIES HD">
+  <programme start="20260801114300 -0300" stop="20260801123200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">The Ecstasy and the Agony</sub-title>
     <desc lang="pt">A unidade combina forças com o FBI quando um caso de homicídio leva ao envolvimento da máfia israelense e a um &quot;estrategista intuitivo&quot;.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801125300 -0300" stop="20260801133700 -0300" channel="TNT SERIES HD">
+  <programme start="20260801123200 -0300" stop="20260801132100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Major Crimes</title>
     <sub-title lang="pt">Citizen's Arrest</sub-title>
     <desc lang="pt">Um corpo sem vida dentro de um contêiner de metal leva a Crimes Graves à trama de um sequestro, e a equipe vai correr contra o relógio para encontrar a jovem vítima antes que seja assassinada.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801133700 -0300" stop="20260801142800 -0300" channel="TNT SERIES HD">
+  <programme start="20260801132100 -0300" stop="20260801141200 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Shattered</sub-title>
     <desc lang="pt">Valens ajuda Rush a encontrar sua irmã viciada, que está desaparecida, enquanto Jeffries segue uma nova pista na tentativa de fechar um caso que está sem resolução há 17 anos.</desc>
@@ -199047,57 +199043,57 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801142800 -0300" stop="20260801151900 -0300" channel="TNT SERIES HD">
+  <programme start="20260801141200 -0300" stop="20260801150400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Pilot</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">3060</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801151900 -0300" stop="20260801160600 -0300" channel="TNT SERIES HD">
+  <programme start="20260801150400 -0300" stop="20260801155600 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Gleen</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">3120</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801160600 -0300" stop="20260801165700 -0300" channel="TNT SERIES HD">
+  <programme start="20260801155600 -0300" stop="20260801164500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Our Boy Is Back</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">3060</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801165700 -0300" stop="20260801174900 -0300" channel="TNT SERIES HD">
+  <programme start="20260801164500 -0300" stop="20260801173500 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Churchgoing People</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">3120</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801174900 -0300" stop="20260801183300 -0300" channel="TNT SERIES HD">
+  <programme start="20260801173500 -0300" stop="20260801182300 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red And Itchy</sub-title>
     <desc lang="pt">J.J. LaRoche pede pessoalmente a ajuda de Jane quando o misterioso container que ele escondeu em um cofre por nove anos em sua casa é roubado.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2880</length>
     <episode-num system="xmltv_ns">5.21.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801183300 -0300" stop="20260801192100 -0300" channel="TNT SERIES HD">
+  <programme start="20260801182300 -0300" stop="20260801191100 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Red John's Rules</sub-title>
     <desc lang="pt">No emocionante episódio final da quinta temporada, Jane diminui a lista de Red John para sete suspeitos e o criminoso ataca novamente. A vítima estaria ligada ao passado de Jane.</desc>
@@ -199107,31 +199103,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801192100 -0300" stop="20260801200600 -0300" channel="TNT SERIES HD">
+  <programme start="20260801191100 -0300" stop="20260801195800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">The Desert Rose</sub-title>
     <desc lang="pt">Jane e Lisbon continuam secretamente a missão perigosa de afunilar a lista dos sete suspeitos ao mesmo tempo em que investigam o assassinato de um homem que estava desaparecido nos últimos dois anos.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2820</length>
     <episode-num system="xmltv_ns">6.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801200600 -0300" stop="20260801205400 -0300" channel="TNT SERIES HD">
+  <programme start="20260801195800 -0300" stop="20260801204900 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Black-Winged Redbird</sub-title>
     <desc lang="pt">Jane descobre uma importante pista dos métodos de Red John enquanto o time bate de frente com quatro dos suspeitos.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801205400 -0300" stop="20260801213800 -0300" channel="TNT SERIES HD">
+  <programme start="20260801204900 -0300" stop="20260801213800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist</title>
     <sub-title lang="pt">Wedding In Red</sub-title>
     <desc lang="pt">Jane envolve o CBI em um caso em Napa, para se centrar no xerife McAllister enquanto Van Pelt e Rigsby finalmente se casam.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2940</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -199147,31 +199143,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801223000 -0300" stop="20260801232000 -0300" channel="TNT SERIES HD">
+  <programme start="20260801223000 -0300" stop="20260801232100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Pilot</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3060</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801232000 -0300" stop="20260802000600 -0300" channel="TNT SERIES HD">
+  <programme start="20260801232100 -0300" stop="20260802001100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Gleen</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801232000 -0300" stop="20260802000600 -0300" channel="TNT SERIES HD">
+  <programme start="20260801232100 -0300" stop="20260802001100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case</title>
     <sub-title lang="pt">Gleen</sub-title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os &quot;Cold Cases&quot;, os casos de crimes antigos que nunca foram resolvidos.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">3000</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
@@ -231963,45 +231959,64 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260731060000 -0300" stop="20260731062200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731060000 -0300" stop="20260731061000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">600</length>
+    <episode-num system="xmltv_ns">6.143.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260731061000 -0300" stop="20260731063600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Search Party</title>
+    <sub-title lang="pt">O Hóspede Cativo</sub-title>
+    <desc lang="pt">O jantar vira um inferno quando Dory e Drew convidam Portia e o intenso ex-namorado de Chantal para tentar obter algumas respostas.</desc>
+    <length units="minutes">1560</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260731063600 -0300" stop="20260731065500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Snoopin' Around And The Wonder Twins Of Atheism</sub-title>
     <desc lang="pt">Sheldon encoraja Missy a questionar a Bíblia, Meemaw está determinado a pegar George Sr. em uma mentira, Mary ajuda o pastor Jeff a procurar um pastor de jovens.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1140</length>
     <episode-num system="xmltv_ns">5.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731062200 -0300" stop="20260731063400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731065500 -0300" stop="20260731071500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Potential Energy And Hooch On A Park Bench</sub-title>
     <desc lang="pt">Sheldon tenta convencer o Dr. Sturgis a voltar para a universidade. Georgie perturba a família quando toma uma decisão que muda sua vida.</desc>
-    <length units="minutes">720</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">5.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731063400 -0300" stop="20260731081900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731071500 -0300" stop="20260731085600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Aqueles Que Me Desejam a Morte</title>
     <desc lang="pt">Uma bombeira deve usar todas as suas habilidades de sobrevivência para ajudar um menino a escapar de dois assassinos no meio de um incêndio.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6060</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260731081900 -0300" stop="20260731084000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731085600 -0300" stop="20260731092000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">I Always Wanted a Shaved Monkey</sub-title>
     <desc lang="pt">Rose tenta ajudar os irmãos quando os dois desabafam um para o outro as suas frustações pessoais.</desc>
-    <length units="minutes">1260</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731084000 -0300" stop="20260731090300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731092000 -0300" stop="20260731094300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Sympathetic Crotch to Cry On</sub-title>
     <desc lang="pt">Enquanto revisa os obituários procurando por possíveis propriedade à venda, Evelyn descobre que seu segundo marrido, Harry, morreu.</desc>
@@ -232011,27 +232026,27 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731090300 -0300" stop="20260731092900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731094300 -0300" stop="20260731100700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">2 Broke Girls</title>
     <sub-title lang="pt">And The Worst Selfie Ever</sub-title>
     <desc lang="pt">Caroline entra em pânico quando percebe uma inflamação na pele após uma noite com seu ex-namorado, Andy</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731092900 -0300" stop="20260731095600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731100700 -0300" stop="20260731103100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">2 Broke Girls</title>
     <sub-title lang="pt">And The Extra Work</sub-title>
     <desc lang="pt">Max e Caroline são convidados para serem figurantes em um programa de TV popular que está gravando uma cena no restaurante de Han.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731095600 -0300" stop="20260731101800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731103100 -0300" stop="20260731105300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Snoopin' Around And The Wonder Twins Of Atheism</sub-title>
     <desc lang="pt">Sheldon encoraja Missy a questionar a Bíblia, Meemaw está determinado a pegar George Sr. em uma mentira, Mary ajuda o pastor Jeff a procurar um pastor de jovens.</desc>
@@ -232041,147 +232056,147 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731101800 -0300" stop="20260731103700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731105300 -0300" stop="20260731111500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Young Sheldon</title>
     <sub-title lang="pt">Potential Energy And Hooch On A Park Bench</sub-title>
     <desc lang="pt">Sheldon tenta convencer o Dr. Sturgis a voltar para a universidade. Georgie perturba a família quando toma uma decisão que muda sua vida.</desc>
-    <length units="minutes">1140</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">5.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731103700 -0300" stop="20260731110200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731111500 -0300" stop="20260731113800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Stag Convergence</sub-title>
     <desc lang="pt">Bernadette pensa duas vezes sobre se casar com Wolowitz quando detalhes da vida sexual do noivo são revelados durante a despedida de solteiro.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">5.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731110200 -0300" stop="20260731112700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731113800 -0300" stop="20260731120100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Launch Acceleration</sub-title>
     <desc lang="pt">Quando a NASA muda a data da missão de Howard e ameaça seus planos de casamento, ele é obrigado a encarar seus medos e o pai de Bernadette (CASEY SANDER). Enquanto isso, Leonard diz algo surpreendente a Penny no quarto.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">5.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731112700 -0300" stop="20260731115200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731120100 -0300" stop="20260731122400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Countdown Reflection</sub-title>
     <desc lang="pt">No último episódio da quinta temporada, Howard e Bernadette decidem se casar antes da viagem dele com a NASA. E a gangue começa a correr com os preparativos.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">5.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731115200 -0300" stop="20260731121800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731122400 -0300" stop="20260731124700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Date Night Variable</sub-title>
     <desc lang="pt">Raj enfrenta a solidão, já que seus amigos estão ocupados com encontros. Enquanto isso, Wolowitz se envolve em uma discussão entre Bernadette e sua mãe, mesmo enquanto ele está no espaço.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.1.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731121800 -0300" stop="20260731123800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731124700 -0300" stop="20260731131000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Decoupling Flunctuation</sub-title>
     <desc lang="pt">Leonard e Sheldon são dois cientistas brilhantes: gênios no laboratório, mas socialmente ineptos.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731123800 -0300" stop="20260731130200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731131000 -0300" stop="20260731133200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Higgs Boson Observation</sub-title>
     <desc lang="pt">Amy se sente ameaçada pela nova assistente de Sheldon; Wolowitz começa a sentir as pressões de estar no espaço.</desc>
-    <length units="minutes">1440</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731130200 -0300" stop="20260731132800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731133200 -0300" stop="20260731135600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">2 Broke Girls</title>
     <sub-title lang="pt">And The Worst Selfie Ever</sub-title>
     <desc lang="pt">Caroline entra em pânico quando percebe uma inflamação na pele após uma noite com seu ex-namorado, Andy</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731132800 -0300" stop="20260731135500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731135600 -0300" stop="20260731142000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">2 Broke Girls</title>
     <sub-title lang="pt">And The Extra Work</sub-title>
     <desc lang="pt">Max e Caroline são convidados para serem figurantes em um programa de TV popular que está gravando uma cena no restaurante de Han.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260731135500 -0300" stop="20260731165600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731142000 -0300" stop="20260731171000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e a Pedra Filosofal</title>
     <desc lang="pt">Harry vive na casa dos tios que insistem em maltratá-lo. Mas, no seu aniversário de 11 anos, ele recebe uma carta para frequentar Hogwarts, escola de bruxos onde seus pais estudaram.</desc>
-    <length units="minutes">10860</length>
+    <length units="minutes">10200</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260731165600 -0300" stop="20260731195700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731171000 -0300" stop="20260731200200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e a Câmara Secreta</title>
     <desc lang="pt">De férias na casa de seus tios Dursley, Harry Potter recebe a inesperada visita de Dobby, um elfo doméstico, que veio avisá-lo para não retornar à Escola de Magia de Hogwarts, pois lá correrá um grande perigo.</desc>
-    <length units="minutes">10860</length>
+    <length units="minutes">10320</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260731195700 -0300" stop="20260731223000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731200200 -0300" stop="20260731223000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
     <desc lang="pt">Fugitivo de Azkaban, a prisão dos magos, invade Hogwarts em busca de Harry Potter, agora no seu terceiro ano de aprendiz.</desc>
-    <length units="minutes">9180</length>
+    <length units="minutes">8880</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260731223000 -0300" stop="20260801011200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731223000 -0300" stop="20260801011900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Cálice de Fogo</title>
     <desc lang="pt">Harry Potter volta a Hogwarts para o seu quarto ano. Enquanto isso, um torneio mágico entre três célebres escolas de magia está prestes a começar.</desc>
-    <length units="minutes">9720</length>
+    <length units="minutes">10140</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260731223000 -0300" stop="20260801011200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260731223000 -0300" stop="20260801011900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Cálice de Fogo</title>
     <desc lang="pt">Harry Potter volta a Hogwarts para o seu quarto ano. Enquanto isso, um torneio mágico entre três célebres escolas de magia está prestes a começar.</desc>
-    <length units="minutes">9720</length>
+    <length units="minutes">10140</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801011200 -0300" stop="20260801013400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801011900 -0300" stop="20260801014300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">I Always Wanted a Shaved Monkey</sub-title>
     <desc lang="pt">Rose tenta ajudar os irmãos quando os dois desabafam um para o outro as suas frustações pessoais.</desc>
-    <length units="minutes">1320</length>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801013400 -0300" stop="20260801015700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801014300 -0300" stop="20260801020600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">A Sympathetic Crotch to Cry On</sub-title>
     <desc lang="pt">Enquanto revisa os obituários procurando por possíveis propriedade à venda, Evelyn descobre que seu segundo marrido, Harry, morreu.</desc>
@@ -232191,7 +232206,7 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801015700 -0300" stop="20260801022000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801020600 -0300" stop="20260801022900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">That Old Hose Bag Is My Mother</sub-title>
     <desc lang="pt">Quando Evelyn faz um empréstimo para Alan para que ele possa comprar um Porsche novo, Charlie lhe diz que ele vendeu sua alma para o diabo.</desc>
@@ -232201,27 +232216,27 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801022000 -0300" stop="20260801024000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801022900 -0300" stop="20260801025100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Squab, Squab, Squab, Squab, Squab</sub-title>
     <desc lang="pt">Quando Evelyn descobre que Jake passou todas as suas férias de verão com seus outros avós, pressiona Alan para que ele deixe Jake ficar com ela por uma noite.</desc>
-    <length units="minutes">1200</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801024000 -0300" stop="20260801030300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801025100 -0300" stop="20260801031100 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Does Something Smell Funny to You</sub-title>
     <desc lang="pt">Charlie passa a noite com uma linda jovem sem saber que ela está casada com um homem mais velho.</desc>
-    <length units="minutes">1380</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">2.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801030300 -0300" stop="20260801032600 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801031100 -0300" stop="20260801033400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men</title>
     <sub-title lang="pt">Weekend in Bangkok with Two Olympic Gymnasts</sub-title>
     <desc lang="pt">Charlie enfrenta as consequências imediatas do cancelamento do seu casamento e da impulsiva decisão de Alan em se casar com Kandi, ainda em Las Vegas.</desc>
@@ -232231,126 +232246,135 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801032600 -0300" stop="20260801034000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801033400 -0300" stop="20260801035700 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
     <sub-title lang="pt">The Stag Convergence</sub-title>
     <desc lang="pt">Bernadette pensa duas vezes sobre se casar com Wolowitz quando detalhes da vida sexual do noivo são revelados durante a despedida de solteiro.</desc>
-    <length units="minutes">840</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">5.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801034000 -0300" stop="20260801040200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801035700 -0300" stop="20260801042000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Habitation Configuration</sub-title>
-    <desc lang="pt">Bernadette quer que Wolowitz se mude da casa de sua mãe; Sheldon fica no meio de uma discussão entre Amy e Wil Wheaton.</desc>
+    <sub-title lang="pt">The Launch Acceleration</sub-title>
+    <desc lang="pt">Quando a NASA muda a data da missão de Howard e ameaça seus planos de casamento, ele é obrigado a encarar seus medos e o pai de Bernadette (CASEY SANDER). Enquanto isso, Leonard diz algo surpreendente a Penny no quarto.</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">5.23.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801042000 -0300" stop="20260801044200 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Countdown Reflection</sub-title>
+    <desc lang="pt">No último episódio da quinta temporada, Howard e Bernadette decidem se casar antes da viagem dele com a NASA. E a gangue começa a correr com os preparativos.</desc>
     <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <episode-num system="xmltv_ns">5.24.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801040200 -0300" stop="20260801042400 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801044200 -0300" stop="20260801050300 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The 43 Peculiarity</sub-title>
-    <desc lang="pt">Raj e Howard tentam descobrir por que Sheldon desaparece às 2:45 todas as tardes; o ciúme surge no relacionamento de Penny e Leonard.</desc>
+    <sub-title lang="pt">The Date Night Variable</sub-title>
+    <desc lang="pt">Raj enfrenta a solidão, já que seus amigos estão ocupados com encontros. Enquanto isso, Wolowitz se envolve em uma discussão entre Bernadette e sua mãe, mesmo enquanto ele está no espaço.</desc>
+    <length units="minutes">1260</length>
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801050300 -0300" stop="20260801052500 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory</title>
+    <sub-title lang="pt">The Decoupling Flunctuation</sub-title>
+    <desc lang="pt">Leonard e Sheldon são dois cientistas brilhantes: gênios no laboratório, mas socialmente ineptos.</desc>
     <length units="minutes">1320</length>
-    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801042400 -0300" stop="20260801044900 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801052500 -0300" stop="20260801054500 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory</title>
-    <sub-title lang="pt">The Parking Spot Escalation</sub-title>
-    <desc lang="pt">Leonard e Sheldon são dois cientistas brilhantes: gênios no laboratório, mas socialmente ineptos. É aí que entra a bela e despreocupada vizinha Penny, que promete ensinar algumas coisinhas sobre a vida aos dois.</desc>
-    <length units="minutes">1500</length>
-    <episode-num system="xmltv_ns">6.9.</episode-num>
+    <sub-title lang="pt">The Higgs Boson Observation</sub-title>
+    <desc lang="pt">Amy se sente ameaçada pela nova assistente de Sheldon; Wolowitz começa a sentir as pressões de estar no espaço.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801044900 -0300" stop="20260801051500 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Principal Gallagher's Lesbian Lover</sub-title>
-    <desc lang="pt">Alan se sente culpado quando Charlie finalmente lhe conta por que resolveu não se casar com Mia. A verdade é que Charlie e Mia não se casaram porque ela queria que Alan e Jake se mudassem.</desc>
-    <length units="minutes">1560</length>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
+  <programme start="20260801054500 -0300" stop="20260801060000 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">5.136.</episode-num>
     <rating system="Brazil">
-      <value>[12]</value>
+      <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801051500 -0300" stop="20260801060000 -0300" channel="WARNER CHANNEL">
-    <title lang="pt">Two and a Half Men</title>
-    <sub-title lang="pt">Carpet Burns and a Bite Mark</sub-title>
-    <desc lang="pt">Charlie tenta surfar para impressionar Dottie, um linda mulher que ele acabou de conhecer; mas após quase se afogar ele acredita que teve uma visão com seu pai.</desc>
-    <length units="minutes">2700</length>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801060000 -0300" stop="20260801085000 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801060000 -0300" stop="20260801084900 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e a Pedra Filosofal</title>
     <desc lang="pt">Harry vive na casa dos tios que insistem em maltratá-lo. Mas, no seu aniversário de 11 anos, ele recebe uma carta para frequentar Hogwarts, escola de bruxos onde seus pais estudaram.</desc>
-    <length units="minutes">10200</length>
+    <length units="minutes">10140</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801085000 -0300" stop="20260801113700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801084900 -0300" stop="20260801114600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e a Câmara Secreta</title>
     <desc lang="pt">De férias na casa de seus tios Dursley, Harry Potter recebe a inesperada visita de Dobby, um elfo doméstico, que veio avisá-lo para não retornar à Escola de Magia de Hogwarts, pois lá correrá um grande perigo.</desc>
-    <length units="minutes">10020</length>
+    <length units="minutes">10620</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801113700 -0300" stop="20260801140200 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801114600 -0300" stop="20260801141000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
     <desc lang="pt">Fugitivo de Azkaban, a prisão dos magos, invade Hogwarts em busca de Harry Potter, agora no seu terceiro ano de aprendiz.</desc>
-    <length units="minutes">8700</length>
+    <length units="minutes">8640</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801140200 -0300" stop="20260801164700 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801141000 -0300" stop="20260801165800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Cálice de Fogo</title>
     <desc lang="pt">Harry Potter volta a Hogwarts para o seu quarto ano. Enquanto isso, um torneio mágico entre três célebres escolas de magia está prestes a começar.</desc>
-    <length units="minutes">9900</length>
+    <length units="minutes">10080</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801164700 -0300" stop="20260801190800 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801165800 -0300" stop="20260801192200 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e a Ordem da Fênix</title>
     <desc lang="pt">Boa parte da comunidade bruxa é levada a crer que o retorno de Voldemort é uma mentira. Com uma nova professora imposta pelo Ministério da Magia, os alunos de Hogwarts decidem estudar magia por conta própria.</desc>
-    <length units="minutes">8460</length>
+    <length units="minutes">8640</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801190800 -0300" stop="20260801215500 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801192200 -0300" stop="20260801221400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
     <desc lang="pt">Em seu sexto ano em Hogwarts, Harry Potter encara a atmosfera de incerteza que toma conta da escola de bruxaria com a notícia de que Voldermort está vivo. Harry começa a descobrir informações sobre o passado de seu inimigo.</desc>
-    <length units="minutes">10020</length>
+    <length units="minutes">10320</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801215500 -0300" stop="20260802002300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801221400 -0300" stop="20260802004600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
     <desc lang="pt">Voldemort está ficando mais poderoso. Ele agora controla o Ministério da Magia e Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar as outras Horcruxes para poderem derrotar o Lorde das Trevas.</desc>
-    <length units="minutes">8880</length>
+    <length units="minutes">9120</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801215500 -0300" stop="20260802002300 -0300" channel="WARNER CHANNEL">
+  <programme start="20260801221400 -0300" stop="20260802004600 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
     <desc lang="pt">Voldemort está ficando mais poderoso. Ele agora controla o Ministério da Magia e Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar as outras Horcruxes para poderem derrotar o Lorde das Trevas.</desc>
-    <length units="minutes">8880</length>
+    <length units="minutes">9120</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
