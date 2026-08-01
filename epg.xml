@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-08-01 17:30:51" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-08-01 20:30:49" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -11991,7 +11991,7 @@
   </programme>
   <programme start="20260803203000 -0300" stop="20260803212500 -0300" channel="BAND HD">
     <title lang="pt">Guerra das Rosas</title>
-    <desc lang="pt">Cihan faz um discurso de aniversário e beija Gulru na frente de todos. Yonca conta para Cahide sobre as fotos de Çiçek e Taner. Cihan encara Gulfem e relembra da sua infância difícil com ela.</desc>
+    <desc lang="pt">Gulru, uma jovem humilde que cresceu na mansão onde seu pai trabalha, sempre admirou Gulfem, filha de seus patrões.</desc>
     <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">80.215.</episode-num>
     <rating system="Brazil">
@@ -12014,16 +12014,10 @@
     <length units="minutes">6000</length>
     <episode-num system="xmltv_ns">82.215.</episode-num>
   </programme>
-  <programme start="20260804000000 -0300" stop="20260804003000 -0300" channel="BAND HD">
+  <programme start="20260804000000 -0300" stop="20260804010000 -0300" channel="BAND HD">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
-    <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">80.216.</episode-num>
-  </programme>
-  <programme start="20260804003000 -0300" stop="20260804010000 -0300" channel="BAND HD">
-    <title lang="pt">Band Eleições</title>
-    <desc lang="pt">Entrevistas, reportagens e debates. Uma fonte de informações para ajudar o eleitor a escolher quem é o melhor candidato.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">80.216.</episode-num>
   </programme>
   <programme start="20260804010000 -0300" stop="20260804020000 -0300" channel="BAND HD">
@@ -12109,7 +12103,7 @@
   </programme>
   <programme start="20260804203000 -0300" stop="20260804212500 -0300" channel="BAND HD">
     <title lang="pt">Guerra das Rosas</title>
-    <desc lang="pt">Mesude descobre que Halide está sendo informada sobre tudo que acontece na mansão. Ismael se abriu com Yonca e ela diz que quer se casar com ele. Cihan sofre por seu pai ter traído sua mãe.</desc>
+    <desc lang="pt">Gulru, uma jovem humilde que cresceu na mansão onde seu pai trabalha, sempre admirou Gulfem, filha de seus patrões.</desc>
     <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">80.216.</episode-num>
     <rating system="Brazil">
@@ -12241,7 +12235,7 @@
   </programme>
   <programme start="20260805203000 -0300" stop="20260805212500 -0300" channel="BAND HD">
     <title lang="pt">Guerra das Rosas</title>
-    <desc lang="pt">Sevket é julgado e considerado culpado. Cihan vai aprender a nadar. Omer pressiona Gulfem para saber a verdade sobre o que Gulru estava falando após o julgamento. Halide liga o gás do fogão para tentar matar Gulru e sua fam...</desc>
+    <desc lang="pt">Gulru, uma jovem humilde que cresceu na mansão onde seu pai trabalha, sempre admirou Gulfem, filha de seus patrões.</desc>
     <length units="minutes">3300</length>
     <episode-num system="xmltv_ns">80.217.</episode-num>
     <rating system="Brazil">
@@ -12258,11 +12252,11 @@
     </rating>
   </programme>
   <programme start="20260805222000 -0300" stop="20260806000000 -0300" channel="BAND HD">
-    <title lang="pt">Cine Clube: Refém</title>
-    <desc lang="pt">O ex-negociador de reféns Jeff Talley deve decidir o que é mais importante: salvar uma família que ele nem conhece ou salvar a sua própria família.</desc>
+    <title lang="pt">Cine Clube: Vicky Cristina Barcelona</title>
+    <desc lang="pt">Durante suas férias de verão na Espanha, duas amigas se apaixonam pelo mesmo pintor, sem saber que sua ex-esposa, com quem ela tem um relacionamento tumultuado, está prestes a entrar em cena novamente.</desc>
     <length units="minutes">6000</length>
     <rating system="Brazil">
-      <value>[16]</value>
+      <value>[12]</value>
     </rating>
   </programme>
   <programme start="20260801000000 -0300" stop="20260801003000 -0300" channel="BAND NEWS">
@@ -15381,260 +15375,264 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801005400 -0300" stop="20260801012100 -0300" channel="BIS HD">
+  <programme start="20260801005400 -0300" stop="20260801005416 -0300" channel="BIS HD">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">16</length>
+  </programme>
+  <programme start="20260801005416 -0300" stop="20260801012035 -0300" channel="BIS HD">
     <title lang="pt">Sambas-Enredo Inesquecíveis</title>
     <desc lang="pt">Série revive os maiores sambas-enredo de carnaval de todos os tempos.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1579</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801012100 -0300" stop="20260801020300 -0300" channel="BIS HD">
+  <programme start="20260801012035 -0300" stop="20260801020244 -0300" channel="BIS HD">
     <title lang="pt">Sonastério Ilumina</title>
     <desc lang="pt">Com a música brasileira, o R&amp;B, o rap e o jazz, YOÚN faz uma mistura dos gêneros com toda a sua originalidade e autenticidade, apresentando versões ao vivo dos seus grandes hits.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2529</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801020300 -0300" stop="20260801023400 -0300" channel="BIS HD">
+  <programme start="20260801020244 -0300" stop="20260801023314 -0300" channel="BIS HD">
     <title lang="pt">Experimente</title>
     <desc lang="pt">Guilherme Guedes apresenta artistas e bandas que estão despontando no cenário musical brasileiro com entrevistas e performances musicais. Neste episódio conheça: Zudizilla</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1830</length>
     <episode-num system="xmltv_ns">17.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801023400 -0300" stop="20260801030300 -0300" channel="BIS HD">
+  <programme start="20260801023314 -0300" stop="20260801030205 -0300" channel="BIS HD">
     <title lang="pt">Vamos Tocar</title>
     <desc lang="pt">&quot;Vamos Tocar&quot; é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações em estúdio, onde perguntas sucintas dão espaço para respostas</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1731</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801030300 -0300" stop="20260801033200 -0300" channel="BIS HD">
+  <programme start="20260801030205 -0300" stop="20260801033128 -0300" channel="BIS HD">
     <title lang="pt">Transmusical</title>
     <desc lang="pt">Neste episódio, a baiana Majur conta sobre sua trajetória e nos inspira através de suas músicas e performances, durante o show realizado na Marina da Glória.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1763</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801033200 -0300" stop="20260801052900 -0300" channel="BIS HD">
+  <programme start="20260801033128 -0300" stop="20260801052914 -0300" channel="BIS HD">
     <title lang="pt">Foo Fighters - Live At Wembley Stadium</title>
     <desc lang="pt">Filmado em duas noites com ingressos esgotados no estádio de Wembley, Londres, em 2008, o Foo Fighters realiza a maior apresentação de sua ilustre carreira para 170.000 fãs.</desc>
-    <length units="minutes">7020</length>
+    <length units="minutes">7066</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801052900 -0300" stop="20260801053500 -0300" channel="BIS HD">
+  <programme start="20260801052914 -0300" stop="20260801053241 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">IMAGINE DRAGONS, JID, ARCANE &amp; LEAGUE OF LEGENDS - ENEMY (UNIVERSAL MUSIC)</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">207</length>
     <episode-num system="xmltv_ns">5.50.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801053500 -0300" stop="20260801053900 -0300" channel="BIS HD">
+  <programme start="20260801053241 -0300" stop="20260801053904 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">Raimundos - Raicyco (Onerpm)</desc>
-    <length units="minutes">240</length>
+    <length units="minutes">383</length>
     <episode-num system="xmltv_ns">1.907.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801053900 -0300" stop="20260801054500 -0300" channel="BIS HD">
+  <programme start="20260801053904 -0300" stop="20260801054205 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">Jovens Ateus - Passos Lentos (Balaclava Records)</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">181</length>
     <episode-num system="xmltv_ns">1.321.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801054500 -0300" stop="20260801055000 -0300" channel="BIS HD">
+  <programme start="20260801054205 -0300" stop="20260801054658 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">DETONAUTAS - RÁDIO LOVE NACIONAL (DECK)</desc>
-    <length units="minutes">300</length>
+    <length units="minutes">293</length>
     <episode-num system="xmltv_ns">5.147.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801055000 -0300" stop="20260801055300 -0300" channel="BIS HD">
+  <programme start="20260801054658 -0300" stop="20260801055028 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">Noflowers - Heart Of Glass (Independente)</desc>
-    <length units="minutes">180</length>
+    <length units="minutes">210</length>
     <episode-num system="xmltv_ns">1.266.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801055300 -0300" stop="20260801055600 -0300" channel="BIS HD">
+  <programme start="20260801055028 -0300" stop="20260801055434 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">SUPERCOMBO - PISEIRO BLACK SABBATH (DECK)</desc>
-    <length units="minutes">180</length>
+    <length units="minutes">246</length>
     <episode-num system="xmltv_ns">1.505.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801055600 -0300" stop="20260801055900 -0300" channel="BIS HD">
+  <programme start="20260801055434 -0300" stop="20260801060016 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">Supla - Não Sou Poeta (É Você Que Eu Queria) (Supla Produções)</desc>
-    <length units="minutes">180</length>
+    <length units="minutes">342</length>
     <episode-num system="xmltv_ns">1.99.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801055900 -0300" stop="20260801070000 -0300" channel="BIS HD">
+  <programme start="20260801060016 -0300" stop="20260801065956 -0300" channel="BIS HD">
     <title lang="pt">Arquivo Musical: Cazuza: Boas Novas</title>
     <desc lang="pt">Os dois últimos anos da vida de Cazuza, desde o diagnóstico de AIDS até sua morte. Nilo Romero, produtor musical do cantor, criou uma coleção de imagens raras e controversas.</desc>
-    <length units="minutes">3660</length>
+    <length units="minutes">3580</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801070000 -0300" stop="20260801072700 -0300" channel="BIS HD">
+  <programme start="20260801065956 -0300" stop="20260801072546 -0300" channel="BIS HD">
     <title lang="pt">Sambas-Enredo Inesquecíveis</title>
     <desc lang="pt">Série revive os maiores sambas-enredo de carnaval de todos os tempos.</desc>
-    <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">7.3.</episode-num>
+    <length units="minutes">1550</length>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801072700 -0300" stop="20260801080900 -0300" channel="BIS HD">
+  <programme start="20260801072546 -0300" stop="20260801080624 -0300" channel="BIS HD">
     <title lang="pt">Sonastério Ilumina</title>
     <desc lang="pt">Com a música brasileira, o R&amp;B, o rap e o jazz, YOÚN faz uma mistura dos gêneros com toda a sua originalidade e autenticidade, apresentando versões ao vivo dos seus grandes hits.</desc>
-    <length units="minutes">2520</length>
+    <length units="minutes">2438</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801080900 -0300" stop="20260801083800 -0300" channel="BIS HD">
+  <programme start="20260801080624 -0300" stop="20260801083741 -0300" channel="BIS HD">
     <title lang="pt">Vamos Tocar</title>
     <desc lang="pt">&quot;Vamos Tocar&quot; é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações em estúdio, onde perguntas sucintas dão espaço para respostas</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1877</length>
     <episode-num system="xmltv_ns">8.3.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801083800 -0300" stop="20260801091100 -0300" channel="BIS HD">
+  <programme start="20260801083741 -0300" stop="20260801090806 -0300" channel="BIS HD">
     <title lang="pt">Experimente</title>
     <desc lang="pt">Guilherme Guedes apresenta artistas e bandas que estão despontando no cenário musical brasileiro com entrevistas e performances musicais. Neste episódio conheça: Zudizilla</desc>
-    <length units="minutes">1980</length>
+    <length units="minutes">1825</length>
     <episode-num system="xmltv_ns">17.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801091100 -0300" stop="20260801093700 -0300" channel="BIS HD">
+  <programme start="20260801090806 -0300" stop="20260801093401 -0300" channel="BIS HD">
     <title lang="pt">Na Voz Delas</title>
     <desc lang="pt">Jovens cantoras interpretam músicas nacionais e internacionais de artistas que marcaram estilos musicais de determinadas épocas.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1555</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801093700 -0300" stop="20260801105700 -0300" channel="BIS HD">
+  <programme start="20260801093401 -0300" stop="20260801105330 -0300" channel="BIS HD">
     <title lang="pt">Arquivo Musical: Ritas</title>
     <desc lang="pt">A vida pessoal de Rita, com ela mesma guiando a narrativa, e seu processo criativo são desvendados, revelando assim, seu talento musical e sua capacidade de metamorfose no palco.</desc>
-    <length units="minutes">4800</length>
+    <length units="minutes">4769</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801105700 -0300" stop="20260801112500 -0300" channel="BIS HD">
+  <programme start="20260801105330 -0300" stop="20260801112030 -0300" channel="BIS HD">
     <title lang="pt">Sementes Do Samba</title>
     <desc lang="pt">O Cacique de Ramos é um grande celeiro de diversos artistas brasileiros, revela com frequência  novos nomes para a música e é reconhecido no meio do samba como a &quot;meca&quot; do samba brasileiro.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">10.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801112500 -0300" stop="20260801115100 -0300" channel="BIS HD">
+  <programme start="20260801112030 -0300" stop="20260801114603 -0300" channel="BIS HD">
     <title lang="pt">Samba Pra Sempre</title>
     <desc lang="pt">A série faz uma homenagem aos 100 anos do samba no Brasil, e aos 15 anos de carreira do cantor e compositor Dudu Nobre.</desc>
-    <length units="minutes">1560</length>
+    <length units="minutes">1533</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801115100 -0300" stop="20260801121800 -0300" channel="BIS HD">
+  <programme start="20260801114603 -0300" stop="20260801121235 -0300" channel="BIS HD">
     <title lang="pt">Voz Da Consciência</title>
     <desc lang="pt">A Voz da Consciência, com Péricles, chega a São Paulo. Neste episódio, Camisa Verde e Branco e Vai Vai contam como a música pode transformar territórios e realidades.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1592</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801121800 -0300" stop="20260801130500 -0300" channel="BIS HD">
+  <programme start="20260801121235 -0300" stop="20260801125819 -0300" channel="BIS HD">
     <title lang="pt">Great Songwriters</title>
     <desc lang="pt">O processo criativo de escrever músicas e destrinchado nessa série com compositores icônicos. Neste episódio:  Emili Sandé</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2744</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801130500 -0300" stop="20260801133200 -0300" channel="BIS HD">
+  <programme start="20260801125819 -0300" stop="20260801132554 -0300" channel="BIS HD">
     <title lang="pt">Lounge</title>
     <desc lang="pt">Na 3ª temporada do Lounge, Ana Canãs, Jesuton, Tassia Reis, Mya Machado, Agnes e Mini Lamers cantam sucessos nacionais e internacionais.</desc>
-    <length units="minutes">1620</length>
+    <length units="minutes">1655</length>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801133200 -0300" stop="20260801140200 -0300" channel="BIS HD">
+  <programme start="20260801132554 -0300" stop="20260801135926 -0300" channel="BIS HD">
     <title lang="pt">Aquecimento Rock In Rio.: Machine Gun Kelly With Migos</title>
     <desc lang="pt">Show do rapper americano Machine Gun Kelly com participção do trio de hip hop Migos, realizado em fevereiro de 2018 em Minneapolis, nos EUA. Com hits como &quot;Bad Things&quot; e &quot;Home&quot;.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2012</length>
     <rating system="Brazil">
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260801140200 -0300" stop="20260801143500 -0300" channel="BIS HD">
+  <programme start="20260801135926 -0300" stop="20260801143159 -0300" channel="BIS HD">
     <title lang="pt">Bullet For My Valentine à L'Olympia</title>
     <desc lang="pt">Bullet For My Valentine, trazem no estilo musical um mix de metal/post-hardcore com influências de hard rock e voltam a Paris para apresentar seu álbum homônimo, com sons pesados.</desc>
-    <length units="minutes">1980</length>
+    <length units="minutes">1953</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801143500 -0300" stop="20260801150700 -0300" channel="BIS HD">
+  <programme start="20260801143159 -0300" stop="20260801150625 -0300" channel="BIS HD">
     <title lang="pt">Aquecimento Rock In Rio.: Laufey: Live At The Hollywood Bowl</title>
     <desc lang="pt">Este show de Laufey captura sua recente apresentação com a Filarmônica de Los Angeles no Hollywood Bowl.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">2066</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801150700 -0300" stop="20260801161500 -0300" channel="BIS HD">
+  <programme start="20260801150625 -0300" stop="20260801161744 -0300" channel="BIS HD">
     <title lang="pt">The Doors Live At The Isle Of Wight</title>
     <desc lang="pt">Show da banda The Doors no icônico festival da Ilha de Wight de 1970.</desc>
-    <length units="minutes">4080</length>
+    <length units="minutes">4279</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801161500 -0300" stop="20260801172500 -0300" channel="BIS HD">
+  <programme start="20260801161744 -0300" stop="20260801172744 -0300" channel="BIS HD">
     <title lang="pt">João Rock</title>
     <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
     <length units="minutes">4200</length>
@@ -15642,7 +15640,15 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801172500 -0300" stop="20260801182500 -0300" channel="BIS HD">
+  <programme start="20260801172744 -0300" stop="20260801182750 -0300" channel="BIS HD">
+    <title lang="pt">João Rock</title>
+    <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
+    <length units="minutes">3606</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801182750 -0300" stop="20260801192750 -0300" channel="BIS HD">
     <title lang="pt">João Rock</title>
     <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
     <length units="minutes">3600</length>
@@ -15650,7 +15656,15 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801182500 -0300" stop="20260801192500 -0300" channel="BIS HD">
+  <programme start="20260801192750 -0300" stop="20260801202740 -0300" channel="BIS HD">
+    <title lang="pt">João Rock</title>
+    <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
+    <length units="minutes">3590</length>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801202740 -0300" stop="20260801212740 -0300" channel="BIS HD">
     <title lang="pt">João Rock</title>
     <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
     <length units="minutes">3600</length>
@@ -15658,26 +15672,10 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801192500 -0300" stop="20260801202500 -0300" channel="BIS HD">
+  <programme start="20260801212740 -0300" stop="20260801222500 -0300" channel="BIS HD">
     <title lang="pt">João Rock</title>
     <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
-    <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801202500 -0300" stop="20260801212500 -0300" channel="BIS HD">
-    <title lang="pt">João Rock</title>
-    <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
-    <length units="minutes">3600</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801212500 -0300" stop="20260801222500 -0300" channel="BIS HD">
-    <title lang="pt">João Rock</title>
-    <desc lang="pt">Diretamente de Ribeirão Preto/SP, com apresentações de Emicida e Pitty, Marcelo D2 e Djonga, Lulu Santos, Ney Matogrosso, Duda Beat, CPM22, Paralamas do Sucesso, e muito mais!</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">3440</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -26776,109 +26774,109 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801064800 -0300" stop="20260801070100 -0300" channel="CARTOON HD">
+  <programme start="20260801064800 -0300" stop="20260801065900 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo de Greg</title>
     <sub-title lang="pt">A Corrida Maluca do Riacho</sub-title>
     <desc lang="pt">Uma corrida em alta velocidade, com um grande prêmio, talvez seja muito esforço para Greg e seus amigos.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.28.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801070100 -0300" stop="20260801082000 -0300" channel="CARTOON HD">
-    <title lang="pt">Lego Liga da Justiça - Combate Cósmico</title>
-    <desc lang="pt">Poderá Batman vencer uma máquina intergaláctica imbatível com o poder de controlar o tempo?</desc>
+  <programme start="20260801065900 -0300" stop="20260801081800 -0300" channel="CARTOON HD">
+    <title lang="pt">Lego DC Comics Super Herois: O Flash</title>
+    <desc lang="pt">Flash está preso em um loop de tempo que causou a perda de seus poderes. Ao descobrir que o Flash Reverso está manipulando a Força da Velocidade, Flash fará tudo para e derrotar seu inimigo.</desc>
     <length units="minutes">4740</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801082000 -0300" stop="20260801083000 -0300" channel="CARTOON HD">
+  <programme start="20260801081800 -0300" stop="20260801083000 -0300" channel="CARTOON HD">
     <title lang="pt">Ursinhos Em Curso</title>
     <sub-title lang="pt">Excaliburso</sub-title>
     <desc lang="pt">Os ursos visitam uma horta e Pardo se convence de que é um rei por direito.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801083000 -0300" stop="20260801084300 -0300" channel="CARTOON HD">
+  <programme start="20260801083000 -0300" stop="20260801084200 -0300" channel="CARTOON HD">
     <title lang="pt">Big Blue: O Grande Oceano</title>
     <sub-title lang="pt">Desapega, Lemo</sub-title>
     <desc lang="pt">Quando o excesso de peso no Calypso os atrasa em uma missão, Lettie insiste que Lemo se livre do que os está sobrecarregando.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801084300 -0300" stop="20260801090000 -0300" channel="CARTOON HD">
+  <programme start="20260801084200 -0300" stop="20260801085500 -0300" channel="CARTOON HD">
     <title lang="pt">Big Blue: O Grande Oceano</title>
     <sub-title lang="pt">Amigas Inimigas</sub-title>
     <desc lang="pt">Mira e Lettie se metem em uma situação complicada enquanto competem constantemente entre si para ver quem é melhor que a outra.</desc>
-    <length units="minutes">1020</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801090000 -0300" stop="20260801091100 -0300" channel="CARTOON HD">
+  <programme start="20260801085500 -0300" stop="20260801090000 -0300" channel="CARTOON HD">
+    <title lang="pt">Krypto Salva o Dia</title>
+    <sub-title lang="pt">Confusão no Ônibus Escolar</sub-title>
+    <desc lang="pt">Krypto embarca em uma perseguição nas alturas que transforma a rotina de um motorista escolar em um verdadeiro caos.</desc>
+    <length units="minutes">300</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801090000 -0300" stop="20260801091300 -0300" channel="CARTOON HD">
     <title lang="pt">Ursinhos Em Curso</title>
     <sub-title lang="pt">Fotografia Imediata</sub-title>
     <desc lang="pt">Pardo encontra uma câmara mágica que prevê o futuro, mas quando tira um selfie descobre que o futuro não o faz feliz.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">2.71.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801091100 -0300" stop="20260801092400 -0300" channel="CARTOON HD">
+  <programme start="20260801091300 -0300" stop="20260801093500 -0300" channel="CARTOON HD">
     <title lang="pt">Ursinhos Em Curso</title>
     <sub-title lang="pt">Primeiro Dia na Escola de Arte</sub-title>
     <desc lang="pt">Ursinhos em Curso segue os irmãos Pardo, Panda e Polar enquanto viajam em uma caixa mágica para mundos fantásticos em busca de seu lar perfeito.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1320</length>
     <episode-num system="xmltv_ns">2.70.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801092400 -0300" stop="20260801093000 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Praia Espacial</sub-title>
-    <desc lang="pt">Uma praia no espaço! Exatamente isso. Os ursos, Dippy e a Caixa se divertem no sol, com... espere aí... a ranzinza tia Cassie!</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">2.65.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801093000 -0300" stop="20260801100000 -0300" channel="CARTOON HD">
+  <programme start="20260801093500 -0300" stop="20260801095800 -0300" channel="CARTOON HD">
     <title lang="pt">Tiny Toons Looniversidade</title>
     <sub-title lang="pt">O Tooniespaço</sub-title>
     <desc lang="pt">A turma pega a aula de Marvin, o marciano, e vão para o espaço.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1380</length>
     <episode-num system="xmltv_ns">2.116.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801100000 -0300" stop="20260801101100 -0300" channel="CARTOON HD">
+  <programme start="20260801095800 -0300" stop="20260801101000 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">O Tráfego</sub-title>
     <desc lang="pt">Os Watterson precisam levar Anais ao Daisyland antes que o parque feche para sempre.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801101100 -0300" stop="20260801102200 -0300" channel="CARTOON HD">
+  <programme start="20260801101000 -0300" stop="20260801102200 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Piscina</sub-title>
     <desc lang="pt">Em uma onda de calor, Richard arrasta os filhos para invadir a piscina dos Robinson.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -26904,61 +26902,81 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801104700 -0300" stop="20260801110000 -0300" channel="CARTOON HD">
+  <programme start="20260801104700 -0300" stop="20260801105800 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Assistente</sub-title>
     <desc lang="pt">Nicole faz amizade com uma IA que tenta afastá-la de sua família.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801110000 -0300" stop="20260801112300 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">A Familia do Chapolin Colorado</sub-title>
-    <desc lang="pt">Chapolin Colorado precisa capturar o vilão Tripa Seca justamente no dia em que os filhos o esperam na escola e a prefeita precisa dele para um evento.</desc>
+  <programme start="20260801105800 -0300" stop="20260801112100 -0300" channel="CARTOON HD">
+    <title lang="pt">Ilha dos Desafios</title>
+    <sub-title lang="pt">O Pintor Rosa Ataca Novamente</sub-title>
+    <desc lang="pt">Eles estão de voltaaaaaa! Todos os 16 participantes da primeira temporada retornam para mais desafios, emoções e dramaaaaa!</desc>
     <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801112100 -0300" stop="20260801112700 -0300" channel="CARTOON HD">
+    <title lang="pt">Krypto Salva o Dia</title>
+    <sub-title lang="pt">Confusão no Ônibus Escolar</sub-title>
+    <desc lang="pt">Krypto embarca em uma perseguição nas alturas que transforma a rotina de um motorista escolar em um verdadeiro caos.</desc>
+    <length units="minutes">360</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801112300 -0300" stop="20260801114700 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">Piratas Não Jogam Futebol</sub-title>
-    <desc lang="pt">Chapolin acaba libertando o pirata Alma Negra por engano durante uma partida de futebol cheia de fãs vestidos de pirata.</desc>
-    <length units="minutes">1440</length>
+  <programme start="20260801112700 -0300" stop="20260801113800 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Nani?</sub-title>
+    <desc lang="pt">Any Malu e seus amigos têm nas mãos a tarefa de fazer uma abertura de anime, e vão contar com a &quot;ajuda&quot; de Baka Hanpanai, o novo professor da matéria.</desc>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801114700 -0300" stop="20260801120000 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">O Homem das Cavernas Escondido no Armário</sub-title>
-    <desc lang="pt">Chapolin procura o homem das cavernas Chimpandolfo, enquanto sua família organiza um jantar com um convidado perigoso.</desc>
+  <programme start="20260801113800 -0300" stop="20260801115100 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Malágata e Agalu</sub-title>
+    <desc lang="pt">Com a missão de matricular seus amigos em novas matérias, Any Malu acaba fazendo confusão e trocando de turma com Agatha. As duas, então, resolvem se passar uma pela outra tentando reverter a confusão.</desc>
     <length units="minutes">780</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801120000 -0300" stop="20260801121100 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Parque Aquático</sub-title>
-    <desc lang="pt">O trio resolve se divertir num parque aquático e Clarêncio descobre a verdade sobre seu ídolo. Já Jeff e Sumo esperam na fila pela reabertura do escorregador mais alto do parque.</desc>
+  <programme start="20260801115100 -0300" stop="20260801120200 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Stalker</sub-title>
+    <desc lang="pt">Any Malu descobre que tem um stalker e fica obcecada em desvendar a identidade do seu primeiro admirador.</desc>
     <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.47.</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801120200 -0300" stop="20260801121300 -0300" channel="CARTOON HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <sub-title lang="pt">Garota Misteriosa</sub-title>
+    <desc lang="pt">Quando Clarêncio e seus amigos ligam para números aleatórios para passar trotes, Clarêncio acaba conhecendo uma garota. Mas será que essa ligação de longa distância irá durar?</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">2.73.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801121100 -0300" stop="20260801122400 -0300" channel="CARTOON HD">
+  <programme start="20260801121300 -0300" stop="20260801122400 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">A Aventura Rexcelente de Clarêncio e Sumo</sub-title>
     <desc lang="pt">Durante uma excursão da escola ao Museu de História Natural de Aberdale, Clarêncio e Sumo dão uma espiada em tudo, riem das exposições e até surrupiam um dente de tiranossauro rex.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">3.82.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -26984,104 +27002,126 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801124800 -0300" stop="20260801130200 -0300" channel="CARTOON HD">
+  <programme start="20260801124800 -0300" stop="20260801130000 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <desc lang="pt">Quando Clarêncio e seu colega de classe indeciso Brady são deixados para trás na escola, Brady é obrigado a acompanhar Clarêncio em sua aventura de volta para casa.</desc>
-    <length units="minutes">840</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801130200 -0300" stop="20260801142000 -0300" channel="CARTOON HD">
-    <title lang="pt">Lego Liga da Justiça - Combate Cósmico</title>
-    <desc lang="pt">Poderá Batman vencer uma máquina intergaláctica imbatível com o poder de controlar o tempo?</desc>
-    <length units="minutes">4680</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801142000 -0300" stop="20260801143100 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Excaliburso</sub-title>
-    <desc lang="pt">Os ursos visitam uma horta e Pardo se convence de que é um rei por direito.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801143100 -0300" stop="20260801144300 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Ursos E O Pé De Feijão</sub-title>
-    <desc lang="pt">Os ursos trabalham como cozinheiros num restaurante gigante.</desc>
+  <programme start="20260801130000 -0300" stop="20260801131200 -0300" channel="CARTOON HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <sub-title lang="pt">Juju E O Pé De Abacate</sub-title>
+    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e desua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo alu...</desc>
     <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">4.203.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801131200 -0300" stop="20260801133500 -0300" channel="CARTOON HD">
+    <title lang="pt">Irmão do Jorel</title>
+    <sub-title lang="pt">Poneimorfose</sub-title>
+    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e desua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo alu...</desc>
+    <length units="minutes">1380</length>
+    <episode-num system="xmltv_ns">4.204.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801133500 -0300" stop="20260801135900 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Mini Escola Natal</sub-title>
+    <desc lang="pt">Bem-vindo a Mini Escola Natal, um lugar na Terra em que Gems de todo o universo aprendem a conviver umas com as outras pacificamente! Mas há uma Gem que se recusa a frequentar.</desc>
+    <length units="minutes">1440</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801135900 -0300" stop="20260801142300 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Botões de Rosa</sub-title>
+    <desc lang="pt">Steven recebe uma visita surpresa de velhos amigos e uma apresentação ainda mais surpreendente a algumas novas amizades.</desc>
+    <length units="minutes">1440</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801144300 -0300" stop="20260801145400 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">O Conto de Dois Ursos Polares</sub-title>
-    <desc lang="pt">Os ursos clonam Polar sem querer e Polar tem dificuldade para se ajustar.</desc>
+  <programme start="20260801142300 -0300" stop="20260801143400 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Bluebird</sub-title>
+    <desc lang="pt">Steven questiona os motivos de uma fusão misteriosa que, de repente, aparece em sua casa.</desc>
     <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
-      <value>[L]</value>
+      <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801145400 -0300" stop="20260801150000 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Casa de Carnes</sub-title>
-    <desc lang="pt">Os ursos e seu novo amigo, Squatter Otter, vão morar numa casa misteriosa feita de carne.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801150000 -0300" stop="20260801151100 -0300" channel="CARTOON HD">
+  <programme start="20260801143400 -0300" stop="20260801144700 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">O Gesso</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+    <sub-title lang="pt">Super Robin</sub-title>
+    <desc lang="pt">Com inveja dos poderes dos outros Titãs, Robin convence Ravena a lhe dar uma força, mesmo sabendo que isso pode acabar com sua vida.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801144700 -0300" stop="20260801145800 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">O Segundo Natal</sub-title>
+    <desc lang="pt">Os Titãs fazem Estelar acreditar em um segundo Natal com um segundo Papai Noel.</desc>
     <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">6.293.</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801151100 -0300" stop="20260801152300 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Manor And Mannerisms</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">7.329.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801152300 -0300" stop="20260801153000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Navio</sub-title>
-    <desc lang="pt">Estelar é a capitã de uma nave especial em uma viagem de volta para o mundo natal dela, Tarmaran.</desc>
-    <length units="minutes">420</length>
-    <episode-num system="xmltv_ns">8.397.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801153000 -0300" stop="20260801154500 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <sub-title lang="pt">Nani?</sub-title>
-    <desc lang="pt">Any Malu e seus amigos têm nas mãos a tarefa de fazer uma abertura de anime, e vão contar com a &quot;ajuda&quot; de Baka Hanpanai, o novo professor da matéria.</desc>
-    <length units="minutes">900</length>
+  <programme start="20260801145800 -0300" stop="20260801150300 -0300" channel="CARTOON HD">
+    <title lang="pt">Krypto Salva o Dia</title>
+    <sub-title lang="pt">Caos do Dia das Bruxas</sub-title>
+    <desc lang="pt">Quando um gato preto cruza o caminho de Krypto, ele fica determinado a capturá-lo antes que a noite de Halloween acabe.</desc>
+    <length units="minutes">300</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801154500 -0300" stop="20260801154900 -0300" channel="CARTOON HD">
+  <programme start="20260801150300 -0300" stop="20260801151600 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">Ursos Bebês Não Pulam</sub-title>
+    <desc lang="pt">Para ganhar uma pizza, os bebês urso jogam basquete contra uma gangue de crianças.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">3.85.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801151600 -0300" stop="20260801152700 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <sub-title lang="pt">O Irmão da Lucy</sub-title>
+    <desc lang="pt">Para impressionar Lucy, Panda se oferece para cuidar do irmão dela, Clifford. O problema é que Clifford é mimado demais para o gosto de Panda.</desc>
+    <length units="minutes">660</length>
+    <episode-num system="xmltv_ns">3.59.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801152700 -0300" stop="20260801154000 -0300" channel="CARTOON HD">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+    <sub-title lang="pt">Nani?</sub-title>
+    <desc lang="pt">Any Malu e seus amigos têm nas mãos a tarefa de fazer uma abertura de anime, e vão contar com a &quot;ajuda&quot; de Baka Hanpanai, o novo professor da matéria.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801154000 -0300" stop="20260801154400 -0300" channel="CARTOON HD">
     <title lang="pt">O Surreal Mundo de Any Malu</title>
     <sub-title lang="pt">Me By Famous Painters</sub-title>
     <desc lang="pt">O mundo surreal de Any Malu aborda temas típicos de vlogs, falando sobre situações cotidianas, colaborando com outros vloggers, paródias musicais, perguntas e respostas, desafios, fatos sobre sua vida e muito mais.</desc>
@@ -27091,7 +27131,7 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801154900 -0300" stop="20260801155300 -0300" channel="CARTOON HD">
+  <programme start="20260801154400 -0300" stop="20260801154800 -0300" channel="CARTOON HD">
     <title lang="pt">O Surreal Mundo de Any Malu</title>
     <sub-title lang="pt">I Became A Cartoon Cosplayer</sub-title>
     <desc lang="pt">O mundo surreal de Any Malu aborda temas típicos de vlogs, falando sobre situações cotidianas, colaborando com outros vloggers, paródias musicais, perguntas e respostas, desafios, fatos sobre sua vida e muito mais.</desc>
@@ -27101,62 +27141,72 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801155300 -0300" stop="20260801160000 -0300" channel="CARTOON HD">
+  <programme start="20260801154800 -0300" stop="20260801155300 -0300" channel="CARTOON HD">
     <title lang="pt">O Surreal Mundo de Any Malu</title>
     <sub-title lang="pt">I Forgot My Camera On</sub-title>
     <desc lang="pt">O mundo surreal de Any Malu aborda temas típicos de vlogs, falando sobre situações cotidianas, colaborando com outros vloggers, paródias musicais, perguntas e respostas, desafios, fatos sobre sua vida e muito mais.</desc>
-    <length units="minutes">420</length>
+    <length units="minutes">300</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801160000 -0300" stop="20260801161100 -0300" channel="CARTOON HD">
+  <programme start="20260801155300 -0300" stop="20260801160500 -0300" channel="CARTOON HD">
     <title lang="pt">Apenas Um Show</title>
     <sub-title lang="pt">Biscoito da Sorte</sub-title>
     <desc lang="pt">Benson convida a galera para comer em um restaurante chinês, para celebrar sua onda de sorte. Todo mundo se diverte, exceto Rigby, que está numa onda de azar.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">3.54.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801161100 -0300" stop="20260801162400 -0300" channel="CARTOON HD">
+  <programme start="20260801160500 -0300" stop="20260801161700 -0300" channel="CARTOON HD">
     <title lang="pt">Apenas Um Show</title>
     <sub-title lang="pt">Sanduiche Mortal</sub-title>
     <desc lang="pt">Mordecai e Rigby precisam encontrar uma cura para o sanduíche da morte antes que Benson morra.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">4.97.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801162400 -0300" stop="20260801163000 -0300" channel="CARTOON HD">
+  <programme start="20260801161700 -0300" stop="20260801162800 -0300" channel="CARTOON HD">
     <title lang="pt">Apenas Um Show</title>
     <sub-title lang="pt">Novo Mano no Pedaço</sub-title>
     <desc lang="pt">Musculoso quer provar que é mais descolado do que outro aluno novo do colégio.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">6.164.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801163000 -0300" stop="20260801164300 -0300" channel="CARTOON HD">
+  <programme start="20260801162800 -0300" stop="20260801164000 -0300" channel="CARTOON HD">
     <title lang="pt">Summer Memories</title>
     <sub-title lang="pt">Escola de Verão</sub-title>
     <desc lang="pt">Uma tarefa da escola de verão desafia Jason a mostrar quem ele é de verdade.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801164300 -0300" stop="20260801170000 -0300" channel="CARTOON HD">
+  <programme start="20260801164000 -0300" stop="20260801165400 -0300" channel="CARTOON HD">
     <title lang="pt">Summer Memories</title>
     <sub-title lang="pt">O Tempo Voa</sub-title>
     <desc lang="pt">Quando Tim lembra Jason que &quot;o tempo voa quando você está se divertindo&quot;, Jason e Ronnie tentam parar de se divertir para evitar que o verão acabe cedo demais.</desc>
-    <length units="minutes">1020</length>
+    <length units="minutes">840</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801165400 -0300" stop="20260801170000 -0300" channel="CARTOON HD">
+    <title lang="pt">Krypto Salva o Dia</title>
+    <sub-title lang="pt">Caos do Dia das Bruxas</sub-title>
+    <desc lang="pt">Quando um gato preto cruza o caminho de Krypto, ele fica determinado a capturá-lo antes que a noite de Halloween acabe.</desc>
+    <length units="minutes">360</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -27201,57 +27251,47 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801174700 -0300" stop="20260801180000 -0300" channel="CARTOON HD">
+  <programme start="20260801174700 -0300" stop="20260801180700 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel</title>
     <sub-title lang="pt">O Fenomenal Capacete Com Rodinhas</sub-title>
     <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e de sua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo al...</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1200</length>
     <episode-num system="xmltv_ns">1.101.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801180000 -0300" stop="20260801181100 -0300" channel="CARTOON HD">
+  <programme start="20260801180700 -0300" stop="20260801182000 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">Fuga De Além Do Cósmico</sub-title>
     <desc lang="pt">Quando Clarêncio sem querer quebra um jogo pelo qual Jeff é fissurado no fliperama, ele decide criar sua própria versão do game - incentivando Jeff a participar da fantasia em níveis exclusivos, inventados por Clarêncio.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">2.58.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801181100 -0300" stop="20260801182400 -0300" channel="CARTOON HD">
+  <programme start="20260801182000 -0300" stop="20260801183100 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">Clarêncio Rei Dos Cachorros</sub-title>
     <desc lang="pt">Quando a vizinha de Clarêncio, Gale, lhe pede para cuidar de seus cães enquanto ela está fora, ele pensa que irá tirar a missão de letra, já que se autoproclama o &quot;Rei dos Cães&quot; e sabe tudo sobre os bic...</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">4.123.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801182400 -0300" stop="20260801183000 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Buzina</sub-title>
-    <desc lang="pt">Para aperfeiçoar suas habilidades de comunicação, Clarêncio lança mão de uma buzina bem irritante.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801183000 -0300" stop="20260801184100 -0300" channel="CARTOON HD">
+  <programme start="20260801183100 -0300" stop="20260801184300 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Síntese</sub-title>
     <desc lang="pt">No Dia das Carreiras, Nicole e Yuki tentam impressionar seus filhos e descobrem de onde vem o verdadeiro poder.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">2.30.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801184100 -0300" stop="20260801185400 -0300" channel="CARTOON HD">
+  <programme start="20260801184300 -0300" stop="20260801185600 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Coisa</sub-title>
     <desc lang="pt">Ricardo revive memórias para descobrir o que é &quot;a coisa&quot; e salvar o jantar com Jo Jo.</desc>
@@ -27261,219 +27301,159 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801185400 -0300" stop="20260801190100 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <sub-title lang="pt">A Distância</sub-title>
-    <desc lang="pt">Gumball tenta salvar sua amizade com Darwin após serem separados em quartos diferentes.</desc>
-    <length units="minutes">420</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+  <programme start="20260801185600 -0300" stop="20260801205000 -0300" channel="CARTOON HD">
+    <title lang="pt">Wonka</title>
+    <desc lang="pt">Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho.</desc>
+    <length units="minutes">6840</length>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801190100 -0300" stop="20260801202800 -0300" channel="CARTOON HD">
-    <title lang="pt">A Jornada de Vivo</title>
-    <desc lang="pt">Vivo é um jupará apaixonado por música que parte de Havana para Miami com uma importante missão: entregar uma canção de amor a pedido de um grande amigo.</desc>
-    <length units="minutes">5220</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801202800 -0300" stop="20260801203000 -0300" channel="CARTOON HD">
-    <title lang="pt">Ursinhos Em Curso</title>
-    <sub-title lang="pt">Quem Foi?</sub-title>
-    <desc lang="pt">Durante uma visita a uma casa mal-assombrada, os ursos deverão bancar os detetives para descobrir quem roubou a caixa deles.</desc>
-    <length units="minutes">120</length>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801203000 -0300" stop="20260801204100 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">Parque Aquático</sub-title>
-    <desc lang="pt">O trio resolve se divertir num parque aquático e Clarêncio descobre a verdade sobre seu ídolo. Já Jeff e Sumo esperam na fila pela reabertura do escorregador mais alto do parque.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.47.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801204100 -0300" stop="20260801205400 -0300" channel="CARTOON HD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <sub-title lang="pt">A Aventura Rexcelente de Clarêncio e Sumo</sub-title>
-    <desc lang="pt">Durante uma excursão da escola ao Museu de História Natural de Aberdale, Clarêncio e Sumo dão uma espiada em tudo, riem das exposições e até surrupiam um dente de tiranossauro rex.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">3.82.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801205400 -0300" stop="20260801210000 -0300" channel="CARTOON HD">
+  <programme start="20260801205000 -0300" stop="20260801210200 -0300" channel="CARTOON HD">
     <title lang="pt">Clarêncio, o Otimista</title>
     <sub-title lang="pt">Chaminé</sub-title>
     <desc lang="pt">Enquanto brincam na floresta, os meninos fazem amizade com um cão selvagem e o levam para casa. Quando ficam presos em um poço, o único capaz de salvá-los será o novo amigo.</desc>
-    <length units="minutes">360</length>
+    <length units="minutes">720</length>
     <episode-num system="xmltv_ns">1.36.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801210000 -0300" stop="20260801211100 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Poropinbin</sub-title>
-    <desc lang="pt">Os Titãs começam a falar latim suíno para impedir Robin de escutar a conversa.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">3.134.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801211100 -0300" stop="20260801212300 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Meia</sub-title>
-    <desc lang="pt">Jogo de Volta - Quando o T-Car é destruído numa luta, os Titãs vão a um galpão de carros usados para encontrar outro veículo.</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">6.270.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801212300 -0300" stop="20260801213400 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Procurando Aquaman</sub-title>
-    <desc lang="pt">Enquanto procuram pelo desaparecido Aquaman, os Titãs encontram-se à mercê de Manta Negra.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">7.351.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801213400 -0300" stop="20260801214600 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Cavaleiro da TV 6</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <length units="minutes">720</length>
-    <episode-num system="xmltv_ns">6.280.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260801214600 -0300" stop="20260801220000 -0300" channel="CARTOON HD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Batman Vs Jovens Titãs: Injustiça Negra</sub-title>
-    <desc lang="pt">Os Titãs tentam pregar peças uns nos outros no Dia da Mentira.</desc>
-    <length units="minutes">840</length>
-    <episode-num system="xmltv_ns">3.135.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801220000 -0300" stop="20260801221100 -0300" channel="CARTOON HD">
-    <title lang="pt">Hora de Aventura</title>
-    <sub-title lang="pt">Criado</sub-title>
-    <desc lang="pt">Finn assume o posto do novo criado de Marcelina, mas não consegue obedecer às ordens diabólicas dela.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801221100 -0300" stop="20260801222400 -0300" channel="CARTOON HD">
-    <title lang="pt">Hora de Aventura</title>
-    <sub-title lang="pt">Dia de Princesa</sub-title>
-    <desc lang="pt">É Dia da Princesa em Ooo! Sabe o que isso significa? Isso mesmo, Princesa Caroço e Marceline se unirão para pregar uma peça na Princesa Café da Manhã!</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">6.81.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801222400 -0300" stop="20260801223000 -0300" channel="CARTOON HD">
-    <title lang="pt">Hora de Aventura</title>
-    <sub-title lang="pt">Susan Forte</sub-title>
-    <desc lang="pt">Finn se anima ao encontrar o que parece ser uma tribo de humanos subterrânea perto do Reino Doce. Mas ele acaba se arrependendo ao tentar ensinar algo sobre o mundo na superfície a um deles.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801223000 -0300" stop="20260801224100 -0300" channel="CARTOON HD">
-    <title lang="pt">Steven Universo: Futuro</title>
-    <sub-title lang="pt">Sr. Universo</sub-title>
-    <desc lang="pt">Greg leva Steven a uma viagem para encontrarem a origem do sobrenome Universo.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801224100 -0300" stop="20260801225400 -0300" channel="CARTOON HD">
-    <title lang="pt">Steven Universo</title>
-    <sub-title lang="pt">Pai da Batida</sub-title>
-    <desc lang="pt">Steven ajuda Creme Azedo a montar um show apesar de o padrasto de Creme Azedo não gostar muito de DJs.</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">3.87.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801225400 -0300" stop="20260801230000 -0300" channel="CARTOON HD">
-    <title lang="pt">Steven Universo</title>
-    <sub-title lang="pt">Tiger Milionário</sub-title>
-    <desc lang="pt">Steven acompanha Ametista em uma liga de luta underground.</desc>
-    <length units="minutes">360</length>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating system="Brazil">
-      <value>[10]</value>
-    </rating>
-  </programme>
-  <programme start="20260801230000 -0300" stop="20260801232300 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">A Familia do Chapolin Colorado</sub-title>
-    <desc lang="pt">Chapolin Colorado precisa capturar o vilão Tripa Seca justamente no dia em que os filhos o esperam na escola e a prefeita precisa dele para um evento.</desc>
-    <length units="minutes">1380</length>
+  <programme start="20260801210200 -0300" stop="20260801210400 -0300" channel="CARTOON HD">
+    <title lang="pt">Tom e Jerry Gokko</title>
+    <sub-title lang="pt">Party Time</sub-title>
+    <desc lang="pt">Tom e Jerry Gokko celebra a calma e a simplicidade do dia a dia, entra na brincadeira com nossos famosos personagens.</desc>
+    <length units="minutes">120</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801232300 -0300" stop="20260801234700 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">Piratas Não Jogam Futebol</sub-title>
-    <desc lang="pt">Chapolin acaba libertando o pirata Alma Negra por engano durante uma partida de futebol cheia de fãs vestidos de pirata.</desc>
+  <programme start="20260801210400 -0300" stop="20260801212800 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Mini Escola Natal</sub-title>
+    <desc lang="pt">Bem-vindo a Mini Escola Natal, um lugar na Terra em que Gems de todo o universo aprendem a conviver umas com as outras pacificamente! Mas há uma Gem que se recusa a frequentar.</desc>
     <length units="minutes">1440</length>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801212800 -0300" stop="20260801215000 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Botões de Rosa</sub-title>
+    <desc lang="pt">Steven recebe uma visita surpresa de velhos amigos e uma apresentação ainda mais surpreendente a algumas novas amizades.</desc>
+    <length units="minutes">1320</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801215000 -0300" stop="20260801220200 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo: Futuro</title>
+    <sub-title lang="pt">Par Espinhento</sub-title>
+    <desc lang="pt">Após deixar a Mini Escola Natal, Steven encontra um novo hobby: plantas.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801220200 -0300" stop="20260801221400 -0300" channel="CARTOON HD">
+    <title lang="pt">Summer Memories</title>
+    <sub-title lang="pt">O Tempo Voa</sub-title>
+    <desc lang="pt">Quando Tim lembra Jason que &quot;o tempo voa quando você está se divertindo&quot;, Jason e Ronnie tentam parar de se divertir para evitar que o verão acabe cedo demais.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801234700 -0300" stop="20260802000000 -0300" channel="CARTOON HD">
-    <title lang="pt">Chapolin e os Colorados</title>
-    <sub-title lang="pt">O Homem das Cavernas Escondido no Armário</sub-title>
-    <desc lang="pt">Chapolin procura o homem das cavernas Chimpandolfo, enquanto sua família organiza um jantar com um convidado perigoso.</desc>
-    <length units="minutes">780</length>
+  <programme start="20260801221400 -0300" stop="20260801222600 -0300" channel="CARTOON HD">
+    <title lang="pt">Summer Memories</title>
+    <sub-title lang="pt">Como Nos Velhos Tempos</sub-title>
+    <desc lang="pt">Jason toca em um asilo e conhece um velho incrivelmente parecido com ele.</desc>
+    <length units="minutes">720</length>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801222600 -0300" stop="20260801224100 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">O Encontro</sub-title>
+    <desc lang="pt">Robin cria coragem para convidar Estelar para sair, mas descobre que ela já havia combinado de sair com Speedy, seu arqui-inimigo... Assim, Robin decide raptá-lo!</desc>
+    <length units="minutes">900</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802000000 -0300" stop="20260802001100 -0300" channel="CARTOON HD">
+  <programme start="20260801224100 -0300" stop="20260801225400 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Sanduiche Lendário</sub-title>
-    <desc lang="pt">Ravena envia os outros Titãs em uma missão perigosa para buscar os ingredientes do melhor sanduíche do mundo.</desc>
-    <length units="minutes">660</length>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <sub-title lang="pt">É O Amor</sub-title>
+    <desc lang="pt">Enquanto Estelar está fora, Silkie vai ao México e protagoniza cenas tão dramáticas quanto de novela ao lado de uma beldade mexicana e seu namorado ciumento.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802001100 -0300" stop="20260802002300 -0300" channel="CARTOON HD">
+  <programme start="20260801225400 -0300" stop="20260801232300 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">Olha A Pizza</sub-title>
+    <desc lang="pt">Robin está na dúvida entre construir um centro para idosos ou uma piscina. Enquanto isso, Mutano e Ciborgue tentam descolar uma pizza de graça.</desc>
+    <length units="minutes">1740</length>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801232300 -0300" stop="20260801233200 -0300" channel="CARTOON HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">Escudeiro</sub-title>
+    <desc lang="pt">Mutano evita ser &quot;o bobão&quot; tornando os outros Titãs mais bobões. Agora só cabe a Silkie salvar o dia.</desc>
+    <length units="minutes">540</length>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260801233200 -0300" stop="20260801234700 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo</title>
+    <sub-title lang="pt">Amigos De Bolha</sub-title>
+    <desc lang="pt">Steven fica parecendo um herói quando forma uma BOLHA MÁGICA DE CRISTAL em volta de si mesmo para proteger uma garota que ele gosta do perigo. Mas ele entra em pânico quando não consegue descobrir como desligar a bolha!</desc>
+    <length units="minutes">900</length>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801234700 -0300" stop="20260802000700 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo</title>
+    <sub-title lang="pt">Descoloridas</sub-title>
+    <desc lang="pt">Steven encontra alguns aliados inesperados.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">5.131.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260801234700 -0300" stop="20260802000700 -0300" channel="CARTOON HD">
+    <title lang="pt">Steven Universo</title>
+    <sub-title lang="pt">Descoloridas</sub-title>
+    <desc lang="pt">Steven encontra alguns aliados inesperados.</desc>
+    <length units="minutes">1200</length>
+    <episode-num system="xmltv_ns">5.131.</episode-num>
+    <rating system="Brazil">
+      <value>[10]</value>
+    </rating>
+  </programme>
+  <programme start="20260802000700 -0300" stop="20260802002300 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Jardim Secreto</sub-title>
     <desc lang="pt">Quando Ciborgue perde a cabeça, Estelar o leva ao seu jardim secreto para ele relaxar um pouco.</desc>
-    <length units="minutes">720</length>
+    <length units="minutes">960</length>
     <episode-num system="xmltv_ns">3.127.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -27499,21 +27479,21 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802004700 -0300" stop="20260802010000 -0300" channel="CARTOON HD">
+  <programme start="20260802004700 -0300" stop="20260802010400 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">Doom Patrol Thanksgiving Part 1</sub-title>
     <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1020</length>
     <episode-num system="xmltv_ns">7.337.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802010000 -0300" stop="20260802011100 -0300" channel="CARTOON HD">
+  <programme start="20260802010400 -0300" stop="20260802011100 -0300" channel="CARTOON HD">
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <sub-title lang="pt">Os Vacilões</sub-title>
     <desc lang="pt">Quando Gumball é abandonado por Darwin e leva uma surra de Tina, ele decide ensinar a Darwin uma lição.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">420</length>
     <episode-num system="xmltv_ns">2.27.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -27549,21 +27529,21 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802014900 -0300" stop="20260802020000 -0300" channel="CARTOON HD">
+  <programme start="20260802014900 -0300" stop="20260802020500 -0300" channel="CARTOON HD">
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <sub-title lang="pt">A Confusão</sub-title>
     <desc lang="pt">Nicole está furiosa com Ricardo por ele ter esquecido o aniversário dela.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">960</length>
     <episode-num system="xmltv_ns">5.109.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802020000 -0300" stop="20260802021300 -0300" channel="CARTOON HD">
+  <programme start="20260802020500 -0300" stop="20260802021300 -0300" channel="CARTOON HD">
     <title lang="pt">Looney Tunes Cartoons</title>
     <sub-title lang="pt">Board To Death / Put The Cat Out: Paintings / Winter Hungerland</sub-title>
     <desc lang="pt">Acompanhe Pernalonga, Patolino e seus amigos nesta aventura muito doida. Cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda!</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">480</length>
     <episode-num system="xmltv_ns">6.175.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -27589,31 +27569,21 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802023700 -0300" stop="20260802025200 -0300" channel="CARTOON HD">
+  <programme start="20260802023700 -0300" stop="20260802025300 -0300" channel="CARTOON HD">
     <title lang="pt">Looney Tunes Cartoons</title>
     <sub-title lang="pt">Brigando por Migalhas / Toca do Pernalonga 2: Mini Pernalonga / Obstrução na Construção</sub-title>
     <desc lang="pt">Quando Gaguinho e Patolino brigam, as aves vencem. Hortelino gosta de atividades ao ar livre. A toca do Pernalonga é uma casa quente.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">960</length>
     <episode-num system="xmltv_ns">5.164.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802025200 -0300" stop="20260802030000 -0300" channel="CARTOON HD">
-    <title lang="pt">Looney Tunes Cartoons</title>
-    <sub-title lang="pt">Rover Irritante / Mel Do Amor / Estações de Batalha</sub-title>
-    <desc lang="pt">Marvin, o Marciano, prova que não é páreo para o automóvel marciano da NASA e muito mais!</desc>
-    <length units="minutes">480</length>
-    <episode-num system="xmltv_ns">2.35.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260802030000 -0300" stop="20260802031100 -0300" channel="CARTOON HD">
+  <programme start="20260802025300 -0300" stop="20260802031100 -0300" channel="CARTOON HD">
     <title lang="pt">Hora de Aventura</title>
     <sub-title lang="pt">A Câmara das Lâminas Congeladas</sub-title>
     <desc lang="pt">Enquanto o Rei Gelado leva Gunter ao hospital, Finn e Jake decidem se infiltrar no esconderijo dele para testar suas habilidades de ninja.</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">1080</length>
     <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -27679,21 +27649,21 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260802042200 -0300" stop="20260802043000 -0300" channel="CARTOON HD">
+  <programme start="20260802042200 -0300" stop="20260802042700 -0300" channel="CARTOON HD">
     <title lang="pt">Hora de Aventura</title>
     <sub-title lang="pt">Mistura de Realidades</sub-title>
     <desc lang="pt">Prismo precisa da ajuda de Finn e Jake para evitar que uma catástrofe aconteça no multiverso.</desc>
-    <length units="minutes">480</length>
+    <length units="minutes">300</length>
     <episode-num system="xmltv_ns">7.226.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260802043000 -0300" stop="20260802044000 -0300" channel="CARTOON HD">
+  <programme start="20260802042700 -0300" stop="20260802044000 -0300" channel="CARTOON HD">
     <title lang="pt">Drama Total Kids</title>
     <sub-title lang="pt">Space Codyty</sub-title>
     <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">780</length>
     <episode-num system="xmltv_ns">2.90.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -27749,22 +27719,22 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802053600 -0300" stop="20260802054700 -0300" channel="CARTOON HD">
+  <programme start="20260802053600 -0300" stop="20260802055300 -0300" channel="CARTOON HD">
     <title lang="pt">Drama Total Kids</title>
     <sub-title lang="pt">Duncan Duty</sub-title>
     <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!</desc>
-    <length units="minutes">660</length>
+    <length units="minutes">1020</length>
     <episode-num system="xmltv_ns">2.99.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802054700 -0300" stop="20260802060000 -0300" channel="CARTOON HD">
-    <title lang="pt">Drama Total Kids</title>
-    <sub-title lang="pt">Snow Country For Old Men</sub-title>
-    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!</desc>
-    <length units="minutes">780</length>
-    <episode-num system="xmltv_ns">2.94.</episode-num>
+  <programme start="20260802055300 -0300" stop="20260802060000 -0300" channel="CARTOON HD">
+    <title lang="pt">Krypto Salva o Dia</title>
+    <sub-title lang="pt">Confusão no Ônibus Escolar</sub-title>
+    <desc lang="pt">Krypto embarca em uma perseguição nas alturas que transforma a rotina de um motorista escolar em um verdadeiro caos.</desc>
+    <length units="minutes">420</length>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -27809,37 +27779,47 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802065100 -0300" stop="20260802070100 -0300" channel="CARTOON HD">
+  <programme start="20260802065100 -0300" stop="20260802070200 -0300" channel="CARTOON HD">
     <title lang="pt">Summer Memories</title>
     <sub-title lang="pt">Babás</sub-title>
     <desc lang="pt">Jason e Ronnie cuidam de um bebê monstro após recusarem as aulas de piano.</desc>
-    <length units="minutes">600</length>
+    <length units="minutes">660</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802070100 -0300" stop="20260802083100 -0300" channel="CARTOON HD">
+  <programme start="20260802070200 -0300" stop="20260802081900 -0300" channel="CARTOON HD">
     <title lang="pt">A Jornada de Vivo</title>
     <desc lang="pt">Vivo é um jupará apaixonado por música que parte de Havana para Miami com uma importante missão: entregar uma canção de amor a pedido de um grande amigo.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">4620</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802083100 -0300" stop="20260802102300 -0300" channel="CARTOON HD">
-    <title lang="pt">Lego Batman: O Filme</title>
-    <desc lang="pt">Um Bruce Wayne mais legal do que nunca deve lidar com os suspeitos de sempre, enquanto eles planejam governar Gotham City, enquanto descobre que ele adotou acidentalmente um órfão adolescente que deseja se tornar seu companheiro.</desc>
-    <length units="minutes">6720</length>
+  <programme start="20260802081900 -0300" stop="20260802083200 -0300" channel="CARTOON HD">
+    <title lang="pt">Ursinhos Em Curso</title>
+    <sub-title lang="pt">Polly, Papagaio Pirata</sub-title>
+    <desc lang="pt">Os ursos se unem a Polly, o papagaio pirata, numa busca por um tesouro escondido.</desc>
+    <length units="minutes">780</length>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802102300 -0300" stop="20260802103600 -0300" channel="CARTOON HD">
+  <programme start="20260802083200 -0300" stop="20260802101900 -0300" channel="CARTOON HD">
+    <title lang="pt">DC Liga dos Superpets</title>
+    <desc lang="pt">Krypto, o Supercão, precisa convencer um grupo excêntrico de animais a dominar seus novos poderes para ajudá-lo no resgate da Liga da Justiça.</desc>
+    <length units="minutes">6420</length>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
+  </programme>
+  <programme start="20260802101900 -0300" stop="20260802103600 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
     <sub-title lang="pt">A Escalada</sub-title>
     <desc lang="pt">Gumball enfrenta o passado para finalmente escalar a parede da escola.</desc>
-    <length units="minutes">780</length>
+    <length units="minutes">1020</length>
     <episode-num system="xmltv_ns">1.19.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
@@ -125063,212 +125043,212 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801004200 -0300" stop="20260801012900 -0300" channel="GNT HD">
+  <programme start="20260801004116 -0300" stop="20260801012758 -0300" channel="GNT HD">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Circo</sub-title>
     <desc lang="pt">Paulo Vieira desvenda as histórias de um circo itinerante, conhece a família Rodrigues e recebe a presença especial de Dede? Santana.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2802</length>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801012900 -0300" stop="20260801023500 -0300" channel="GNT HD">
+  <programme start="20260801012758 -0300" stop="20260801024525 -0300" channel="GNT HD">
     <title lang="pt">Saia Justa</title>
     <sub-title lang="pt">Relacionamentos eternos/ Álcool: novas ideias / Vida em números</sub-title>
     <desc lang="pt">Carol Dieckmmann fala sobre transformar a despedida de quem já se foi em permanência, novos comportamentos com o álcool e os números em nossas vidas.</desc>
-    <length units="minutes">3960</length>
+    <length units="minutes">4647</length>
     <episode-num system="xmltv_ns">25.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801023500 -0300" stop="20260801032900 -0300" channel="GNT HD">
+  <programme start="20260801024525 -0300" stop="20260801033333 -0300" channel="GNT HD">
     <title lang="pt">Bem Juntinhos</title>
     <sub-title lang="pt">Cuidar</sub-title>
     <desc lang="pt">Acolhimento, afeto e amparo. Fernanda e Rodrigo recebem o padre Júlio Lancellotti, a atriz Heloísa Perissé e a psicanalista Isabel Tatit para falar sobre o cuidar.</desc>
-    <length units="minutes">3240</length>
+    <length units="minutes">2888</length>
     <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801032900 -0300" stop="20260801042400 -0300" channel="GNT HD">
+  <programme start="20260801033333 -0300" stop="20260801042546 -0300" channel="GNT HD">
     <title lang="pt">Fazendo A Festa</title>
     <sub-title lang="pt">Snoopy</sub-title>
     <desc lang="pt">Hoje é dia de Snoopy no Fazendo a Festa! A Natália ama esse personagem e toda a sua turma, e os escolheu como tema do seu &quot;níver&quot; de 9 anos.</desc>
-    <length units="minutes">3300</length>
+    <length units="minutes">3133</length>
     <episode-num system="xmltv_ns">6.9.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801042400 -0300" stop="20260801052300 -0300" channel="GNT HD">
+  <programme start="20260801042546 -0300" stop="20260801052407 -0300" channel="GNT HD">
     <title lang="pt">Santa Ajuda</title>
     <sub-title lang="pt">Cozinha Doméstica e Profissional da Angela</sub-title>
     <desc lang="pt">No episódio de hoje do Santa Ajuda a bagunça será eliminada no cômodo multifuncional da Angela. Micaela organiza a cozinha doméstica dela que tem que ser uma cozinha profissional também.</desc>
-    <length units="minutes">3540</length>
+    <length units="minutes">3501</length>
     <episode-num system="xmltv_ns">10.15.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801052300 -0300" stop="20260801061500 -0300" channel="GNT HD">
+  <programme start="20260801052407 -0300" stop="20260801061824 -0300" channel="GNT HD">
     <title lang="pt">Food Truck - A Batalha</title>
     <sub-title lang="pt">Comida Alemã</sub-title>
     <desc lang="pt">Adolpho Schaefer e Marcio Silva recebem para essa batalha, Renato e Rachel que terão de usar carne de porco e salsicha para criar receitas inspiradas na culinária alemã.</desc>
-    <length units="minutes">3120</length>
+    <length units="minutes">3257</length>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801061500 -0300" stop="20260801070000 -0300" channel="GNT HD">
+  <programme start="20260801061824 -0300" stop="20260801070539 -0300" channel="GNT HD">
     <title lang="pt">Dani-Se</title>
     <sub-title lang="pt">Controle</sub-title>
     <desc lang="pt">Quem controla os controles? Ah, DANI-SE! Dani Calabresa e Pedroca recebem Fernanda Paes Leme e Joaquim Lopes. Para dar um DANI-SE nas chatices que controlam a vida da gente!</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2835</length>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801070000 -0300" stop="20260801074400 -0300" channel="GNT HD">
+  <programme start="20260801070539 -0300" stop="20260801074834 -0300" channel="GNT HD">
     <title lang="pt">Dani-Se</title>
     <sub-title lang="pt">Cobranças</sub-title>
     <desc lang="pt">Vida é sinônimo de cobranças mas DANI-SE! Porque Dani Calabresa e Pedroca Monteiro recebem Nicole Bahls e Eduardo Sterblitch para se divertir e escapar do que nos cobra!</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2575</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801074400 -0300" stop="20260801075100 -0300" channel="GNT HD">
+  <programme start="20260801074834 -0300" stop="20260801075548 -0300" channel="GNT HD">
     <title lang="pt">Momento Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Diego Hypólito + Aline Midlej + Ricardo Teodoro</sub-title>
     <desc lang="pt">Na roda com Porchat, Aline Midlej, Diego Hipólyto e Ricardo Teodoro. Na plateia, uma confusão numa casa de swing. E Fábio vai até São Januário encontrar Elise, uma vascaína doente.</desc>
-    <length units="minutes">420</length>
+    <length units="minutes">434</length>
     <episode-num system="xmltv_ns">7.30.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801075100 -0300" stop="20260801083600 -0300" channel="GNT HD">
+  <programme start="20260801075548 -0300" stop="20260801083853 -0300" channel="GNT HD">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Kenya Sade e Majur</sub-title>
     <desc lang="pt">Paola Carosella recebe Kenya Sade e Majur. No cardápio: tábua com castanhas apimentadas; curry de peixe com arroz basmati e sablée de pistache, mascarpone e frutas vermelhas.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2585</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801083600 -0300" stop="20260801092300 -0300" channel="GNT HD">
+  <programme start="20260801083853 -0300" stop="20260801092348 -0300" channel="GNT HD">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Fernanda Lima e Dan Ferreira</sub-title>
     <desc lang="pt">Paola Carosella recebe Fernanda Lima e Dan Ferreira. No cardápio: berinjela e queijo de cabra, garganelli com cenoura e molho de espinafre e peras confitadas com crumble.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2695</length>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801092300 -0300" stop="20260801093200 -0300" channel="GNT HD">
+  <programme start="20260801092348 -0300" stop="20260801093317 -0300" channel="GNT HD">
     <title lang="pt">Momento Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Alanis Guillen + Luis Salem + Bianca Rinaldi</sub-title>
     <desc lang="pt">Porchat recebe Alanis Guillen, Bianca Rinaldi e Luis Salem. Na plateia, Luna e a obsessão por uma gata que terminou em uma caça inusitada.</desc>
-    <length units="minutes">540</length>
+    <length units="minutes">569</length>
     <episode-num system="xmltv_ns">7.24.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801093200 -0300" stop="20260801100500 -0300" channel="GNT HD">
+  <programme start="20260801093317 -0300" stop="20260801100700 -0300" channel="GNT HD">
     <title lang="pt">Coisas Daqui</title>
     <sub-title lang="pt">1° Temporada</sub-title>
     <desc lang="pt">Apresentado pelo cozinheiro Felipe Rameh, o Coisas Daqui é uma viagem de sabores e texturas E, claro, não poderia faltar o preparo dos alimentos em cozinhas tradicionais e tipicamente mineiras.</desc>
-    <length units="minutes">1980</length>
+    <length units="minutes">2023</length>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801100500 -0300" stop="20260801104800 -0300" channel="GNT HD">
+  <programme start="20260801100700 -0300" stop="20260801104918 -0300" channel="GNT HD">
     <title lang="pt">Infiltrado Na Cozinha</title>
     <sub-title lang="pt">O Boi e o Infiltrado</sub-title>
     <desc lang="pt">Os participantes preparam receitas com carne bovina, mas um deles é um infiltrado. Eledeverá ser astuto para não ser descoberto e virar picadinho!</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">2538</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801104800 -0300" stop="20260801115300 -0300" channel="GNT HD">
+  <programme start="20260801104918 -0300" stop="20260801115416 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Sheron Menezzes + Deborah Evelyn + Jards Macalé</sub-title>
     <desc lang="pt">Sheron Menezzes, Deborah Evelyn e Jards Macalé são os convidados da roda. Na plateia, um útero que viajou longe e um flerte que acabou em grande família.</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">3898</length>
     <episode-num system="xmltv_ns">7.28.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801115300 -0300" stop="20260801123700 -0300" channel="GNT HD">
+  <programme start="20260801115416 -0300" stop="20260801123717 -0300" channel="GNT HD">
     <title lang="pt">Sua Maravilhosa</title>
     <sub-title lang="pt">A Campeã Maravilhosa</sub-title>
     <desc lang="pt">Da quebrada de SP pros ringues, Letícia divide a vida entre trabalho, família e treinos. Com o apoio de Danilo, o cúmplice, Sabrina e Squad querem mostrar que ela já é uma campeã.</desc>
-    <length units="minutes">2640</length>
+    <length units="minutes">2581</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801123700 -0300" stop="20260801132200 -0300" channel="GNT HD">
+  <programme start="20260801123717 -0300" stop="20260801132219 -0300" channel="GNT HD">
     <title lang="pt">Geladeiras Em Ação</title>
     <sub-title lang="pt">Mineira</sub-title>
     <desc lang="pt">Uma geladeira mineira é o ponto de partida para que o chef Claude Troisgros desafie três participantes a fazerem almoço e jantar. Quem vai acertar o tempero?</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2702</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801132200 -0300" stop="20260801143500 -0300" channel="GNT HD">
+  <programme start="20260801132219 -0300" stop="20260801143521 -0300" channel="GNT HD">
     <title lang="pt">Angélica - ao vivo</title>
     <sub-title lang="pt">Grazi Massafera + Murilo Benicio + Michel Alcoforado + Convidado Surpresa</sub-title>
     <desc lang="pt">Convidados jogam seus ranços na mesa, debatem sobre quem matou Odete Roitman e assumem se já fingiram orgasmo.</desc>
-    <length units="minutes">4380</length>
+    <length units="minutes">4382</length>
     <category lang="en">live broadcast</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801143500 -0300" stop="20260801153900 -0300" channel="GNT HD">
+  <programme start="20260801143521 -0300" stop="20260801154012 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Vitória Strada + Afonso Padilha + Otávio Mesquita</sub-title>
     <desc lang="pt">Afonso Padilha, Vitória Strada e Otávio Mesquista estão no Que História é Essa, Porchat. Na plateia, uma loucura por Shakira e um sexo que virou um enterro.</desc>
-    <length units="minutes">3840</length>
+    <length units="minutes">3891</length>
     <episode-num system="xmltv_ns">5.14.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801153900 -0300" stop="20260801164400 -0300" channel="GNT HD">
+  <programme start="20260801154012 -0300" stop="20260801164605 -0300" channel="GNT HD">
     <title lang="pt">Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Sheron Menezzes + Deborah Evelyn + Jards Macalé</sub-title>
     <desc lang="pt">Sheron Menezzes, Deborah Evelyn e Jards Macalé são os convidados da roda. Na plateia, um útero que viajou longe e um flerte que acabou em grande família.</desc>
-    <length units="minutes">3900</length>
+    <length units="minutes">3953</length>
     <episode-num system="xmltv_ns">7.28.</episode-num>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801164400 -0300" stop="20260801173200 -0300" channel="GNT HD">
+  <programme start="20260801164605 -0300" stop="20260801173200 -0300" channel="GNT HD">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Ametista do Sul</sub-title>
     <desc lang="pt">Numa cidade erguida sobre ruínas de minas de ametista, Paulo conversa com um padre criador de pavões, pilota moto em mina subterrânea de ametista e ainda aprende a garimpar.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2755</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -125334,17 +125314,17 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801212500 -0300" stop="20260801220800 -0300" channel="GNT HD">
+  <programme start="20260801212500 -0300" stop="20260801220200 -0300" channel="GNT HD">
     <title lang="pt">No Fogo Com Bronze</title>
     <sub-title lang="pt">Pelos Aires</sub-title>
     <desc lang="pt">Felipe é desafiado por Chico Mancuso, representante do churrasco argentino. O desafio do dia é preparar um pimentão recheado. Uma rivalidade digna dos campos chega a nossa cozinha!</desc>
-    <length units="minutes">2580</length>
-    <episode-num system="xmltv_ns">30.2.</episode-num>
+    <length units="minutes">2220</length>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801220800 -0300" stop="20260801225300 -0300" channel="GNT HD">
+  <programme start="20260801220200 -0300" stop="20260801224700 -0300" channel="GNT HD">
     <title lang="pt">Infiltrado Na Cozinha</title>
     <sub-title lang="pt">Entre Frutas e Segredos</sub-title>
     <desc lang="pt">Os participantes preparam receitas salgadas com frutas. Só que um deles, o infiltrado, nãoé cozinheiro profissional. Será que ele vai iludir os jurados?</desc>
@@ -125354,11 +125334,11 @@
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801225300 -0300" stop="20260801234300 -0300" channel="GNT HD">
+  <programme start="20260801224700 -0300" stop="20260801234300 -0300" channel="GNT HD">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <sub-title lang="pt">Ametista do Sul</sub-title>
     <desc lang="pt">Numa cidade erguida sobre ruínas de minas de ametista, Paulo conversa com um padre criador de pavões, pilota moto em mina subterrânea de ametista e ainda aprende a garimpar.</desc>
-    <length units="minutes">3000</length>
+    <length units="minutes">3360</length>
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -125466,27 +125446,27 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802060000 -0300" stop="20260802064500 -0300" channel="GNT HD">
+  <programme start="20260802060000 -0300" stop="20260802065800 -0300" channel="GNT HD">
     <title lang="pt">Sábia Ignorância</title>
     <sub-title lang="pt">Por que Estamos Todos Cansados?</sub-title>
     <desc lang="pt">Com o comediante Ed Gama e a neurocientista Carla Tieppo, Gabriela Prioli tenta entender as razões do nosso cansaço crônico e coletivo.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">3480</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260802064500 -0300" stop="20260802073000 -0300" channel="GNT HD">
+  <programme start="20260802065800 -0300" stop="20260802073800 -0300" channel="GNT HD">
     <title lang="pt">Sábia Ignorância</title>
     <sub-title lang="pt">Terapia Em Dia?</sub-title>
     <desc lang="pt">O economista e influenciador Gil do Vigor e o psicanalista Alexandre Patrício se juntam à Gabriela Prioli para investigarem como anda o nosso cuidado com a saúde mental.</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">2400</length>
     <episode-num system="xmltv_ns">1.12.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260802073000 -0300" stop="20260802073600 -0300" channel="GNT HD">
+  <programme start="20260802073800 -0300" stop="20260802074400 -0300" channel="GNT HD">
     <title lang="pt">Momento Que História É Essa, Porchat?</title>
     <sub-title lang="pt">Jade Picon + Lucinha Lins + Pedro Scooby</sub-title>
     <desc lang="pt">Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby. Na plateia, Daniela e a fama no prédio. E uma história da Paraíba que poderia ser música.</desc>
@@ -125496,31 +125476,31 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260802073600 -0300" stop="20260802080400 -0300" channel="GNT HD">
+  <programme start="20260802074400 -0300" stop="20260802081100 -0300" channel="GNT HD">
     <title lang="pt">Em Família Com Eliana: Pode Entrar</title>
     <sub-title lang="pt">Maiara e Maraisa</sub-title>
     <desc lang="pt">Eliana foi na casa de Maiara e Maraisa. Naiara Azevedo e Fred e Fabricio também participam do papo. Elas revelaram que os pais acompanham a rotina delas através de uma câmera.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260802080400 -0300" stop="20260802083300 -0300" channel="GNT HD">
+  <programme start="20260802081100 -0300" stop="20260802083900 -0300" channel="GNT HD">
     <title lang="pt">Morar</title>
     <sub-title lang="pt">Em Afuá</sub-title>
     <desc lang="pt">Nesta semana, o Morar viaja até a cidade de Afuá na Ilha de Marajó, no norte do Brasil.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1680</length>
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260802083300 -0300" stop="20260802090600 -0300" channel="GNT HD">
+  <programme start="20260802083900 -0300" stop="20260802090600 -0300" channel="GNT HD">
     <title lang="pt">Superbonita</title>
     <sub-title lang="pt">Cabelo Cabeleira</sub-title>
     <desc lang="pt">Taís Araújo se encontra com Fátima Bernardes e com a promoter Clarisse Miranda e fala sobre transformações dos cabelos.</desc>
-    <length units="minutes">1980</length>
+    <length units="minutes">1620</length>
     <episode-num system="xmltv_ns">25.2.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
@@ -125641,7 +125621,7 @@
     <sub-title lang="pt">Pelos Aires</sub-title>
     <desc lang="pt">Felipe é desafiado por Chico Mancuso, representante do churrasco argentino. O desafio do dia é preparar um pimentão recheado. Uma rivalidade digna dos campos chega a nossa cozinha!</desc>
     <length units="minutes">2460</length>
-    <episode-num system="xmltv_ns">30.2.</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
@@ -147734,66 +147714,70 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801011500 -0300" stop="20260801031500 -0300" channel="MEGAPIX HD">
+  <programme start="20260801011500 -0300" stop="20260801011523 -0300" channel="MEGAPIX HD">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">23</length>
+  </programme>
+  <programme start="20260801011523 -0300" stop="20260801031553 -0300" channel="MEGAPIX HD">
     <title lang="pt">Jogos Mortais 3</title>
     <desc lang="pt">Uma médica é raptada e levada para um armazém abandonado com a missão de manter Jigsaw vivo durante um de seus jogos. Ela só não sabe que, na verdade, os planos de Jigsaw são muito mais macabros.</desc>
-    <length units="minutes">7200</length>
+    <length units="minutes">7230</length>
     <rating system="Brazil">
       <value>[18]</value>
     </rating>
   </programme>
-  <programme start="20260801031500 -0300" stop="20260801052500 -0300" channel="MEGAPIX HD">
+  <programme start="20260801031553 -0300" stop="20260801052246 -0300" channel="MEGAPIX HD">
     <title lang="pt">Crash - No Limite</title>
     <desc lang="pt">A vida de seis moradores de Los Angeles, com realidades sociais completamente diferentes, se cruzam após um acidente de carro.</desc>
-    <length units="minutes">7800</length>
+    <length units="minutes">7613</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801052500 -0300" stop="20260801070000 -0300" channel="MEGAPIX HD">
+  <programme start="20260801052246 -0300" stop="20260801065751 -0300" channel="MEGAPIX HD">
     <title lang="pt">Scooby-Doo - O Filme</title>
     <desc lang="pt">Após se separarem, a turma da Mistério S/A é chamada para investigar eventos estranhos na Ilha do Espanto, onde forças misteriosas controlam os visitantes.</desc>
-    <length units="minutes">5700</length>
+    <length units="minutes">5705</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801070000 -0300" stop="20260801092000 -0300" channel="MEGAPIX HD">
+  <programme start="20260801065751 -0300" stop="20260801092000 -0300" channel="MEGAPIX HD">
     <title lang="pt">Resistência</title>
     <desc lang="pt">Humanos e IAs estão em guerra, e os humanos estão prestes a vencer. Mas, para isso acontecer, eles enviam Joshua, um ex-soldado, para roubar a maior arma que os robôs já construíram.</desc>
-    <length units="minutes">8400</length>
+    <length units="minutes">8529</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801092000 -0300" stop="20260801114000 -0300" channel="MEGAPIX HD">
+  <programme start="20260801092000 -0300" stop="20260801114223 -0300" channel="MEGAPIX HD">
     <title lang="pt">Batman: O Retorno</title>
     <desc lang="pt">Batman enfrenta o vilão Pinguim, que planeja dominar Gotham com ajuda de um magnata corrupto. Ao mesmo tempo, cruza o caminho da enigmática Mulher-Gato.</desc>
-    <length units="minutes">8400</length>
+    <length units="minutes">8543</length>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801114000 -0300" stop="20260801132500 -0300" channel="MEGAPIX HD">
+  <programme start="20260801114223 -0300" stop="20260801132436 -0300" channel="MEGAPIX HD">
     <title lang="pt">Sabadão Com Tom Cruise: A Lenda</title>
     <desc lang="pt">O jovem camponês Jack vive em uma floresta mágica. Quando ele decide levar a princesa Lili para um passeio, o Senhor das Trevas tenta raptá-la como parte de um plano para destruir o mundo.</desc>
-    <length units="minutes">6300</length>
+    <length units="minutes">6133</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801132500 -0300" stop="20260801153000 -0300" channel="MEGAPIX HD">
+  <programme start="20260801132436 -0300" stop="20260801152714 -0300" channel="MEGAPIX HD">
     <title lang="pt">Sabadão Com Tom Cruise: Encontro Explosivo</title>
     <desc lang="pt">Ray é um agente secreto e precisa transportar um objeto valioso. No caminho, ele conhece Jane, que acaba envolvida na missão. Agora ele terá que fazer de tudo para protegê-la e concluir a tarefa.</desc>
-    <length units="minutes">7500</length>
+    <length units="minutes">7358</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260801153000 -0300" stop="20260801181500 -0300" channel="MEGAPIX HD">
+  <programme start="20260801152714 -0300" stop="20260801181500 -0300" channel="MEGAPIX HD">
     <title lang="pt">Sabadão Com Tom Cruise: O Último Samurai</title>
     <desc lang="pt">Designado a treinar tropas japonesas contra os samurais, o capitão Algren é capturado e, ao conhecer seus inimigos, começa a questionar sua missão.</desc>
-    <length units="minutes">9900</length>
+    <length units="minutes">10066</length>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -149076,266 +149060,266 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801010000 -0300" stop="20260801023000 -0300" channel="MULTISHOW HD">
+  <programme start="20260801005028 -0300" stop="20260801011130 -0300" channel="MULTISHOW HD">
     <title lang="pt">Festival De Inverno: Festival de Inverno do Rio 2026</title>
     <desc lang="pt">Confira a transmissão ao vivo do Festival de Inverno do RIo 2026, diretamente da Marina da Glória.</desc>
-    <length units="minutes">5400</length>
+    <length units="minutes">1262</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="Brazil">
+      <value>[12]</value>
+    </rating>
+  </programme>
+  <programme start="20260801011130 -0300" stop="20260801024923 -0300" channel="MULTISHOW HD">
+    <title lang="pt">Festival De Inverno: Festival de Inverno do Rio 2026</title>
+    <desc lang="pt">Confira a transmissão ao vivo do Festival de Inverno do RIo 2026, diretamente da Marina da Glória.</desc>
+    <length units="minutes">5873</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801023000 -0300" stop="20260801025500 -0300" channel="MULTISHOW HD">
+  <programme start="20260801024923 -0300" stop="20260801031428 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chaves</title>
     <desc lang="pt">Os rapazes da vila continuam apaixonados pelas novas vizinhas, o que resulta em uma grande confusão com baldes d'água. Dr. Chapatin tenta socorrer um homem que passa mal em um restaurante.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1505</length>
     <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801025500 -0300" stop="20260801032200 -0300" channel="MULTISHOW HD">
-    <title lang="pt">Chapolin</title>
-    <desc lang="pt">O Chapolin Colorado é chamado para tentar ajudar dois astronautas que ficaram presos em outro planeta. Não bastasse isso, o lugar tem alguns curiosos habitantes.</desc>
-    <length units="minutes">1620</length>
-    <episode-num system="xmltv_ns">1.97.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260801032200 -0300" stop="20260801034700 -0300" channel="MULTISHOW HD">
+  <programme start="20260801031428 -0300" stop="20260801034024 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chaves</title>
     <desc lang="pt">Chiquinha e Chaves resolvem sujar a roupa do Quico, que vai a uma festa. As crianças compram vários balões e fazem inveja para o Chaves. Chespirito se apresenta para trabalhar como secretário.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1556</length>
     <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="Brazil">
       <value>[10]</value>
     </rating>
   </programme>
-  <programme start="20260801034700 -0300" stop="20260801041500 -0300" channel="MULTISHOW HD">
+  <programme start="20260801034024 -0300" stop="20260801040400 -0300" channel="MULTISHOW HD">
     <title lang="pt">Chapolin</title>
     <desc lang="pt">Chapolin Colorado é chamado para enfrentar o terrível bandido Mata Fácil. Os soldados levam uma caixa misteriosa para o sargento. No tribunal, Dr. Chapatin é julgado por ter atropelado um cachorrinho.</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1416</length>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801041500 -0300" stop="20260801044900 -0300" channel="MULTISHOW HD">
+  <programme start="20260801040400 -0300" stop="20260801043628 -0300" channel="MULTISHOW HD">
     <title lang="pt">A Vila</title>
     <desc lang="pt">Eleonora e Seu Lupércio brigam no dia dos namorados e ele tenta fazer algo pra agradá-la, Rique e Violeta o convencem de organizar um jantar romântico pra ela com música ao vivo de algum cantor.</desc>
-    <length units="minutes">2040</length>
+    <length units="minutes">1948</length>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801044900 -0300" stop="20260801051900 -0300" channel="MULTISHOW HD">
+  <programme start="20260801043628 -0300" stop="20260801051024 -0300" channel="MULTISHOW HD">
     <title lang="pt">TVZ</title>
     <desc lang="pt">IZA - CAOS E SAL (WARNER MUSIC)</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">2036</length>
     <episode-num system="xmltv_ns">1.659.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801051900 -0300" stop="20260801054900 -0300" channel="MULTISHOW HD">
+  <programme start="20260801051024 -0300" stop="20260801054153 -0300" channel="MULTISHOW HD">
     <title lang="pt">Reclame</title>
     <desc lang="pt">Hoje você vê a Droga5 e a Globo no Cannes Lions 2026, os vencedores dos GPs de Glass e Titanium do festival e mais uma coluna do diretor Thiago Artimonte. Dá o REC!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1889</length>
     <episode-num system="xmltv_ns">20.21.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801054900 -0300" stop="20260801061800 -0300" channel="MULTISHOW HD">
+  <programme start="20260801054153 -0300" stop="20260801061140 -0300" channel="MULTISHOW HD">
     <title lang="pt">Tô de Graça</title>
     <desc lang="pt">Graça decide virar corretora para lucrar com o novo túnel. Sem escrúpulos, tenta alugar a casa de Geralda para a namorada de Pablo enquanto a vizinha está viajando.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1787</length>
     <episode-num system="xmltv_ns">8.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801061800 -0300" stop="20260801064800 -0300" channel="MULTISHOW HD">
+  <programme start="20260801061140 -0300" stop="20260801064335 -0300" channel="MULTISHOW HD">
     <title lang="pt">Atenção Para O Refrão</title>
     <desc lang="pt">No episódio &quot;Grito&quot;, Sarah Oliveira explora refrãos e versos que ecoam identidade e força, convidando todos a se expressar, gritar, sorrir e transformar o mundo ao redor.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1915</length>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801064800 -0300" stop="20260801070000 -0300" channel="MULTISHOW HD">
+  <programme start="20260801064335 -0300" stop="20260801070000 -0300" channel="MULTISHOW HD">
     <title lang="pt">Especial Guilherme Guedes</title>
     <desc lang="pt">Guilherme Guedes apresenta os melhores momentos de cada um dos dias de transmissão do Rock in Rio 2022 no Multishow.</desc>
-    <length units="minutes">720</length>
+    <length units="minutes">985</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801070000 -0300" stop="20260801073200 -0300" channel="MULTISHOW HD">
+  <programme start="20260801070000 -0300" stop="20260801073213 -0300" channel="MULTISHOW HD">
     <title lang="pt">Tô de Graça</title>
     <desc lang="pt">Graça estoura o cartão dos filhos com compras online. Para pagar a dívida, cria um bingo na comunidade, mas o atraso das encomendas a obriga a improvisar prêmios absurdos.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1933</length>
     <episode-num system="xmltv_ns">8.26.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801073200 -0300" stop="20260801080300 -0300" channel="MULTISHOW HD">
+  <programme start="20260801073213 -0300" stop="20260801080310 -0300" channel="MULTISHOW HD">
     <title lang="pt">Tô de Graça</title>
     <desc lang="pt">Para comprar eletrodomésticos novos, Graça lança uma coleção de calcinhas. A confusão começa quando ela ajuda uma cliente traída a descobrir quem é o amante do marido.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1857</length>
     <episode-num system="xmltv_ns">8.27.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801080300 -0300" stop="20260801083400 -0300" channel="MULTISHOW HD">
+  <programme start="20260801080310 -0300" stop="20260801083448 -0300" channel="MULTISHOW HD">
     <title lang="pt">Tô de Graça</title>
     <desc lang="pt">Uma empresária musical descobre o talento vocal de Graça, que assume a identidade de MC Toma Leite. O plano de sucesso entra em risco quando ela começa a perder a voz.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1898</length>
     <episode-num system="xmltv_ns">8.28.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801083400 -0300" stop="20260801090200 -0300" channel="MULTISHOW HD">
+  <programme start="20260801083448 -0300" stop="20260801090250 -0300" channel="MULTISHOW HD">
     <title lang="pt">Tô de Graça</title>
     <desc lang="pt">Para ganhar uma reforma na laje, Graça finge ser sustentável em um concurso ambiental. O plano complica quando ela precisa esconder uma nova e luxuosa máquina de café em cápsulas</desc>
-    <length units="minutes">1680</length>
+    <length units="minutes">1682</length>
     <episode-num system="xmltv_ns">8.29.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801090200 -0300" stop="20260801093200 -0300" channel="MULTISHOW HD">
+  <programme start="20260801090250 -0300" stop="20260801093105 -0300" channel="MULTISHOW HD">
     <title lang="pt">TVZ Experimente</title>
     <desc lang="pt">KART LOVE PART. NETTO BRITO - PROFISSIONAL DO AMOR (UNIVERSAL MUSIC)</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1695</length>
     <episode-num system="xmltv_ns">9.268.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801093200 -0300" stop="20260801094700 -0300" channel="MULTISHOW HD">
+  <programme start="20260801093105 -0300" stop="20260801095054 -0300" channel="MULTISHOW HD">
     <title lang="pt">Especial Guilherme Guedes</title>
     <desc lang="pt">Guilherme Guedes apresenta os melhores momentos de cada um dos dias de transmissão do Rock in Rio 2019 no Multishow.</desc>
-    <length units="minutes">900</length>
+    <length units="minutes">1189</length>
   </programme>
-  <programme start="20260801094700 -0300" stop="20260801101800 -0300" channel="MULTISHOW HD">
+  <programme start="20260801095054 -0300" stop="20260801102120 -0300" channel="MULTISHOW HD">
     <title lang="pt">A Vila</title>
     <desc lang="pt">Carlinhos de Jesus vai até a Vila pra alugar uma das casas de Seu Lupércio para abrir uma Academia de Dança, Rique o aborda e oferece o trailer no lugar.</desc>
-    <length units="minutes">1860</length>
+    <length units="minutes">1826</length>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801101800 -0300" stop="20260801104700 -0300" channel="MULTISHOW HD">
+  <programme start="20260801102120 -0300" stop="20260801105025 -0300" channel="MULTISHOW HD">
     <title lang="pt">A Vila</title>
     <desc lang="pt">Um &quot;faz tudo&quot; gato chega na vila e todas as moradoras se encantam por ele, inclusive Eleonora. Com ciúmes, Seu Lupércio contrata Rique e Violeta para torná-lo mais jovem, bonito.</desc>
-    <length units="minutes">1740</length>
+    <length units="minutes">1745</length>
     <episode-num system="xmltv_ns">3.10.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801104700 -0300" stop="20260801112400 -0300" channel="MULTISHOW HD">
+  <programme start="20260801105025 -0300" stop="20260801112738 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
     <desc lang="pt">Lineu dá dinheiro a genro para consertar o táxi, mas Agostinho decide fazer o serviço sozinho. O táxi fica desgovernado e atropela Floriano, que decide aprontar com Agostinho.</desc>
-    <length units="minutes">2220</length>
+    <length units="minutes">2233</length>
     <episode-num system="xmltv_ns">2.22.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801112400 -0300" stop="20260801115600 -0300" channel="MULTISHOW HD">
+  <programme start="20260801112738 -0300" stop="20260801115948 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
     <desc lang="pt">Agostinho sofre uma ameaça na rua, fica com medo e não consegue defender Bebel. Agostinho decide fazer luta, mas ao chega na academia desiste e esconde a verdade de Bebel.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1930</length>
     <episode-num system="xmltv_ns">2.29.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801115600 -0300" stop="20260801123000 -0300" channel="MULTISHOW HD">
+  <programme start="20260801115948 -0300" stop="20260801123406 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
     <desc lang="pt">Agostinho começa a pegar a comida de Nenê para vender como quentinha. O negócio dá certo, mas quem leva a fama de cozinheira é Bebel, que esquece de citar a mãe num programa de tv.</desc>
-    <length units="minutes">2040</length>
+    <length units="minutes">2058</length>
     <episode-num system="xmltv_ns">2.30.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801123000 -0300" stop="20260801130000 -0300" channel="MULTISHOW HD">
+  <programme start="20260801123406 -0300" stop="20260801130338 -0300" channel="MULTISHOW HD">
     <title lang="pt">Reclame</title>
     <desc lang="pt">Hoje você vê a Diageo e a AlmapBBDO no Cannes Lions 2026, uma entrevista com Marcos Lacerda, da TIM, e as estratégias por trás da série Jogada de Risco da Globoplay. Dá o REC!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1772</length>
     <episode-num system="xmltv_ns">20.22.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801130000 -0300" stop="20260801133000 -0300" channel="MULTISHOW HD">
+  <programme start="20260801130338 -0300" stop="20260801133608 -0300" channel="MULTISHOW HD">
     <title lang="pt">Aquecimento Rock In Rio</title>
     <desc lang="pt">Este show de Laufey captura sua recente apresentação com a Filarmônica de Los Angeles no Hollywood Bowl.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">1950</length>
     <episode-num system="xmltv_ns">13.213.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260801133000 -0300" stop="20260801141700 -0300" channel="MULTISHOW HD">
+  <programme start="20260801133608 -0300" stop="20260801142206 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Valdo vê no jornal que uma mulher vendeu a virgindade por um milhão de reais e Wilson se interessa pelo assunto. Valdo então convence o amigo a leiloar a própria virgindade.</desc>
-    <length units="minutes">2820</length>
+    <length units="minutes">2758</length>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801141700 -0300" stop="20260801150500 -0300" channel="MULTISHOW HD">
+  <programme start="20260801142206 -0300" stop="20260801150833 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Dona Jô se deprime ao ver que a situação financeira está crítica e resolve abrir o jogo contando aos moradores que vai ter que vender a pensão.</desc>
-    <length units="minutes">2880</length>
+    <length units="minutes">2787</length>
     <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801150500 -0300" stop="20260801155100 -0300" channel="MULTISHOW HD">
+  <programme start="20260801150833 -0300" stop="20260801155345 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Dona Jô precisa fazer quentinhas com um menu diferenciado. Achando que vai rolar um pagamento em euro, os moradores decidem ajudar Dona Jô criando os pratos e degustando.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2712</length>
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801155100 -0300" stop="20260801163700 -0300" channel="MULTISHOW HD">
+  <programme start="20260801155345 -0300" stop="20260801163835 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Valdo está deprimido na véspera do seu aniversário. Dona Jô tenta animá-lo fazendo um jantar de aniversário. Valdo pensa em se entregar à polícia.</desc>
-    <length units="minutes">2760</length>
+    <length units="minutes">2690</length>
     <episode-num system="xmltv_ns">1.20.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801163700 -0300" stop="20260801171400 -0300" channel="MULTISHOW HD">
+  <programme start="20260801163835 -0300" stop="20260801171443 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
     <desc lang="pt">A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
-    <length units="minutes">2220</length>
+    <length units="minutes">2168</length>
     <episode-num system="xmltv_ns">2.42.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260801171400 -0300" stop="20260801174600 -0300" channel="MULTISHOW HD">
+  <programme start="20260801171443 -0300" stop="20260801174600 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
     <desc lang="pt">A série Tapas &amp; Beijos mostra as aventuras da conturbada vida amorosa de Fátima e Sueli. Elas trabalham na Djalma Noivas, em Copacabana, e sonham com seus príncipes.</desc>
-    <length units="minutes">1920</length>
+    <length units="minutes">1877</length>
     <episode-num system="xmltv_ns">2.43.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
@@ -149808,36 +149792,20 @@
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260802212200 -0300" stop="20260802221700 -0300" channel="MULTISHOW HD">
-    <title lang="pt">Vai que Cola</title>
-    <desc lang="pt">Dona Jô está com muitas quentinhas para entregar, mas Valdo está machucado e não pode ajudar.</desc>
-    <length units="minutes">3300</length>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260802221700 -0300" stop="20260802230000 -0300" channel="MULTISHOW HD">
+  <programme start="20260802212200 -0300" stop="20260803013700 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Jéssica e Máicol estão sem grana para viajar. Jéssica decide inscrever Máicol no concurso &quot;Boy Magia do Méier&quot;.  Terezinha também decide inscrever um candidato: Sanderson.</desc>
-    <length units="minutes">2580</length>
+    <length units="minutes">15300</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
   </programme>
-  <programme start="20260802230000 -0300" stop="20260803005000 -0300" channel="MULTISHOW HD">
-    <title lang="pt">Cine Hahaha: Tô De Graça - O Filme</title>
-    <desc lang="pt">Baseado na série líder de audiência do Multishow.</desc>
-    <length units="minutes">6600</length>
-    <rating system="Brazil">
-      <value>[12]</value>
-    </rating>
-  </programme>
-  <programme start="20260802230000 -0300" stop="20260803005000 -0300" channel="MULTISHOW HD">
-    <title lang="pt">Cine Hahaha: Tô De Graça - O Filme</title>
-    <desc lang="pt">Baseado na série líder de audiência do Multishow.</desc>
-    <length units="minutes">6600</length>
+  <programme start="20260802212200 -0300" stop="20260803013700 -0300" channel="MULTISHOW HD">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Jéssica e Máicol estão sem grana para viajar. Jéssica decide inscrever Máicol no concurso &quot;Boy Magia do Méier&quot;.  Terezinha também decide inscrever um candidato: Sanderson.</desc>
+    <length units="minutes">15300</length>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating system="Brazil">
       <value>[12]</value>
     </rating>
