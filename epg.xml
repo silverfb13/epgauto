@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-08-05 11:30:48" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-08-05 14:30:46" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -210135,43 +210135,27 @@
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260805000000 -0300" stop="20260805003000 -0300" channel="TV Justica">
+  <programme start="20260805000000 -0300" stop="20260805024000 -0300" channel="TV Justica">
     <title lang="pt">Evento</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">9600</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260805003000 -0300" stop="20260805013000 -0300" channel="TV Justica">
+  <programme start="20260805024000 -0300" stop="20260805031100 -0300" channel="TV Justica">
     <title lang="pt">Evento</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">1860</length>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260805013000 -0300" stop="20260805022100 -0300" channel="TV Justica">
-    <title lang="pt">Evento</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3060</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260805022100 -0300" stop="20260805025000 -0300" channel="TV Justica">
-    <title lang="pt">Documentário Variado: Pena Justa</title>
-    <desc lang="pt">O documentário Pena Justa mostra como a arte é fundamental para abrir novas perspectivas para os reeducandos. Vários estados já promovem projetos que levam pessoas privadas de liberdade a descobrirem uma nova vocação.</desc>
-    <length units="minutes">1740</length>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260805025000 -0300" stop="20260805063000 -0300" channel="TV Justica">
+  <programme start="20260805031100 -0300" stop="20260805063000 -0300" channel="TV Justica">
     <title lang="pt">Sessão do STF</title>
     <desc lang="pt">Neste programa, você vai rever as principais decisões tomadas nos maiores tribunais brasileiros, julgamentos que ficaram na história e modificaram a vida do país.</desc>
-    <length units="minutes">13200</length>
-    <episode-num system="xmltv_ns">2.217.</episode-num>
+    <length units="minutes">11940</length>
+    <episode-num system="xmltv_ns">3.217.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210180,7 +210164,7 @@
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">Saber Direito apresenta cursos semanais sobre os mais diversos assuntos referentes ao Direito. A programação tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <episode-num system="xmltv_ns">5.63.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210198,8 +210182,8 @@
     <episode-num system="xmltv_ns">88.217.</episode-num>
   </programme>
   <programme start="20260805090000 -0300" stop="20260805100000 -0300" channel="TV Justica">
-    <title lang="pt">Revista Rádio Justiça</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Justiça Agora</title>
+    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
     <length units="minutes">3600</length>
     <episode-num system="xmltv_ns">89.217.</episode-num>
   </programme>
@@ -210209,30 +210193,18 @@
     <length units="minutes">14400</length>
     <episode-num system="xmltv_ns">80.217.</episode-num>
   </programme>
-  <programme start="20260805140000 -0300" stop="20260805150000 -0300" channel="TV Justica">
-    <title lang="pt">Justiça Agora</title>
-    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">84.217.</episode-num>
-  </programme>
-  <programme start="20260805150000 -0300" stop="20260805170000 -0300" channel="TV Justica">
-    <title lang="pt">Justiça na Tarde</title>
-    <desc lang="pt">Debates sobre temas atuais de interesse da população ligados à Justiça e ao Direito, sempre com participação de ouvintes e entrevistados.</desc>
-    <length units="minutes">7200</length>
-    <episode-num system="xmltv_ns">15.217.</episode-num>
+  <programme start="20260805140000 -0300" stop="20260805180000 -0300" channel="TV Justica">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt">Neste programa, você vai rever as principais decisões tomadas nos maiores tribunais brasileiros, julgamentos que ficaram na história e modificaram a vida do país.</desc>
+    <length units="minutes">14400</length>
+    <episode-num system="xmltv_ns">14.217.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260805170000 -0300" stop="20260805180000 -0300" channel="TV Justica">
-    <title lang="pt">Justiça Agora</title>
-    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
-    <length units="minutes">3600</length>
-    <episode-num system="xmltv_ns">87.217.</episode-num>
-  </programme>
   <programme start="20260805180000 -0300" stop="20260805183000 -0300" channel="TV Justica">
-    <title lang="pt">Documentário Variado: República</title>
-    <desc lang="pt">O documentário República traz uma reflexão sobre os fundamentos do regime republicano no Brasil, reunindo diferentes perspectivas para ampliar a compreensão sobre seus princípios e sua importância para a democracia.</desc>
+    <title lang="pt">Documentário Variado: Defensoria</title>
+    <desc lang="pt">No documentário Defensoria Pública: uma porta para a cidadania você confere o trabalho realizado pela instituição pelo Brasil afora e histórias de vidas que foram transformadas pela ação da Defensoria.</desc>
     <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
@@ -210263,8 +210235,8 @@
     </rating>
   </programme>
   <programme start="20260805200000 -0300" stop="20260805203000 -0300" channel="TV Justica">
-    <title lang="pt">Documentário Variado: Cortes Supremas</title>
-    <desc lang="pt">No documentário &quot;CNJ: Ações que fazem a diferença&quot;, você confere como foram as ações pelo Brasil afora. A Semana Nacional da Saúde foi incorporada ao calendário do Judiciário e será ...</desc>
+    <title lang="pt">Documentário Variado: Pena Justa</title>
+    <desc lang="pt">O documentário Pena Justa mostra como a arte é fundamental para abrir novas perspectivas para os reeducandos. Vários estados já promovem projetos que levam pessoas privadas de liberdade a descobrirem uma nova vocação.</desc>
     <length units="minutes">1800</length>
     <rating system="Brazil">
       <value>[L]</value>
@@ -210274,7 +210246,7 @@
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">Saber Direito apresenta cursos semanais sobre os mais diversos assuntos referentes ao Direito. A programação tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <episode-num system="xmltv_ns">5.63.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210369,7 +210341,7 @@
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">Saber Direito apresenta cursos semanais sobre os mais diversos assuntos referentes ao Direito. A programação tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <episode-num system="xmltv_ns">5.63.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
@@ -210461,7 +210433,7 @@
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">Saber Direito apresenta cursos semanais sobre os mais diversos assuntos referentes ao Direito. A programação tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área.</desc>
     <length units="minutes">1800</length>
-    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <episode-num system="xmltv_ns">5.63.</episode-num>
     <rating system="Brazil">
       <value>[L]</value>
     </rating>
