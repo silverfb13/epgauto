@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="@limaalef - Criado em 2026-08-07 11:30:50" generator-info-url="http://limaalef.com">
+<tv generator-info-name="@limaalef - Criado em 2026-08-07 14:30:48" generator-info-url="http://limaalef.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
   </channel>
@@ -180969,6 +180969,14 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">83.218.</episode-num>
   </programme>
+  <programme start="20260807000000 -0300" stop="20260807003000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Brasileiro Feminino</title>
+    <sub-title lang="pt">14ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">80.219.</episode-num>
+  </programme>
   <programme start="20260807003000 -0300" stop="20260807013000 -0300" channel="SPORTV">
     <title lang="pt">Vitória x Athletico-PR</title>
     <desc lang="pt">Vitória e Athletico-PR jogam a rodada de volta da Oitavas de Final da Copa do Brasil, no Manoel Barradas, em Salvador (BA).</desc>
@@ -181234,10 +181242,19 @@
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260808170000 -0300" stop="20260808180000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada</title>
+  <programme start="20260808170000 -0300" stop="20260808173000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Copa do Brasil - 8ª</title>
+    <sub-title lang="pt">Jogo de Volta</sub-title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <length units="minutes">3600</length>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">87.220.</episode-num>
+  </programme>
+  <programme start="20260808173000 -0300" stop="20260808180000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada: Brasileiro Feminino</title>
+    <sub-title lang="pt">14ª Rodada</sub-title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">87.220.</episode-num>
   </programme>
@@ -181546,24 +181563,31 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">85.222.</episode-num>
   </programme>
-  <programme start="20260810161500 -0300" stop="20260810164500 -0300" channel="SPORTV">
+  <programme start="20260810161500 -0300" stop="20260810163000 -0300" channel="SPORTV">
     <title lang="pt">Bahia x Vasco</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">1800</length>
+    <length units="minutes">900</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260810164500 -0300" stop="20260810171500 -0300" channel="SPORTV">
+  <programme start="20260810163000 -0300" stop="20260810170000 -0300" channel="SPORTV">
     <title lang="pt">Bragantino x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260810171500 -0300" stop="20260810180000 -0300" channel="SPORTV">
+  <programme start="20260810170000 -0300" stop="20260810173000 -0300" channel="SPORTV">
     <title lang="pt">Flamengo x Vitória</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <length units="minutes">2700</length>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260810173000 -0300" stop="20260810180000 -0300" channel="SPORTV">
+    <title lang="pt">Palmeiras x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
@@ -181575,10 +181599,10 @@
     <episode-num system="xmltv_ns">88.222.</episode-num>
   </programme>
   <programme start="20260810193000 -0300" stop="20260810220000 -0300" channel="SPORTV">
-    <title lang="pt">Brasileiro Sub-17</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Grêmio x Botafogo - ao vivo</title>
+    <desc lang="pt">Grêmio e Botafogo jogam pela 11ª rodada da 1ª fase do Campeonato Brasileiro Sub-17.</desc>
     <length units="minutes">9000</length>
-    <category lang="en">sports (general)</category>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260810220000 -0300" stop="20260810233000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - ao vivo</title>
@@ -181588,17 +181612,17 @@
     <episode-num system="xmltv_ns">82.222.</episode-num>
   </programme>
   <programme start="20260810233000 -0300" stop="20260811013000 -0300" channel="SPORTV">
-    <title lang="pt">Panela sportv - ao vivo</title>
+    <title lang="pt">Panela sportv</title>
     <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
+    <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">83.222.</episode-num>
   </programme>
   <programme start="20260810233000 -0300" stop="20260811013000 -0300" channel="SPORTV">
-    <title lang="pt">Panela sportv - ao vivo</title>
+    <title lang="pt">Panela sportv</title>
     <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
     <length units="minutes">7200</length>
-    <category lang="en">live broadcast</category>
+    <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">83.222.</episode-num>
   </programme>
   <programme start="20260811013000 -0300" stop="20260811023000 -0300" channel="SPORTV">
@@ -181849,55 +181873,38 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">89.219.</episode-num>
   </programme>
-  <programme start="20260807205000 -0300" stop="20260808003000 -0300" channel="SPORTV 2">
+  <programme start="20260807205000 -0300" stop="20260808010000 -0300" channel="SPORTV 2">
     <title lang="pt">Mundial de Atletismo Sub-20: Oregon, EUA - ao vivo</title>
     <desc lang="pt">Confira as emoções rumo ao lugar mais alto do pódio no Mundial de Atletismo aqui no sportv!</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">15000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260807205000 -0300" stop="20260808003000 -0300" channel="SPORTV 2">
+  <programme start="20260807205000 -0300" stop="20260808010000 -0300" channel="SPORTV 2">
     <title lang="pt">Mundial de Atletismo Sub-20: Oregon, EUA - ao vivo</title>
     <desc lang="pt">Confira as emoções rumo ao lugar mais alto do pódio no Mundial de Atletismo aqui no sportv!</desc>
-    <length units="minutes">13200</length>
+    <length units="minutes">15000</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260808003000 -0300" stop="20260808012000 -0300" channel="SPORTV 2">
-    <title lang="pt">Clássicas: Vôlei de Praia Masculino Rio 2016</title>
-    <sub-title lang="pt">Finais</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">3000</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.220.</episode-num>
-  </programme>
-  <programme start="20260808012000 -0300" stop="20260808015000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vozes: Galvão Bueno - Ouros Olímpicos</title>
-    <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.220.</episode-num>
-  </programme>
-  <programme start="20260808015000 -0300" stop="20260808034500 -0300" channel="SPORTV 2">
-    <title lang="pt">Itália x EUA</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
-    <length units="minutes">6900</length>
+  <programme start="20260808010000 -0300" stop="20260808030000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260808034500 -0300" stop="20260808060000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">8100</length>
+  <programme start="20260808030000 -0300" stop="20260808050000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Colômbia</title>
+    <desc lang="pt">A Copa Sul-Americana de Voleibol Masculino de 2026 acontecerá entre os dias 5 e 9 de agosto, em Cochabamba, na Bolívia. O torneio de seleções serve como classificatório para o Campeonato Sul-Americano de Seleções.</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260808060000 -0300" stop="20260808070000 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260808050000 -0300" stop="20260808070000 -0300" channel="SPORTV 2">
+    <title lang="pt">Turquia x Brasil</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">7.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
   <programme start="20260808070000 -0300" stop="20260808073000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
@@ -181906,329 +181913,307 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">87.1.</episode-num>
   </programme>
-  <programme start="20260808073000 -0300" stop="20260808080000 -0300" channel="SPORTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">87.2.</episode-num>
-  </programme>
-  <programme start="20260808080000 -0300" stop="20260808103000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">9000</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260808103000 -0300" stop="20260808113000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello L.A</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.220.</episode-num>
-  </programme>
-  <programme start="20260808113000 -0300" stop="20260808120000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vozes: Galvão Bueno - Ouros Olímpicos</title>
-    <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.220.</episode-num>
-  </programme>
-  <programme start="20260808120000 -0300" stop="20260808140000 -0300" channel="SPORTV 2">
-    <title lang="pt">Turquia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260808140000 -0300" stop="20260808160000 -0300" channel="SPORTV 2">
+  <programme start="20260808073000 -0300" stop="20260808092500 -0300" channel="SPORTV 2">
     <title lang="pt">Brasil x Colômbia</title>
-    <desc lang="pt">As principais equipes do continente disputam a Copa Sul-Americana Feminina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260808160000 -0300" stop="20260808180000 -0300" channel="SPORTV 2">
-    <title lang="pt">Eslovênia x Polônia</title>
-    <desc lang="pt">Eslovênia e Polônia jogam a Semifinal da Liga das Nações Masculina  de Vôlei em Ningbo, na China.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260808180000 -0300" stop="20260808195500 -0300" channel="SPORTV 2">
-    <title lang="pt">Japão x EUA</title>
-    <desc lang="pt">Japão e EUA jogam a Semifinal da Liga das Nações Masculina  de Vôlei em Ningbo, na China.</desc>
+    <desc lang="pt">A Copa Sul-Americana de Voleibol Masculino de 2026 acontecerá entre os dias 5 e 9 de agosto, em Cochabamba, na Bolívia. O torneio de seleções serve como classificatório para o Campeonato Sul-Americano de Seleções.</desc>
     <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260808195500 -0300" stop="20260809010000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">18300</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260808195500 -0300" stop="20260809010000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">18300</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809010000 -0300" stop="20260809014500 -0300" channel="SPORTV 2">
-    <title lang="pt">Acesso Total Judô: Ippon</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
-    <length units="minutes">2700</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">81.2.</episode-num>
-  </programme>
-  <programme start="20260809014500 -0300" stop="20260809034500 -0300" channel="SPORTV 2">
-    <title lang="pt">Japão x EUA</title>
-    <desc lang="pt">Japão e EUA jogam a Semifinal da Liga das Nações Masculina  de Vôlei em Ningbo, na China.</desc>
-    <length units="minutes">7200</length>
+  <programme start="20260808092500 -0300" stop="20260808114500 -0300" channel="SPORTV 2">
+    <title lang="pt">EUA x Polônia</title>
+    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
+    <length units="minutes">8400</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260809034500 -0300" stop="20260809042500 -0300" channel="SPORTV 2">
-    <title lang="pt">Heroes Of The Future: Eileen Nasuh &amp; Judd Henkes</title>
-    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial de competições!</desc>
-    <length units="minutes">2400</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">83.6.</episode-num>
-  </programme>
-  <programme start="20260809042500 -0300" stop="20260809063000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">7500</length>
+  <programme start="20260808114500 -0300" stop="20260808142000 -0300" channel="SPORTV 2">
+    <title lang="pt">Ginástica Artística: Classificatória: Rio de Janeiro</title>
+    <desc lang="pt">As melhores seleções do continente disputam o título nas finais por equipes. É o Campeonato Pan-Americano de Ginástica Artística, aqui no sportv!</desc>
+    <length units="minutes">9300</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260809063000 -0300" stop="20260809070000 -0300" channel="SPORTV 2">
-    <title lang="pt">Legends Live On 2: Didier Dinart</title>
-    <desc lang="pt">Bicampeão olímpico, Didier Dinart continua sua jornada como técnico da seleção francesa.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">86.1.</episode-num>
+  <programme start="20260808142000 -0300" stop="20260808163000 -0300" channel="SPORTV 2">
+    <title lang="pt">Ginástica Artística Por Aparelhos: Rio de Janeiro - ao vivo</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As melhores seleções do continente disputam o título nas finais por equipes. É o Campeonato Pan-Americano de Ginástica Artística, aqui no sportv!</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260809070000 -0300" stop="20260809081000 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <length units="minutes">4200</length>
+  <programme start="20260808163000 -0300" stop="20260808184500 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Colômbia</title>
+    <desc lang="pt">A Copa Sul-Americana de Voleibol Masculino de 2026 acontecerá entre os dias 5 e 9 de agosto, em Cochabamba, na Bolívia. O torneio de seleções serve como classificatório para o Campeonato Sul-Americano de Seleções.</desc>
+    <length units="minutes">8100</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">7.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20260809081000 -0300" stop="20260809103000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">8400</length>
-    <category lang="en">sports (general)</category>
+  <programme start="20260808184500 -0300" stop="20260808211500 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei - ao vivo</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">9000</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260809103000 -0300" stop="20260809110000 -0300" channel="SPORTV 2">
+  <programme start="20260808211500 -0300" stop="20260808233000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei - ao vivo</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260808233000 -0300" stop="20260809000000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
     <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.1.</episode-num>
+    <episode-num system="xmltv_ns">83.1.</episode-num>
+  </programme>
+  <programme start="20260809000000 -0300" stop="20260809020000 -0300" channel="SPORTV 2">
+    <title lang="pt">Ginástica Artística Por Aparelhos: Rio de Janeiro</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">As melhores seleções do continente disputam o título nas finais por equipes. É o Campeonato Pan-Americano de Ginástica Artística, aqui no sportv!</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260809020000 -0300" stop="20260809023500 -0300" channel="SPORTV 2">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">Os resultados dos Jogos Olímpicos de Paris 24 levaram a ginástica artística feminina brasileira ao topo do esporte mundial. Tal qual uma final de Copa do Mundo, o país parou para torcer por Rebeca Andrade, Jade Barbosa.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.1.</episode-num>
+  </programme>
+  <programme start="20260809023500 -0300" stop="20260809030500 -0300" channel="SPORTV 2">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">Os resultados dos Jogos Olímpicos de Paris 24 levaram a ginástica artística feminina brasileira ao topo do esporte mundial. Tal qual uma final de Copa do Mundo, o país parou para torcer por Rebeca Andrade, Jade Barbosa.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.2.</episode-num>
+  </programme>
+  <programme start="20260809030500 -0300" stop="20260809050000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">6900</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260809050000 -0300" stop="20260809060000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260809060000 -0300" stop="20260809070000 -0300" channel="SPORTV 2">
+    <title lang="pt">Tênis de Mesa: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260809070000 -0300" stop="20260809080000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260809080000 -0300" stop="20260809090000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Semifinal</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260809090000 -0300" stop="20260809110000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260809110000 -0300" stop="20260809120000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Vôlei de Praia: Disputa de 3º Lugar - Hamburgo, Alemanha - ao vivo</title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260809120000 -0300" stop="20260809130000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Vôlei de Praia: Disputa de 3º Lugar - Hamburgo, Alemanha - ao vivo</title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260809130000 -0300" stop="20260809140000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
     <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260809140000 -0300" stop="20260809143000 -0300" channel="SPORTV 2">
-    <title lang="pt">Lendas Olímpicas: Jackie Silva</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">14.1.</episode-num>
-  </programme>
-  <programme start="20260809143000 -0300" stop="20260809150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Legends Live On: Abhinav Bindra (IND)</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.1.</episode-num>
+  <programme start="20260809140000 -0300" stop="20260809150000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260809150000 -0300" stop="20260809160000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <title lang="pt">Hello L.A</title>
+    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">85.221.</episode-num>
   </programme>
-  <programme start="20260809160000 -0300" stop="20260809170000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809170000 -0300" stop="20260809180000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809180000 -0300" stop="20260809190000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809190000 -0300" stop="20260809210000 -0300" channel="SPORTV 2">
-    <title lang="pt">Liga das Nações Masculina de Vôlei</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809210000 -0300" stop="20260809230000 -0300" channel="SPORTV 2">
-    <title lang="pt">Liga das Nações Masculina de Vôlei</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809230000 -0300" stop="20260810010000 -0300" channel="SPORTV 2">
-    <title lang="pt">Turquia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260809230000 -0300" stop="20260810010000 -0300" channel="SPORTV 2">
-    <title lang="pt">Turquia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260810010000 -0300" stop="20260810030000 -0300" channel="SPORTV 2">
-    <title lang="pt">Liga das Nações Masculina de Vôlei</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810030000 -0300" stop="20260810040000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vôlei de Praia: Rio de Janeiro</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810040000 -0300" stop="20260810050000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vôlei de Praia: Rio de Janeiro</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810050000 -0300" stop="20260810070000 -0300" channel="SPORTV 2">
-    <title lang="pt">Liga das Nações Masculina de Vôlei</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810070000 -0300" stop="20260810090000 -0300" channel="SPORTV 2">
-    <title lang="pt">Liga das Nações Masculina de Vôlei</title>
-    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810090000 -0300" stop="20260810110000 -0300" channel="SPORTV 2">
-    <title lang="pt">Turquia x Brasil</title>
-    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260810110000 -0300" stop="20260810130000 -0300" channel="SPORTV 2">
-    <title lang="pt">Brasil x Colômbia</title>
-    <desc lang="pt">As principais equipes do continente disputam a Copa Sul-Americana Feminina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260810130000 -0300" stop="20260810140000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vôlei de Praia: Rio de Janeiro</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810140000 -0300" stop="20260810150000 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260810150000 -0300" stop="20260810154000 -0300" channel="SPORTV 2">
-    <title lang="pt">Circuito Mundial de Tênis de Mesa</title>
-    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
+  <programme start="20260809160000 -0300" stop="20260809164000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
     <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">86.1.</episode-num>
   </programme>
-  <programme start="20260810154000 -0300" stop="20260810161000 -0300" channel="SPORTV 2">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte: Tênis De Mesa Na China</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
+  <programme start="20260809164000 -0300" stop="20260809171500 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">2100</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">85.1.</episode-num>
+    <episode-num system="xmltv_ns">86.2.</episode-num>
   </programme>
-  <programme start="20260810161000 -0300" stop="20260810163000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vozes: Luiz Carlos Jr. - Bicampeonato Olímpico Vôlei Feminino …</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <length units="minutes">1200</length>
+  <programme start="20260809171500 -0300" stop="20260809193000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei - ao vivo</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260809193000 -0300" stop="20260809212500 -0300" channel="SPORTV 2">
+    <title lang="pt">Turquia x Brasil</title>
+    <desc lang="pt">Acompanhe aqui a trajetória das gigantes da Seleção Brasileira de Vôlei em busca do título inédito. Tá na Liga das Nações de Vôlei, tá no sportv!</desc>
+    <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">86.222.</episode-num>
+    <previously-shown/>
   </programme>
-  <programme start="20260810163000 -0300" stop="20260810183000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 8ª Etapa - Paris, França</title>
+  <programme start="20260809212500 -0300" stop="20260809233500 -0300" channel="SPORTV 2">
+    <title lang="pt">EUA x Polônia</title>
+    <desc lang="pt">Acompanhe aqui a trajetória dos gigantes da Seleção Brasileira de Vôlei em busca do bicampeonato.</desc>
+    <length units="minutes">7800</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260809233500 -0300" stop="20260810013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">6900</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260809233500 -0300" stop="20260810013000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">6900</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260810013000 -0300" stop="20260810033000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260810183000 -0300" stop="20260810203000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 9ª Etapa - Eugene, EUA</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260810203000 -0300" stop="20260810223000 -0300" channel="SPORTV 2">
+  <programme start="20260810033000 -0300" stop="20260810053000 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Diamond League: 10ª Etapa - Mônaco</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260810223000 -0300" stop="20260811003000 -0300" channel="SPORTV 2">
+  <programme start="20260810053000 -0300" stop="20260810073000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Diamond League: 9ª Etapa - Eugene, EUA</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260810073000 -0300" stop="20260810093000 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260810223000 -0300" stop="20260811003000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+  <programme start="20260810093000 -0300" stop="20260810113000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
     <length units="minutes">7200</length>
     <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260810113000 -0300" stop="20260810120000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vozes: Galvão Bueno - Ouros Olímpicos</title>
+    <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">81.222.</episode-num>
+  </programme>
+  <programme start="20260810120000 -0300" stop="20260810134500 -0300" channel="SPORTV 2">
+    <title lang="pt">Equador x Brasil</title>
+    <desc lang="pt">As novas gerações do futsal entram em quadra em busca da conquista continental. Tá no Sul-Americano Masculino de Futsal Sub-17, tá no sportv!</desc>
+    <length units="minutes">6300</length>
+    <category lang="en">sports (general)</category>
     <previously-shown/>
+  </programme>
+  <programme start="20260810134500 -0300" stop="20260810160000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Bolívia - ao vivo</title>
+    <desc lang="pt">As novas gerações do futsal entram em quadra em busca da conquista continental. Tá no Sul-Americano Masculino de Futsal Sub-17, tá no sportv!</desc>
+    <length units="minutes">8100</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260810160000 -0300" stop="20260810180000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">7200</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260810180000 -0300" stop="20260810183000 -0300" channel="SPORTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
+    <length units="minutes">1800</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">88.1.</episode-num>
+  </programme>
+  <programme start="20260810183000 -0300" stop="20260810200000 -0300" channel="SPORTV 2">
+    <title lang="pt">SLS: Liga Mundial de Skate Street Feminina</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">18.222.</episode-num>
+  </programme>
+  <programme start="20260810200000 -0300" stop="20260810213000 -0300" channel="SPORTV 2">
+    <title lang="pt">SLS: Liga Mundial de Skate Street: Wildcard Masculino</title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <length units="minutes">5400</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">20.222.</episode-num>
+  </programme>
+  <programme start="20260810213000 -0300" stop="20260810223000 -0300" channel="SPORTV 2">
+    <title lang="pt">SLS: Liga Mundial de Skate Street Masculina</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">21.222.</episode-num>
+  </programme>
+  <programme start="20260810223000 -0300" stop="20260810233000 -0300" channel="SPORTV 2">
+    <title lang="pt">Hello L.A</title>
+    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
+    <length units="minutes">3600</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">82.222.</episode-num>
+  </programme>
+  <programme start="20260810233000 -0300" stop="20260811012000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">6600</length>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20260810233000 -0300" stop="20260811012000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Sul-Americana Masculina de Vôlei</title>
+    <desc lang="pt">As principais equipes do continente entram em quadra na Copa Sul-Americana Masculina de Vôlei em busca do título. Acompanhe aqui no sportv.</desc>
+    <length units="minutes">6600</length>
+    <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260811003000 -0300" stop="20260811013000 -0300" channel="SPORTV 2">
     <title lang="pt">Faixa Olímpica: Especial Atletismo</title>
@@ -182459,24 +182444,24 @@
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">86.2.</episode-num>
   </programme>
-  <programme start="20260808071000 -0300" stop="20260808091500 -0300" channel="SPORTV 3">
+  <programme start="20260808071000 -0300" stop="20260808092000 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Diamond League: 10ª Etapa - Mônaco</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7500</length>
+    <length units="minutes">7800</length>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20260808091500 -0300" stop="20260808094000 -0300" channel="SPORTV 3">
+  <programme start="20260808092000 -0300" stop="20260808095000 -0300" channel="SPORTV 3">
     <title lang="pt">Anatomy Of 3: Tiro com arco, ginástica rítmica e maratona</title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1500</length>
+    <length units="minutes">1800</length>
     <category lang="en">sports (general)</category>
     <episode-num system="xmltv_ns">89.3.</episode-num>
   </programme>
-  <programme start="20260808094000 -0300" stop="20260808125000 -0300" channel="SPORTV 3">
+  <programme start="20260808095000 -0300" stop="20260808125000 -0300" channel="SPORTV 3">
     <title lang="pt">Mundial de Atletismo Sub-20: Oregon, EUA</title>
     <desc lang="pt">Confira as emoções rumo ao lugar mais alto do pódio no Mundial de Atletismo aqui no sportv!</desc>
-    <length units="minutes">11400</length>
+    <length units="minutes">10800</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260808125000 -0300" stop="20260808190000 -0300" channel="SPORTV 3">
@@ -182485,29 +182470,11 @@
     <length units="minutes">22200</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260808190000 -0300" stop="20260808191500 -0300" channel="SPORTV 3">
-    <title lang="pt">Heróis do Futuro: Paulo André: Atletismo</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <length units="minutes">900</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">8.190.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260808191500 -0300" stop="20260808194500 -0300" channel="SPORTV 3">
-    <title lang="pt">Anatomy Of 3: Tiro com arco, ginástica rítmica e maratona</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">89.3.</episode-num>
-  </programme>
-  <programme start="20260808194500 -0300" stop="20260808215000 -0300" channel="SPORTV 3">
-    <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <length units="minutes">7500</length>
-    <category lang="en">sports (general)</category>
-    <previously-shown/>
+  <programme start="20260808190000 -0300" stop="20260808215000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Teahupo'o - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">10200</length>
+    <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260808215000 -0300" stop="20260809010000 -0300" channel="SPORTV 3">
     <title lang="pt">Mundial de Atletismo Sub-20: Oregon, EUA - ao vivo</title>
@@ -182562,11 +182529,11 @@
     <category lang="en">live broadcast</category>
   </programme>
   <programme start="20260809080000 -0300" stop="20260809090000 -0300" channel="SPORTV 3">
-    <title lang="pt">Faixa Olímpica</title>
+    <title lang="pt">Clássicas: Tênis Masculino Rio 2016</title>
+    <sub-title lang="pt">Finais</sub-title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <length units="minutes">3600</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">8.221.</episode-num>
   </programme>
   <programme start="20260809090000 -0300" stop="20260809110000 -0300" channel="SPORTV 3">
     <title lang="pt">VT - Diamond League: 11ª Etapa - Londres, Inglaterra</title>
@@ -182576,30 +182543,27 @@
     <previously-shown/>
   </programme>
   <programme start="20260809110000 -0300" stop="20260809120000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vôlei de Praia: Disputa de 3º Lugar - Hamburgo, Alemanha - ao vivo</title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <title lang="pt">SLS: Liga Mundial de Skate Street Feminina - ao vivo</title>
+    <sub-title lang="pt">Final</sub-title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">11.221.</episode-num>
   </programme>
   <programme start="20260809120000 -0300" stop="20260809130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vôlei de Praia: Disputa de 3º Lugar - Hamburgo, Alemanha - ao vivo</title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
+    <title lang="pt">SLS: Liga Mundial de Skate Street: Wildcard Masculino - ao vivo</title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
     <length units="minutes">3600</length>
     <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">12.221.</episode-num>
   </programme>
-  <programme start="20260809130000 -0300" stop="20260809140000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
+  <programme start="20260809130000 -0300" stop="20260809150000 -0300" channel="SPORTV 3">
+    <title lang="pt">SLS: Liga Mundial de Skate Street Masculina - ao vivo</title>
     <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
-    <length units="minutes">3600</length>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <length units="minutes">7200</length>
     <category lang="en">live broadcast</category>
-  </programme>
-  <programme start="20260809140000 -0300" stop="20260809150000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vôlei de Praia: Hamburgo, Alemanha - ao vivo</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Os grandes nomes do Vôlei de Praia Mundial estão no Circuito Mundial de Vôlei de Praia! Assista os melhores jogos, aqui no sportv. Tá no Circuito Mundial de Vôlei de Praia, tá no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">live broadcast</category>
+    <episode-num system="xmltv_ns">13.221.</episode-num>
   </programme>
   <programme start="20260809150000 -0300" stop="20260809155000 -0300" channel="SPORTV 3">
     <title lang="pt">Lanternas: Tuskers Volleyball Club</title>
@@ -182614,185 +182578,89 @@
     <length units="minutes">11400</length>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260809190000 -0300" stop="20260809203500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5700</length>
+  <programme start="20260809190000 -0300" stop="20260810000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Teahupo'o - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">18000</length>
+    <category lang="en">live broadcast</category>
+  </programme>
+  <programme start="20260810000000 -0300" stop="20260810003500 -0300" channel="SPORTV 3">
+    <title lang="pt">Meu Nome É João Chianca</title>
+    <desc lang="pt">Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">80.222.</episode-num>
+  </programme>
+  <programme start="20260810003500 -0300" stop="20260810034000 -0300" channel="SPORTV 3">
+    <title lang="pt">K1 WM</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <length units="minutes">11100</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260809203500 -0300" stop="20260809223500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP da Hungria</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809223500 -0300" stop="20260809233500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP da Áustria - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260809233500 -0300" stop="20260810034000 -0300" channel="SPORTV 3">
-    <title lang="pt">Jungle Fight 152: Card Completo</title>
+  <programme start="20260810034000 -0300" stop="20260810060500 -0300" channel="SPORTV 3">
+    <title lang="pt">Jungle Fight 153: Card Completo</title>
     <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
-    <length units="minutes">14700</length>
+    <length units="minutes">8700</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260809233500 -0300" stop="20260810034000 -0300" channel="SPORTV 3">
-    <title lang="pt">Jungle Fight 152: Card Completo</title>
-    <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight!</desc>
-    <length units="minutes">14700</length>
+  <programme start="20260810060500 -0300" stop="20260810064000 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">86.1.</episode-num>
   </programme>
-  <programme start="20260810002500 -0300" stop="20260810021500 -0300" channel="SPORTV 3">
+  <programme start="20260810064000 -0300" stop="20260810071500 -0300" channel="SPORTV 3">
+    <title lang="pt">De Corpo e Alma: Equilíbrio Físico</title>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+    <length units="minutes">2100</length>
+    <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">86.2.</episode-num>
+  </programme>
+  <programme start="20260810071500 -0300" stop="20260810090500 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe: Melhores Momentos - Etapa de Saquarema</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">6600</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260810021500 -0300" stop="20260810040000 -0300" channel="SPORTV 3">
+  <programme start="20260810090500 -0300" stop="20260810105000 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe: Melhores Momentos - Etapa de Saquarema</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">6300</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260810040000 -0300" stop="20260810055500 -0300" channel="SPORTV 3">
+  <programme start="20260810105000 -0300" stop="20260810124500 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe: Melhores Momentos - Etapa de Saquarema</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <length units="minutes">6900</length>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20260810055500 -0300" stop="20260810062500 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260810062500 -0300" stop="20260810065500 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260810065500 -0300" stop="20260810073000 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <rating system="Brazil">
-      <value>[L]</value>
-    </rating>
-  </programme>
-  <programme start="20260810073000 -0300" stop="20260810090500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810090500 -0300" stop="20260810110000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP da Grã Bretanha</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">6900</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810110000 -0300" stop="20260810130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP da Bélgica</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810130000 -0300" stop="20260810140000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Mônaco - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810140000 -0300" stop="20260810143000 -0300" channel="SPORTV 3">
-    <title lang="pt">Lendas: Ayrton Senna</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <length units="minutes">1800</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">84.222.</episode-num>
-  </programme>
-  <programme start="20260810143000 -0300" stop="20260810145000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
-    <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada.</desc>
-    <length units="minutes">1200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810145000 -0300" stop="20260810165000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP da Hungria</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">7200</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810165000 -0300" stop="20260810182500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1: GP de Barcelona-Catalunha</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <length units="minutes">5700</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810182500 -0300" stop="20260810190000 -0300" channel="SPORTV 3">
-    <title lang="pt">Meu Nome É João Chianca</title>
-    <desc lang="pt">Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
-    <length units="minutes">2100</length>
-    <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">88.222.</episode-num>
-  </programme>
-  <programme start="20260810190000 -0300" stop="20260810200000 -0300" channel="SPORTV 3">
-    <title lang="pt">WSL Replay 2026: Etapa Saquarema</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de surfe, você acompanha aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810200000 -0300" stop="20260810204500 -0300" channel="SPORTV 3">
+  <programme start="20260810124500 -0300" stop="20260810133000 -0300" channel="SPORTV 3">
     <title lang="pt">Amazing Riders: O Salto Impossível</title>
     <desc lang="pt">O superatleta Caio Afeto realiza pela 1a vez o salto de base jump do topo da Cachoeira do Eldorado na Amazônia, a maior queda d'água do Brasil, com mais de 350 metros.</desc>
     <length units="minutes">2700</length>
     <category lang="en">sports (general)</category>
-    <episode-num system="xmltv_ns">80.1.</episode-num>
+    <episode-num system="xmltv_ns">82.1.</episode-num>
   </programme>
-  <programme start="20260810204500 -0300" stop="20260810214500 -0300" channel="SPORTV 3">
-    <title lang="pt">UTS: Rio de Janeiro</title>
-    <sub-title lang="pt">Semifinal</sub-title>
-    <desc lang="pt">Um formato inovador transforma o tênis em partidas mais rápidas, intensas e cheias de emoção do primeiro ao último ponto. Acompanhe o UTS aqui no sportv!</desc>
-    <length units="minutes">3600</length>
+  <programme start="20260810133000 -0300" stop="20260810135500 -0300" channel="SPORTV 3">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
+    <length units="minutes">1500</length>
     <category lang="en">sports (general)</category>
+    <episode-num system="xmltv_ns">13.1.</episode-num>
+    <rating system="Brazil">
+      <value>[L]</value>
+    </rating>
   </programme>
-  <programme start="20260810214500 -0300" stop="20260810224500 -0300" channel="SPORTV 3">
-    <title lang="pt">UTS: Rio de Janeiro</title>
-    <sub-title lang="pt">Semifinal</sub-title>
-    <desc lang="pt">Um formato inovador transforma o tênis em partidas mais rápidas, intensas e cheias de emoção do primeiro ao último ponto. Acompanhe o UTS aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
+  <programme start="20260810135500 -0300" stop="20260811000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Teahupo'o - ao vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <length units="minutes">36300</length>
+    <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20260810224500 -0300" stop="20260810234500 -0300" channel="SPORTV 3">
-    <title lang="pt">UTS: Rio de Janeiro - 2ª Classificação</title>
-    <desc lang="pt">Um formato inovador transforma o tênis em partidas mais rápidas, intensas e cheias de emoção do primeiro ao último ponto. Acompanhe o UTS aqui no sportv!</desc>
-    <length units="minutes">3600</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810234500 -0300" stop="20260811004000 -0300" channel="SPORTV 3">
-    <title lang="pt">UTS: Rio de Janeiro</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Um formato inovador transforma o tênis em partidas mais rápidas, intensas e cheias de emoção do primeiro ao último ponto. Acompanhe o UTS aqui no sportv!</desc>
-    <length units="minutes">3300</length>
-    <category lang="en">sports (general)</category>
-  </programme>
-  <programme start="20260810234500 -0300" stop="20260811004000 -0300" channel="SPORTV 3">
-    <title lang="pt">UTS: Rio de Janeiro</title>
-    <sub-title lang="pt">Final</sub-title>
-    <desc lang="pt">Um formato inovador transforma o tênis em partidas mais rápidas, intensas e cheias de emoção do primeiro ao último ponto. Acompanhe o UTS aqui no sportv!</desc>
-    <length units="minutes">3300</length>
+  <programme start="20260811000000 -0300" stop="20260811004000 -0300" channel="SPORTV 3">
+    <title lang="pt">Programação indisponível</title>
+    <length units="minutes">2400</length>
     <category lang="en">sports (general)</category>
   </programme>
   <programme start="20260811004000 -0300" stop="20260811011000 -0300" channel="SPORTV 3">
